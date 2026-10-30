@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Daily Knowledge</title>
-<meta name="description" content="Three things worth knowing every day, rotating through ten areas.">
+<meta name="description" content="A fun fact and three things worth knowing every day, rotating through ten areas.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="Daily Knowledge">
@@ -129,6 +129,8 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
 .recent a:hover,.recent a:focus-visible{text-decoration:underline}
 .fact h2{overflow-wrap:break-word}
 .fact p{margin:0;max-width:66ch;line-height:1.68}
+.fact.fun{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:18px 18px 18px;margin-top:18px}
+.fact.fun h2{font-size:19px}
 .fact .date{font-size:14px;color:var(--muted);margin-top:8px}
 .star{align-self:start;background:none;border:1px solid var(--rule);border-radius:50%;
   width:44px;height:44px;cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
@@ -171,7 +173,7 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
   <main>
     <header>
       <h1>Daily Knowledge</h1>
-      <p>Three things worth knowing every day, rotating through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology.</p>
+      <p>A fun fact and three things worth knowing every day, rotating through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology.</p>
     </header>
     <div class="tabs" role="tablist">
       <button role="tab" id="tabDay" aria-selected="true" type="button">Facts of the day</button>
@@ -187,7 +189,7 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
 "use strict";
 const CATS={history:["History",20],science:["Science",160],geography:["Geography",195],arts:["Art and literature",340],
   music:["Music",260],philosophy:["Philosophy and religion",45],economics:["Economics",110],politics:["Politics and society",220],
-  language:["Language",300],technology:["Technology",0]};
+  language:["Language",300],technology:["Technology",0],fun:["Fun fact",35]};
 const MONTHS=["January","February","March","April","May","June","July","August","September","October","November","December"];
 const WDAYS=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 const $=id=>document.getElementById(id);
@@ -256,7 +258,7 @@ function render(){
   setStatus(S.cur===latest()&&S.cur!==todayKey()?"There are no new facts for today yet. Showing the latest day, "+longDate(S.cur)+".":"");
   const ol=el("ol","facts");ol.setAttribute("aria-label","Facts for "+longDate(S.cur));
   day.forEach(f=>{
-    const li=el("li","fact");hue(f.category,li);
+    const li=el("li",f.category==="fun"?"fact fun":"fact");hue(f.category,li);
     const t=el("div");t.append(el("h2",null,f.title),el("p",null,f.body));
     li.append(el("div","cat",CATS[f.category]?CATS[f.category][0]:f.category),t,starBtn(f));ol.append(li);});
   m.append(ol);
@@ -289,8 +291,9 @@ render();
   try{
     const get=u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u+" "+r.status);return r.json();});
     const cfg=await get("schedule.json");
-    const banks=await Promise.all(cfg.order.map(c=>get("bank/"+c+".json")));
-    const bank=Object.fromEntries(cfg.order.map((c,i)=>[c,banks[i]]));
+    const names=cfg.order.concat(cfg.fun?[cfg.fun]:[]);
+    const banks=await Promise.all(names.map(c=>get("bank/"+c+".json")));
+    const bank=Object.fromEntries(names.map((c,i)=>[c,banks[i]]));
     // Same rule as scripts/build.py: number all facts k = 0, 1, 2, ...; fact k is area order[k % len]
     // and entry floor(k / len) of that area's bank. Day n shows k = per*n ... per*n + per-1.
     // The schedule ends at the first day for which any of its facts is missing.
@@ -299,6 +302,8 @@ render();
     for(let n=0;;n++){
       const fs=[];for(let j=0;j<per;j++){const f=fact(per*n+j);if(!f)break;fs.push(f);}
       if(fs.length<per)break;
+      // Fun fact: day n also shows entry n of the fun bank, first; the schedule ends when it runs out.
+      if(cfg.fun){const f=bank[cfg.fun][n];if(!f)break;fs.unshift({category:cfg.fun,title:f.title.trim(),body:f.body.trim()});}
       const d=new Date(start);d.setDate(d.getDate()+n);const k=keyOf(d);
       S.byDate[k]=fs.map(f=>({date:k,...f}));
     }

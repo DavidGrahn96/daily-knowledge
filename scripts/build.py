@@ -16,6 +16,11 @@ How the schedule works (identical rule in index.html)
   dated today or earlier (compared per date and category) unless you pass
   --allow-past-changes.
 
+  Fun fact: if schedule.json names a "fun" bank (bank/fun.json), day n also
+  shows entry n of that file, above the area facts. The schedule then also
+  ends when the fun bank runs out. In data/facts.json it is the first entry of
+  each date, with category "fun".
+
 Checks
   - every fact has a non-empty title (<= 80 chars) and body (<= 600 chars)
   - no duplicate titles, case-insensitive, across the whole bank
@@ -73,14 +78,17 @@ def fact_at(bank: dict[str, list[dict]], order: list[str], k: int) -> tuple[str,
     return (cat, idx) if idx < len(bank[cat]) else None
 
 
-def schedule(bank: dict[str, list[dict]], order: list[str], start: date, per_day: int) -> list[dict]:
+def schedule(bank: dict[str, list[dict]], order: list[str], start: date, per_day: int,
+             fun: str | None = None) -> list[dict]:
+    """Dated facts. With a fun bank, each day starts with fun fact n, and the schedule also ends
+    when the fun bank runs out."""
     out, n = [], 0
     while True:
         slots = [fact_at(bank, order, per_day * n + j) for j in range(per_day)]
-        if None in slots:
-            return out  # an area has run out: the schedule ends before this day
+        if None in slots or (fun and n >= len(bank[fun])):
+            return out  # an area (or the fun bank) has run out: the schedule ends before this day
         d = (start + timedelta(days=n)).isoformat()
-        for cat, idx in slots:
+        for cat, idx in ([(fun, n)] if fun else []) + slots:
             f = bank[cat][idx]
             out.append({"date": d, "category": cat, "title": f["title"].strip(), "body": f["body"].strip()})
         n += 1
@@ -97,19 +105,26 @@ def main(argv: list[str] | None = None) -> int:
     try:
         cfg = read_json(args.root / "schedule.json")
         order, start, per_day = cfg["order"], date.fromisoformat(cfg["start"]), int(cfg["per_day"])
-        if per_day < 1 or len(set(order)) != len(order):
-            raise BuildError("schedule.json: per_day must be >= 1 and areas must be unique")
-        bank = load_bank(args.root / "bank", order)
-        facts = schedule(bank, order, start, per_day)
-        if not facts:
+        fun = cfg.get("fun")  # optional: name of the fun-fact bank file, one per day, shown first
+        if per_day < 1 or len(set(order)) != len(order) or fun in order:
+            raise BuildError("schedule.json: per_day must be >= 1 and areas (and the fun bank) must be unique")
+        bank = load_bank(args.root / "bank", order + ([fun] if fun else []))
+        all_facts = schedule(bank, order, start, per_day, fun)
+        if not all_facts:
             raise BuildError("Schedule is empty")
 
-        # Reconciliation: exactly per_day facts per date, consecutive dates from the start,
-        # and fact number k (in schedule order) equals the bank entry k points to.
-        dates = sorted({f["date"] for f in facts})
+        # Reconciliation: exactly per_day area facts (plus one fun fact) per date, consecutive dates
+        # from the start, fact number k equals the bank entry k points to, and day n's fun fact is fun[n].
+        facts = [f for f in all_facts if f["category"] != fun]
+        dates = sorted({f["date"] for f in all_facts})
         if len(facts) != len(dates) * per_day or dates[0] != start.isoformat() or \
            dates[-1] != (start + timedelta(days=len(dates) - 1)).isoformat():
             raise BuildError("Reconciliation failed: dates are not consecutive with per_day facts each")
+        if fun:
+            funs = [f for f in all_facts if f["category"] == fun]
+            if [f["date"] for f in funs] != dates or [(f["title"], f["body"]) for f in funs] != \
+               [(b["title"].strip(), b["body"].strip()) for b in bank[fun][:len(dates)]]:
+                raise BuildError("Reconciliation failed: fun facts do not match bank/%s.json day by day" % fun)
         for k, f in enumerate(facts):
             cat, idx = order[k % len(order)], k // len(order)
             b = bank[cat][idx]
@@ -117,6 +132,9 @@ def main(argv: list[str] | None = None) -> int:
                 raise BuildError(f"Reconciliation failed at fact {k} ({f['date']} {f['category']})")
         per_cat = {c: sum(1 for f in facts if f["category"] == c) for c in order}
         unused = {c: len(bank[c]) - per_cat[c] for c in order if len(bank[c]) > per_cat[c]}
+        if fun and len(bank[fun]) > len(dates):
+            unused[fun] = len(bank[fun]) - len(dates)
+        facts = all_facts
 
         out_path = args.root / "data" / "facts.json"
         if out_path.exists():
@@ -131,7 +149,8 @@ def main(argv: list[str] | None = None) -> int:
                             len(changed), *changed[0])
 
         last = date.fromisoformat(dates[-1])
-        log.info("%d facts scheduled = %d days, %s to %s (%d days of cover from %s)", len(facts), len(dates),
+        log.info("%d facts scheduled (incl. %d fun facts) = %d days, %s to %s (%d days of cover from %s)",
+                 len(facts), len(dates) if fun else 0, len(dates),
                  dates[0], dates[-1], (last - args.today).days, args.today)
         if unused:
             log.info("Waiting (not yet scheduled): %s", unused)
@@ -139,7 +158,7 @@ def main(argv: list[str] | None = None) -> int:
             return 0
         out_path.parent.mkdir(parents=True, exist_ok=True)
         with out_path.open("w", encoding="utf-8", newline="\n") as fh:
-            json.dump({"start": start.isoformat(), "per_day": per_day, "order": order, "facts": facts}, fh,
+            json.dump({"start": start.isoformat(), "per_day": per_day, "order": order, "fun": fun, "facts": facts}, fh,
                       ensure_ascii=False, indent=1)
             fh.write("\n")
         log.info("Wrote %s", out_path)

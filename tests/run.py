@@ -7,7 +7,7 @@ OUT.mkdir(parents=True, exist_ok=True)
 PORT = 8765 if ENGINE == "chromium" else 8766
 LABEL = {"history":"History","science":"Science","geography":"Geography","arts":"Art and literature","music":"Music",
          "philosophy":"Philosophy and religion","economics":"Economics","politics":"Politics and society",
-         "language":"Language","technology":"Technology"}
+         "language":"Language","technology":"Technology","fun":"Fun fact"}
 PROBE = (Path(__file__).parent / "probe.js").read_text()
 data = json.loads((REPO / "data/facts.json").read_text(encoding="utf-8"))
 by = {}

@@ -13,7 +13,14 @@
   "language",
   "technology"
  ],
+ "fun": "fun",
  "facts": [
+  {
+   "date": "2026-10-30",
+   "category": "fun",
+   "title": "Wombats produce cube-shaped droppings",
+   "body": "Bare-nosed wombats leave neat cubes of dung, which they stack on rocks and logs to mark territory. A 2018 study found the cubes are shaped inside the intestine, where stiffer and more elastic bands of gut wall squeeze the contents into flat sides and corners."
+  },
   {
    "date": "2026-10-30",
    "category": "history",
@@ -31,6 +38,12 @@
    "category": "geography",
    "title": "Lake Baikal",
    "body": "Lake Baikal in Siberia is the world's deepest lake, more than 1,600 metres at its deepest, and probably the oldest. It holds more water than any other freshwater lake on Earth."
+  },
+  {
+   "date": "2026-10-31",
+   "category": "fun",
+   "title": "A day on Venus outlasts its year",
+   "body": "Venus takes about 243 Earth days to spin once on its axis but only about 225 days to orbit the Sun. It also spins backwards compared with most planets, so on Venus the Sun rises in the west."
   },
   {
    "date": "2026-10-31",
@@ -52,6 +65,12 @@
   },
   {
    "date": "2026-11-01",
+   "category": "fun",
+   "title": "Cleopatra lived nearer the Moon landing than Giza",
+   "body": "Cleopatra died in 30 BC, about 2,500 years after the Great Pyramid of Giza was built but only about 2,000 years before Apollo 11. Ancient Egypt lasted so long that its own pyramids were ancient history to her."
+  },
+  {
+   "date": "2026-11-01",
    "category": "economics",
    "title": "Comparative Advantage",
    "body": "In 1817 David Ricardo showed that two countries gain from trade even if one is better at producing everything. What matters is the relative cost of what each gives up; his example was wine and cloth in Portugal and England."
@@ -67,6 +86,12 @@
    "category": "language",
    "title": "The Indo-European Languages",
    "body": "In 1786 William Jones observed that Sanskrit, Greek and Latin must share a common origin. The insight founded historical linguistics. English belongs to the same family, as do most languages of Europe, Iran and northern India."
+  },
+  {
+   "date": "2026-11-02",
+   "category": "fun",
+   "title": "\"Nice\" once meant foolish",
+   "body": "In medieval English, calling someone nice meant they were silly or ignorant. The word comes from Latin nescius, \"not knowing\", and drifted over centuries through meanings like shy and fussy before settling on pleasant."
   },
   {
    "date": "2026-11-02",
@@ -88,6 +113,12 @@
   },
   {
    "date": "2026-11-03",
+   "category": "fun",
+   "title": "Dolphins sleep with half a brain",
+   "body": "Bottlenose dolphins rest one half of the brain while the other half stays awake. This lets them keep surfacing to breathe and stay alert to danger while they sleep."
+  },
+  {
+   "date": "2026-11-03",
    "category": "geography",
    "title": "The Bosphorus",
    "body": "This narrow strait links the Black Sea to the Sea of Marmara and divides Istanbul between Europe and Asia. Together with the Dardanelles it forms the only sea route from the Black Sea to the Mediterranean, which has made it strategically vital for millennia."
@@ -103,6 +134,12 @@
    "category": "music",
    "title": "Sonata Form",
    "body": "Sonata form has three parts: exposition, development and recapitulation. It was the central structural principle of the Classical era of Haydn, Mozart and Beethoven, and shapes the first movement of most of their symphonies and sonatas."
+  },
+  {
+   "date": "2026-11-04",
+   "category": "fun",
+   "title": "Old windows are not slowly flowing glass",
+   "body": "Some old panes are thicker at the bottom, but not because glass flows. Medieval glassmaking produced uneven sheets, and glaziers often fitted the thick edge at the bottom. At room temperature, glass would take far longer than the age of the universe to sag noticeably."
   },
   {
    "date": "2026-11-04",
@@ -124,6 +161,12 @@
   },
   {
    "date": "2026-11-05",
+   "category": "fun",
+   "title": "The ocean spot farthest from any land",
+   "body": "Point Nemo in the South Pacific lies about 2,700 km from the nearest land. Space stations orbiting about 400 km up can pass closer to it than any person on dry ground."
+  },
+  {
+   "date": "2026-11-05",
    "category": "language",
    "title": "Runes",
    "body": "Runes were the alphabet of the early Germanic peoples. The Elder Futhark had 24 characters, while the Viking Age Younger Futhark had only 16. The Rök runestone in Sweden carries the longest known runic inscription."
@@ -139,6 +182,12 @@
    "category": "history",
    "title": "Magna Carta",
    "body": "In 1215 King John of England was forced by his barons to accept a charter limiting royal power. It established that even the king was bound by law, and later became a symbol of the rule of law and individual rights."
+  },
+  {
+   "date": "2026-11-06",
+   "category": "fun",
+   "title": "Peanuts are not really nuts",
+   "body": "Peanuts are legumes, members of the pea and bean family. Their flowers bend down and push into the soil, so the pods ripen underground rather than on a tree."
   },
   {
    "date": "2026-11-06",
@@ -160,6 +209,12 @@
   },
   {
    "date": "2026-11-07",
+   "category": "fun",
+   "title": "One fungus covers nearly ten square kilometres",
+   "body": "A honey fungus in the Blue Mountains of Oregon is one individual spreading underground across almost ten square kilometres. Its threads creep through soil and tree roots, and it may be thousands of years old."
+  },
+  {
+   "date": "2026-11-07",
    "category": "music",
    "title": "Beethoven's Ninth Symphony",
    "body": "First performed in 1824, it was the first major symphony to include a choir and soloists. The finale sets Schiller's poem Ode to Joy, and its melody is today the anthem of Europe and the EU."
@@ -175,6 +230,12 @@
    "category": "economics",
    "title": "Keynesian Economics",
    "body": "In his General Theory (1936), John Maynard Keynes argued that an economy can get stuck with high unemployment when total demand is too weak. His conclusion, that governments can stabilise the economy through fiscal policy, shaped post-war policy."
+  },
+  {
+   "date": "2026-11-08",
+   "category": "fun",
+   "title": "A metal that melts in your hand",
+   "body": "Gallium melts at about 30 degrees Celsius, so a piece held in a warm hand slowly turns to liquid. Yet it stays liquid up to about 2,400 degrees, one of the widest liquid ranges of any element."
   },
   {
    "date": "2026-11-08",
@@ -196,6 +257,12 @@
   },
   {
    "date": "2026-11-09",
+   "category": "fun",
+   "title": "Kit Kats are lucky charms in Japan",
+   "body": "Kit Kat sounds like 'kitto katsu', Japanese for 'you will surely win'. Students often receive the chocolate as a good-luck gift before exams."
+  },
+  {
+   "date": "2026-11-09",
    "category": "history",
    "title": "The French Revolution",
    "body": "The revolution began in 1789, and the storming of the Bastille on 14 July became its symbol. That year the Declaration of the Rights of Man and of the Citizen was adopted. The revolution ended absolute monarchy and feudal privilege in France and reshaped European politics."
@@ -211,6 +278,12 @@
    "category": "geography",
    "title": "The Himalayas",
    "body": "The range is formed by the Indian plate pushing into the Eurasian plate. The collision continues, so the mountains are still rising. It contains Mount Everest, the highest mountain above sea level."
+  },
+  {
+   "date": "2026-11-10",
+   "category": "fun",
+   "title": "Bubble wrap was meant to be wallpaper",
+   "body": "In 1957 two American engineers, Alfred Fielding and Marc Chavannes, sealed two shower curtains together hoping to sell textured wallpaper. It flopped, and they later found success marketing it as packaging."
   },
   {
    "date": "2026-11-10",
@@ -232,6 +305,12 @@
   },
   {
    "date": "2026-11-11",
+   "category": "fun",
+   "title": "An octopus has three hearts",
+   "body": "Octopuses have two hearts that pump blood through the gills and a third for the rest of the body. Their blood is blue, because it carries oxygen with a copper-based molecule rather than the iron-based haemoglobin in ours."
+  },
+  {
+   "date": "2026-11-11",
    "category": "economics",
    "title": "The Wall Street Crash of 1929",
    "body": "Share prices on Wall Street collapsed in October 1929. The crash opened the Great Depression, the deepest economic crisis of the industrial era, which changed views on the role of the state in the economy."
@@ -247,6 +326,12 @@
    "category": "language",
    "title": "Greek Building Blocks",
    "body": "Many English words are built from Greek parts, often coined long after antiquity. Democracy combines demos (people) and kratos (power); telephone combines tele (far) and phone (sound)."
+  },
+  {
+   "date": "2026-11-12",
+   "category": "fun",
+   "title": "Twenty-three people make a shared birthday likely",
+   "body": "In a group of just 23 people, there is a better than 50 per cent chance that two share a birthday. The trick is that it can be any pair, and 23 people form 253 different pairs."
   },
   {
    "date": "2026-11-12",
@@ -268,6 +353,12 @@
   },
   {
    "date": "2026-11-13",
+   "category": "fun",
+   "title": "Why the UK tax year starts in April",
+   "body": "England's year once began on 25 March. When Britain skipped 11 days in 1752 to switch calendars, the tax year was moved to keep full-length years, and a later adjustment landed it on 6 April."
+  },
+  {
+   "date": "2026-11-13",
    "category": "geography",
    "title": "The Nile",
    "body": "The Nile flows north through north-east Africa into the Mediterranean and is usually counted, along with the Amazon, as the world's longest river. The White and Blue Nile meet at Khartoum. The river made ancient Egyptian civilisation possible."
@@ -283,6 +374,12 @@
    "category": "music",
    "title": "The Birth of Opera",
    "body": "Opera arose in Italy around 1600 as an attempt to revive ancient Greek drama with music. Monteverdi's L'Orfeo of 1607 is considered an early masterpiece of the form."
+  },
+  {
+   "date": "2026-11-14",
+   "category": "fun",
+   "title": "The Statue of Liberty used to be brown",
+   "body": "The statue is covered in thin copper sheets, which were a shiny reddish brown in 1886. Within about twenty years the copper had reacted with the air to form the green patina that now protects it."
   },
   {
    "date": "2026-11-14",
@@ -304,6 +401,12 @@
   },
   {
    "date": "2026-11-15",
+   "category": "fun",
+   "title": "Your stomach lining renews every few days",
+   "body": "The cells lining the inside of your stomach are replaced every few days. Coated in protective mucus, they still take a battering from the strong acid, so the body constantly sheds old cells and grows new ones."
+  },
+  {
+   "date": "2026-11-15",
    "category": "language",
    "title": "Ethos, Pathos and Logos",
    "body": "Aristotle described three ways to persuade: through the speaker's credibility (ethos), by stirring emotion (pathos) and with reasoned argument (logos). The distinction still underpins the teaching of rhetoric."
@@ -319,6 +422,12 @@
    "category": "history",
    "title": "The Kalmar Union",
    "body": "In 1397 Denmark, Norway and Sweden were united under a single monarch, with Queen Margaret I as the driving force. The union was marked by constant conflict, and Sweden left it for good when Gustav Vasa became king in 1523."
+  },
+  {
+   "date": "2026-11-16",
+   "category": "fun",
+   "title": "Why snowflakes have six arms",
+   "body": "Snowflakes are six-sided because water molecules link up in a hexagonal pattern when they freeze. Each arm grows in almost identical conditions as the flake falls, so the arms tend to match."
   },
   {
    "date": "2026-11-16",
@@ -340,6 +449,12 @@
   },
   {
    "date": "2026-11-17",
+   "category": "fun",
+   "title": "Oxford University is older than the Aztec capital",
+   "body": "Teaching was going on at Oxford by 1096, while the Mexica founded their city of Tenochtitlan around 1325. Europe's universities and the Aztec Empire belong to very different chapters of history, yet Oxford came first."
+  },
+  {
+   "date": "2026-11-17",
    "category": "music",
    "title": "Wolfgang Amadeus Mozart",
    "body": "Mozart (1756–1791) wrote more than 600 works in a short life, including the operas The Marriage of Figaro and The Magic Flute. His Requiem was unfinished when he died. With Haydn and Beethoven he defines the Classical style."
@@ -355,6 +470,12 @@
    "category": "economics",
    "title": "Tulip Mania",
    "body": "In the Netherlands in the 1630s, prices of tulip bulbs rose steeply and then collapsed in 1637. It is often cited as one of the first speculative bubbles, although historians now think its scale has been exaggerated."
+  },
+  {
+   "date": "2026-11-18",
+   "category": "fun",
+   "title": "\"Happy Birthday\" began as a school greeting",
+   "body": "The tune of Happy Birthday comes from \"Good Morning to All\", a song published by two American sisters, Mildred and Patty Hill, in 1893 for children to sing at the start of the school day."
   },
   {
    "date": "2026-11-18",
@@ -376,6 +497,12 @@
   },
   {
    "date": "2026-11-19",
+   "category": "fun",
+   "title": "Koalas have fingerprints like ours",
+   "body": "Koala fingerprints are so similar to human ones, with loops and whorls, that even under a microscope they are hard to tell apart. The trait evolved independently, probably to help koalas grip branches and handle eucalyptus leaves."
+  },
+  {
+   "date": "2026-11-19",
    "category": "history",
    "title": "The Gunpowder Plot",
    "body": "On 5 November 1605 Guy Fawkes was arrested beneath the English Parliament guarding barrels of gunpowder. A group of Catholic conspirators had planned to kill King James I. Britain still marks the date with bonfires and fireworks."
@@ -391,6 +518,12 @@
    "category": "geography",
    "title": "The Panama Canal",
    "body": "Opened in 1914, the canal links the Atlantic and Pacific across the Isthmus of Panama. Ships are raised by locks to a lake above sea level. The United States ran the canal until 1999, when it was handed over to Panama."
+  },
+  {
+   "date": "2026-11-20",
+   "category": "fun",
+   "title": "You cannot hum with your nose pinched",
+   "body": "Try humming a tune with your nose held shut: the sound soon stops. Humming keeps your mouth closed, so air must escape through your nose, and once both are blocked the airflow stops."
   },
   {
    "date": "2026-11-20",
@@ -412,6 +545,12 @@
   },
   {
    "date": "2026-11-21",
+   "category": "fun",
+   "title": "A whole country high in the mountains",
+   "body": "Lesotho is completely surrounded by South Africa, and even its lowest point sits about 1,400 metres above sea level. That gives it the highest low point of any country."
+  },
+  {
+   "date": "2026-11-21",
    "category": "economics",
    "title": "The Oldest Central Bank",
    "body": "Sweden's Riksbank, founded in 1668, is the world's oldest central bank still in operation. It grew out of Stockholm's Banco, which had issued some of Europe's first banknotes."
@@ -427,6 +566,12 @@
    "category": "language",
    "title": "Norman French in English",
    "body": "After 1066 the ruling class in England spoke French for centuries. That is why English often has Germanic words for animals in the field (cow, pig, sheep) and French-derived words for the meat on the table (beef, pork, mutton)."
+  },
+  {
+   "date": "2026-11-22",
+   "category": "fun",
+   "title": "Frankenstein began as a holiday ghost-story contest",
+   "body": "During a cold, rainy summer in 1816 near Lake Geneva, Lord Byron challenged his friends to write ghost stories. The 18-year-old Mary Shelley came up with Frankenstein, published two years later."
   },
   {
    "date": "2026-11-22",
@@ -448,6 +593,12 @@
   },
   {
    "date": "2026-11-23",
+   "category": "fun",
+   "title": "A whole aspen forest can be one tree",
+   "body": "Pando, a grove in Utah, looks like a forest but is a single quaking aspen. Its tens of thousands of trunks all grow from one shared root system and are genetically identical, making it one of the heaviest organisms known."
+  },
+  {
+   "date": "2026-11-23",
    "category": "geography",
    "title": "The Amazon Rainforest",
    "body": "The Amazon is the largest tropical rainforest on Earth, most of it in Brazil. It is home to an exceptional share of the world's species, and the Amazon River carries more water to the sea than any other river."
@@ -463,6 +614,12 @@
    "category": "music",
    "title": "The Four Seasons",
    "body": "Antonio Vivaldi published these four violin concertos in 1725, each paired with a sonnet describing a season. Birdsong, storms and shivering are depicted in the music, making it an early and famous example of programme music."
+  },
+  {
+   "date": "2026-11-24",
+   "category": "fun",
+   "title": "Sunsets on Mars are blue",
+   "body": "Photos from NASA rovers show a bluish glow around the setting Sun on Mars. Fine Martian dust scatters blue light forward, close to the direction of the Sun, while the rest of the daytime sky looks butterscotch."
   },
   {
    "date": "2026-11-24",
@@ -484,6 +641,12 @@
   },
   {
    "date": "2026-11-25",
+   "category": "fun",
+   "title": "Fried chicken is a Christmas tradition in Japan",
+   "body": "Many Japanese families eat KFC at Christmas thanks to a hugely successful 1974 advert, 'Kentucky for Christmas'. Christmas is not a religious holiday there, so the custom filled a gap."
+  },
+  {
+   "date": "2026-11-25",
    "category": "language",
    "title": "Grimm's Law",
    "body": "Jacob Grimm described a regular sound shift that separated the Germanic languages from other Indo-European languages. It explains pairs such as Latin pater and English father, or Latin piscis and English fish."
@@ -499,6 +662,12 @@
    "category": "history",
    "title": "The Battle of Hastings",
    "body": "In 1066 William, Duke of Normandy, defeated the English king Harold II at Hastings. The Norman Conquest replaced the English aristocracy with a Norman one. The Bayeux Tapestry depicts the campaign."
+  },
+  {
+   "date": "2026-11-26",
+   "category": "fun",
+   "title": "Basketball began with peach baskets",
+   "body": "James Naismith invented basketball in 1891 in Massachusetts, using peach baskets as goals. The baskets still had bottoms, so someone had to fetch the ball out after each score."
   },
   {
    "date": "2026-11-26",
@@ -520,6 +689,12 @@
   },
   {
    "date": "2026-11-27",
+   "category": "fun",
+   "title": "Fungi are closer relatives of animals than plants",
+   "body": "Mushrooms may look like plants, but DNA shows fungi and animals share a more recent common ancestor. Like us, fungi cannot make their own food and must absorb it from their surroundings."
+  },
+  {
+   "date": "2026-11-27",
    "category": "music",
    "title": "The Symphony Orchestra",
    "body": "A modern orchestra has four sections: strings, woodwind, brass and percussion. Its core form took shape in the Classical era and grew larger through the 19th century."
@@ -535,6 +710,12 @@
    "category": "economics",
    "title": "Opportunity Cost",
    "body": "The true cost of any choice is the value of the best alternative given up. An hour spent studying costs not only the time but whatever else that hour could have produced. The concept is central to economic reasoning."
+  },
+  {
+   "date": "2026-11-28",
+   "category": "fun",
+   "title": "Sound races through water",
+   "body": "Sound travels at about 1,500 metres per second in water, more than four times faster than in air. Water molecules are packed closely and resist being squeezed, so vibrations pass between them faster."
   },
   {
    "date": "2026-11-28",
@@ -556,6 +737,12 @@
   },
   {
    "date": "2026-11-29",
+   "category": "fun",
+   "title": "Sweden once had a 30 February",
+   "body": "Sweden tried a gradual calendar switch from 1700 but botched it. To get back in step, it added an extra day in 1712, creating a unique 30 February."
+  },
+  {
+   "date": "2026-11-29",
    "category": "history",
    "title": "Columbus Reaches the Americas",
    "body": "In 1492 Christopher Columbus, sailing for Spain, reached the Caribbean while seeking a westward route to Asia. His voyages opened lasting contact between Europe and the Americas, with the exchange of crops, animals and diseases known as the Columbian Exchange."
@@ -571,6 +758,12 @@
    "category": "geography",
    "title": "The Ring of Fire",
    "body": "The Ring of Fire is a horseshoe-shaped zone around the Pacific Ocean where tectonic plates meet. Most of the world's earthquakes and many of its active volcanoes occur along it, from Chile through Japan to New Zealand."
+  },
+  {
+   "date": "2026-11-30",
+   "category": "fun",
+   "title": "A muscle is a \"little mouse\"",
+   "body": "The word muscle comes from Latin musculus, meaning little mouse. Romans thought a flexing muscle rippling under the skin looked like a mouse scurrying beneath a cloth."
   },
   {
    "date": "2026-11-30",
@@ -592,6 +785,12 @@
   },
   {
    "date": "2026-12-01",
+   "category": "fun",
+   "title": "A shrimp snaps hard enough to flash",
+   "body": "The pistol shrimp snaps its claw shut so fast it fires a jet of water that forms a bubble. When the bubble collapses it makes one of the loudest sounds in the sea, stunning prey, and briefly gives off a tiny flash of light."
+  },
+  {
+   "date": "2026-12-01",
    "category": "economics",
    "title": "The Quantity Theory of Money",
    "body": "The theory links the money supply to the price level: if money grows faster than the output of goods and services, prices tend to rise. Milton Friedman built on it to argue that inflation is ultimately a monetary phenomenon."
@@ -607,6 +806,12 @@
    "category": "language",
    "title": "The Great Vowel Shift",
    "body": "Between roughly 1400 and 1700 the long vowels of English changed their pronunciation. Spelling had largely settled before the shift ended, which is a major reason English spelling and pronunciation often fail to match."
+  },
+  {
+   "date": "2026-12-02",
+   "category": "fun",
+   "title": "Helium was found in the Sun first",
+   "body": "In 1868 astronomers studying sunlight during an eclipse saw a yellow spectral line no known element made. It was named helium, from the Greek for Sun, and was only found on Earth in 1895."
   },
   {
    "date": "2026-12-02",
@@ -628,6 +833,12 @@
   },
   {
    "date": "2026-12-03",
+   "category": "fun",
+   "title": "Mammoths still lived when the pyramids were built",
+   "body": "A small population of woolly mammoths survived on Wrangel Island in the Arctic until about 4,000 years ago. That is several centuries after the Great Pyramid of Giza was finished around 2560 BC."
+  },
+  {
+   "date": "2026-12-03",
    "category": "geography",
    "title": "The Dead Sea",
    "body": "The shores of the Dead Sea, between Israel, the West Bank and Jordan, are the lowest land on Earth's surface. Its water is so salty that people float easily and almost nothing can live in it."
@@ -643,6 +854,12 @@
    "category": "music",
    "title": "The Blues",
    "body": "The blues grew out of African American communities in the American South, notably the Mississippi Delta, around the turn of the 20th century. The twelve-bar form and 'blue notes' became the foundation of rhythm and blues, rock and roll and much later popular music."
+  },
+  {
+   "date": "2026-12-04",
+   "category": "fun",
+   "title": "Bananas are berries but strawberries are not",
+   "body": "To a botanist, a banana counts as a berry because it grows from a single flower with one ovary. A strawberry does not, and the little \"seeds\" on its outside are each a tiny separate fruit."
   },
   {
    "date": "2026-12-04",
@@ -664,6 +881,12 @@
   },
   {
    "date": "2026-12-05",
+   "category": "fun",
+   "title": "You are taller in the morning",
+   "body": "Most people are around a centimetre taller when they wake than at bedtime. During the day, gravity squeezes fluid out of the soft discs between the vertebrae, and lying down overnight lets them swell back."
+  },
+  {
+   "date": "2026-12-05",
    "category": "language",
    "title": "Crossing the Rubicon",
    "body": "In 49 BC Julius Caesar led his army across the Rubicon river into Italy, breaking Roman law and starting a civil war. To cross the Rubicon now means to take an irreversible step."
@@ -679,6 +902,12 @@
    "category": "history",
    "title": "The Fall of the Berlin Wall",
    "body": "On 9 November 1989 East Germany opened its border crossings and crowds began tearing down the Berlin Wall. Germany was reunified less than a year later, on 3 October 1990, and the event became the symbol of the end of the Cold War."
+  },
+  {
+   "date": "2026-12-06",
+   "category": "fun",
+   "title": "Every well-shuffled deck is probably unique",
+   "body": "A pack of 52 cards can be arranged in about 8 followed by 67 zeros ways. That is so many that a properly shuffled deck is almost certainly in an order no deck has ever been in before."
   },
   {
    "date": "2026-12-06",
@@ -700,6 +929,12 @@
   },
   {
    "date": "2026-12-07",
+   "category": "fun",
+   "title": "Two countries that are doubly landlocked",
+   "body": "Liechtenstein and Uzbekistan are each surrounded only by other landlocked countries. To reach the sea from either, you must cross at least two borders."
+  },
+  {
+   "date": "2026-12-07",
    "category": "music",
    "title": "Handel's Messiah",
    "body": "George Frideric Handel's oratorio was first performed in Dublin in 1742. Its Hallelujah chorus is one of the most famous pieces of choral music, and the work is still performed every Christmas and Easter around the world."
@@ -715,6 +950,12 @@
    "category": "economics",
    "title": "Das Kapital",
    "body": "Karl Marx published the first volume of Das Kapital in 1867. He argued that profit comes from surplus value, the difference between what workers produce and what they are paid, and that capitalism contains the seeds of its own crisis. His ideas shaped 20th-century politics."
+  },
+  {
+   "date": "2026-12-08",
+   "category": "fun",
+   "title": "The Post-it Note began as a failed glue",
+   "body": "In 1968 a 3M chemist, Spencer Silver, made an adhesive too weak for ordinary use. Years later his colleague Art Fry used it to keep bookmarks in his hymn book, and the sticky note was born."
   },
   {
    "date": "2026-12-08",
@@ -736,6 +977,12 @@
   },
   {
    "date": "2026-12-09",
+   "category": "fun",
+   "title": "Hummingbirds can fly backwards",
+   "body": "Hummingbirds can hover in one spot and even fly backwards. Their wings twist at the shoulder and trace a figure-of-eight, producing lift on both the forward and the back stroke, much as an insect's wings do."
+  },
+  {
+   "date": "2026-12-09",
    "category": "history",
    "title": "The Black Death",
    "body": "Between 1347 and 1351 a plague pandemic, most likely caused by the bacterium Yersinia pestis, swept across Europe. Estimates vary, but it probably killed between a third and a half of the population, with deep consequences for labour, the economy and the Church."
@@ -751,6 +998,12 @@
    "category": "geography",
    "title": "The Suez Canal",
    "body": "Opened in 1869, the canal links the Mediterranean to the Red Sea and spares ships the voyage around Africa. Egypt's nationalisation of the canal in 1956 triggered the Suez Crisis, a turning point in the decline of British and French imperial power."
+  },
+  {
+   "date": "2026-12-10",
+   "category": "fun",
+   "title": "Raindrops are not tear-shaped",
+   "body": "Small raindrops are almost perfectly round, held by surface tension. Larger drops are flattened underneath by air resistance into a shape like a burger bun, and the biggest ones break apart."
   },
   {
    "date": "2026-12-10",
@@ -772,6 +1025,12 @@
   },
   {
    "date": "2026-12-11",
+   "category": "fun",
+   "title": "Spaniards eat twelve grapes at midnight",
+   "body": "On New Year's Eve people in Spain try to eat one grape with each of the twelve chimes at midnight. Each grape is said to bring luck for one month of the coming year."
+  },
+  {
+   "date": "2026-12-11",
    "category": "economics",
    "title": "The 2008 Financial Crisis",
    "body": "Losses on US subprime mortgages spread through a global financial system loaded with debt and complex securities. The bankruptcy of Lehman Brothers in September 2008 triggered a panic and the deepest recession since the 1930s."
@@ -787,6 +1046,12 @@
    "category": "language",
    "title": "Chinese Characters",
    "body": "Chinese is written with characters that mainly represent words or meaningful syllables rather than sounds alone. The earliest substantial examples are inscriptions on oracle bones from the Shang dynasty, more than 3,000 years ago, making it one of the oldest writing systems still in use."
+  },
+  {
+   "date": "2026-12-12",
+   "category": "fun",
+   "title": "A blue paint could cost more than gold",
+   "body": "Ultramarine blue was made by grinding lapis lazuli, mined mainly in Afghanistan. In Renaissance Europe it could cost more than gold, so painters often saved it for the robes of the Virgin Mary."
   },
   {
    "date": "2026-12-12",
@@ -808,6 +1073,12 @@
   },
   {
    "date": "2026-12-13",
+   "category": "fun",
+   "title": "Some bamboo grows nearly a metre daily",
+   "body": "Certain bamboo species can grow close to a metre in a single day. Bamboo is a grass, and rather than adding new cells at the tip it stretches many segments at once, each already packed into the young shoot."
+  },
+  {
+   "date": "2026-12-13",
    "category": "geography",
    "title": "The Mariana Trench",
    "body": "The Mariana Trench in the western Pacific contains the deepest known point in the oceans, the Challenger Deep, roughly 11 kilometres down. It forms where one tectonic plate dives beneath another."
@@ -823,6 +1094,12 @@
    "category": "music",
    "title": "Guido of Arezzo",
    "body": "The 11th-century monk Guido of Arezzo developed the use of staff lines to show pitch and named the notes of the scale with syllables (ut, re, mi, fa, sol, la). His innovations made it possible to learn music from the page rather than only by ear."
+  },
+  {
+   "date": "2026-12-14",
+   "category": "fun",
+   "title": "Microwaves do not cook from the inside out",
+   "body": "Household microwaves penetrate only about a centimetre or so into most foods. The middle warms more slowly, by heat conducted inwards from the outer layers, which is why thick food is often still cold in the centre."
   },
   {
    "date": "2026-12-14",
@@ -844,6 +1121,12 @@
   },
   {
    "date": "2026-12-15",
+   "category": "fun",
+   "title": "Russia's October Revolution happened in November",
+   "body": "Russia still used the old Julian calendar in 1917, so the revolution of 25 October was 7 November elsewhere. The Bolsheviks switched to the Gregorian calendar a few months later."
+  },
+  {
+   "date": "2026-12-15",
    "category": "language",
    "title": "Latin Abbreviations",
    "body": "Several everyday abbreviations come from Latin: e.g. (exempli gratia, for example), i.e. (id est, that is) and etc. (et cetera, and the rest). The two are often confused: e.g. introduces examples, while i.e. restates or narrows."
@@ -859,6 +1142,12 @@
    "category": "history",
    "title": "The Meiji Restoration",
    "body": "In 1868 imperial rule was restored in Japan, ending the Tokugawa shogunate. The new government modernised the country rapidly, adopting Western industry, education and military organisation, and turned Japan into a major power within a few decades."
+  },
+  {
+   "date": "2026-12-16",
+   "category": "fun",
+   "title": "Mozart wrote variations on \"Twinkle, Twinkle\"",
+   "body": "The tune of Twinkle, Twinkle, Little Star is an old French song, \"Ah! vous dirai-je, maman\". Mozart wrote twelve piano variations on it; the English words come from a poem by Jane Taylor."
   },
   {
    "date": "2026-12-16",
@@ -880,6 +1169,12 @@
   },
   {
    "date": "2026-12-17",
+   "category": "fun",
+   "title": "Most plants rely on underground fungal partners",
+   "body": "The large majority of land plants have fungi growing in or around their roots. The fungal threads reach far into the soil and trade water and minerals for sugars the plant makes from sunlight."
+  },
+  {
+   "date": "2026-12-17",
    "category": "music",
    "title": "The Beatles",
    "body": "Formed in Liverpool, the Beatles dominated popular music in the 1960s. With albums such as Sgt. Pepper's Lonely Hearts Club Band (1967) they used the studio itself as an instrument. The group split up in 1970."
@@ -895,6 +1190,12 @@
    "category": "economics",
    "title": "Moral Hazard",
    "body": "Moral hazard arises when someone protected from the consequences of risk takes more risk. Insurance is the classic example; in finance, banks considered 'too big to fail' may take more risk if they expect to be rescued."
+  },
+  {
+   "date": "2026-12-18",
+   "category": "fun",
+   "title": "Saturn is less dense than water",
+   "body": "Saturn's average density is only about 0.7 grams per cubic centimetre, lower than water's 1. It is mostly hydrogen and helium, the two lightest elements, so in an impossibly large bathtub it would float."
   },
   {
    "date": "2026-12-18",
