@@ -210,5 +210,81 @@
   {
     "title": "Public-Key Cryptography",
     "body": "In 1976 Whitfield Diffie and Martin Hellman published a way for two parties to agree a secret key over an open channel, and in 1977 Rivest, Shamir and Adleman created the RSA system. Public-key cryptography uses a public key to encrypt and a private one to decrypt, so strangers can communicate securely. It underpins secure websites and online payments. British intelligence had made similar discoveries earlier but kept them secret."
+  },
+  {
+    "title": "Glassblowing",
+    "body": "Glass had been made for thousands of years, but blowing it through a tube was invented in the 1st century BC on the eastern Mediterranean coast, in the region of Syria and Palestine. Blowing made thin, transparent vessels quick and cheap to produce. The technique spread through the Roman Empire and remains the basis of handmade glassware."
+  },
+  {
+    "title": "Yuri Gagarin's Spaceflight",
+    "body": "On 12 April 1961 the Soviet cosmonaut Yuri Gagarin became the first human in space, orbiting the Earth once in Vostok 1. The flight lasted about 108 minutes, and he ejected and landed by parachute as planned. Launched from Baikonur, the mission proved that humans could survive and work in spaceflight."
+  },
+  {
+    "title": "Gutta-Percha and Undersea Cables",
+    "body": "Gutta-percha is a natural latex from trees of the Malay Peninsula and nearby islands. Introduced to Europe in the 1840s, it proved an excellent insulator that stays stable under seawater. It made the first submarine telegraph cables possible, including the cross-Channel cable of 1851 and the transatlantic cables, and the trade in it boomed."
+  },
+  {
+    "title": "The Spinning Jenny",
+    "body": "Around 1764 James Hargreaves, a Lancashire weaver, invented the spinning jenny, which let one worker spin several threads at once. Together with Richard Arkwright's water frame and Samuel Crompton's mule, it mechanised cotton spinning. These machines moved textile production into factories and helped launch Britain's Industrial Revolution."
+  },
+  {
+    "title": "The Hejaz Railway",
+    "body": "Built by the Ottoman Empire between 1900 and 1908, the Hejaz Railway linked Damascus with Medina, mainly to carry Muslim pilgrims towards Mecca. It cut a journey of weeks by camel to a few days. During the First World War Arab forces, aided by the British officer known as Lawrence of Arabia, repeatedly attacked it, and its southern section was never restored."
+  },
+  {
+    "title": "The Transformer in Artificial Intelligence",
+    "body": "In 2017 researchers at Google described the Transformer, a neural-network design built around a mechanism called attention, in a paper titled Attention Is All You Need. It processes whole sequences in parallel and learns which parts relate to each other. The Transformer became the basis of the large language models that brought generative AI to the public in the 2020s."
+  },
+  {
+    "title": "The Water Wheel",
+    "body": "Water wheels harnessing flowing water to turn millstones appeared in the Greek world around the 3rd century BC. The Romans used them widely, and at Barbegal in southern France a series of sixteen wheels drove a large flour mill. Through the Middle Ages water power drove mills for grain, cloth and iron, and it powered the first factories of the Industrial Revolution."
+  },
+  {
+    "title": "Medical Drone Delivery in Rwanda",
+    "body": "In 2016 Rwanda began delivering blood for transfusions to rural hospitals by drone, in partnership with the American company Zipline. Small fixed-wing aircraft launched from a central base drop packages by parachute, cutting delivery times from hours by road to minutes. It was widely hailed as the world's first national drone delivery service, and the model was later extended to other medical supplies and countries."
+  },
+  {
+    "title": "The Iron Pillar of Delhi",
+    "body": "The Iron Pillar, now in the Qutb complex in Delhi, was made around AD 400 under the Gupta dynasty and is about 7 metres long, with over a metre of it below ground. Forged from wrought iron, it has resisted rusting for some 1,600 years. Studies attribute this to a thin protective layer encouraged by the iron's high phosphorus content. It shows the advanced skill of ancient Indian metalworkers."
+  },
+  {
+    "title": "The Jet Engine",
+    "body": "The jet engine was developed independently in the 1930s by Frank Whittle in Britain and Hans von Ohain in Germany. In 1939 the German Heinkel He 178 made the first jet-powered flight. Jet engines allowed aircraft to fly much faster and higher, and from the 1950s jet airliners made long-distance air travel routine."
+  },
+  {
+    "title": "The Earliest Pottery",
+    "body": "The oldest known pottery vessels, from Xianrendong Cave in southern China, are roughly 20,000 years old. They were made by hunter-gatherers, long before farming, overturning the idea that pottery began with agriculture. Fired clay pots allowed food to be boiled and stored, and pottery later became one of archaeology's main tools for dating sites."
+  },
+  {
+    "title": "Radio",
+    "body": "In the mid-1890s Guglielmo Marconi developed wireless telegraphy, using the electromagnetic waves predicted by James Clerk Maxwell and demonstrated by Heinrich Hertz. In 1901 he reported receiving a signal across the Atlantic. Others, including Alexander Popov, Oliver Lodge and Nikola Tesla, made important contributions, and priority is still debated. Radio made communication with ships possible and later became a mass medium."
+  },
+  {
+    "title": "The Astrolabe",
+    "body": "The astrolabe is a hand-held model of the sky used to tell the time, measure the altitude of stars and solve astronomical problems. Developed by the ancient Greeks, it was greatly refined by astronomers in the medieval Islamic world, who also used it to find prayer times and the direction of Mecca. It reached Europe through Islamic Spain and remained widely used until the 17th century."
+  },
+  {
+    "title": "The Voltaic Pile",
+    "body": "In 1800 the Italian physicist Alessandro Volta stacked discs of zinc and copper separated by brine-soaked cloth and produced a steady electric current. This first battery made continuous electricity available for experiments for the first time. It quickly led to electrolysis and the discovery of new elements, and the volt, the unit of electric potential, is named after him."
+  },
+  {
+    "title": "Optical Fibre Communication",
+    "body": "In 1966 Charles Kao, working in England, showed that glass fibres could carry light signals over long distances if impurities were removed. Low-loss fibres were produced a few years later. Optical cables became the backbone of long-distance telecommunications and the internet, and Kao shared the 2009 Nobel Prize in Physics."
+  },
+  {
+    "title": "Su Song's Astronomical Clock Tower",
+    "body": "In the late 11th century the Chinese official Su Song built a water-driven astronomical clock tower at Kaifeng, more than 10 metres tall. A waterwheel, advanced in controlled steps by an escapement-like mechanism, drove an armillary sphere, a celestial globe and figures that announced the time. Su Song's detailed illustrated description survives, making it one of the best-documented machines of the medieval world."
+  },
+  {
+    "title": "The First Nuclear Reactor",
+    "body": "On 2 December 1942 a team led by Enrico Fermi achieved the first self-sustaining nuclear chain reaction, in Chicago Pile-1. Built of graphite blocks and uranium beneath the stands of a university sports field, it was part of the Manhattan Project. Controlled chain reactions later made nuclear power stations possible, starting in the 1950s."
+  },
+  {
+    "title": "The First Stone Tools",
+    "body": "The oldest widely accepted stone tools, known as the Oldowan industry, date from about 2.6 million years ago in East Africa. Early humans struck flakes off stones to make sharp edges for cutting meat and plants, and later Acheulean hand axes were shaped to a deliberate pattern. Toolmaking began more than two million years before our own species appeared."
+  },
+  {
+    "title": "The Shipping Container",
+    "body": "In 1956 the American trucking entrepreneur Malcom McLean shipped containers aboard the Ideal X from New Jersey to Texas. Standard steel boxes that move unopened between ships, trains and lorries cut loading times and costs dramatically. Containerisation reshaped ports and greatly accelerated global trade."
   }
 ]

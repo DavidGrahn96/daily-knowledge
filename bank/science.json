@@ -210,5 +210,81 @@
   {
     "title": "The Discovery of HIV",
     "body": "AIDS was first recognised in 1981, when doctors in the United States reported rare infections in previously healthy young men. In 1983 Françoise Barré-Sinoussi and Luc Montagnier at the Pasteur Institute in Paris isolated the virus responsible, later named HIV. The discovery made blood tests and antiviral drugs possible, and the two shared the 2008 Nobel Prize."
+  },
+  {
+    "title": "Franklin and the Electricity of Lightning",
+    "body": "In the 1740s and 1750s Benjamin Franklin experimented with electricity in Philadelphia and proposed that lightning is an electrical discharge. In 1752 experimenters in France confirmed this with a tall iron rod as he had suggested, and later that year Franklin published an account of a kite experiment, which he is said to have carried out himself. The work led to the lightning rod, and Franklin introduced the terms positive and negative charge."
+  },
+  {
+    "title": "Faraday and Electromagnetic Induction",
+    "body": "In 1820 Hans Christian Ørsted found that an electric current deflects a compass needle. In 1831 Michael Faraday discovered the reverse effect: a changing magnetic field produces an electric current in a wire. Electromagnetic induction is the principle behind electric generators and transformers, and Faraday's idea of fields of force became central to physics."
+  },
+  {
+    "title": "Helicobacter pylori and Stomach Ulcers",
+    "body": "In the early 1980s the Australian doctors Robin Warren and Barry Marshall, working in Perth, found that a bacterium, Helicobacter pylori, is a major cause of stomach ulcers. Ulcers had been blamed on stress and acid, and the idea met strong scepticism until Marshall drank a culture of the bacterium and developed gastritis. Ulcers became curable with antibiotics, and the two shared the 2005 Nobel Prize."
+  },
+  {
+    "title": "The Human Genome Project",
+    "body": "Launched in 1990 as an international effort, the Human Genome Project set out to read the roughly three billion DNA letters of the human genome. A draft was announced in 2000 and the project was declared complete in 2003, though the last gaps were filled only in 2022 and 2023. It showed that humans have far fewer protein-coding genes than expected, now estimated at about 20,000, and transformed medical research."
+  },
+  {
+    "title": "Vesalius and Human Anatomy",
+    "body": "In 1543, the same year Copernicus published his account of heliocentrism, Andreas Vesalius published On the Fabric of the Human Body. Based on his own dissections of human corpses at Padua, it corrected many of Galen's errors and was illustrated with detailed woodcuts. It grounded anatomy in direct observation and is a founding work of modern medicine."
+  },
+  {
+    "title": "Induced Pluripotent Stem Cells",
+    "body": "In 2006 Shinya Yamanaka in Kyoto showed that adult mouse cells could be turned back into stem cells able to become any cell type by switching on just four genes; human cells followed in 2007. The discovery showed that cell specialisation is reversible and offered stem cells without using embryos. Yamanaka shared the 2012 Nobel Prize with John Gurdon, who had cloned frogs from specialised cells."
+  },
+  {
+    "title": "The Electromagnetic Spectrum",
+    "body": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays are all the same phenomenon, electromagnetic radiation, differing only in wavelength. Visible light is a narrow band in the middle. William Herschel discovered infrared in 1800 when a thermometer warmed beyond the red end of a spectrum, and Johann Ritter found ultraviolet the following year."
+  },
+  {
+    "title": "Blood Groups",
+    "body": "In 1901 the Austrian scientist Karl Landsteiner showed that human blood falls into distinct groups, the basis of the ABO system, and that mixing incompatible groups makes red cells clump. This explained why many early blood transfusions had been fatal. Blood typing made transfusion safe, and Landsteiner received the Nobel Prize in 1930."
+  },
+  {
+    "title": "Al-Razi on Smallpox and Measles",
+    "body": "The Persian physician Abu Bakr al-Razi, known in Europe as Rhazes, worked in Rayy and Baghdad around 900. His treatise on smallpox and measles was the first to distinguish clearly between the two diseases by their symptoms. He also compiled a vast medical encyclopaedia and valued clinical observation over reliance on authority."
+  },
+  {
+    "title": "Malaria and the Mosquito",
+    "body": "In 1880 the French army doctor Alphonse Laveran, working in Algeria, saw the malaria parasite in a patient's blood. In 1897 Ronald Ross, a British doctor in India, found the parasite in Anopheles mosquitoes that had fed on a malaria patient, and went on to show that mosquitoes transmit the disease. Ross received the Nobel Prize in 1902 and Laveran in 1907, and mosquito control became central to fighting malaria."
+  },
+  {
+    "title": "The Maya Venus Table",
+    "body": "The Dresden Codex, one of the few Maya books to survive the Spanish conquest, contains tables tracking the planet Venus. The Maya knew that Venus returns to the same position relative to the Sun about every 584 days, and that five such cycles equal almost exactly eight years. The tables show the precision of Maya astronomy and its close link to their calendar and ritual."
+  },
+  {
+    "title": "Radioactivity and the Curies",
+    "body": "In 1896 Henri Becquerel found that uranium salts give off penetrating radiation without any outside source of energy. Marie and Pierre Curie then discovered two new radioactive elements, polonium and radium, and Marie Curie coined the word radioactivity. She was the first person to receive two Nobel Prizes, in physics in 1903 and in chemistry in 1911."
+  },
+  {
+    "title": "The First Heart Transplant",
+    "body": "On 3 December 1967 the surgeon Christiaan Barnard performed the first human-to-human heart transplant at Groote Schuur Hospital in Cape Town. The patient, Louis Washkansky, died 18 days later of pneumonia, his immune system weakened by drugs given to prevent rejection. Survival improved greatly after immunosuppressant drugs such as ciclosporin came into use in the early 1980s."
+  },
+  {
+    "title": "The Discovery of Ice Ages",
+    "body": "In 1837 the Swiss-born naturalist Louis Agassiz argued that great ice sheets had once covered much of northern Europe, and later North America. Scratched bedrock, U-shaped valleys and boulders far from their source were evidence of former glaciers. In the 20th century Milutin Milanković linked the repeated advance and retreat of the ice to cyclical changes in the Earth's orbit and tilt."
+  },
+  {
+    "title": "Endosymbiotic Theory",
+    "body": "In 1967 the American biologist Lynn Margulis argued that mitochondria and chloroplasts, the energy-producing structures in complex cells, descend from free-living bacteria engulfed by other cells long ago. Both have their own DNA and double membranes, like bacteria. At first widely rejected, the theory came to be accepted as a key step in the evolution of complex life."
+  },
+  {
+    "title": "The Sushruta Samhita",
+    "body": "This Sanskrit treatise on medicine and surgery is attributed to Sushruta; its date is uncertain, but its core is usually placed in the first millennium BC. It describes a wide range of surgical instruments and operations, including cataract surgery and the rebuilding of a nose with the patient's own skin. It is a founding text of Indian medicine and of plastic surgery."
+  },
+  {
+    "title": "Galileo and Falling Bodies",
+    "body": "Using balls rolled down inclined planes, Galileo Galilei showed that falling objects accelerate at a steady rate and that, without air resistance, heavy and light bodies fall equally fast. This contradicted Aristotle, whose physics had been taught for some two thousand years. Galileo published his results in Two New Sciences in 1638; the story that he dropped balls from the Leaning Tower of Pisa may be a legend."
+  },
+  {
+    "title": "Human Origins in Africa",
+    "body": "Fossil and genetic evidence shows that modern humans, Homo sapiens, evolved in Africa; fossils from Jebel Irhoud in Morocco, about 300,000 years old, are among the earliest. Africa was also home to earlier human relatives, such as the 3.2-million-year-old skeleton known as Lucy, found in Ethiopia in 1974. Modern humans later spread from Africa to the rest of the world."
+  },
+  {
+    "title": "Rutherford's Nuclear Atom",
+    "body": "In experiments at Manchester, Hans Geiger and Ernest Marsden fired alpha particles at thin gold foil and found that a few bounced almost straight back. In 1911 Ernest Rutherford explained this by proposing that an atom's positive charge and nearly all its mass are concentrated in a tiny central nucleus, with electrons around it. The nuclear model is the basis of all later atomic physics."
   }
 ]
