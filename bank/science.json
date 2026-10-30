@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Second Law of Thermodynamics",
+    "body": "In an isolated system, entropy never decreases. This explains why heat flows on its own from hot to cold, and why no engine can turn heat entirely into work."
+  },
+  {
+    "title": "Evolution by Natural Selection",
+    "body": "Charles Darwin set out the theory in On the Origin of Species in 1859; Alfred Russel Wallace reached the same idea independently. Individuals with inherited traits that improve survival and reproduction pass them on, and over long periods species change."
+  },
+  {
+    "title": "The Periodic Table",
+    "body": "In 1869 Dmitri Mendeleev arranged the elements by atomic weight and chemical properties. He left gaps for elements not yet known and predicted their properties, which was confirmed when gallium and germanium were discovered."
+  },
+  {
+    "title": "The DNA Double Helix",
+    "body": "In 1953 James Watson and Francis Crick described the structure of DNA as a double helix, drawing heavily on Rosalind Franklin's X-ray images. The structure showed how genetic information can be copied."
+  },
+  {
+    "title": "Relativity",
+    "body": "Einstein's special relativity of 1905 showed that measurements of time and space depend on the observer's motion, and gave the equation E = mc². General relativity, from 1915, describes gravity as the curvature of spacetime."
+  },
+  {
+    "title": "Photosynthesis",
+    "body": "Plants, algae and cyanobacteria use light energy to turn carbon dioxide and water into sugar and oxygen. Almost all life on Earth depends on this process, and it is the source of the oxygen in the atmosphere."
+  },
+  {
+    "title": "Newton's Laws of Motion",
+    "body": "In the Principia of 1687 Isaac Newton set out three laws of motion and the law of universal gravitation. They explained falling objects and planetary orbits with the same principles and underpinned physics for two centuries."
+  },
+  {
+    "title": "Heliocentrism",
+    "body": "In 1543 Nicolaus Copernicus argued that the Earth and planets orbit the Sun. Kepler later showed that the orbits are ellipses, and Galileo's telescope observations supported the model, overturning the Earth-centred view of the cosmos."
+  },
+  {
+    "title": "Germ Theory of Disease",
+    "body": "In the 19th century Louis Pasteur and Robert Koch showed that many diseases are caused by microorganisms. The theory transformed medicine, leading to antiseptic surgery, vaccines and modern public health."
+  },
+  {
+    "title": "Plate Tectonics",
+    "body": "The Earth's outer shell is divided into plates that move slowly over the mantle. Alfred Wegener proposed continental drift in 1912, but the theory was only accepted in the 1960s. It explains earthquakes, volcanoes and the formation of mountain ranges."
+  },
+  {
+    "title": "Penicillin",
+    "body": "Alexander Fleming noticed in 1928 that a mould killed bacteria in his culture dish. Howard Florey and Ernst Chain later turned penicillin into a usable drug, mass-produced during the Second World War, and the three shared the 1945 Nobel Prize."
+  },
+  {
+    "title": "The Big Bang",
+    "body": "The universe has been expanding from an extremely hot, dense state for about 13.8 billion years. Edwin Hubble's observations in 1929 showed galaxies receding from us, and the discovery of the cosmic microwave background in 1965 strongly supported the theory."
+  },
+  {
+    "title": "The Speed of Light",
+    "body": "Light travels through a vacuum at 299,792,458 metres per second. Since 1983 this value has been exact by definition, because the metre is defined from it. According to relativity, nothing with mass can reach this speed."
+  },
+  {
+    "title": "Cell Theory",
+    "body": "In 1838–1839 Matthias Schleiden and Theodor Schwann proposed that all living things are made of cells, and Rudolf Virchow later added that every cell comes from another cell. Cell theory is one of the foundations of biology."
+  },
+  {
+    "title": "Quantum Mechanics",
+    "body": "In 1900 Max Planck proposed that energy is emitted in discrete packets, or quanta. Quantum mechanics grew from this idea to describe atoms and particles, and includes Heisenberg's uncertainty principle of 1927: position and momentum cannot both be known exactly."
+  }
+]
