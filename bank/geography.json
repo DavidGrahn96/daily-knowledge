@@ -286,5 +286,81 @@
   {
     "title": "The Taiga",
     "body": "The taiga, or boreal forest, is a belt of mainly coniferous forest across northern Russia, Scandinavia, Canada and Alaska, between the tundra and the temperate zones. It is one of the largest land biomes on Earth, dominated by spruce, pine, fir and larch adapted to long, cold winters. Its trees and soils store vast amounts of carbon."
+  },
+  {
+    "title": "The Khyber Pass",
+    "body": "The Khyber Pass crosses the mountains between Afghanistan and Pakistan. For thousands of years it has been one of the main gateways between Central Asia and the Indian subcontinent, used by traders, pilgrims and invading armies. Its strategic value made it a focus of rivalry in the 19th century."
+  },
+  {
+    "title": "Al-Idrisi's World Map",
+    "body": "In 1154 the Arab geographer al-Idrisi completed a great description of the known world for King Roger II of Sicily, with an accompanying world map. It drew on Greek, Arab and travellers' knowledge and, as was common in Islamic maps, placed south at the top. It was one of the most accurate world maps of the Middle Ages."
+  },
+  {
+    "title": "The Rain Shadow",
+    "body": "When moist wind meets a mountain range, the air rises, cools and drops its rain on the windward side. Having lost its moisture, it descends the far side as dry air, creating a rain shadow. This is why lush forests and deserts can lie only a short distance apart on opposite sides of the same mountains."
+  },
+  {
+    "title": "The San Andreas Fault",
+    "body": "The San Andreas Fault runs for more than 1,000 kilometres through California, where the Pacific plate slides north-west past the North American plate. Movement along it caused the earthquake that devastated San Francisco in 1906. It is one of the most closely studied faults in the world because of the risk it poses to major cities."
+  },
+  {
+    "title": "The Köppen Climate Classification",
+    "body": "Developed by the climatologist Wladimir Köppen between the 1880s and the 1930s, this is the most widely used system for classifying the world's climates. It divides them into five main groups, labelled A to E, from tropical to polar, using temperature, rainfall and their seasons. Köppen drew his boundaries largely from the distribution of natural vegetation."
+  },
+  {
+    "title": "The Australian Outback",
+    "body": "The Outback is the vast, dry and thinly populated interior of Australia. Most of the continent is arid or semi-arid, so most Australians live near the coasts, especially in the south-east. Much of the interior relies on water drawn from the Great Artesian Basin, one of the largest underground water reserves in the world."
+  },
+  {
+    "title": "The Arctic Ocean",
+    "body": "The Arctic Ocean, around the North Pole, is the smallest and shallowest of the world's oceans. Much of it is covered by floating sea ice, so the North Pole itself lies on drifting ice rather than land. The ice cover has been shrinking markedly since satellite records began in the late 1970s, a clear sign of a warming climate."
+  },
+  {
+    "title": "The Okavango Delta",
+    "body": "The Okavango River flows from the highlands of Angola into Botswana and never reaches the sea. Instead it spreads into a vast inland delta of channels, lagoons and islands at the edge of the Kalahari Desert. The seasonal flood arrives during the dry season, drawing huge numbers of animals to one of Africa's richest wildlife areas."
+  },
+  {
+    "title": "The Fertile Crescent",
+    "body": "The Fertile Crescent is the arc of land running from the Persian Gulf through Mesopotamia to the eastern Mediterranean coast. Around 11,000 years ago people there were among the first to farm, domesticating wheat, barley, sheep and goats. The name was coined by the American archaeologist James Henry Breasted in the early 20th century."
+  },
+  {
+    "title": "How Many Continents There Are",
+    "body": "There is no single agreed number of continents. English-speaking countries usually count seven, while many Spanish- and Portuguese-speaking countries treat the Americas as one continent, and some count Europe and Asia as one landmass, Eurasia. The division between Europe and Asia in particular is a cultural convention rather than a clear physical boundary."
+  },
+  {
+    "title": "Cape Horn and the Drake Passage",
+    "body": "Cape Horn, on a Chilean island at the southern tip of South America, was named by Dutch sailors in 1616 after the town of Hoorn. South of it, the Drake Passage separates the continent from Antarctica and carries strong winds and some of the roughest seas on Earth. Before the Panama Canal opened, ships sailing between the Atlantic and Pacific had to face it."
+  },
+  {
+    "title": "The Mississippi River",
+    "body": "Together with its great tributary the Missouri, the Mississippi drains most of the United States between the Rocky Mountains and the Appalachians. It flows south to the Gulf of Mexico, ending in a large delta below New Orleans. For centuries it has been the main inland waterway of North America, and its name comes from an Ojibwe word meaning 'great river'."
+  },
+  {
+    "title": "Glaciers",
+    "body": "A glacier is a mass of ice, formed from compacted snow over many years, that moves slowly downhill under its own weight. As they flow, glaciers grind out U-shaped valleys and bowl-shaped hollows called cirques, and leave ridges of debris called moraines. Most of the world's glacial ice is in Antarctica and Greenland, and mountain glaciers worldwide have been retreating as the climate warms."
+  },
+  {
+    "title": "The Danube",
+    "body": "The Danube rises in Germany's Black Forest and flows east to a delta on the Black Sea in Romania and Ukraine. It passes through or along ten countries, more than any other river, and through four capitals: Vienna, Bratislava, Budapest and Belgrade. It is the second-longest river in Europe after the Volga and has long been a major trade route and frontier."
+  },
+  {
+    "title": "The Great Rift Valley",
+    "body": "The East African Rift is a long system of valleys where the African continent is slowly being pulled apart along diverging tectonic plates. It holds deep lakes such as Tanganyika and Malawi and volcanoes such as Kilimanjaro. Many of the most important early human fossils have been found along it, which makes it central to the study of human origins."
+  },
+  {
+    "title": "The Trade Winds",
+    "body": "The trade winds are steady easterly winds blowing towards the equator across the tropics, from the north-east in the Northern Hemisphere and the south-east in the Southern. They meet near the equator in a zone of rising air, rain and calms that sailors called the doldrums. Sailing ships relied on them to cross the Atlantic from Europe to the Americas."
+  },
+  {
+    "title": "The Galápagos Islands",
+    "body": "The Galápagos are volcanic islands in the Pacific nearly 1,000 kilometres west of Ecuador, to which they belong. Their isolation produced unique wildlife such as giant tortoises, marine iguanas and many species of finch. Charles Darwin's visit in 1835 helped shape his later theory of evolution by natural selection."
+  },
+  {
+    "title": "The Yangtze River",
+    "body": "The Yangtze is the longest river in Asia, flowing from the Tibetan Plateau across China to the East China Sea at Shanghai. Its basin holds a large share of China's people and much of its rice farming. The river has long served as the traditional dividing line between northern and southern China."
+  },
+  {
+    "title": "The Demographic Transition",
+    "body": "The demographic transition is the model, developed by social scientists in the mid-20th century, of how populations change as societies modernise. First death rates fall thanks to better food, sanitation and medicine, and the population grows rapidly; later birth rates also fall, and growth slows. It describes the experience of Europe and many other regions, though not every country follows the same path."
   }
 ]

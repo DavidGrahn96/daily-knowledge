@@ -286,5 +286,81 @@
   {
     "title": "Rutherford's Nuclear Atom",
     "body": "In experiments at Manchester, Hans Geiger and Ernest Marsden fired alpha particles at thin gold foil and found that a few bounced almost straight back. In 1911 Ernest Rutherford explained this by proposing that an atom's positive charge and nearly all its mass are concentrated in a tiny central nucleus, with electrons around it. The nuclear model is the basis of all later atomic physics."
+  },
+  {
+    "title": "The Four Fundamental Forces",
+    "body": "Physics recognises four fundamental forces: gravity, electromagnetism, and the strong and weak nuclear forces. The strong force binds atomic nuclei, the weak force drives some radioactive decay, and electromagnetism governs light and chemistry. Gravity is by far the weakest yet dominates on cosmic scales, while electromagnetism and the weak force were unified in theory in the 1960s and 1970s."
+  },
+  {
+    "title": "The Photoelectric Effect",
+    "body": "When light strikes a metal it can knock out electrons, but whether it does depends on the light's colour, not its brightness. In 1905 Albert Einstein explained this by proposing that light consists of packets of energy, later called photons. The idea helped found quantum theory, and it was for this, not relativity, that Einstein received the Nobel Prize."
+  },
+  {
+    "title": "The Greenhouse Effect",
+    "body": "In the 1820s Joseph Fourier suggested that the atmosphere keeps the Earth warmer than it would otherwise be. In 1859 John Tyndall measured how gases such as water vapour and carbon dioxide absorb heat radiation, and in 1896 Svante Arrhenius calculated that adding carbon dioxide would warm the planet. Without the natural greenhouse effect the Earth would be far colder, but its strengthening by human emissions drives climate change."
+  },
+  {
+    "title": "Linnaean Classification",
+    "body": "The Swedish botanist Carl Linnaeus created a system for naming and classifying living things, first set out in Systema Naturae in 1735. He gave every species a two-part Latin name, genus followed by species, as in Homo sapiens. His binomial names, applied systematically to plants in 1753 and to animals in 1758, became the international basis for naming species."
+  },
+  {
+    "title": "The Plague Bacterium",
+    "body": "During an outbreak of plague in Hong Kong in 1894, Alexandre Yersin and Kitasato Shibasaburō independently searched for its cause, and the bacterium is now named Yersinia pestis after Yersin. In 1898 Paul-Louis Simond showed that fleas carried by rats transmit the disease. Ancient DNA has since confirmed the same bacterium as the cause of the Black Death."
+  },
+  {
+    "title": "Ptolemy's Almagest",
+    "body": "Claudius Ptolemy, working in Alexandria in the 2nd century AD, set out in the Almagest a mathematical model of the heavens with the Earth at the centre. By combining circles upon circles, called epicycles, it predicted the positions of the planets with useful accuracy. Preserved and refined by Arabic-language astronomers, it remained the standard work of astronomy until Copernicus."
+  },
+  {
+    "title": "Ibn al-Haytham's Book of Optics",
+    "body": "Ibn al-Haytham, born in Basra around 965 and active in Cairo, wrote the Book of Optics in the early 11th century. He argued that we see because light travels from objects into the eye, not from the eye outwards, and tested his ideas with systematic experiments. Translated into Latin, the book shaped European optics up to Kepler."
+  },
+  {
+    "title": "Lind's Scurvy Trial",
+    "body": "In 1747 the Scottish naval surgeon James Lind divided twelve sailors with scurvy into pairs and gave each pair a different remedy. The two given oranges and lemons recovered quickly, while the others did not. It is one of the earliest controlled clinical trials, although the Royal Navy only issued lemon juice to its sailors decades later."
+  },
+  {
+    "title": "Chagas Disease",
+    "body": "In 1909 the Brazilian physician Carlos Chagas described a new disease, identified the parasite that causes it, Trypanosoma cruzi, and showed that it is carried by blood-sucking insects. It is a rare case of one researcher working out the pathogen, the carrier and the illness. Chagas disease, which can damage the heart decades after infection, has long been a major health burden in Latin America."
+  },
+  {
+    "title": "Jenner's Smallpox Vaccine",
+    "body": "In 1796 the English doctor Edward Jenner inoculated a boy with material from a cowpox sore on a milkmaid's hand, and then showed that the boy did not catch smallpox. Cowpox is mild and gave protection against the deadly disease. The word vaccine comes from the Latin vacca, cow, and Jenner's method became the model for immunisation against many diseases."
+  },
+  {
+    "title": "Chromosomes and Heredity",
+    "body": "From 1910 Thomas Hunt Morgan and his students at Columbia University bred fruit flies and traced mutations such as white eyes through generations. They showed that genes lie in a line along chromosomes, and Alfred Sturtevant produced the first genetic map in 1913. Morgan received the Nobel Prize in 1933, and the fruit fly became a standard organism of genetics."
+  },
+  {
+    "title": "Ulugh Beg's Samarkand Observatory",
+    "body": "Ulugh Beg, a grandson of Timur and ruler of Samarkand, built a great observatory there in the 1420s, with a huge curved instrument set along the meridian. His astronomers produced a catalogue of around a thousand stars based on fresh, highly accurate observations. He was killed in 1449, and the observatory soon fell into ruin."
+  },
+  {
+    "title": "Smoking and Lung Cancer",
+    "body": "In 1950 Richard Doll and Austin Bradford Hill in Britain, and Ernst Wynder and Evarts Graham in the United States, published studies showing that lung cancer patients were far more likely to be smokers. Doll and Hill's long-running study of British doctors, begun in 1951, confirmed the link. The findings helped found modern chronic-disease epidemiology and led to anti-smoking campaigns worldwide."
+  },
+  {
+    "title": "Homeostasis",
+    "body": "Living bodies keep internal conditions such as temperature, blood sugar and water balance within narrow limits despite changes outside. In the 19th century Claude Bernard described this stable 'internal environment', and in the 1920s Walter Cannon named it homeostasis. It works mainly through negative feedback: a change triggers responses that reverse it, as when sweating cools an overheated body."
+  },
+  {
+    "title": "Dalton's Atomic Theory",
+    "body": "In 1808 the English chemist John Dalton proposed that each element is made of identical atoms with a characteristic weight, and that compounds form when atoms combine in simple whole-number ratios. He drew up the first table of relative atomic weights. His theory turned the ancient idea of atoms into a working basis for chemistry."
+  },
+  {
+    "title": "Clonal Selection Theory",
+    "body": "In 1957 the Australian virologist Frank Macfarlane Burnet proposed that each immune cell carries receptors for just one specific target. When a cell meets its matching invader it multiplies into a large clone, which explains how the body fights infection and remembers past ones. The theory became a foundation of modern immunology, and Burnet shared the 1960 Nobel Prize for related work on immune tolerance."
+  },
+  {
+    "title": "Gravitational Waves",
+    "body": "Einstein's general relativity predicted that accelerating masses send ripples through spacetime. On 14 September 2015 the two LIGO detectors in the United States recorded such waves for the first time, from two black holes merging more than a billion light-years away. The discovery opened a new way of observing the universe, and Rainer Weiss, Barry Barish and Kip Thorne received the 2017 Nobel Prize."
+  },
+  {
+    "title": "Hipparchus and the Precession of the Equinoxes",
+    "body": "In the 2nd century BC the Greek astronomer Hipparchus, working mainly on Rhodes, compiled one of the first star catalogues, recording the positions and brightness of hundreds of stars. Comparing his measurements with older observations, he found that the equinox points drift slowly against the stars, a motion now known to be caused by a slow wobble of the Earth's axis. He also developed early trigonometry, and his work underpinned Ptolemy's Almagest."
+  },
+  {
+    "title": "Hanaoka Seishū and General Anaesthesia",
+    "body": "In 1804 the Japanese surgeon Hanaoka Seishū removed a breast tumour from a patient under general anaesthesia, using a herbal drink he had developed. This was decades before ether anaesthesia was publicly demonstrated in Boston in 1846. Because Japan was largely closed to the outside world, his work had little influence abroad, while ether and chloroform soon transformed surgery in the West."
   }
 ]

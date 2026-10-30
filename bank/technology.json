@@ -286,5 +286,81 @@
   {
     "title": "The Shipping Container",
     "body": "In 1956 the American trucking entrepreneur Malcom McLean shipped containers aboard the Ideal X from New Jersey to Texas. Standard steel boxes that move unopened between ships, trains and lorries cut loading times and costs dramatically. Containerisation reshaped ports and greatly accelerated global trade."
+  },
+  {
+    "title": "Al-Jazari's Ingenious Devices",
+    "body": "In 1206 the engineer al-Jazari, working for the Artuqid rulers in south-eastern Anatolia, completed his Book of Knowledge of Ingenious Mechanical Devices. It describes and illustrates water clocks, automata, water-raising machines and a double-acting pump, with instructions for building them. It is one of the most important engineering texts of the medieval period."
+  },
+  {
+    "title": "The Steam Locomotive",
+    "body": "Richard Trevithick ran the first steam locomotive on rails in Wales in 1804. In 1830 the Liverpool and Manchester Railway, using locomotives such as George and Robert Stephenson's Rocket, became the first intercity line worked entirely by steam. Railways spread across the world within decades, shrinking travel times and transforming trade."
+  },
+  {
+    "title": "AlphaGo",
+    "body": "In 2016 AlphaGo, a program from the Google-owned company DeepMind, defeated Lee Sedol, one of the world's strongest Go players, by four games to one in Seoul. Go had long been considered far harder for computers than chess because of its enormous number of possible positions. The program combined deep neural networks with search and learned partly by playing against itself."
+  },
+  {
+    "title": "The Lighthouse of Alexandria",
+    "body": "The Pharos of Alexandria, completed in the 3rd century BC under the Ptolemies, was one of the tallest structures of the ancient world, probably over 100 metres high. A fire at its top guided ships into Egypt's great harbour. Counted among the Seven Wonders of the Ancient World, it was ruined by earthquakes in the Middle Ages, and its name became the word for lighthouse in several languages."
+  },
+  {
+    "title": "The Solar Cell",
+    "body": "In 1954 researchers at Bell Labs demonstrated the first practical silicon solar cell, which converted about 6 per cent of sunlight into electricity. Solar cells exploit the photovoltaic effect, in which light frees electrons in a semiconductor. They powered satellites from the late 1950s, and falling costs later made solar power a major source of electricity."
+  },
+  {
+    "title": "The International Space Station",
+    "body": "The International Space Station was built in low Earth orbit by the United States, Russia, Europe, Japan and Canada. Assembly began in 1998 from modules launched separately, and from November 2000 crews lived aboard without a break for decades. It hosted thousands of experiments on how materials, plants and the human body behave in weightlessness."
+  },
+  {
+    "title": "The First Electronic Computers",
+    "body": "Britain's Colossus, built in 1943 and 1944 to break German teleprinter codes, was the first programmable electronic digital computer, though it was kept secret for decades. In the United States ENIAC, completed in 1945, was a general-purpose machine with about 18,000 vacuum tubes. These machines marked the start of electronic computing."
+  },
+  {
+    "title": "Iron Smelting",
+    "body": "Iron was smelted in Anatolia and the Near East during the 2nd millennium BC, and its use spread widely after about 1200 BC. Unlike copper and tin, iron ore is common, so iron tools and weapons could be made in large numbers. Early smiths produced a spongy mass of iron, called a bloom, that had to be hammered to drive out impurities."
+  },
+  {
+    "title": "The Black Box Flight Recorder",
+    "body": "In the 1950s the Australian scientist David Warren, at a government aeronautical laboratory in Melbourne, developed one of the first devices to record cockpit voices and instrument data. Investigating air crashes was hard because there were often no survivors or witnesses. After initial scepticism, flight recorders, popularly called black boxes, became compulsory on airliners and have greatly helped improve air safety."
+  },
+  {
+    "title": "The Grand Anicut",
+    "body": "The Grand Anicut, or Kallanai, is a stone dam across the Kaveri river in Tamil Nadu, traditionally attributed to the Chola king Karikala around the 2nd century AD. It diverts water into the fertile Kaveri delta for irrigation. Remodelled by British engineers in the 19th century, it is among the oldest water-diversion works in the world still in use."
+  },
+  {
+    "title": "Sputnik 1",
+    "body": "On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial satellite, from Baikonur in present-day Kazakhstan. The polished metal sphere, about 58 centimetres across, transmitted radio beeps that could be picked up around the world. Its success shocked the United States and started the space race."
+  },
+  {
+    "title": "Spectacles",
+    "body": "Spectacles were invented in northern Italy around 1286. Early pairs had convex lenses to correct long sight and were perched on the nose or held in front of the eyes. They extended the working lives of scholars and craftsmen, and concave lenses for short sight followed in the 15th century."
+  },
+  {
+    "title": "The First Oil Wells",
+    "body": "Drilling for oil began in the mid-19th century: wells were drilled near Baku on the Caspian Sea in the 1840s, and Edwin Drake's well of 1859 in Titusville, Pennsylvania, launched the American oil boom. Oil was at first wanted mainly for kerosene lamps, replacing whale oil. The internal combustion engine later made petroleum the central fuel of 20th-century transport."
+  },
+  {
+    "title": "Liquid-Fuel Rockets",
+    "body": "In 1926 the American physicist Robert Goddard launched the first liquid-fuelled rocket, in Massachusetts; it flew for only a few seconds. Liquid propellants are more efficient than the solid gunpowder-type fuels of earlier rockets. In Germany, Wernher von Braun's team built the V-2 missile during the Second World War, and its technology led directly to the rockets of the space race."
+  },
+  {
+    "title": "Papermaking",
+    "body": "Paper was invented in China; fragments survive from the 2nd century BC, and the court official Cai Lun is traditionally credited with improving it around AD 105. Made from plant fibres such as bark, hemp and rags, it was far cheaper than silk or bamboo strips. Papermaking spread to the Islamic world in the 8th century and reached Europe by the 12th, preparing the way for printing."
+  },
+  {
+    "title": "The Pendulum Clock",
+    "body": "In 1656 the Dutch scientist Christiaan Huygens built the first pendulum clock, using the observation, made earlier by Galileo, that a pendulum swings in a regular time. It reduced the error of the best clocks from many minutes a day to well under a minute. For nearly three centuries pendulum clocks were the most accurate timekeepers available."
+  },
+  {
+    "title": "Communications Satellites",
+    "body": "In 1945 the writer Arthur C. Clarke proposed relaying signals via satellites in geostationary orbit, which circle the Earth once a day and so appear fixed in the sky. In 1962 the satellite Telstar relayed the first live transatlantic television pictures. Communications satellites soon made live global broadcasts and long-distance telephone links routine."
+  },
+  {
+    "title": "The Magnetic Compass",
+    "body": "Chinese scholars knew that a magnetised needle points north and south, and the Song dynasty writer Shen Kuo described the needle compass in the late 11th century. Within a few decades it was being used for navigation at sea. The compass appeared in Europe around 1200 and became essential for ocean voyages."
+  },
+  {
+    "title": "The Bessemer Process",
+    "body": "In 1856 Henry Bessemer patented a process for making steel by blowing air through molten pig iron to burn off excess carbon. It turned an expensive material into one that could be made cheaply in bulk. Cheap steel built the railways, ships, bridges and skyscrapers of the later 19th century. William Kelly in the United States had worked on a similar method."
   }
 ]
