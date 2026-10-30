@@ -362,5 +362,81 @@
   {
     "title": "Hanaoka Seishū and General Anaesthesia",
     "body": "In 1804 the Japanese surgeon Hanaoka Seishū removed a breast tumour from a patient under general anaesthesia, using a herbal drink he had developed. This was decades before ether anaesthesia was publicly demonstrated in Boston in 1846. Because Japan was largely closed to the outside world, his work had little influence abroad, while ether and chloroform soon transformed surgery in the West."
+  },
+  {
+    "title": "What Makes the Stars Shine",
+    "body": "In 1920 Arthur Eddington suggested that stars are powered by fusing hydrogen into helium, releasing energy as a little mass is converted according to E = mc². In 1938 and 1939 Hans Bethe worked out the nuclear reactions involved. Later work showed that heavier elements, including the carbon and oxygen in our bodies, were forged in stars and stellar explosions."
+  },
+  {
+    "title": "Cuvier and Extinction",
+    "body": "In 1796 the French naturalist Georges Cuvier showed that fossil mammoths differed from living elephants and must belong to species that no longer exist. This established extinction as a fact, against the common belief that no species could disappear. Cuvier founded comparative anatomy and palaeontology, though he rejected evolution and attributed extinctions to catastrophes."
+  },
+  {
+    "title": "The Ozone Hole",
+    "body": "In 1974 Mario Molina and Sherwood Rowland warned that chlorofluorocarbons (CFCs), used in aerosols and refrigerators, could destroy the ozone layer that shields the Earth from ultraviolet light. In 1985 British Antarctic Survey scientists reported a deep seasonal loss of ozone over Antarctica. The Montreal Protocol of 1987 phased out CFCs, and Molina, Rowland and Paul Crutzen shared the 1995 Nobel Prize in Chemistry."
+  },
+  {
+    "title": "Young's Double-Slit Experiment",
+    "body": "In the early 1800s Thomas Young shone light through two narrow slits and saw a pattern of bright and dark bands on a screen. The bands arise from interference, where waves reinforce or cancel each other, so the experiment showed that light behaves as a wave. It challenged Newton's view of light as particles and later became central to quantum mechanics."
+  },
+  {
+    "title": "Tu Youyou and Artemisinin",
+    "body": "In 1969 the Chinese scientist Tu Youyou joined a secret military project to find a new malaria drug. Inspired by a 4th-century text describing sweet wormwood soaked in cold water, she extracted the active compound with a low-temperature method in the early 1970s. Artemisinin-based drugs became a mainstay of malaria treatment, and Tu shared the 2015 Nobel Prize in Physiology or Medicine."
+  },
+  {
+    "title": "Antibiotic Resistance",
+    "body": "Bacteria exposed to antibiotics evolve: those with mutations or genes that let them survive multiply and pass the trait on, sometimes even to other species. Alexander Fleming warned of the danger in his Nobel lecture in 1945. Overuse and misuse of antibiotics in medicine and farming speed the process, making some infections hard to treat; it is natural selection observed in real time."
+  },
+  {
+    "title": "Lavoisier and the Chemical Revolution",
+    "body": "In the 1770s and 1780s Antoine Lavoisier showed that burning is a combination with oxygen, overthrowing the old theory of phlogiston. By weighing substances carefully before and after reactions, he established that matter is neither created nor destroyed in chemical change. He named oxygen and hydrogen and helped create modern chemical nomenclature, before being guillotined in 1794."
+  },
+  {
+    "title": "The Eradication of Smallpox",
+    "body": "In 1967 the World Health Organization launched an intensified campaign against smallpox, tracing outbreaks and vaccinating everyone around each case. The last naturally occurring case was in Somalia in 1977, and in 1980 the WHO declared the disease eradicated. Smallpox was the first human disease to be wiped out by deliberate effort."
+  },
+  {
+    "title": "The Neuron Doctrine",
+    "body": "Using a silver staining method invented by Camillo Golgi, the Spanish scientist Santiago Ramón y Cajal showed in the late 1880s that the nervous system is made of separate cells, neurons, rather than a continuous network. Neurons communicate across tiny gaps later named synapses. Golgi and Cajal shared the Nobel Prize in 1906, although Golgi still rejected Cajal's view."
+  },
+  {
+    "title": "Eratosthenes Measures the Earth",
+    "body": "In the 3rd century BC Eratosthenes, head of the library at Alexandria, estimated the Earth's circumference. He compared the angle of the Sun's rays at noon in Alexandria with Syene to the south, where the midsummer Sun stood directly overhead, and scaled up the distance between the two cities. How close he came depends on the uncertain length of the unit he used, but his method was sound."
+  },
+  {
+    "title": "Eijkman and the Discovery of Vitamins",
+    "body": "In the 1890s the Dutch doctor Christiaan Eijkman, working in Java, noticed that chickens fed polished white rice developed a paralysis like the human disease beriberi, while those fed unpolished rice recovered. It was later understood that rice husks contain an essential nutrient, now known as thiamine or vitamin B1. The work led to the concept of vitamins and earned Eijkman a share of the 1929 Nobel Prize."
+  },
+  {
+    "title": "Aryabhata and the Rotating Earth",
+    "body": "In 499 AD the Indian astronomer Aryabhata completed the Aryabhatiya, a concise treatise on mathematics and astronomy. He proposed that the daily motion of the stars is caused by the Earth turning on its axis, and explained eclipses by the shadows of the Earth and Moon. He also gave an accurate value for pi, and India's first satellite was named after him."
+  },
+  {
+    "title": "Mendel's Laws of Inheritance",
+    "body": "Gregor Mendel, a monk in Brno, crossed thousands of pea plants and published his results in 1866. He showed that traits are inherited as discrete units, now called genes, that come in pairs, separate in reproduction and can be dominant or recessive. Ignored in his lifetime, his work was rediscovered in 1900 and became the foundation of genetics."
+  },
+  {
+    "title": "Ibn al-Nafis and the Pulmonary Circulation",
+    "body": "In the 13th century the physician Ibn al-Nafis, working in Damascus and Cairo, rejected Galen's view that blood passes through invisible pores in the wall of the heart. He argued instead that blood travels from the right side of the heart through the lungs, where it mixes with air, to the left side. European anatomists described this circuit only in the 16th century, and his work was rediscovered in the 20th."
+  },
+  {
+    "title": "Conservation of Energy",
+    "body": "In the 1840s Julius Robert Mayer, James Joule and Hermann von Helmholtz established that energy cannot be created or destroyed, only converted from one form to another. Joule measured how much mechanical work produces a given amount of heat, and the unit of energy is named after him. The principle became the first law of thermodynamics."
+  },
+  {
+    "title": "Circadian Rhythms",
+    "body": "Most living things have an internal clock that runs on a cycle of roughly 24 hours, governing sleep, hormones and body temperature. In 1729 the French astronomer Jean-Jacques d'Ortous de Mairan noticed that a mimosa plant kept opening and closing its leaves even in constant darkness. The molecular mechanism was worked out in fruit flies, earning Jeffrey Hall, Michael Rosbash and Michael Young the 2017 Nobel Prize."
+  },
+  {
+    "title": "Dark Matter",
+    "body": "In 1933 Fritz Zwicky found that galaxies in the Coma Cluster move too fast to be held together by their visible matter alone. In the 1970s Vera Rubin and Kent Ford showed that stars in the outer parts of spiral galaxies orbit unexpectedly fast. Most astronomers conclude that galaxies are embedded in large amounts of invisible 'dark matter', which reveals itself through its gravity."
+  },
+  {
+    "title": "The Higgs Boson",
+    "body": "In 2012 scientists at CERN's Large Hadron Collider near Geneva announced the discovery of the Higgs boson, predicted in 1964 by Peter Higgs, François Englert, Robert Brout and others. The particle is evidence for the Higgs field, which gives elementary particles their mass. It was the last missing piece of the Standard Model, and Higgs and Englert received the 2013 Nobel Prize."
+  },
+  {
+    "title": "The Supernova of 1054",
+    "body": "In 1054 Chinese astronomers recorded a 'guest star' in the constellation Taurus that was bright enough to be seen in daylight for weeks. In the 20th century astronomers showed that the Crab Nebula is the expanding remnant of this exploding star. At its centre is a pulsar, a rapidly spinning neutron star, making the Crab one of the best-studied objects in the sky."
   }
 ]
