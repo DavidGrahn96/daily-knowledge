@@ -72,7 +72,7 @@ for i, d in enumerate(dates):
 n_dates = len(dates)
 # before start and after the end
 pg.open("2026-10-29"); r = probe(pg); check(not r["facts"] and "30 October 2026" in r["status"], "before start not handled")
-pg.open("2027-01-05"); r = probe(pg)
+pg.open((dt.date.fromisoformat(dates[-1]) + dt.timedelta(days=7)).isoformat()); r = probe(pg)
 check(r["facts"] and r["facts"][0]["title"] == by[dates[-1]][0]["title"] and "no new facts" in r["status"], "after end not handled")
 
 # ---- B. navigation and saving at a shifted date ------------------------------
