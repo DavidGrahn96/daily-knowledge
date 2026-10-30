@@ -134,5 +134,81 @@
   {
     "title": "Hippocratic Medicine",
     "body": "Hippocrates of Kos, who lived in the 5th and 4th centuries BC, is regarded as the father of Western medicine. The writings attributed to him, in fact by many authors, treat illness as having natural rather than divine causes and stress careful observation of patients. The Hippocratic Oath, a pledge of medical ethics, is named after him."
+  },
+  {
+    "title": "Bose–Einstein Statistics",
+    "body": "In 1924 the Indian physicist Satyendra Nath Bose derived Planck's law of radiation by a new way of counting identical particles of light. He sent his paper to Einstein, who had it published and extended the method to atoms. Particles that follow these statistics are called bosons in his honour, and the theory predicted the Bose–Einstein condensate, first created in a laboratory in 1995."
+  },
+  {
+    "title": "Ibn Sina's Canon of Medicine",
+    "body": "Ibn Sina, known in Europe as Avicenna, was born near Bukhara in 980 and completed the Canon of Medicine in the early 11th century. It combined Greek medicine, especially Galen's, with the knowledge of physicians of the Islamic world in one systematic encyclopaedia. Translated into Latin in the 12th century, it served as a standard textbook in European universities for centuries."
+  },
+  {
+    "title": "The First Image of a Black Hole",
+    "body": "Black holes, regions where gravity is so strong that not even light escapes, follow from Einstein's general relativity. In 2019 the Event Horizon Telescope, a network of radio observatories around the world acting as one Earth-sized dish, released the first image of one: a dark shadow ringed by glowing gas at the centre of the galaxy M87. In 2022 it imaged Sagittarius A*, the black hole at the heart of the Milky Way."
+  },
+  {
+    "title": "Air Pressure and the Vacuum",
+    "body": "In the 1640s Evangelista Torricelli filled a glass tube with mercury and upended it in a dish: the column fell to a fixed height, leaving an empty space above. He concluded that the weight of the air holds the column up, and Blaise Pascal confirmed this by having the experiment repeated on a mountain, where the column was shorter. The experiments gave rise to the barometer and showed, against Aristotle, that a vacuum can exist."
+  },
+  {
+    "title": "The Asteroid That Ended the Dinosaurs",
+    "body": "In 1980 a team led by Luis and Walter Alvarez reported a worldwide clay layer rich in iridium, rare on Earth but common in asteroids, at the boundary marking the dinosaurs' extinction about 66 million years ago. They proposed that a large asteroid had struck the Earth. The Chicxulub crater beneath Mexico's Yucatán Peninsula was identified as the impact site around 1990, though the role of huge volcanic eruptions is still debated."
+  },
+  {
+    "title": "The Edwin Smith Papyrus",
+    "body": "This Egyptian medical text, written around 1600 BC and probably copied from older material, describes how to examine, diagnose and treat injuries such as wounds and fractures. Unlike most ancient medical writing, it relies mainly on practical treatment rather than magic. It contains some of the earliest known written descriptions of the brain."
+  },
+  {
+    "title": "The Neanderthal Genome",
+    "body": "In 2010 a team led by Svante Pääbo in Leipzig published a draft genome of Neanderthals, sequenced from ancient bones. It showed that people whose ancestry lies outside Africa carry a small share, around 1 to 2%, of Neanderthal DNA, proof of interbreeding. The same year DNA from a finger bone in Siberia revealed another extinct group, the Denisovans, and Pääbo received the 2022 Nobel Prize."
+  },
+  {
+    "title": "Absolute Zero",
+    "body": "Absolute zero, 0 kelvin or −273.15 °C, is the lowest possible temperature, at which a system has the least energy it can have. In 1848 William Thomson, later Lord Kelvin, proposed a temperature scale starting from this point. The laws of thermodynamics imply that it can be approached ever more closely but never actually reached."
+  },
+  {
+    "title": "Maxwell's Equations",
+    "body": "In the 1860s James Clerk Maxwell united electricity and magnetism in a single set of equations. They predicted electromagnetic waves travelling at the speed of light, leading Maxwell to conclude that light itself is such a wave. Heinrich Hertz produced radio waves in the late 1880s, confirming the theory that underlies radio, radar and much of modern physics."
+  },
+  {
+    "title": "Neutrino Oscillation",
+    "body": "Neutrinos, ghostly particles proposed by Wolfgang Pauli in 1930, pass through matter almost without trace. In 1998 the Super-Kamiokande detector in Japan showed that neutrinos change from one type to another as they travel, which is possible only if they have mass. The Standard Model of particle physics had treated them as massless, and Takaaki Kajita and Arthur McDonald shared the 2015 Nobel Prize."
+  },
+  {
+    "title": "The Discovery of the Electron",
+    "body": "In 1897 Joseph John Thomson showed that cathode rays consist of negatively charged particles with a mass far smaller than that of the lightest atom. The electron was the first subatomic particle to be discovered, proving that atoms are not indivisible. Thomson pictured the atom as a positive sphere studded with electrons, a model soon replaced by Rutherford's."
+  },
+  {
+    "title": "Leavitt's Law and Cosmic Distances",
+    "body": "Working at Harvard College Observatory, Henrietta Swan Leavitt found in 1912 that Cepheid variable stars that pulse more slowly are intrinsically brighter. Comparing a Cepheid's true brightness with how bright it appears gives its distance. Edwin Hubble used Cepheids in the 1920s to show that the Andromeda nebula lies far beyond the Milky Way, proving that other galaxies exist."
+  },
+  {
+    "title": "Galen's Medicine",
+    "body": "Galen, a Greek physician of the 2nd century AD who worked in Rome, built a system of anatomy and physiology largely from dissections of animals such as apes and pigs. His writings dominated medicine in Europe and the Islamic world for well over a thousand years. Some of his errors, carried over from animal anatomy, were only corrected by Vesalius and Harvey in the 16th and 17th centuries."
+  },
+  {
+    "title": "Smallpox Inoculation",
+    "body": "Long before vaccines, people in China, India, Africa and the Ottoman Empire protected themselves against smallpox by deliberately infecting healthy people with material from smallpox sores. This 'variolation' usually caused a milder illness followed by lifelong immunity, though it carried some risk. Lady Mary Wortley Montagu saw it in Constantinople and promoted it in Britain from 1721, the year it was also used in Boston on the advice of an enslaved African man, Onesimus."
+  },
+  {
+    "title": "Java Man",
+    "body": "In 1891 the Dutch doctor Eugène Dubois, searching deliberately for a 'missing link', found a skullcap on the banks of the Solo River in Java, and a thigh bone the next year. They were the first known remains of the species now called Homo erectus, an early human that walked upright. It was among the first major fossil evidence for human evolution, and later finds showed that Homo erectus lived across Africa and Asia."
+  },
+  {
+    "title": "Shen Kuo's Dream Pool Essays",
+    "body": "Shen Kuo, an official and scholar of China's Song dynasty, recorded a wide range of observations in his Dream Pool Essays, completed around 1088. They contain the earliest clear description of a magnetic needle compass and note that it does not point exactly south, an early recognition of magnetic declination. He also argued from fossils and silt deposits that land is formed slowly over time."
+  },
+  {
+    "title": "Harvey and the Circulation of the Blood",
+    "body": "In 1628 the English physician William Harvey showed that the heart pumps blood around the body in a continuous circuit. Through experiments and a simple calculation, he showed that the heart pumps far more blood than the body could make from food, so the same blood must circulate. The tiny capillaries linking arteries and veins, which he could not see, were observed by Marcello Malpighi in 1661."
+  },
+  {
+    "title": "Humboldt's Journey Through the Americas",
+    "body": "From 1799 to 1804 Alexander von Humboldt and Aimé Bonpland travelled through Spanish America, measuring and collecting as they went. On the volcano Chimborazo, Humboldt observed how vegetation changes in bands with altitude, mirroring the change from the equator to the poles. His view of nature as an interconnected whole shaped biogeography and ecology and inspired Darwin."
+  },
+  {
+    "title": "The Discovery of HIV",
+    "body": "AIDS was first recognised in 1981, when doctors in the United States reported rare infections in previously healthy young men. In 1983 Françoise Barré-Sinoussi and Luc Montagnier at the Pasteur Institute in Paris isolated the virus responsible, later named HIV. The discovery made blood tests and antiviral drugs possible, and the two shared the 2008 Nobel Prize."
   }
 ]

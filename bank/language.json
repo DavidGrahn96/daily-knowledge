@@ -134,5 +134,81 @@
   {
     "title": "Coptic",
     "body": "Coptic is the last stage of the ancient Egyptian language, written from the early centuries AD in the Greek alphabet with several extra letters taken from Demotic. It was the language of Christian Egypt until Arabic gradually replaced it after the Arab conquest, and it survives as the liturgical language of the Coptic Church. Champollion's knowledge of Coptic was crucial to his decipherment of hieroglyphs."
+  },
+  {
+    "title": "Tocharian",
+    "body": "In the early 20th century, expeditions to the Tarim Basin in what is now western China found manuscripts from roughly the 6th to 8th centuries AD in two previously unknown languages, now called Tocharian A and B. Written in a Brahmi-derived script and largely containing Buddhist texts, they proved to be Indo-European. Their location, far to the east of any other ancient Indo-European language, changed ideas about the family's early spread."
+  },
+  {
+    "title": "Orwell's Politics and the English Language",
+    "body": "In his 1946 essay 'Politics and the English Language', George Orwell argued that vague, inflated prose helps to hide ugly realities, as when bombing defenceless villages is called 'pacification'. He offered six rules, including never using a long word where a short one will do. The essay is widely cited on clear writing and political euphemism, themes he developed in Nineteen Eighty-Four."
+  },
+  {
+    "title": "Haitian Creole",
+    "body": "Haitian Creole emerged among enslaved Africans on the plantations of French Saint-Domingue, with a vocabulary mostly from French but a grammar very different from it; creolists debate how much it owes to West African languages. It is the first language of nearly all Haitians, while French long remained the language of the elite and the state. The 1987 constitution made Creole an official language alongside French."
+  },
+  {
+    "title": "The Revival of Hebrew",
+    "body": "For about two thousand years Hebrew was used mainly for prayer and scholarship rather than everyday speech. From the 1880s Eliezer Ben-Yehuda, who settled in Jerusalem, championed it as a spoken language, raised his son in Hebrew and compiled a dictionary of modern Hebrew. Schools in the Jewish settlements adopted it, and it became an official language of Israel; it is the best-known case of a language revived for daily use."
+  },
+  {
+    "title": "Isolating, Agglutinative and Fusional Languages",
+    "body": "Linguists classify languages by how they build words. Isolating languages such as Vietnamese use mostly invariable words; agglutinative languages such as Turkish and Finnish string together suffixes that each carry one meaning; fusional languages such as Latin pack several meanings, like case and number, into a single ending. Polysynthetic languages, found especially in the Arctic and the Americas, can express a whole sentence in one long word."
+  },
+  {
+    "title": "The Indus Script",
+    "body": "The Indus or Harappan civilisation of around 2600–1900 BC left thousands of short inscriptions, mostly on stamp seals, using several hundred signs. The script remains undeciphered: the inscriptions are very short, no bilingual text has been found, and the language behind them is unknown. Scholars even debate whether the signs fully encoded language."
+  },
+  {
+    "title": "Webster's American Dictionary",
+    "body": "Noah Webster published his American Dictionary of the English Language in 1828, aiming to give the United States a linguistic identity of its own. He promoted spellings such as color, center and defense, which became the American standard. Earlier, his 'blue-backed speller', first published in 1783, had taught generations of American children to read."
+  },
+  {
+    "title": "Metaphor and Metonymy",
+    "body": "A metaphor describes one thing in terms of another ('time is money'), while metonymy refers to something by an associated thing, as when 'the Crown' stands for the monarchy. Both were classified as figures of speech by ancient rhetoricians. Since George Lakoff and Mark Johnson's Metaphors We Live By (1980), many linguists have argued that metaphor structures everyday thought, not just poetry."
+  },
+  {
+    "title": "Yiddish",
+    "body": "Yiddish developed among Ashkenazi Jews, probably in the Rhineland, roughly a thousand years ago, combining a German base with Hebrew and Aramaic words and, after migration eastwards, Slavic elements. It is written in the Hebrew alphabet. Before the Holocaust it was spoken by millions across Central and Eastern Europe and had a rich modern literature, recognised when Isaac Bashevis Singer won the Nobel Prize in 1978."
+  },
+  {
+    "title": "Indonesian as a National Language",
+    "body": "At the Youth Pledge of 28 October 1928, nationalists in the Dutch East Indies vowed to uphold 'the language of unity, Indonesian'. They chose a form of Malay, long a trading lingua franca of the archipelago, rather than Javanese, the language of the largest ethnic group. As the official language of independent Indonesia, it became a shared language across hundreds of ethnic groups and is often cited as a model of successful language planning."
+  },
+  {
+    "title": "The Shuowen Jiezi",
+    "body": "Compiled by the scholar Xu Shen around AD 100, the Shuowen Jiezi was the first Chinese dictionary to analyse the structure of characters. It arranged about 9,000 characters under 540 radicals, or shared components, and explained each one's meaning and composition. Its radical system shaped later Chinese dictionaries, and its analyses remain important for the history of the script."
+  },
+  {
+    "title": "Tamazight and Tifinagh",
+    "body": "The Berber, or Amazigh, languages have been spoken in North Africa since long before the Arab conquests but long lacked official status. Morocco made Tamazight an official language in its 2011 constitution, and Algeria did the same in 2016. Morocco adopted a modern form of the ancient Tifinagh script, which had survived among the Tuareg, for teaching the language in schools."
+  },
+  {
+    "title": "The Académie Française",
+    "body": "Founded in 1635 under Cardinal Richelieu, the Académie française was charged with regulating the French language and producing an authoritative dictionary, the first edition of which appeared in 1694. Its forty members, known as 'the immortals', are elected for life. It became a model for language academies elsewhere, such as the Real Academia Española, founded in 1713."
+  },
+  {
+    "title": "The Bengali Language Movement",
+    "body": "When Pakistan was created in 1947, its eastern wing, today's Bangladesh, spoke mainly Bengali, but the government sought to make Urdu the sole national language. On 21 February 1952 police fired on protesting students in Dhaka, killing several. The movement won recognition for Bengali, fed the nationalism that led to Bangladesh's independence in 1971, and UNESCO later made 21 February International Mother Language Day."
+  },
+  {
+    "title": "Mandarin and Standard Chinese",
+    "body": "The English word mandarin came via Portuguese from Malay, ultimately from Sanskrit mantrin, 'adviser', and first meant an imperial Chinese official. The officials' common language, guanhua, was based on northern speech and served as a lingua franca across the empire. In the 20th century a standard based on Beijing pronunciation became the national language, while other Chinese varieties such as Cantonese and Hokkien are not mutually intelligible with it."
+  },
+  {
+    "title": "Linear B",
+    "body": "Linear B is a script found on clay tablets from Mycenaean Greece and Crete in the second half of the second millennium BC. In 1952 the architect Michael Ventris, later working with John Chadwick, showed that it recorded an early form of Greek, centuries older than Homer. The tablets are mostly palace administrative records, and the related Linear A script of Minoan Crete remains undeciphered."
+  },
+  {
+    "title": "Rongorongo",
+    "body": "Rongorongo is a system of glyphs carved on a few dozen wooden objects from Easter Island (Rapa Nui), first reported by outsiders in the 1860s. It has never been deciphered, and scholars disagree on whether it is true writing and whether it arose before or after contact with Europeans in the 18th century. If it is writing invented on the island without outside influence, it would be one of the very few independent inventions of writing."
+  },
+  {
+    "title": "The Graeco-Arabic Translation Movement",
+    "body": "From the late 8th to the 10th century, scholars in Abbasid Baghdad translated a large part of Greek philosophy, medicine and science into Arabic, often via Syriac. Patrons included the caliph al-Ma'mun, and the Nestorian Christian Hunayn ibn Ishaq was among the most prolific translators. The movement preserved and extended the works of Aristotle, Galen and Euclid, many of which later reached medieval Europe through Arabic."
+  },
+  {
+    "title": "The Afroasiatic Languages",
+    "body": "The Afroasiatic family includes Arabic, Hebrew and Aramaic, the Berber languages, Hausa, Somali and Amharic, as well as ancient Egyptian and Akkadian. It probably originated in north-eastern Africa, though its homeland is debated. Its Semitic branch builds words from roots of usually three consonants: in Arabic, k-t-b gives kataba (he wrote), kitab (book) and maktab (office)."
   }
 ]

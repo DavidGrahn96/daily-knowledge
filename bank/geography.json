@@ -134,5 +134,81 @@
   {
     "title": "The Tundra",
     "body": "Tundra is a treeless landscape of mosses, lichens, grasses and low shrubs, found around the Arctic and above the tree line on high mountains. The growing season is short, and in the Arctic the subsoil stays permanently frozen as permafrost. Thawing permafrost releases stored carbon, which is why the tundra matters for climate change."
+  },
+  {
+    "title": "The Great Trigonometrical Survey",
+    "body": "Begun in 1802, the Great Trigonometrical Survey measured the Indian subcontinent with great precision using chains of triangles across the land. It took decades and was one of the most ambitious scientific projects of its time. In the 1850s its calculations showed that Peak XV in the Himalayas was the highest in the world, and it was named after the former Surveyor General, George Everest."
+  },
+  {
+    "title": "The Niger River",
+    "body": "The Niger rises in the highlands of Guinea, not far from the Atlantic, but flows inland, north-east towards the Sahara. After forming a vast inland delta in Mali and bending past Timbuktu, it turns south-east through Niger and Nigeria to the Gulf of Guinea. Its unusual course puzzled European geographers until the early 19th century, and its waters have long supported trade and farming in West Africa."
+  },
+  {
+    "title": "The Great Lakes",
+    "body": "Superior, Michigan, Huron, Erie and Ontario together hold roughly a fifth of the fresh surface water on Earth. They were carved out by ice sheets and filled as the ice melted at the end of the last ice age. Linked to the Atlantic by the St Lawrence River, they made cities such as Chicago, Detroit and Toronto major industrial ports."
+  },
+  {
+    "title": "The Strait of Malacca",
+    "body": "The Strait of Malacca runs between the Malay Peninsula and the Indonesian island of Sumatra. It is the shortest sea route between the Indian Ocean and the Pacific, and has been one of the world's great shipping lanes for centuries. Control of it made the fortunes of Malacca in the 15th century and of Singapore, at its southern end, in modern times."
+  },
+  {
+    "title": "The Indian Ocean",
+    "body": "The Indian Ocean is bounded by Africa, Asia and Australia, and is the third-largest of the oceans. Its regular monsoon winds, blowing one way in summer and the other in winter, allowed sailors to cross it long before the age of European exploration. Arab, Persian, Indian, Swahili and Chinese traders built a network across it that carried spices, textiles, ideas and religions."
+  },
+  {
+    "title": "Central Place Theory",
+    "body": "In 1933 the German geographer Walter Christaller proposed that towns and cities form a hierarchy according to the goods and services they provide to the surrounding area. Many small places offer everyday services, while fewer large cities offer specialised ones, and in an ideal flat landscape their market areas form hexagons. The theory has shaped regional planning and the study of settlement patterns."
+  },
+  {
+    "title": "The Deccan Plateau",
+    "body": "The Deccan is the great plateau that covers most of southern India, between the Western and Eastern Ghats. Its north-western part is built of thick layers of lava, the Deccan Traps, from huge eruptions around the time the dinosaurs died out. The plateau tilts eastward, so its major rivers, such as the Godavari and Krishna, flow to the Bay of Bengal."
+  },
+  {
+    "title": "The Atacama Desert",
+    "body": "The Atacama, in northern Chile between the Andes and the Pacific, is the driest non-polar desert on Earth, and some places in it have gone years without measurable rain. It is dry because it lies in the rain shadow of the Andes and beside a cold ocean current. Its clear skies have made it a centre for astronomical observatories, and its nitrate and copper deposits shaped Chile's economy."
+  },
+  {
+    "title": "El Niño",
+    "body": "El Niño is an irregular warming of the surface waters of the central and eastern tropical Pacific, occurring every few years. Peruvian fishermen named it after the Christ child because it tends to appear around Christmas. Together with its cold counterpart La Niña, it shifts rainfall around the world, bringing floods to some regions and drought to others."
+  },
+  {
+    "title": "Victoria Falls",
+    "body": "Victoria Falls is where the Zambezi River drops into a narrow gorge on the border between Zambia and Zimbabwe. Its local name, Mosi-oa-Tunya, means 'the smoke that thunders', after the column of spray visible from far away. The Scottish missionary David Livingstone named it after Queen Victoria in 1855, and it is one of the widest curtains of falling water in the world."
+  },
+  {
+    "title": "The Gobi Desert",
+    "body": "The Gobi covers much of southern Mongolia and northern China. It is a cold desert, with harsh winters, and much of it is bare rock and gravel rather than sand dunes. It lies in the rain shadow of the Tibetan Plateau and the Himalayas, and expeditions there in the 1920s made famous finds of dinosaur fossils and eggs."
+  },
+  {
+    "title": "The Coriolis Effect",
+    "body": "Because the Earth rotates, winds and ocean currents moving over its surface are deflected to the right in the Northern Hemisphere and to the left in the Southern. Named after the French scientist Gaspard-Gustave de Coriolis, the effect explains why large storms spin in opposite directions in the two hemispheres. It is far too weak to decide which way water drains from a sink."
+  },
+  {
+    "title": "The Hawaiian Islands",
+    "body": "The Hawaiian Islands formed as the Pacific plate moved north-west over a fixed hotspot of rising magma. Each island was built by volcanoes and then carried away from the hotspot, so the islands grow older and more eroded to the north-west. The youngest, the island of Hawai'i, still has highly active volcanoes such as Kīlauea and Mauna Loa."
+  },
+  {
+    "title": "The Strait of Hormuz",
+    "body": "The Strait of Hormuz is the narrow channel between Iran and Oman that links the Persian Gulf with the Gulf of Oman and the open ocean. It is the only sea outlet for most of the Gulf's oil and gas exporters. This makes it one of the most strategically important waterways in the world."
+  },
+  {
+    "title": "The Atlas Mountains",
+    "body": "The Atlas Mountains stretch some 2,500 kilometres across Morocco, Algeria and Tunisia, separating the Mediterranean and Atlantic coasts from the Sahara. They were raised mainly by the collision of the African and Eurasian plates, and Toubkal in Morocco is their highest peak. Their rain and snow feed the farms and cities of the Maghreb, and they have long been a homeland of the Amazigh, or Berber, peoples."
+  },
+  {
+    "title": "River Deltas",
+    "body": "A delta forms where a river slows on entering a sea or lake and drops its load of sediment. Ancient Greeks named the Nile delta after their triangular letter delta, a usage recorded by Herodotus. Deltas such as those of the Nile, Ganges and Mekong have very fertile soils and dense populations, but they are low-lying and vulnerable to flooding and sea-level rise."
+  },
+  {
+    "title": "The Eurasian Steppe",
+    "body": "The Eurasian Steppe is a vast belt of grassland stretching from Hungary and Ukraine across Central Asia to Mongolia and northern China. Too dry for forest and often for farming, it was the home of horse-riding pastoral nomads. Peoples such as the Scythians, Huns and Mongols used it as a highway that linked, and repeatedly threatened, the settled civilisations around it."
+  },
+  {
+    "title": "Waldseemüller's Map",
+    "body": "In 1507 the German cartographer Martin Waldseemüller published a world map that was the first to use the name 'America'. He named the new continent after the Italian navigator Amerigo Vespucci, who had argued that the lands found across the Atlantic were a new world rather than part of Asia. The name stuck, although Waldseemüller later dropped it from his own maps."
+  },
+  {
+    "title": "The Valley of Mexico",
+    "body": "The Valley of Mexico is a high basin in central Mexico, more than 2,000 metres above sea level, that once held a system of lakes. The Aztecs built their capital, Tenochtitlan, on an island in Lake Texcoco, and Mexico City grew on its ruins. Draining the lakes left the city on soft clay, which amplifies earthquakes and makes the ground sink as groundwater is pumped out."
   }
 ]

@@ -134,5 +134,81 @@
   {
     "title": "The Lithium-Ion Battery",
     "body": "The lithium-ion battery was developed in the 1970s and 1980s through work by Stanley Whittingham, John Goodenough and Akira Yoshino, who shared the 2019 Nobel Prize in Chemistry. Sony began selling it commercially in 1991. Light and rechargeable, it powers mobile phones, laptops and electric cars."
+  },
+  {
+    "title": "The Antikythera Mechanism",
+    "body": "Recovered in the early 1900s from an ancient shipwreck off the Greek island of Antikythera, this corroded bronze device dates from around the 2nd or 1st century BC. Modern imaging has shown that it contained dozens of precisely cut gears that modelled the movements of the Sun and Moon, predicted eclipses and tracked the cycle of games such as the Olympics. Nothing of comparable mechanical complexity is known again for well over a thousand years."
+  },
+  {
+    "title": "The Voyager Probes",
+    "body": "NASA launched the twin Voyager probes in 1977 to take advantage of a rare alignment of the outer planets. Between them they flew past Jupiter, Saturn, Uranus and Neptune, Voyager 2 being the first spacecraft to visit the last two. In 2012 Voyager 1 became the first human-made object to enter interstellar space. Each carries a gold-plated record of sounds and images from Earth."
+  },
+  {
+    "title": "Champa Rice",
+    "body": "Champa rice was a fast-ripening, drought-tolerant variety from the kingdom of Champa, in what is now central Vietnam. In 1012 the Song emperor Zhenzong had its seed distributed to farmers in the Yangtze and Huai river regions. Because it matured quickly, farmers could often grow two crops a year, and it helped support strong population growth in Song China."
+  },
+  {
+    "title": "The Mouse and the Graphical Interface",
+    "body": "In 1968 Douglas Engelbart demonstrated the computer mouse, hypertext links and on-screen windows in a famous presentation in San Francisco. In the 1970s Xerox PARC developed a graphical interface with icons and overlapping windows on its Alto computer. Apple's Macintosh of 1984 brought the graphical interface to a mass market, followed by Microsoft Windows."
+  },
+  {
+    "title": "Wikipedia",
+    "body": "Wikipedia was launched in January 2001 by Jimmy Wales and Larry Sanger as a free online encyclopedia that anyone can edit. Run by the non-profit Wikimedia Foundation and written by volunteers, it grew to millions of articles in hundreds of languages. It showed that large-scale voluntary collaboration over the internet could produce a widely used reference work."
+  },
+  {
+    "title": "The Blue LED",
+    "body": "Red light-emitting diodes existed from the 1960s, but an efficient blue LED proved very hard to make. In the early 1990s Isamu Akasaki, Hiroshi Amano and Shuji Nakamura succeeded using gallium nitride, and shared the 2014 Nobel Prize in Physics. Blue LEDs made bright white LED lighting possible, which uses far less energy than incandescent bulbs."
+  },
+  {
+    "title": "Bazalgette's London Sewers",
+    "body": "After the Great Stink of 1858, when the smell of the sewage-filled Thames overwhelmed Parliament, the engineer Joseph Bazalgette built a network of intercepting sewers for London. Constructed mainly in the 1860s and 1870s, it carried waste away from the city to outfalls downstream. It greatly reduced cholera outbreaks and became a model for urban sanitation."
+  },
+  {
+    "title": "Wootz Steel",
+    "body": "Wootz was a high-carbon steel made in southern India and Sri Lanka by melting iron with carbon-rich material in sealed clay crucibles. Production goes back at least 2,000 years. Traded to the Middle East, it was forged into the famous Damascus blades, prized for their toughness and watery surface pattern."
+  },
+  {
+    "title": "The Integrated Circuit",
+    "body": "In 1958 Jack Kilby at Texas Instruments built the first integrated circuit, combining several components on one piece of semiconductor. In 1959 Robert Noyce at Fairchild devised a planar silicon version suited to mass production. Integrated circuits let ever more transistors be packed onto a single chip, making modern electronics possible, and Kilby received the Nobel Prize in Physics in 2000."
+  },
+  {
+    "title": "Printing in East Asia",
+    "body": "Woodblock printing was used in China by the 8th century, and the Diamond Sutra of 868, found at Dunhuang, is the oldest known dated printed book. Around the 1040s the commoner Bi Sheng made movable type from baked clay. In Korea, the Jikji, printed with movable metal type in 1377, is the oldest surviving book of its kind and predates Gutenberg."
+  },
+  {
+    "title": "The War of the Currents",
+    "body": "In the late 1880s Thomas Edison's direct current (DC) competed with the alternating current (AC) system championed by George Westinghouse, using patents of Nikola Tesla. AC can be stepped up to high voltage with transformers and sent efficiently over long distances. AC won, and it became the standard for power grids around the world."
+  },
+  {
+    "title": "The Stirrup",
+    "body": "Paired stirrups appear in China by the early 4th century AD and spread across Asia and into Europe over the following centuries. By giving riders a stable footing, they made it easier to fight from horseback. Historians once linked them to the rise of feudal knighthood in Europe, but that argument is now widely disputed."
+  },
+  {
+    "title": "The Persian Windmill",
+    "body": "The earliest well-documented windmills were built in Sistan, on the border of present-day Iran and Afghanistan, by around the 9th or 10th century. Their sails turned around a vertical axis inside walls that channelled the wind, and they were used to grind grain and lift water. Windmills of a different design, with a horizontal axis, appeared in north-western Europe in the late 12th century."
+  },
+  {
+    "title": "Brazil's Ethanol Programme",
+    "body": "After the 1973 oil shock, Brazil launched its National Alcohol Programme, Proálcool, in 1975 to replace imported petrol with ethanol made from sugar cane. By the mid-1980s most new cars sold in Brazil ran on pure ethanol. Flex-fuel cars able to run on any blend were introduced in 2003 and soon dominated sales, making Brazil a pioneer of large-scale biofuels."
+  },
+  {
+    "title": "The Telescope",
+    "body": "The telescope appeared in the Netherlands in 1608, when the spectacle-maker Hans Lipperhey applied for a patent. In 1609 and 1610 Galileo built improved versions and discovered the moons of Jupiter, mountains on the Moon and the phases of Venus. Isaac Newton later built a reflecting telescope that used a curved mirror instead of a lens."
+  },
+  {
+    "title": "Bronze Metallurgy",
+    "body": "Bronze, an alloy of copper and tin, is harder than copper alone and was used for tools, weapons and vessels. It came into use in the Near East in the late 4th millennium BC and spread widely in the 3rd. Because tin deposits are rare, bronze-making stimulated long-distance trade, and archaeologists named the Bronze Age after it."
+  },
+  {
+    "title": "Television",
+    "body": "In 1926 John Logie Baird gave the first public demonstration of television in London, using a mechanical scanning system. All-electronic television, developed by Philo Farnsworth, Vladimir Zworykin and others, soon replaced mechanical systems. Regular broadcasting began in the 1930s, and after the Second World War television became the dominant mass medium."
+  },
+  {
+    "title": "The Control of Fire",
+    "body": "Early humans learned to control fire long before modern humans appeared, though how early is debated, with claims ranging from over a million years ago to a few hundred thousand. Fire gave warmth, light and protection from predators, and cooking made food easier to digest. Some researchers argue that cooking helped shape human evolution."
+  },
+  {
+    "title": "Public-Key Cryptography",
+    "body": "In 1976 Whitfield Diffie and Martin Hellman published a way for two parties to agree a secret key over an open channel, and in 1977 Rivest, Shamir and Adleman created the RSA system. Public-key cryptography uses a public key to encrypt and a private one to decrypt, so strangers can communicate securely. It underpins secure websites and online payments. British intelligence had made similar discoveries earlier but kept them secret."
   }
 ]
