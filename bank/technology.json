@@ -58,5 +58,81 @@
   {
     "title": "GPS",
     "body": "The Global Positioning System is a US network of satellites that broadcast precise time signals from atomic clocks. A receiver calculates its position from the time differences. The system must correct for relativity, because clocks in orbit run at a different rate from those on the ground."
+  },
+  {
+    "title": "The Quartz Watch",
+    "body": "Quartz crystals vibrate at a very precise frequency when driven by an electric current, which makes them excellent timekeepers; the first quartz clock was built in the United States in 1927. In 1969 the Japanese company Seiko sold the first quartz wristwatch, the Astron. Cheap, accurate quartz watches transformed the industry in the 1970s and 1980s and badly hurt traditional Swiss mechanical watchmaking."
+  },
+  {
+    "title": "Budj Bim Eel Traps",
+    "body": "In south-western Victoria, Australia, the Gunditjmara people built an extensive system of channels, weirs and ponds in the lava-flow landscape of Budj Bim to trap and hold short-finned eels. Parts of the system have been dated to around 6,600 years ago, making it one of the oldest known aquaculture systems in the world. It was inscribed as a UNESCO World Heritage Site in 2019."
+  },
+  {
+    "title": "The Laser",
+    "body": "In 1960 Theodore Maiman built the first working laser at Hughes Research Laboratories in California, using a ruby crystal. A laser produces a narrow, intense beam of light of a single colour, with its waves in step. Lasers are used in fibre-optic communication, surgery, barcode scanners, manufacturing and precise measurement."
+  },
+  {
+    "title": "Chinese Porcelain",
+    "body": "Porcelain, a hard, white, translucent ceramic fired at very high temperatures, was developed in China and established by the Tang dynasty, then refined under later dynasties. It was a major export, and in English the word china came to mean fine ceramics. Europeans could not reproduce it until the early 1700s, when it was first made at Meissen in Saxony."
+  },
+  {
+    "title": "Archimedes' Screw",
+    "body": "The screw pump traditionally attributed to Archimedes in the 3rd century BC is a helical surface inside a tube that lifts water as it turns. Set at an angle with its lower end in water, it raises a steady flow with little effort. It was used for irrigation and for draining mines and ships, and versions are still used in wastewater treatment plants."
+  },
+  {
+    "title": "The Mobile Phone",
+    "body": "In 1973 the Motorola engineer Martin Cooper made the first call from a handheld mobile phone, in New York. Commercial cellular networks, which divide an area into cells each served by its own transmitter, opened in Japan in 1979 and in Europe and the United States in the early 1980s. Mobile phones later reached billions of people, including in regions that never had extensive landline networks."
+  },
+  {
+    "title": "Babbage's Analytical Engine",
+    "body": "In the 1830s Charles Babbage designed the Analytical Engine, a general-purpose mechanical computer with a memory, a processing unit and punched-card input. It was never completed. Ada Lovelace's notes on it, published in 1843, include what is often described as the first computer program and foresaw that such machines could handle more than numbers."
+  },
+  {
+    "title": "Mesoamerican Rubber",
+    "body": "By around 1600 BC people in Mesoamerica were processing latex from rubber trees, mixing it with juice from morning glory vines to make it stronger and more elastic. They used it for the balls of the ritual ballgame, as well as for sandals and bindings. This chemical processing of rubber came more than 3,000 years before Charles Goodyear's vulcanisation in the 19th century."
+  },
+  {
+    "title": "The Microprocessor",
+    "body": "In 1971 Intel released the 4004, the first commercial microprocessor, which put a computer's whole central processing unit on one chip. It was designed by Federico Faggin, Ted Hoff and Stanley Mazor, with Masatoshi Shima of the Japanese calculator firm Busicom, which had commissioned it. Microprocessors made personal computers and countless embedded devices possible."
+  },
+  {
+    "title": "Gunpowder",
+    "body": "Gunpowder, a mixture of saltpetre, sulphur and charcoal, was discovered by Chinese alchemists, probably in the 9th century. A military treatise of 1044 gives the earliest known written formulas. It was used in fire arrows, bombs and early guns, and by the 14th century cannon had spread to the Islamic world and Europe, transforming warfare."
+  },
+  {
+    "title": "Radar",
+    "body": "Radar detects distant objects by sending out radio waves and timing their echoes. Several countries developed it in the 1930s, and Britain's Chain Home network, based on work by Robert Watson-Watt, gave early warning of German air raids in 1940. The cavity magnetron, invented in Britain in 1940, made compact, powerful radar possible, and radar later became essential for air traffic control and weather forecasting."
+  },
+  {
+    "title": "Stepwells of India",
+    "body": "Stepwells are deep wells reached by long flights of steps, built especially in western India to give access to groundwater that rose and fell with the monsoon. They also offered a cool place to gather and worship, and many were richly carved. Rani ki Vav in Gujarat, built in the 11th century, is a UNESCO World Heritage Site."
+  },
+  {
+    "title": "The Cotton Gin",
+    "body": "In 1793 Eli Whitney invented the cotton gin, a machine that quickly separated cotton fibres from their sticky seeds. It made short-staple cotton profitable to grow across the American South. The result was a huge expansion of cotton plantations and of slavery, which grew sharply in the decades that followed."
+  },
+  {
+    "title": "Zhang Heng's Seismoscope",
+    "body": "In AD 132 the Chinese scholar Zhang Heng built an instrument to detect earthquakes. According to historical accounts, a bronze vessel with dragon heads dropped a ball into the mouth of a bronze toad to indicate the direction of a distant tremor. It is the earliest known seismoscope, though its inner mechanism is not known for certain."
+  },
+  {
+    "title": "Breaking Enigma",
+    "body": "The German military encrypted messages with the Enigma machine, whose rotors changed the cipher with every key pressed. Polish mathematicians led by Marian Rejewski first broke it in the 1930s and shared their methods with Britain and France in 1939. At Bletchley Park, Alan Turing and others built electromechanical machines called bombes to break Enigma traffic, producing intelligence that influenced the course of the Second World War."
+  },
+  {
+    "title": "Papyrus",
+    "body": "The ancient Egyptians made a writing material from the papyrus reed of the Nile by laying strips of its pith crosswise and pressing them together. It was in use by around 3000 BC and became the main writing surface of the Mediterranean world for thousands of years. The word paper comes from papyrus, though true paper is made differently, from pulped fibres."
+  },
+  {
+    "title": "The Shinkansen",
+    "body": "Japan's Shinkansen, the first high-speed railway, opened between Tokyo and Osaka in 1964, just before the Tokyo Olympics. Running on dedicated, purpose-built tracks, its bullet trains cut the journey time dramatically. It inspired high-speed rail in Europe and elsewhere, and is known for its punctuality and safety."
+  },
+  {
+    "title": "Roman Aqueducts",
+    "body": "The Romans built aqueducts that carried water over long distances to cities using only a slight, steady downhill gradient. Most of each channel ran underground or at ground level, with arched bridges such as the Pont du Gard in France used to cross valleys. By the 3rd century AD eleven aqueducts supplied the city of Rome with water for fountains, baths and public latrines."
+  },
+  {
+    "title": "The Lithium-Ion Battery",
+    "body": "The lithium-ion battery was developed in the 1970s and 1980s through work by Stanley Whittingham, John Goodenough and Akira Yoshino, who shared the 2019 Nobel Prize in Chemistry. Sony began selling it commercially in 1991. Light and rechargeable, it powers mobile phones, laptops and electric cars."
   }
 ]

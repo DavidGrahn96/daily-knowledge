@@ -58,5 +58,81 @@
   {
     "title": "Quantum Mechanics",
     "body": "In 1900 Max Planck proposed that energy is emitted in discrete packets, or quanta. Quantum mechanics grew from this idea to describe atoms and particles, and includes Heisenberg's uncertainty principle of 1927: position and momentum cannot both be known exactly."
+  },
+  {
+    "title": "Oral Rehydration Therapy",
+    "body": "Cholera and other diarrhoeal diseases kill mainly through dehydration. In the 1960s researchers in Dhaka and Calcutta showed that glucose helps the gut absorb salt and water, so a simple drink of water, salt and sugar can replace lost fluids. Used on a large scale in refugee camps during the 1971 Bangladesh war, it greatly reduced deaths and has since saved millions of lives, especially among children."
+  },
+  {
+    "title": "Newton's Prism and the Colours of Light",
+    "body": "In the 1660s Isaac Newton passed sunlight through a glass prism and showed that white light is a mixture of all the colours of the spectrum. A second prism could bend a single colour but not change it, showing that the colours were not created by the glass. He published his findings in 1672 and more fully in Opticks in 1704."
+  },
+  {
+    "title": "CRISPR Gene Editing",
+    "body": "CRISPR is a defence system that bacteria use to cut the DNA of invading viruses. In 2012 Jennifer Doudna and Emmanuelle Charpentier showed that it can be programmed to cut DNA at a chosen site, making it far easier to edit genes. The technique transformed biology and medicine and raised ethical debates about altering human embryos; the two received the 2020 Nobel Prize in Chemistry."
+  },
+  {
+    "title": "Al-Tusi and the Maragha Observatory",
+    "body": "In 1259 the Persian scholar Nasir al-Din al-Tusi founded an observatory at Maragha, in north-western Iran, under Mongol patronage. Astronomers there sought alternatives to Ptolemy's planetary models, and al-Tusi devised the 'Tusi couple', which produces straight-line motion from two circles. A similar device appears in Copernicus's work; whether he learned of it from Islamic sources is debated."
+  },
+  {
+    "title": "The Discovery of X-Rays",
+    "body": "In 1895 Wilhelm Röntgen, experimenting with cathode-ray tubes in Würzburg, discovered invisible rays that could pass through flesh but not bone. Within months doctors were using them to examine fractures and locate bullets. Röntgen received the first Nobel Prize in Physics in 1901, and X-rays later revealed the structure of crystals and molecules, including DNA."
+  },
+  {
+    "title": "Radiocarbon Dating",
+    "body": "In the late 1940s Willard Libby developed a method of dating once-living material by measuring its carbon-14. Living things absorb this radioactive form of carbon, and after death it decays at a known rate, halving roughly every 5,700 years. The method transformed archaeology by giving reliable ages for remains up to about 50,000 years old, and Libby received the 1960 Nobel Prize in Chemistry."
+  },
+  {
+    "title": "The Eruption of Krakatoa",
+    "body": "In August 1883 the volcanic island of Krakatoa, between Java and Sumatra, was destroyed in one of the most violent eruptions in recorded history, and the tsunamis it caused killed more than 30,000 people. Its explosions were heard thousands of kilometres away, and barometers around the world recorded its pressure wave. Ash and sulphur gases thrown into the upper atmosphere caused vivid sunsets worldwide and cooled the global climate for a time; in 1888 a Royal Society report gathered observations of its effects from around the world."
+  },
+  {
+    "title": "Hutton and Deep Time",
+    "body": "The Scottish geologist James Hutton argued in the 1780s that the Earth was shaped by slow processes still at work, such as erosion, deposition and uplift, acting over immense periods. Rock formations such as the tilted layers at Siccar Point convinced him that the Earth is vastly older than a few thousand years. His idea of deep time, developed by Charles Lyell, influenced Darwin."
+  },
+  {
+    "title": "Carlos Finlay and Yellow Fever",
+    "body": "In 1881 the Cuban physician Carlos Finlay proposed that yellow fever is spread by a mosquito, now known as Aedes aegypti. His idea was largely ignored until 1900, when a US Army commission led by Walter Reed confirmed it in Cuba. Mosquito control then sharply reduced yellow fever, notably in Havana and during the building of the Panama Canal."
+  },
+  {
+    "title": "The Raman Effect",
+    "body": "In 1928 Chandrasekhara Venkata Raman and his colleague Kariamanikkam Srinivasa Krishnan, working in Calcutta, found that when light is scattered by molecules a tiny fraction changes wavelength, revealing the molecules' vibrations. Raman spectroscopy became a standard way to identify substances. Raman received the 1930 Nobel Prize in Physics, and India marks the discovery each year on National Science Day."
+  },
+  {
+    "title": "Catalysts and Enzymes",
+    "body": "A catalyst speeds up a chemical reaction without being used up, by offering a pathway that needs less energy. Jöns Jacob Berzelius coined the term catalysis in 1835. Enzymes, mostly proteins, are the catalysts of living things, making possible the reactions of digestion, metabolism and DNA copying at body temperature."
+  },
+  {
+    "title": "Leeuwenhoek's Animalcules",
+    "body": "Antonie van Leeuwenhoek, a draper in Delft, made tiny single-lens microscopes of remarkable power. From the 1670s he reported to the Royal Society in London that drops of water and scrapings from teeth teemed with minute creatures he called animalcules. He was the first to observe bacteria and single-celled organisms, revealing a world of life invisible to the naked eye."
+  },
+  {
+    "title": "Babylonian Astronomy",
+    "body": "For centuries Babylonian scribes recorded the movements of the Moon and planets on clay tablets. In the 1st millennium BC they developed arithmetical methods to predict lunar phenomena, including eclipses, among the first mathematical astronomy anywhere. Their base-60 number system survives in the 60 minutes of an hour and the 360 degrees of a circle."
+  },
+  {
+    "title": "The Genetic Code",
+    "body": "In 1961 Marshall Nirenberg and Heinrich Matthaei took the first step in cracking the genetic code, showing that RNA made only of the base U produces a chain of the amino acid phenylalanine. By the mid-1960s it was known that each sequence of three bases, a codon, specifies one of 20 amino acids or a stop signal. The code is almost the same in all living things, strong evidence of their common ancestry."
+  },
+  {
+    "title": "John Snow and Cholera",
+    "body": "During a cholera outbreak in London's Soho in 1854, the physician John Snow mapped the deaths and found them clustered around a water pump on Broad Street. He persuaded the authorities to remove the pump's handle, arguing that cholera spread through contaminated water rather than bad air. His work is a founding example of epidemiology."
+  },
+  {
+    "title": "The Discovery of Insulin",
+    "body": "In 1921 and 1922 Frederick Banting and Charles Best, in John Macleod's laboratory in Toronto and with the chemist James Collip, isolated insulin from the pancreas. Injected into a diabetic boy in January 1922, it brought his blood sugar under control. Insulin turned type 1 diabetes from a fatal disease into a manageable one, and Banting and Macleod received the 1923 Nobel Prize."
+  },
+  {
+    "title": "Archimedes' Principle",
+    "body": "In the 3rd century BC Archimedes of Syracuse showed that a body immersed in a fluid is pushed upwards by a force equal to the weight of the fluid it displaces. The principle explains why ships float and balloons rise. The famous story of his discovery in the bath comes from a later Roman writer and may be legend."
+  },
+  {
+    "title": "Yukawa and the Strong Force",
+    "body": "In 1935 the Japanese physicist Hideki Yukawa proposed that protons and neutrons are held together in the nucleus by a force carried by a new particle, later called the meson. He predicted its mass from the short range of the force. A particle matching his prediction, the pion, was found in 1947, and in 1949 Yukawa became the first Japanese Nobel laureate."
+  },
+  {
+    "title": "Hippocratic Medicine",
+    "body": "Hippocrates of Kos, who lived in the 5th and 4th centuries BC, is regarded as the father of Western medicine. The writings attributed to him, in fact by many authors, treat illness as having natural rather than divine causes and stress careful observation of patients. The Hippocratic Oath, a pledge of medical ethics, is named after him."
   }
 ]
