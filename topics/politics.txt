@@ -1,0 +1,112 @@
+# politics: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | Separation of Powers | - | -
+002 | Women's Suffrage | - | -
+003 | The United Nations | - | -
+004 | The Freedom of the Press Act of 1766 | - | -
+005 | The European Union | - | -
+006 | The Universal Declaration of Human Rights | - | -
+007 | Athenian Democracy | - | -
+008 | The United States Constitution | - | -
+009 | NATO | - | -
+010 | The Rule of Law | - | -
+011 | The Westminster System | - | -
+012 | The Geneva Conventions | - | -
+013 | Duverger's Law | - | -
+014 | The Beveridge Report | - | -
+015 | What Makes a State | - | -
+016 | The European Convention on Human Rights | 20th-c | Europe
+017 | The Gadaa System | timeless | Africa
+018 | Pancasila | 20th-c | Southeast Asia
+019 | A Vindication of the Rights of Woman | early-modern | Europe
+020 | Brazil's Golden Law | 19th-c | Latin America
+021 | Justinian's Code | medieval | Europe
+022 | The Mothers of the Plaza de Mayo | 20th-c | Latin America
+023 | The English Bill of Rights | early-modern | Europe
+024 | Nepal's Abolition of the Monarchy | 21st-c | South Asia
+025 | From the OAU to the African Union | 20th-c | Africa
+026 | The Mandate of Heaven | ancient | East Asia
+027 | UN Peacekeeping | 20th-c | global
+028 | Ibn Khaldun's Asabiyyah | medieval | Africa
+029 | The American Civil Rights Movement | 20th-c | North America
+030 | The Cyrus Cylinder | ancient | Middle East
+031 | The May Fourth Movement | 20th-c | East Asia
+032 | Tocqueville's Democracy in America | 19th-c | North America
+033 | The Law of the Sea Convention | 20th-c | global
+034 | The Meiji Constitution | 19th-c | East Asia
+035 | The Constitution of Carthage | ancient | Africa
+036 | The Nuremberg Trials | 20th-c | Europe
+037 | Rwanda's Gacaca Courts | 21st-c | Africa
+038 | Kemalism | 20th-c | Middle East
+039 | The Paris Agreement | 21st-c | global
+040 | The Bandung Conference | 20th-c | Southeast Asia
+041 | The Secret Ballot | 19th-c | Oceania
+042 | Simon de Montfort's Parliament | medieval | Europe
+043 | The Mabo Decision | 20th-c | Oceania
+044 | The Manden Charter | medieval | Africa
+045 | Burke and Modern Conservatism | early-modern | Europe
+046 | Federalism | timeless | global
+047 | Arendt and Totalitarianism | 20th-c | Europe
+048 | The Ottoman Millet System | early-modern | Middle East
+049 | Aristotle's Politics | ancient | Europe
+050 | Pan-Africanism | 20th-c | Africa
+051 | The Tanzimat Reforms | 19th-c | Middle East
+052 | The League of Nations | 20th-c | global
+053 | Mill's Harm Principle | 19th-c | Europe
+054 | The Guardianship of the Islamic Jurist | 20th-c | Middle East
+055 | Rome's Mixed Constitution | ancient | Europe
+056 | Self-Determination of Peoples | 20th-c | global
+057 | The Declaration of Independence | early-modern | North America
+058 | The Althing | medieval | Europe
+059 | The Shanghai Cooperation Organisation | 21st-c | Central Asia
+060 | South Africa's Truth and Reconciliation Commission | 20th-c | Africa
+061 | The Communist Manifesto | 19th-c | Europe
+062 | The Nuclear Non-Proliferation Treaty | 20th-c | global
+063 | The Gana-Sanghas of Ancient India | ancient | South Asia
+064 | Nationalism | timeless | global
+065 | Grotius and the Law of Nations | early-modern | Europe
+066 | The Mongol Kurultai | medieval | Central Asia
+067 | The Responsibility to Protect | 21st-c | global
+068 | Weber's Three Types of Authority | 20th-c | Europe
+069 | Marbury v. Madison | 19th-c | North America
+070 | Gandhi's Satyagraha | 20th-c | South Asia
+071 | The Treaty of Waitangi | 19th-c | Oceania
+072 | Fascism | 20th-c | Europe
+073 | South Korea's Candlelight Protests | 21st-c | East Asia
+074 | The Monroe Doctrine | 19th-c | North America
+075 | Japan's Pacifist Constitution | 20th-c | East Asia
+076 | The Indian National Congress | 19th-c | South Asia
+077 | The Twelve Tables | ancient | Europe
+078 | China's Imperial Examinations | medieval | East Asia
+079 | Participatory Budgeting | 20th-c | Latin America
+080 | The Sustainable Development Goals | 21st-c | global
+081 | Al-Farabi's Virtuous City | medieval | Middle East
+082 | The Genocide Convention | 20th-c | global
+083 | The Oyo Mesi | early-modern | Africa
+084 | Germany's Basic Law | 20th-c | Europe
+085 | Populism | timeless | global
+086 | The Iranian Constitutional Revolution | 20th-c | Middle East
+087 | The Napoleonic Code | 19th-c | Europe
+088 | The Haudenosaunee Great Law of Peace | early-modern | North America
+089 | The Constitution of India | 20th-c | South Asia
+090 | Machiavelli's The Prince | early-modern | Europe
+091 | The Refugee Convention | 20th-c | global
+092 | The Legalisation of Same-Sex Marriage | 21st-c | Europe
+093 | The International Criminal Court | 20th-c | global
+094 | Bolívar's Jamaica Letter | 19th-c | Latin America
+095 | Sun Yat-sen's Three Principles of the People | 20th-c | East Asia
+096 | The Edict of Caracalla | ancient | Europe
+097 | The Organization of American States | 20th-c | Latin America
+098 | The Declaration of the Rights of Man | early-modern | Europe
+099 | ASEAN | 20th-c | Southeast Asia
+100 | Japan's Alternate Attendance System | early-modern | East Asia
+101 | The UN Declaration on Decolonisation | 20th-c | global
+102 | The Zhou Fengjian System | ancient | East Asia
+103 | Akbar's Mansabdari System | early-modern | South Asia
+104 | Prince Shōtoku's Seventeen Articles | medieval | East Asia
+105 | The Seneca Falls Convention | 19th-c | North America
+106 | Poland's Solidarity Movement | 20th-c | Europe
+107 | Realism in International Relations | timeless | global
+108 | Apartheid | 20th-c | Africa
+109 | The Constitution of Medina | medieval | Middle East
+110 | Brown v. Board of Education | 20th-c | North America

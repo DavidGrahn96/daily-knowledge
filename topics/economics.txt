@@ -1,0 +1,112 @@
+# economics: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | Comparative Advantage | - | -
+002 | The Invisible Hand | - | -
+003 | Keynesian Economics | - | -
+004 | The Wall Street Crash of 1929 | - | -
+005 | The Bretton Woods System | - | -
+006 | Tulip Mania | - | -
+007 | The Oldest Central Bank | - | -
+008 | Supply and Demand | - | -
+009 | Opportunity Cost | - | -
+010 | The Quantity Theory of Money | - | -
+011 | Compound Interest | - | -
+012 | Das Kapital | - | -
+013 | The 2008 Financial Crisis | - | -
+014 | Gross Domestic Product | - | -
+015 | Moral Hazard | - | -
+016 | The Phillips Curve | 20th-c | Europe
+017 | The Silver of Potosí | early-modern | Latin America
+018 | The Market for Lemons | 20th-c | North America
+019 | The Spice Trade | early-modern | Southeast Asia
+020 | India's 1991 Liberalisation | 20th-c | South Asia
+021 | The Marginal Revolution | 19th-c | Europe
+022 | The Lewis Dual-Sector Model | 20th-c | Latin America
+023 | Price Elasticity of Demand | timeless | global
+024 | Cacao Beans as Currency | medieval | Latin America
+025 | Gresham's Law | early-modern | Europe
+026 | Prospect Theory | 20th-c | global
+027 | Debasement of the Roman Coinage | ancient | Europe
+028 | Diminishing Returns | timeless | global
+029 | The Islamic Gold Dinar | medieval | Middle East
+030 | The Malthusian Trap | early-modern | Europe
+031 | The China Shock | 21st-c | East Asia
+032 | The Drain of Wealth Theory | 19th-c | South Asia
+033 | The 1997 Asian Financial Crisis | 20th-c | Southeast Asia
+034 | The Arthashastra | ancient | South Asia
+035 | Inflation Targeting | 20th-c | Oceania
+036 | Indian Calicoes and the Calico Acts | early-modern | South Asia
+037 | The Resource Curse | 20th-c | global
+038 | The Rochdale Pioneers | 19th-c | Europe
+039 | Microfinance and the Grameen Bank | 20th-c | South Asia
+040 | Public Goods | timeless | global
+041 | The Solow Growth Model | 20th-c | North America
+042 | The Discourses on Salt and Iron | ancient | East Asia
+043 | The Gold Standard | 19th-c | global
+044 | Mercantilism | early-modern | Europe
+045 | The Waqf | medieval | Middle East
+046 | Bank Runs and Deposit Insurance | 20th-c | North America
+047 | Cowrie Shell Money | medieval | Africa
+048 | The Physiocrats | early-modern | Europe
+049 | The Washington Consensus | 20th-c | Latin America
+050 | Diocletian's Edict on Maximum Prices | ancient | Europe
+051 | Bitcoin | 21st-c | global
+052 | Limited Liability | 19th-c | Europe
+053 | Economies of Scale | timeless | global
+054 | Sen on Famines | 20th-c | South Asia
+055 | The Bank of England | early-modern | Europe
+056 | Nash Equilibrium | 20th-c | North America
+057 | The Euro | 21st-c | Europe
+058 | The Harvester Judgment | 20th-c | Oceania
+059 | The Ever-Normal Granary | ancient | East Asia
+060 | Dead Capital | 20th-c | Latin America
+061 | Conspicuous Consumption | 19th-c | North America
+062 | The Indian Ocean Trade | medieval | South Asia
+063 | Purchasing Power Parity | timeless | global
+064 | The Price Revolution | early-modern | Europe
+065 | The CFA Franc | 20th-c | Africa
+066 | Quantitative Easing | 21st-c | global
+067 | Oikonomia and Chrematistics | ancient | Europe
+068 | The Maghribi Traders | medieval | Africa
+069 | Externalities | timeless | global
+070 | Creative Destruction | 20th-c | Europe
+071 | The Dojima Rice Exchange | early-modern | East Asia
+072 | Say's Law | 19th-c | Europe
+073 | Import Substitution Industrialisation | 20th-c | Latin America
+074 | Rent-Seeking | timeless | global
+075 | Hayek and the Knowledge Problem | 20th-c | Europe
+076 | Paper Money in Song China | medieval | East Asia
+077 | The Coase Theorem | 20th-c | North America
+078 | The Division of Labour | early-modern | Europe
+079 | From GATT to the WTO | 20th-c | global
+080 | The Corn Laws | 19th-c | Europe
+081 | The Single Whip Tax Reform | early-modern | East Asia
+082 | The Stone Money of Yap | timeless | Oceania
+083 | The Trans-Saharan Gold Trade | medieval | Africa
+084 | China's Reform and Opening | 20th-c | East Asia
+085 | Henry George's Land Value Tax | 19th-c | North America
+086 | The Eurozone Debt Crisis | 21st-c | Europe
+087 | Fiat Money | timeless | global
+088 | Double-Entry Bookkeeping | medieval | Europe
+089 | Debt Cancellation in Mesopotamia | ancient | Middle East
+090 | Ujamaa in Tanzania | 20th-c | Africa
+091 | The South Sea Bubble | early-modern | Europe
+092 | The Federal Reserve | 20th-c | North America
+093 | The Dutch East India Company | early-modern | Europe
+094 | Hyperinflation | 20th-c | global
+095 | The Medici Bank | medieval | Europe
+096 | The Latin American Debt Crisis | 20th-c | Latin America
+097 | Barter and the Double Coincidence of Wants | timeless | global
+098 | OPEC and the 1973 Oil Shock | 20th-c | Middle East
+099 | Fractional-Reserve Banking | timeless | global
+100 | The Four Asian Tigers | 20th-c | East Asia
+101 | The Sherman Antitrust Act | 19th-c | North America
+102 | The Manila Galleons | early-modern | Southeast Asia
+103 | Hawala | medieval | Middle East
+104 | The Tragedy of the Commons | timeless | global
+105 | The Invention of Coinage | ancient | Middle East
+106 | Soviet Five-Year Plans | 20th-c | Europe
+107 | M-Pesa and Mobile Money | 21st-c | Africa
+108 | The Sogdian Merchants | medieval | Central Asia
+109 | The Lender of Last Resort | 19th-c | Europe
+110 | The Infant Industry Argument | early-modern | North America

@@ -1,0 +1,112 @@
+# geography: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | Lake Baikal | - | -
+002 | The Bosphorus | - | -
+003 | The Gulf Stream | - | -
+004 | The Himalayas | - | -
+005 | The Nile | - | -
+006 | The Sahara | - | -
+007 | The Panama Canal | - | -
+008 | The Amazon Rainforest | - | -
+009 | The Strait of Gibraltar | - | -
+010 | The Ring of Fire | - | -
+011 | The Dead Sea | - | -
+012 | The Tropics and Polar Circles | - | -
+013 | The Suez Canal | - | -
+014 | The Mariana Trench | - | -
+015 | Greenland | - | -
+016 | Tropical Cyclones | timeless | global
+017 | The Caribbean Sea | timeless | Latin America
+018 | Von Thünen's Model of Land Use | 19th-c | Europe
+019 | The Continental Shelf | timeless | global
+020 | The Tigris and Euphrates | timeless | Middle East
+021 | The Ganges | timeless | South Asia
+022 | Fjords | timeless | global
+023 | The Mekong | timeless | Southeast Asia
+024 | The Tibetan Plateau | timeless | East Asia
+025 | The Aral Sea | 20th-c | Central Asia
+026 | The Savanna | timeless | Africa
+027 | The Andes | timeless | Latin America
+028 | The Mercator Projection | early-modern | Europe
+029 | The Rocky Mountains | timeless | North America
+030 | The Southern Alps | timeless | Oceania
+031 | The Anthropocene | 21st-c | global
+032 | The Congo River | timeless | Africa
+033 | Yellowstone | timeless | North America
+034 | The Tundra | timeless | global
+035 | The Great Trigonometrical Survey | 19th-c | South Asia
+036 | The Niger River | timeless | Africa
+037 | The Great Lakes | timeless | North America
+038 | The Strait of Malacca | timeless | Southeast Asia
+039 | The Indian Ocean | timeless | global
+040 | Central Place Theory | 20th-c | Europe
+041 | The Deccan Plateau | timeless | South Asia
+042 | The Atacama Desert | timeless | Latin America
+043 | El Niño | timeless | global
+044 | Victoria Falls | timeless | Africa
+045 | The Gobi Desert | timeless | East Asia
+046 | The Coriolis Effect | timeless | global
+047 | The Hawaiian Islands | timeless | Oceania
+048 | The Strait of Hormuz | timeless | Middle East
+049 | The Atlas Mountains | timeless | Africa
+050 | River Deltas | timeless | global
+051 | The Eurasian Steppe | timeless | Central Asia
+052 | Waldseemüller's Map | early-modern | Europe
+053 | The Valley of Mexico | timeless | Latin America
+054 | The Wallace Line | timeless | Southeast Asia
+055 | Drainage Basins and Watersheds | timeless | global
+056 | Ptolemy's Geography | ancient | Africa
+057 | Mount Fuji | timeless | East Asia
+058 | The Alps | timeless | Europe
+059 | The Canadian Shield | timeless | North America
+060 | The Pacific Ocean | timeless | global
+061 | The Caspian Sea | timeless | Central Asia
+062 | The Sahel | timeless | Africa
+063 | The Indus River | timeless | South Asia
+064 | The Prime Meridian | 19th-c | global
+065 | The Grand Canal of China | medieval | East Asia
+066 | Iceland | timeless | Europe
+067 | Latitude and Longitude | timeless | global
+068 | The Megalopolis | 20th-c | North America
+069 | Uluru | timeless | Oceania
+070 | Patagonia | timeless | Latin America
+071 | The Red Sea | timeless | Middle East
+072 | The Taiga | timeless | global
+073 | The Khyber Pass | timeless | South Asia
+074 | Al-Idrisi's World Map | medieval | Europe
+075 | The Rain Shadow | timeless | global
+076 | The San Andreas Fault | timeless | North America
+077 | The Köppen Climate Classification | 19th-c | global
+078 | The Australian Outback | timeless | Oceania
+079 | The Arctic Ocean | timeless | global
+080 | The Okavango Delta | timeless | Africa
+081 | The Fertile Crescent | ancient | Middle East
+082 | How Many Continents There Are | timeless | global
+083 | Cape Horn and the Drake Passage | timeless | Latin America
+084 | The Mississippi River | timeless | North America
+085 | Glaciers | timeless | global
+086 | The Danube | timeless | Europe
+087 | The Great Rift Valley | timeless | Africa
+088 | The Trade Winds | timeless | global
+089 | The Galápagos Islands | timeless | Latin America
+090 | The Yangtze River | timeless | East Asia
+091 | The Demographic Transition | 20th-c | global
+092 | The Monsoon | timeless | South Asia
+093 | The Empty Quarter | timeless | Middle East
+094 | The Grand Canyon | timeless | North America
+095 | The Mediterranean Climate | timeless | global
+096 | The Ural Mountains | timeless | Europe
+097 | The Three Gorges Dam | 21st-c | East Asia
+098 | Antarctica | timeless | global
+099 | Lake Titicaca | timeless | Latin America
+100 | The Jet Stream | timeless | global
+101 | Beringia | ancient | North America
+102 | The Great Barrier Reef | timeless | Oceania
+103 | Karst Landscapes | timeless | global
+104 | Madagascar | timeless | Africa
+105 | The Sundarbans | timeless | South Asia
+106 | Thermohaline Circulation | timeless | global
+107 | Dutch Polders | medieval | Europe
+108 | The Yellow River | timeless | East Asia
+109 | Mount Kilimanjaro | timeless | Africa
+110 | The International Date Line | 19th-c | global

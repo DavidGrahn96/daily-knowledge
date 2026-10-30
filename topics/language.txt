@@ -1,0 +1,112 @@
+# language: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | The Indo-European Languages | - | -
+002 | Runes | - | -
+003 | The Origin of the Alphabet | - | -
+004 | Greek Building Blocks | - | -
+005 | Ethos, Pathos and Logos | - | -
+006 | A Pyrrhic Victory | - | -
+007 | Norman French in English | - | -
+008 | Grimm's Law | - | -
+009 | The Rosetta Stone | - | -
+010 | The Great Vowel Shift | - | -
+011 | Crossing the Rubicon | - | -
+012 | Salary and Salt | - | -
+013 | Chinese Characters | - | -
+014 | Latin Abbreviations | - | -
+015 | Pāṇini's Grammar | - | -
+016 | Prescriptive and Descriptive Grammar | early-modern | global
+017 | Nebrija's Castilian Grammar | medieval | Europe
+018 | The Septuagint | ancient | Middle East
+019 | Tone Languages | timeless | global
+020 | Saussure and the Linguistic Sign | 20th-c | Europe
+021 | Kanji and Kana | medieval | East Asia
+022 | The Austronesian Languages | ancient | Southeast Asia
+023 | The King James Bible | early-modern | Europe
+024 | The Navajo Code Talkers | 20th-c | North America
+025 | Brazil's Língua Geral | early-modern | Latin America
+026 | Boycott | 19th-c | Europe
+027 | The Bantu Expansion | ancient | Africa
+028 | Dhvani: Suggestion in Sanskrit Poetics | medieval | South Asia
+029 | The Turkic Languages | timeless | Central Asia
+030 | The Indo-European Homeland Debate | 21st-c | global
+031 | Arabic Words in European Languages | medieval | Middle East
+032 | The Māori Language Revival | 20th-c | Oceania
+033 | Yan Fu's Three Principles of Translation | 19th-c | East Asia
+034 | Coptic | ancient | Africa
+035 | Tocharian | medieval | Central Asia
+036 | Orwell's Politics and the English Language | 20th-c | Europe
+037 | Haitian Creole | early-modern | Latin America
+038 | The Revival of Hebrew | 19th-c | Middle East
+039 | Isolating, Agglutinative and Fusional Languages | timeless | global
+040 | The Indus Script | ancient | South Asia
+041 | Webster's American Dictionary | 19th-c | North America
+042 | Metaphor and Metonymy | timeless | global
+043 | Yiddish | medieval | Europe
+044 | Indonesian as a National Language | 20th-c | Southeast Asia
+045 | The Shuowen Jiezi | ancient | East Asia
+046 | Tamazight and Tifinagh | 21st-c | Africa
+047 | The Académie Française | early-modern | Europe
+048 | The Bengali Language Movement | 20th-c | South Asia
+049 | Mandarin and Standard Chinese | early-modern | East Asia
+050 | Linear B | ancient | Europe
+051 | Rongorongo | 19th-c | Oceania
+052 | The Graeco-Arabic Translation Movement | medieval | Middle East
+053 | The Afroasiatic Languages | timeless | Africa
+054 | Quechua | early-modern | Latin America
+055 | Basic Word Order | timeless | global
+056 | Sequoyah's Cherokee Syllabary | 19th-c | North America
+057 | Nicaraguan Sign Language | 20th-c | Latin America
+058 | Writing the Hawaiian Language | 19th-c | Oceania
+059 | Swahili | medieval | Africa
+060 | The Uralic Languages | timeless | Europe
+061 | The Armenian Alphabet | ancient | Middle East
+062 | A Language Is a Dialect with an Army | 20th-c | global
+063 | Sanskrit | ancient | South Asia
+064 | Basque, a Language Isolate | timeless | Europe
+065 | Cuneiform | ancient | Middle East
+066 | The Mongolian Script | medieval | Central Asia
+067 | Grice's Maxims of Conversation | 20th-c | Europe
+068 | Hangul | medieval | East Asia
+069 | Brahmi and Its Descendant Scripts | ancient | South Asia
+070 | Vietnamese Quốc Ngữ | early-modern | Southeast Asia
+071 | Classical Chinese Across East Asia | medieval | East Asia
+072 | The Oxford English Dictionary | 19th-c | Europe
+073 | The Invention of Writing | ancient | global
+074 | The Inca Khipu | medieval | Latin America
+075 | Dara Shikoh's Persian Upanishads | early-modern | South Asia
+076 | Turkey's 1928 Alphabet Reform | 20th-c | Middle East
+077 | Meiji Japan's New Vocabulary | 19th-c | East Asia
+078 | Nahuatl | early-modern | Latin America
+079 | Sibawayh and the Founding of Arabic Grammar | medieval | Middle East
+080 | Jerome's Vulgate | ancient | Europe
+081 | Australian Aboriginal Languages | timeless | Oceania
+082 | Baybayin | early-modern | Southeast Asia
+083 | From Latin to the Romance Languages | medieval | Europe
+084 | The Phoneme | timeless | global
+085 | The Sapir–Whorf Hypothesis | 20th-c | North America
+086 | Click Consonants | timeless | Africa
+087 | Esperanto | 19th-c | Europe
+088 | Tamil and the Dravidian Languages | ancient | South Asia
+089 | Persian, a Language of Empires | medieval | Central Asia
+090 | The International Phonetic Alphabet | 19th-c | Europe
+091 | The Vernacular Chinese Movement | 20th-c | East Asia
+092 | The Maya Script | medieval | Latin America
+093 | Aramaic | ancient | Middle East
+094 | Language Endangerment | 21st-c | global
+095 | The Five Canons of Rhetoric | ancient | Europe
+096 | Kashgari's Compendium of Turkic Dialects | medieval | Central Asia
+097 | Arabic Diglossia | timeless | Middle East
+098 | Braille | 19th-c | Europe
+099 | N'Ko | 20th-c | Africa
+100 | Kumarajiva's Buddhist Translations | ancient | East Asia
+101 | The Cyrillic Alphabet | medieval | Europe
+102 | Hindi and Urdu | 19th-c | South Asia
+103 | Tok Pisin | 20th-c | Oceania
+104 | Luther's German Bible | early-modern | Europe
+105 | Macaulay's Minute on Indian Education | 19th-c | South Asia
+106 | Ge'ez and the Ethiopic Script | ancient | Africa
+107 | Evidentiality | timeless | global
+108 | Chomsky and Universal Grammar | 20th-c | North America
+109 | Johnson's Dictionary | early-modern | Europe
+110 | Chinese Script Reform in the 1950s | 20th-c | East Asia

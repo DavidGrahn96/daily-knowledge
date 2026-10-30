@@ -1,0 +1,112 @@
+# history: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | The Peace of Westphalia | - | -
+002 | Luther's 95 Theses | - | -
+003 | Magna Carta | - | -
+004 | The French Revolution | - | -
+005 | The Fall of the Western Roman Empire | - | -
+006 | The Kalmar Union | - | -
+007 | The Gunpowder Plot | - | -
+008 | The Fall of Constantinople | - | -
+009 | The Battle of Hastings | - | -
+010 | Columbus Reaches the Americas | - | -
+011 | The Treaty of Versailles | - | -
+012 | The Fall of the Berlin Wall | - | -
+013 | The Black Death | - | -
+014 | The Congress of Vienna | - | -
+015 | The Meiji Restoration | - | -
+016 | The Battle of Sekigahara | early-modern | East Asia
+017 | The First Australians | ancient | Oceania
+018 | The Cold War | 20th-c | global
+019 | The Delhi Sultanate | medieval | South Asia
+020 | The Korean War | 20th-c | East Asia
+021 | The English Civil War | early-modern | Europe
+022 | The Kingdom of Kush | ancient | Africa
+023 | Napoleon Bonaparte | 19th-c | Europe
+024 | The Early Islamic Conquests | medieval | Middle East
+025 | The Scramble for Africa | 19th-c | Africa
+026 | The Outbreak of the First World War | 20th-c | Europe
+027 | Túpac Amaru II's Rebellion | early-modern | Latin America
+028 | Cahokia | medieval | North America
+029 | The Rwandan Genocide | 20th-c | Africa
+030 | The Maurya Empire and Ashoka | ancient | South Asia
+031 | The Unification of Germany | 19th-c | Europe
+032 | The Code of Hammurabi | ancient | Middle East
+033 | The Aztec Empire | medieval | Latin America
+034 | The Qing Conquest of China | early-modern | East Asia
+035 | The Persian Wars | ancient | Europe
+036 | The Atlantic Slave Trade | early-modern | Africa
+037 | The Revolutions of 1848 | 19th-c | Europe
+038 | The Tang Dynasty | medieval | East Asia
+039 | The Partition of India | 20th-c | South Asia
+040 | The Mongol Empire | medieval | Central Asia
+041 | The Founding of the People's Republic of China | 20th-c | East Asia
+042 | Peter the Great | early-modern | Europe
+043 | The Bronze Age Collapse | ancient | Middle East
+044 | The Battle of Adwa | 19th-c | Africa
+045 | The Cuban Missile Crisis | 20th-c | North America
+046 | The Unification of Egypt | ancient | Africa
+047 | The Kingdom of Hawaii | 19th-c | Oceania
+048 | The Salt March | 20th-c | South Asia
+049 | The Viking Age | medieval | Europe
+050 | The Second World War | 20th-c | global
+051 | Sargon of Akkad | ancient | Middle East
+052 | The Khmer Empire | medieval | Southeast Asia
+053 | The Haitian Revolution | early-modern | Latin America
+054 | The Hundred Years' War | medieval | Europe
+055 | Suleiman the Magnificent | early-modern | Middle East
+056 | The Taiping Rebellion | 19th-c | East Asia
+057 | Great Zimbabwe | medieval | Africa
+058 | The September 11 Attacks | 21st-c | North America
+059 | The Achaemenid Persian Empire | ancient | Middle East
+060 | The Kamakura Shogunate | medieval | East Asia
+061 | The Gupta Empire | ancient | South Asia
+062 | The Safavid Empire | early-modern | Middle East
+063 | The Vietnam War | 20th-c | Southeast Asia
+064 | The First Fleet | early-modern | Oceania
+065 | The Dissolution of the Soviet Union | 20th-c | Europe
+066 | The Shang Dynasty | ancient | East Asia
+067 | The Mexican Revolution | 20th-c | Latin America
+068 | Alexander the Great | ancient | Europe
+069 | The Inca Empire | medieval | Latin America
+070 | Shaka and the Zulu Kingdom | 19th-c | Africa
+071 | The Maratha Empire | early-modern | South Asia
+072 | The Emancipation of the Russian Serfs | 19th-c | Europe
+073 | The Armenian Genocide | 20th-c | Middle East
+074 | The Opium Wars | 19th-c | East Asia
+075 | The 1948 Arab–Israeli War | 20th-c | Middle East
+076 | The Indus Valley Civilisation | ancient | South Asia
+077 | Kievan Rus' | medieval | Europe
+078 | The Mughal Empire | early-modern | South Asia
+079 | The Reconquista | medieval | Europe
+080 | The First Emperor of China | ancient | East Asia
+081 | The Polynesian Settlement of the Pacific | medieval | Oceania
+082 | The Spanish Philippines | early-modern | Southeast Asia
+083 | Bolívar and Spanish American Independence | 19th-c | Latin America
+084 | The Year of Africa | 20th-c | Africa
+085 | The American Revolution | early-modern | North America
+086 | The Iranian Revolution | 20th-c | Middle East
+087 | Augustus, the First Roman Emperor | ancient | Europe
+088 | Muhammad Ali of Egypt | 19th-c | Africa
+089 | The Voyages of Zheng He | medieval | East Asia
+090 | The Kingdom of Aksum | ancient | Africa
+091 | The 1973 Chilean Coup | 20th-c | Latin America
+092 | The American Civil War | 19th-c | North America
+093 | The Classic Maya City-States | ancient | Latin America
+094 | The Holocaust | 20th-c | Europe
+095 | The Songhai Empire | early-modern | Africa
+096 | The Crusades | medieval | Middle East
+097 | The Punic Wars | ancient | Europe
+098 | The Arab Spring | 21st-c | Middle East
+099 | Mansa Musa and the Mali Empire | medieval | Africa
+100 | The Xinhai Revolution | 20th-c | East Asia
+101 | The Seven Years' War | early-modern | global
+102 | Charlemagne | medieval | Europe
+103 | The Battle of Plassey | early-modern | South Asia
+104 | The Russian Revolution | 20th-c | Europe
+105 | The Indian Rebellion of 1857 | 19th-c | South Asia
+106 | The Algerian War of Independence | 20th-c | Africa
+107 | The Han Dynasty | ancient | East Asia
+108 | The Abbasid Caliphate | medieval | Middle East
+109 | The Khmer Rouge | 20th-c | Southeast Asia
+110 | The Paraguayan War | 19th-c | Latin America

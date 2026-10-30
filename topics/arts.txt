@@ -1,0 +1,112 @@
+# arts: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | Don Quixote | - | -
+002 | The Divine Comedy | - | -
+003 | Impressionism | - | -
+004 | War and Peace | - | -
+005 | The Sistine Chapel Ceiling | - | -
+006 | Hamlet | - | -
+007 | The Iliad and the Odyssey | - | -
+008 | The Mona Lisa | - | -
+009 | Guernica | - | -
+010 | Pride and Prejudice | - | -
+011 | Gothic Architecture | - | -
+012 | The Night Watch | - | -
+013 | Franz Kafka | - | -
+014 | A Doll's House | - | -
+015 | Cubism | - | -
+016 | The Popol Vuh | early-modern | Latin America
+017 | Romanticism in Art and Literature | 19th-c | Europe
+018 | Abstract Expressionism | 20th-c | North America
+019 | Mimar Sinan | early-modern | Middle East
+020 | Ovid's Metamorphoses | ancient | Europe
+021 | Half of a Yellow Sun | 21st-c | Africa
+022 | Citizen Kane | 20th-c | North America
+023 | The Shahnameh | medieval | Middle East
+024 | Chingiz Aitmatov | 20th-c | Central Asia
+025 | The Canterbury Tales | medieval | Europe
+026 | The Ramayana | ancient | South Asia
+027 | Madame Bovary | 19th-c | Europe
+028 | Satyajit Ray's Apu Trilogy | 20th-c | South Asia
+029 | The Bust of Nefertiti | ancient | Africa
+030 | Bernini | early-modern | Europe
+031 | The Epic of Sundiata | medieval | Africa
+032 | The Parthenon | ancient | Europe
+033 | Wole Soyinka | 20th-c | Africa
+034 | The Moai of Rapa Nui | medieval | Oceania
+035 | Han Kang | 21st-c | East Asia
+036 | The Rock-Hewn Churches of Lalibela | medieval | Africa
+037 | Caravaggio | early-modern | Europe
+038 | The Terracotta Army | ancient | East Asia
+039 | Rabindranath Tagore | 20th-c | South Asia
+040 | Greek Tragedy | ancient | Europe
+041 | Duchamp's Fountain | 20th-c | North America
+042 | Virgil's Aeneid | ancient | Europe
+043 | Things Fall Apart | 20th-c | Africa
+044 | Goethe's Faust | 19th-c | Europe
+045 | Akira Kurosawa | 20th-c | East Asia
+046 | The Bayeux Tapestry | medieval | Europe
+047 | The Mahabharata | ancient | South Asia
+048 | Vincent van Gogh | 19th-c | Europe
+049 | Mughal Miniature Painting | early-modern | South Asia
+050 | The Dome of the Rock | medieval | Middle East
+051 | Sor Juana Inés de la Cruz | early-modern | Latin America
+052 | Chola Bronzes | medieval | South Asia
+053 | Waiting for Godot | 20th-c | Europe
+054 | The Taj Mahal | early-modern | South Asia
+055 | The Bauhaus | 20th-c | Europe
+056 | Fresco | timeless | global
+057 | Leaves of Grass | 19th-c | North America
+058 | Lu Xun | 20th-c | East Asia
+059 | Beowulf | medieval | Europe
+060 | Parasite | 21st-c | East Asia
+061 | Olmec Colossal Heads | ancient | Latin America
+062 | One Thousand and One Nights | medieval | Middle East
+063 | The Ajanta Caves | ancient | South Asia
+064 | Behzad and Persian Miniature Painting | medieval | Central Asia
+065 | Las Meninas | early-modern | Europe
+066 | The Sydney Opera House | 20th-c | Oceania
+067 | Angkor Wat | medieval | Southeast Asia
+068 | Migrant Mother | 20th-c | North America
+069 | Matsuo Bashō | early-modern | East Asia
+070 | The Arnolfini Portrait | medieval | Europe
+071 | Naguib Mahfouz | 20th-c | Africa
+072 | Crime and Punishment | 19th-c | Europe
+073 | Chinese Landscape Painting | medieval | East Asia
+074 | Moby-Dick | 19th-c | North America
+075 | Spirited Away | 21st-c | East Asia
+076 | The Epic of Gilgamesh | ancient | Middle East
+077 | Wayang Kulit | timeless | Southeast Asia
+078 | Surrealism | 20th-c | Europe
+079 | Journey to the West | early-modern | East Asia
+080 | Frida Kahlo | 20th-c | Latin America
+081 | Michelangelo's David | early-modern | Europe
+082 | Borobudur | medieval | Southeast Asia
+083 | One Hundred Years of Solitude | 20th-c | Latin America
+084 | The Alhambra | medieval | Europe
+085 | The Tale of Kieu | 19th-c | Southeast Asia
+086 | The Tale of Genji | medieval | East Asia
+087 | The Harlem Renaissance | 20th-c | North America
+088 | Giotto | medieval | Europe
+089 | The Great Wave off Kanagawa | 19th-c | East Asia
+090 | Kalidasa's Shakuntala | ancient | South Asia
+091 | The School of Athens | early-modern | Europe
+092 | Mexican Muralism | 20th-c | Latin America
+093 | Hagia Sophia | medieval | Europe
+094 | Dream of the Red Chamber | early-modern | East Asia
+095 | Islamic Geometric Ornament | timeless | Middle East
+096 | Joyce's Ulysses | 20th-c | Europe
+097 | Noh Theatre | medieval | East Asia
+098 | Nineteen Eighty-Four | 20th-c | Europe
+099 | Li Bai and Du Fu | medieval | East Asia
+100 | Noli Me Tángere | 19th-c | Southeast Asia
+101 | Jorge Luis Borges | 20th-c | Latin America
+102 | Paradise Lost | early-modern | Europe
+103 | Mirza Ghalib | 19th-c | South Asia
+104 | Linear Perspective | medieval | Europe
+105 | Australian Aboriginal Rock Art | ancient | Oceania
+106 | Molière | early-modern | Europe
+107 | Zaha Hadid | 21st-c | global
+108 | The Ishtar Gate | ancient | Middle East
+109 | The Benin Bronzes | early-modern | Africa
+110 | Svetlana Alexievich | 21st-c | Europe

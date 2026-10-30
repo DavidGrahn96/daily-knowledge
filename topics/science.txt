@@ -1,0 +1,112 @@
+# science: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | The Second Law of Thermodynamics | - | -
+002 | Evolution by Natural Selection | - | -
+003 | The Periodic Table | - | -
+004 | The DNA Double Helix | - | -
+005 | Relativity | - | -
+006 | Photosynthesis | - | -
+007 | Newton's Laws of Motion | - | -
+008 | Heliocentrism | - | -
+009 | Germ Theory of Disease | - | -
+010 | Plate Tectonics | - | -
+011 | Penicillin | - | -
+012 | The Big Bang | - | -
+013 | The Speed of Light | - | -
+014 | Cell Theory | - | -
+015 | Quantum Mechanics | - | -
+016 | Oral Rehydration Therapy | 20th-c | South Asia
+017 | Newton's Prism and the Colours of Light | early-modern | Europe
+018 | CRISPR Gene Editing | 21st-c | global
+019 | Al-Tusi and the Maragha Observatory | medieval | Middle East
+020 | The Discovery of X-Rays | 19th-c | Europe
+021 | Radiocarbon Dating | 20th-c | North America
+022 | The Eruption of Krakatoa | 19th-c | Southeast Asia
+023 | Hutton and Deep Time | early-modern | Europe
+024 | Carlos Finlay and Yellow Fever | 19th-c | Latin America
+025 | The Raman Effect | 20th-c | South Asia
+026 | Catalysts and Enzymes | timeless | global
+027 | Leeuwenhoek's Animalcules | early-modern | Europe
+028 | Babylonian Astronomy | ancient | Middle East
+029 | The Genetic Code | 20th-c | global
+030 | John Snow and Cholera | 19th-c | Europe
+031 | The Discovery of Insulin | 20th-c | North America
+032 | Archimedes' Principle | ancient | Europe
+033 | Yukawa and the Strong Force | 20th-c | East Asia
+034 | Hippocratic Medicine | ancient | Europe
+035 | Bose–Einstein Statistics | 20th-c | South Asia
+036 | Ibn Sina's Canon of Medicine | medieval | Central Asia
+037 | The First Image of a Black Hole | 21st-c | global
+038 | Air Pressure and the Vacuum | early-modern | Europe
+039 | The Asteroid That Ended the Dinosaurs | 20th-c | Latin America
+040 | The Edwin Smith Papyrus | ancient | Africa
+041 | The Neanderthal Genome | 21st-c | Europe
+042 | Absolute Zero | timeless | global
+043 | Maxwell's Equations | 19th-c | Europe
+044 | Neutrino Oscillation | 20th-c | East Asia
+045 | The Discovery of the Electron | 19th-c | Europe
+046 | Leavitt's Law and Cosmic Distances | 20th-c | North America
+047 | Galen's Medicine | ancient | Europe
+048 | Smallpox Inoculation | early-modern | global
+049 | Java Man | 19th-c | Southeast Asia
+050 | Shen Kuo's Dream Pool Essays | medieval | East Asia
+051 | Harvey and the Circulation of the Blood | early-modern | Europe
+052 | Humboldt's Journey Through the Americas | 19th-c | Latin America
+053 | The Discovery of HIV | 20th-c | Europe
+054 | Franklin and the Electricity of Lightning | early-modern | North America
+055 | Faraday and Electromagnetic Induction | 19th-c | Europe
+056 | Helicobacter pylori and Stomach Ulcers | 20th-c | Oceania
+057 | The Human Genome Project | 21st-c | global
+058 | Vesalius and Human Anatomy | early-modern | Europe
+059 | Induced Pluripotent Stem Cells | 21st-c | East Asia
+060 | The Electromagnetic Spectrum | timeless | global
+061 | Blood Groups | 20th-c | Europe
+062 | Al-Razi on Smallpox and Measles | medieval | Middle East
+063 | Malaria and the Mosquito | 19th-c | South Asia
+064 | The Maya Venus Table | medieval | Latin America
+065 | Radioactivity and the Curies | 19th-c | Europe
+066 | The First Heart Transplant | 20th-c | Africa
+067 | The Discovery of Ice Ages | 19th-c | global
+068 | Endosymbiotic Theory | 20th-c | North America
+069 | The Sushruta Samhita | ancient | South Asia
+070 | Galileo and Falling Bodies | early-modern | Europe
+071 | Human Origins in Africa | ancient | Africa
+072 | Rutherford's Nuclear Atom | 20th-c | Europe
+073 | The Four Fundamental Forces | timeless | global
+074 | The Photoelectric Effect | 20th-c | Europe
+075 | The Greenhouse Effect | 19th-c | global
+076 | Linnaean Classification | early-modern | Europe
+077 | The Plague Bacterium | 19th-c | East Asia
+078 | Ptolemy's Almagest | ancient | Africa
+079 | Ibn al-Haytham's Book of Optics | medieval | Middle East
+080 | Lind's Scurvy Trial | early-modern | Europe
+081 | Chagas Disease | 20th-c | Latin America
+082 | Jenner's Smallpox Vaccine | early-modern | Europe
+083 | Chromosomes and Heredity | 20th-c | North America
+084 | Ulugh Beg's Samarkand Observatory | medieval | Central Asia
+085 | Smoking and Lung Cancer | 20th-c | Europe
+086 | Homeostasis | timeless | global
+087 | Dalton's Atomic Theory | 19th-c | Europe
+088 | Clonal Selection Theory | 20th-c | Oceania
+089 | Gravitational Waves | 21st-c | North America
+090 | Hipparchus and the Precession of the Equinoxes | ancient | Europe
+091 | Hanaoka Seishū and General Anaesthesia | 19th-c | East Asia
+092 | What Makes the Stars Shine | 20th-c | global
+093 | Cuvier and Extinction | early-modern | Europe
+094 | The Ozone Hole | 20th-c | global
+095 | Young's Double-Slit Experiment | 19th-c | Europe
+096 | Tu Youyou and Artemisinin | 20th-c | East Asia
+097 | Antibiotic Resistance | timeless | global
+098 | Lavoisier and the Chemical Revolution | early-modern | Europe
+099 | The Eradication of Smallpox | 20th-c | Africa
+100 | The Neuron Doctrine | 19th-c | Europe
+101 | Eratosthenes Measures the Earth | ancient | Africa
+102 | Eijkman and the Discovery of Vitamins | 19th-c | Southeast Asia
+103 | Aryabhata and the Rotating Earth | ancient | South Asia
+104 | Mendel's Laws of Inheritance | 19th-c | Europe
+105 | Ibn al-Nafis and the Pulmonary Circulation | medieval | Middle East
+106 | Conservation of Energy | 19th-c | Europe
+107 | Circadian Rhythms | timeless | global
+108 | Dark Matter | 20th-c | North America
+109 | The Higgs Boson | 21st-c | Europe
+110 | The Supernova of 1054 | medieval | East Asia

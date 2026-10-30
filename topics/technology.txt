@@ -1,0 +1,112 @@
+# technology: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | Gutenberg's Printing Press | - | -
+002 | Watt's Steam Engine | - | -
+003 | The Transistor | - | -
+004 | The World Wide Web | - | -
+005 | The Light Bulb | - | -
+006 | The Haber–Bosch Process | - | -
+007 | Dynamite | - | -
+008 | The Wheel | - | -
+009 | The Telephone | - | -
+010 | The First Powered Flight | - | -
+011 | The Turing Machine | - | -
+012 | The Moon Landing | - | -
+013 | The Electric Telegraph | - | -
+014 | Roman Concrete | - | -
+015 | GPS | - | -
+016 | The Quartz Watch | 20th-c | East Asia
+017 | Budj Bim Eel Traps | ancient | Oceania
+018 | The Laser | 20th-c | North America
+019 | Chinese Porcelain | medieval | East Asia
+020 | Archimedes' Screw | ancient | Europe
+021 | The Mobile Phone | 20th-c | global
+022 | Babbage's Analytical Engine | 19th-c | Europe
+023 | Mesoamerican Rubber | ancient | Latin America
+024 | The Microprocessor | 20th-c | North America
+025 | Gunpowder | medieval | East Asia
+026 | Radar | 20th-c | Europe
+027 | Stepwells of India | medieval | South Asia
+028 | The Cotton Gin | early-modern | North America
+029 | Zhang Heng's Seismoscope | ancient | East Asia
+030 | Breaking Enigma | 20th-c | Europe
+031 | Papyrus | ancient | Africa
+032 | The Shinkansen | 20th-c | East Asia
+033 | Roman Aqueducts | ancient | Europe
+034 | The Lithium-Ion Battery | 20th-c | global
+035 | The Antikythera Mechanism | ancient | Europe
+036 | The Voyager Probes | 20th-c | global
+037 | Champa Rice | medieval | Southeast Asia
+038 | The Mouse and the Graphical Interface | 20th-c | North America
+039 | Wikipedia | 21st-c | global
+040 | The Blue LED | 20th-c | East Asia
+041 | Bazalgette's London Sewers | 19th-c | Europe
+042 | Wootz Steel | ancient | South Asia
+043 | The Integrated Circuit | 20th-c | North America
+044 | Printing in East Asia | medieval | East Asia
+045 | The War of the Currents | 19th-c | North America
+046 | The Stirrup | ancient | East Asia
+047 | The Persian Windmill | medieval | Middle East
+048 | Brazil's Ethanol Programme | 20th-c | Latin America
+049 | The Telescope | early-modern | Europe
+050 | Bronze Metallurgy | ancient | Middle East
+051 | Television | 20th-c | Europe
+052 | The Control of Fire | ancient | Africa
+053 | Public-Key Cryptography | 20th-c | global
+054 | Glassblowing | ancient | Middle East
+055 | Yuri Gagarin's Spaceflight | 20th-c | Central Asia
+056 | Gutta-Percha and Undersea Cables | 19th-c | Southeast Asia
+057 | The Spinning Jenny | early-modern | Europe
+058 | The Hejaz Railway | 20th-c | Middle East
+059 | The Transformer in Artificial Intelligence | 21st-c | global
+060 | The Water Wheel | ancient | Europe
+061 | Medical Drone Delivery in Rwanda | 21st-c | Africa
+062 | The Iron Pillar of Delhi | ancient | South Asia
+063 | The Jet Engine | 20th-c | Europe
+064 | The Earliest Pottery | ancient | East Asia
+065 | Radio | 19th-c | Europe
+066 | The Astrolabe | medieval | Middle East
+067 | The Voltaic Pile | 19th-c | Europe
+068 | Optical Fibre Communication | 20th-c | global
+069 | Su Song's Astronomical Clock Tower | medieval | East Asia
+070 | The First Nuclear Reactor | 20th-c | North America
+071 | The First Stone Tools | ancient | Africa
+072 | The Shipping Container | 20th-c | North America
+073 | Al-Jazari's Ingenious Devices | medieval | Middle East
+074 | The Steam Locomotive | 19th-c | Europe
+075 | AlphaGo | 21st-c | East Asia
+076 | The Lighthouse of Alexandria | ancient | Africa
+077 | The Solar Cell | 20th-c | North America
+078 | The International Space Station | 21st-c | global
+079 | The First Electronic Computers | 20th-c | North America
+080 | Iron Smelting | ancient | Middle East
+081 | The Black Box Flight Recorder | 20th-c | Oceania
+082 | The Grand Anicut | ancient | South Asia
+083 | Sputnik 1 | 20th-c | Central Asia
+084 | Spectacles | medieval | Europe
+085 | The First Oil Wells | 19th-c | global
+086 | Liquid-Fuel Rockets | 20th-c | North America
+087 | Papermaking | ancient | East Asia
+088 | The Pendulum Clock | early-modern | Europe
+089 | Communications Satellites | 20th-c | global
+090 | The Magnetic Compass | medieval | East Asia
+091 | The Bessemer Process | 19th-c | Europe
+092 | The Qanat | ancient | Middle East
+093 | The Assembly Line | 20th-c | North America
+094 | Chinese Cast Iron | ancient | East Asia
+095 | The Aswan High Dam | 20th-c | Africa
+096 | The Hall–Héroult Process | 19th-c | global
+097 | The Green Revolution | 20th-c | South Asia
+098 | The Motor Car | 19th-c | Europe
+099 | The Inca Road System | medieval | Latin America
+100 | The Marine Chronometer | early-modern | Europe
+101 | India's Unified Payments Interface | 21st-c | South Asia
+102 | The Mechanical Clock | medieval | Europe
+103 | The Snowy Mountains Scheme | 20th-c | Oceania
+104 | The Jacquard Loom | 19th-c | Europe
+105 | The Composite Bow | ancient | Central Asia
+106 | Chandrayaan-3 | 21st-c | South Asia
+107 | The ARPANET and Internet Protocols | 20th-c | North America
+108 | The Plough | ancient | Middle East
+109 | The Smartphone | 21st-c | North America
+110 | Aztec Chinampas | medieval | Latin America

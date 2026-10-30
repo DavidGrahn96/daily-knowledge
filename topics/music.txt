@@ -1,0 +1,112 @@
+# music: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | The Well-Tempered Clavier | - | -
+002 | Sonata Form | - | -
+003 | Beethoven's Ninth Symphony | - | -
+004 | The Birth of Jazz | - | -
+005 | The Birth of Opera | - | -
+006 | Wolfgang Amadeus Mozart | - | -
+007 | Twelve-Tone Music | - | -
+008 | The Four Seasons | - | -
+009 | The Symphony Orchestra | - | -
+010 | Gregorian Chant | - | -
+011 | The Blues | - | -
+012 | Handel's Messiah | - | -
+013 | Wagner's Ring Cycle | - | -
+014 | Guido of Arezzo | - | -
+015 | The Beatles | - | -
+016 | The Bells of Marquis Yi | ancient | East Asia
+017 | The Tala | timeless | South Asia
+018 | Shashmaqam | early-modern | Central Asia
+019 | Bossa Nova | 20th-c | Latin America
+020 | Giuseppe Verdi | 19th-c | Europe
+021 | Fela Kuti and Afrobeat | 20th-c | Africa
+022 | Major and Minor Keys | early-modern | Europe
+023 | Umm Kulthum | 20th-c | Middle East
+024 | Vedic Chant | ancient | South Asia
+025 | Bebop | 20th-c | North America
+026 | The Sitar | early-modern | South Asia
+027 | Arabic Maqam | timeless | Middle East
+028 | Claude Debussy | 20th-c | Europe
+029 | K-pop | 21st-c | East Asia
+030 | John Cage's 4′33″ | 20th-c | North America
+031 | Gagaku | medieval | East Asia
+032 | Giovanni Pierluigi da Palestrina | early-modern | Europe
+033 | Consonance and Dissonance | timeless | global
+034 | The Notre-Dame School | medieval | Europe
+035 | Ravi Shankar | 20th-c | South Asia
+036 | Reggaeton | 21st-c | Latin America
+037 | Peking Opera | 19th-c | East Asia
+038 | The Persian Dastgah | timeless | Middle East
+039 | The Troubadours | medieval | Europe
+040 | The Natya Shastra | ancient | South Asia
+041 | Miriam Makeba | 20th-c | Africa
+042 | Tchaikovsky's Ballets | 19th-c | Europe
+043 | Pansori | early-modern | East Asia
+044 | The Rite of Spring | 20th-c | Europe
+045 | The Pentatonic Scale | timeless | global
+046 | Kind of Blue | 20th-c | North America
+047 | Al-Farabi's Great Book of Music | medieval | Middle East
+048 | Basso Continuo | early-modern | Europe
+049 | Gamelan | timeless | Southeast Asia
+050 | Ludwig van Beethoven | 19th-c | Europe
+051 | Heitor Villa-Lobos | 20th-c | Latin America
+052 | The Guqin | ancient | East Asia
+053 | Gospel Music | 20th-c | North America
+054 | The Oud | medieval | Middle East
+055 | Metre and Time Signatures | timeless | global
+056 | Motown | 20th-c | North America
+057 | The Shakuhachi | early-modern | East Asia
+058 | The Lyres of Ur | ancient | Middle East
+059 | Rock and Roll | 20th-c | North America
+060 | The Tango | 19th-c | Latin America
+061 | Indian Film Song | 20th-c | South Asia
+062 | The Angklung | timeless | Southeast Asia
+063 | Romanticism in Music | 19th-c | Europe
+064 | Congolese Rumba | 20th-c | Africa
+065 | Schubert and the Lied | 19th-c | Europe
+066 | Reggae and Bob Marley | 20th-c | Latin America
+067 | Ars Nova and Machaut | medieval | Europe
+068 | The Didgeridoo | timeless | Oceania
+069 | Cristofori's Piano | early-modern | Europe
+070 | Prehistoric Bone Flutes | ancient | global
+071 | Polyrhythm | timeless | Africa
+072 | Béla Bartók | 20th-c | Europe
+073 | The Hurrian Hymn | ancient | Middle East
+074 | Frédéric Chopin | 19th-c | Europe
+075 | The Hornbostel–Sachs Classification | 20th-c | global
+076 | Saint Yared | medieval | Africa
+077 | Tōru Takemitsu | 20th-c | East Asia
+078 | The Violin Makers of Cremona | early-modern | Europe
+079 | The Mevlevi Sema | medieval | Middle East
+080 | Pythagoras and Musical Ratios | ancient | Europe
+081 | The Mbira | timeless | Africa
+082 | The Ukulele | 19th-c | Oceania
+083 | Rhapsody in Blue | 20th-c | North America
+084 | Aboriginal Songlines | timeless | Oceania
+085 | Musique Concrète | 20th-c | Europe
+086 | The Octave | timeless | global
+087 | Flamenco | 19th-c | Europe
+088 | The Steelpan | 20th-c | Latin America
+089 | Ziryab | medieval | Europe
+090 | Ottoman Mehter Music | early-modern | Middle East
+091 | Hip Hop | 20th-c | North America
+092 | Tansen | early-modern | South Asia
+093 | Minimalism | 20th-c | North America
+094 | Afrobeats | 21st-c | Africa
+095 | Hildegard of Bingen | medieval | Europe
+096 | Son Cubano | 20th-c | Latin America
+097 | African American Spirituals | 19th-c | North America
+098 | Throat Singing | timeless | Central Asia
+099 | Griots of West Africa | medieval | Africa
+100 | The Raga | timeless | South Asia
+101 | Samba | 20th-c | Latin America
+102 | Franz Liszt | 19th-c | Europe
+103 | The Seikilos Epitaph | ancient | Middle East
+104 | Joseph Haydn | early-modern | Europe
+105 | Qawwali | medieval | South Asia
+106 | Josquin des Prez | early-modern | Europe
+107 | The Harmonic Series | timeless | global
+108 | Duke Ellington | 20th-c | North America
+109 | Tyagaraja | 19th-c | South Asia
+110 | Counterpoint | timeless | Europe

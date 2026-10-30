@@ -1,0 +1,112 @@
+# philosophy: 110 topics in publication order. 001-015 published; 016-110 written in batches 1-5 (19 each).
+# Format: number | title | era | region. Tags for 001-015 were not recorded (published before tagging).
+001 | Occam's Razor | - | -
+002 | The Categorical Imperative | - | -
+003 | The Four Noble Truths | - | -
+004 | I Think, Therefore I Am | - | -
+005 | Socrates | - | -
+006 | The Five Pillars of Islam | - | -
+007 | Confucianism | - | -
+008 | Plato's Allegory of the Cave | - | -
+009 | Utilitarianism | - | -
+010 | The Social Contract | - | -
+011 | Stoicism | - | -
+012 | Existentialism | - | -
+013 | Karma and Samsara | - | -
+014 | The Great Schism of 1054 | - | -
+015 | Aristotle's Golden Mean | - | -
+016 | Brahman and Atman in the Upanishads | ancient | South Asia
+017 | Calvinism | early-modern | Europe
+018 | Laozi and the Daodejing | ancient | East Asia
+019 | Nietzsche and the Death of God | 19th-c | Europe
+020 | Maimonides | medieval | Africa
+021 | Simone de Beauvoir's The Second Sex | 20th-c | Europe
+022 | Inca Religion | medieval | Latin America
+023 | Mencius and Human Goodness | ancient | East Asia
+024 | Mana and Tapu in Polynesia | timeless | Oceania
+025 | Abraham and the Abrahamic Religions | ancient | Middle East
+026 | Erasmus and Christian Humanism | early-modern | Europe
+027 | Ma'at in Ancient Egypt | ancient | Africa
+028 | Aquinas's Five Ways | medieval | Europe
+029 | Nagarjuna and Emptiness | ancient | South Asia
+030 | The Aztec Fifth Sun | medieval | Latin America
+031 | Heraclitus and Flux | ancient | Europe
+032 | The Four Aims of Hindu Life | timeless | South Asia
+033 | The Trolley Problem | 20th-c | Europe
+034 | Shinto | ancient | East Asia
+035 | Popper and Falsifiability | 20th-c | Europe
+036 | The Prophet Muhammad and the Hijra | medieval | Middle East
+037 | Augustine of Hippo | ancient | Africa
+038 | The Golden Rule | timeless | global
+039 | Kuhn's Paradigm Shifts | 20th-c | North America
+040 | Paul the Apostle | ancient | Middle East
+041 | Guru Nanak and Sikhism | early-modern | South Asia
+042 | Pyrrho and Ancient Scepticism | ancient | Europe
+043 | Zen Buddhism | medieval | East Asia
+044 | Historical Materialism | 19th-c | Europe
+045 | The I Ching | ancient | East Asia
+046 | The Rule of St Benedict | medieval | Europe
+047 | Mahayana Buddhism and the Bodhisattva | ancient | South Asia
+048 | Islam in Southeast Asia | medieval | Southeast Asia
+049 | The Bhagavad Gita | ancient | South Asia
+050 | Pascal's Wager | early-modern | Europe
+051 | The Hebrew Bible | ancient | Middle East
+052 | The Aboriginal Dreaming | timeless | Oceania
+053 | Democritus and Atomism | ancient | Europe
+054 | The Bahá'í Faith | 19th-c | Middle East
+055 | Jainism and Ahimsa | ancient | South Asia
+056 | Pragmatism | 19th-c | North America
+057 | The Problem of Evil | timeless | global
+058 | Our Lady of Guadalupe | early-modern | Latin America
+059 | Francis of Assisi | medieval | Europe
+060 | Anatta, the Doctrine of No-Self | ancient | South Asia
+061 | The Quran | medieval | Middle East
+062 | The Desert Fathers | ancient | Africa
+063 | Wittgenstein's Language Games | 20th-c | Europe
+064 | The Bhakti Movement | medieval | South Asia
+065 | Aristotle's Logic and the Syllogism | ancient | Europe
+066 | Zhu Xi and Neo-Confucianism | medieval | East Asia
+067 | Zoroastrianism | ancient | Middle East
+068 | Spinoza's God or Nature | early-modern | Europe
+069 | Zhuangzi's Butterfly Dream | ancient | East Asia
+070 | Rawls's Veil of Ignorance | 20th-c | North America
+071 | Yin and Yang | timeless | East Asia
+072 | Zeno's Paradoxes | ancient | Europe
+073 | The Mind–Body Problem | timeless | global
+074 | Leibniz and the Best of All Possible Worlds | early-modern | Europe
+075 | Sunni and Shia Islam | medieval | Middle East
+076 | The Ethiopian Orthodox Church | ancient | Africa
+077 | Arendt and the Banality of Evil | 20th-c | North America
+078 | Haitian Vodou | early-modern | Latin America
+079 | Averroes | medieval | Europe
+080 | Jesus of Nazareth | ancient | Middle East
+081 | Shankara and Advaita Vedanta | medieval | South Asia
+082 | Han Feizi and Legalism | ancient | East Asia
+083 | What Is Enlightenment? | early-modern | Europe
+084 | Siddhartha Gautama, the Buddha | ancient | South Asia
+085 | Shamanism | timeless | Central Asia
+086 | The Yoga Sutras of Patanjali | ancient | South Asia
+087 | Tibetan Buddhism | medieval | Central Asia
+088 | Plotinus and Neoplatonism | ancient | Europe
+089 | The Kyoto School | 20th-c | East Asia
+090 | Hegel's Dialectic | 19th-c | Europe
+091 | Ambedkar and Navayana Buddhism | 20th-c | South Asia
+092 | The Council of Nicaea | ancient | Middle East
+093 | Wang Yangming's Unity of Knowing and Acting | early-modern | East Asia
+094 | The Dead Sea Scrolls | 20th-c | Middle East
+095 | Anselm's Ontological Argument | medieval | Europe
+096 | Liberation Theology | 20th-c | Latin America
+097 | Diogenes and the Cynics | ancient | Europe
+098 | The Church of the East | medieval | Central Asia
+099 | Yoruba Religion and the Orishas | timeless | Africa
+100 | Thales and the First Philosophers | ancient | Europe
+101 | Las Casas and the Valladolid Debate | early-modern | Latin America
+102 | Theravada Buddhism | ancient | Southeast Asia
+103 | Swami Vivekananda | 19th-c | South Asia
+104 | Hume's Problem of Induction | early-modern | Europe
+105 | Ubuntu | timeless | Africa
+106 | Al-Ghazali | medieval | Middle East
+107 | Free Will and Determinism | timeless | global
+108 | Epicureanism | ancient | Europe
+109 | Sufism and Rumi | medieval | Middle East
+110 | Locke's Blank Slate | early-modern | Europe
