@@ -1,5 +1,6 @@
 {
  "start": "2026-10-30",
+ "per_day": 3,
  "order": [
   "history",
   "science",
@@ -20,895 +21,895 @@
    "body": "The treaties of Münster and Osnabrück in 1648 ended the Thirty Years' War. They are often cited as the starting point of the modern system of sovereign states, in which each ruler controls their own territory without outside interference."
   },
   {
-   "date": "2026-10-31",
+   "date": "2026-10-30",
    "category": "science",
    "title": "The Second Law of Thermodynamics",
    "body": "In an isolated system, entropy never decreases. This explains why heat flows on its own from hot to cold, and why no engine can turn heat entirely into work."
   },
   {
-   "date": "2026-11-01",
+   "date": "2026-10-30",
    "category": "geography",
    "title": "Lake Baikal",
    "body": "Lake Baikal in Siberia is the world's deepest lake, more than 1,600 metres at its deepest, and probably the oldest. It holds more water than any other freshwater lake on Earth."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-10-31",
    "category": "arts",
    "title": "Don Quixote",
    "body": "Cervantes published his novel in two parts, in 1605 and 1615. The story of a man who has read too many tales of chivalry and sets out as a knight is often called the first modern novel."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-10-31",
    "category": "music",
    "title": "The Well-Tempered Clavier",
    "body": "Bach wrote two collections of preludes and fugues in all 24 major and minor keys. The work showed that a tempered tuning lets a keyboard play in every key, and it remains a cornerstone of keyboard music."
   },
   {
-   "date": "2026-11-04",
+   "date": "2026-10-31",
    "category": "philosophy",
    "title": "Occam's Razor",
    "body": "The principle is attributed to the 14th-century philosopher William of Ockham: do not assume more entities than necessary. It is still used as a rule of thumb for choosing the simplest explanation that fits the facts."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-01",
    "category": "economics",
    "title": "Comparative Advantage",
    "body": "In 1817 David Ricardo showed that two countries gain from trade even if one is better at producing everything. What matters is the relative cost of what each gives up; his example was wine and cloth in Portugal and England."
   },
   {
-   "date": "2026-11-06",
+   "date": "2026-11-01",
    "category": "politics",
    "title": "Separation of Powers",
    "body": "In The Spirit of the Laws (1748), Montesquieu argued that legislative, executive and judicial power should be held by different bodies. The idea strongly shaped the United States Constitution and modern democracies."
   },
   {
-   "date": "2026-11-07",
+   "date": "2026-11-01",
    "category": "language",
    "title": "The Indo-European Languages",
    "body": "In 1786 William Jones observed that Sanskrit, Greek and Latin must share a common origin. The insight founded historical linguistics. English belongs to the same family, as do most languages of Europe, Iran and northern India."
   },
   {
-   "date": "2026-11-08",
+   "date": "2026-11-02",
    "category": "technology",
    "title": "Gutenberg's Printing Press",
    "body": "Around 1450 Johannes Gutenberg developed printing with movable metal type in Mainz. The Gutenberg Bible of the mid-1450s became the symbol of a technology that made books cheap and spread knowledge rapidly."
   },
   {
-   "date": "2026-11-09",
+   "date": "2026-11-02",
    "category": "history",
    "title": "Luther's 95 Theses",
    "body": "According to tradition, Martin Luther nailed his 95 theses against the sale of indulgences to a church door in Wittenberg on 31 October 1517. The event is treated as the start of the Protestant Reformation, which split Western Christianity."
   },
   {
-   "date": "2026-11-10",
+   "date": "2026-11-02",
    "category": "science",
    "title": "Evolution by Natural Selection",
    "body": "Charles Darwin set out the theory in On the Origin of Species in 1859; Alfred Russel Wallace reached the same idea independently. Individuals with inherited traits that improve survival and reproduction pass them on, and over long periods species change."
   },
   {
-   "date": "2026-11-11",
+   "date": "2026-11-03",
    "category": "geography",
    "title": "The Bosphorus",
    "body": "This narrow strait links the Black Sea to the Sea of Marmara and divides Istanbul between Europe and Asia. Together with the Dardanelles it forms the only sea route from the Black Sea to the Mediterranean, which has made it strategically vital for millennia."
   },
   {
-   "date": "2026-11-12",
+   "date": "2026-11-03",
    "category": "arts",
    "title": "The Divine Comedy",
    "body": "Dante Alighieri wrote the poem in the early 14th century. It follows a journey through Hell, Purgatory and Paradise. Written in Tuscan rather than Latin, it did much to shape the Italian literary language."
   },
   {
-   "date": "2026-11-13",
+   "date": "2026-11-03",
    "category": "music",
    "title": "Sonata Form",
    "body": "Sonata form has three parts: exposition, development and recapitulation. It was the central structural principle of the Classical era of Haydn, Mozart and Beethoven, and shapes the first movement of most of their symphonies and sonatas."
   },
   {
-   "date": "2026-11-14",
+   "date": "2026-11-04",
    "category": "philosophy",
    "title": "The Categorical Imperative",
    "body": "In 1785 Immanuel Kant set out a moral rule that holds regardless of one's goals: act only on a principle you could will to become a universal law. It is the cornerstone of duty-based, or deontological, ethics."
   },
   {
-   "date": "2026-11-15",
+   "date": "2026-11-04",
    "category": "economics",
    "title": "The Invisible Hand",
    "body": "Adam Smith used the image in The Wealth of Nations in 1776. The idea is that individuals pursuing their own interest in a working market can promote the common good without intending to. The phrase appears only once in the book but became a symbol of market economics."
   },
   {
-   "date": "2026-11-16",
+   "date": "2026-11-04",
    "category": "politics",
    "title": "Women's Suffrage",
    "body": "In 1893 New Zealand became the first self-governing country to give women the vote in national elections. Most Western countries followed in the first half of the 20th century, often after long campaigns by the suffrage movement."
   },
   {
-   "date": "2026-11-17",
+   "date": "2026-11-05",
    "category": "language",
    "title": "Runes",
    "body": "Runes were the alphabet of the early Germanic peoples. The Elder Futhark had 24 characters, while the Viking Age Younger Futhark had only 16. The Rök runestone in Sweden carries the longest known runic inscription."
   },
   {
-   "date": "2026-11-18",
+   "date": "2026-11-05",
    "category": "technology",
    "title": "Watt's Steam Engine",
    "body": "In 1769 James Watt patented a separate condenser that made the steam engine far more efficient than Newcomen's earlier design. The improvement made steam power profitable in factories and helped drive the Industrial Revolution."
   },
   {
-   "date": "2026-11-19",
+   "date": "2026-11-05",
    "category": "history",
    "title": "Magna Carta",
    "body": "In 1215 King John of England was forced by his barons to accept a charter limiting royal power. It established that even the king was bound by law, and later became a symbol of the rule of law and individual rights."
   },
   {
-   "date": "2026-11-20",
+   "date": "2026-11-06",
    "category": "science",
    "title": "The Periodic Table",
    "body": "In 1869 Dmitri Mendeleev arranged the elements by atomic weight and chemical properties. He left gaps for elements not yet known and predicted their properties, which was confirmed when gallium and germanium were discovered."
   },
   {
-   "date": "2026-11-21",
+   "date": "2026-11-06",
    "category": "geography",
    "title": "The Gulf Stream",
    "body": "The Gulf Stream is a warm ocean current flowing from the Gulf of Mexico along North America's east coast and across the Atlantic. Its extension, the North Atlantic Current, helps give north-western Europe a milder climate than other regions at the same latitude."
   },
   {
-   "date": "2026-11-22",
+   "date": "2026-11-06",
    "category": "arts",
    "title": "Impressionism",
    "body": "The movement took its name from Claude Monet's painting Impression, Sunrise, shown at an exhibition in Paris in 1874; a critic used the word mockingly. The Impressionists painted light and passing moments with visible brushstrokes, often outdoors."
   },
   {
-   "date": "2026-11-23",
+   "date": "2026-11-07",
    "category": "music",
    "title": "Beethoven's Ninth Symphony",
    "body": "First performed in 1824, it was the first major symphony to include a choir and soloists. The finale sets Schiller's poem Ode to Joy, and its melody is today the anthem of Europe and the EU."
   },
   {
-   "date": "2026-11-24",
+   "date": "2026-11-07",
    "category": "philosophy",
    "title": "The Four Noble Truths",
    "body": "The core of Buddhism: life involves suffering, suffering arises from craving, suffering can end, and the way to end it is the Noble Eightfold Path. The teaching is attributed to the Buddha's first sermon."
   },
   {
-   "date": "2026-11-25",
+   "date": "2026-11-07",
    "category": "economics",
    "title": "Keynesian Economics",
    "body": "In his General Theory (1936), John Maynard Keynes argued that an economy can get stuck with high unemployment when total demand is too weak. His conclusion, that governments can stabilise the economy through fiscal policy, shaped post-war policy."
   },
   {
-   "date": "2026-11-26",
+   "date": "2026-11-08",
    "category": "politics",
    "title": "The United Nations",
    "body": "The UN Charter was signed in San Francisco in June 1945 and the organisation formally came into being that autumn. The five permanent members of the Security Council hold a veto: the United States, Russia, China, the United Kingdom and France."
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-11-08",
    "category": "language",
    "title": "The Origin of the Alphabet",
    "body": "Our Latin alphabet came via the Etruscans from the Greek alphabet, which was in turn adapted from the Phoenician script. The Greeks were the first to write vowels with their own letters."
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-11-08",
    "category": "technology",
    "title": "The Transistor",
    "body": "The transistor was invented at Bell Labs in 1947 by John Bardeen, Walter Brattain and William Shockley, who shared the 1956 Nobel Prize in Physics. It replaced the vacuum tube and is the building block of every modern computer chip."
   },
   {
-   "date": "2026-11-29",
+   "date": "2026-11-09",
    "category": "history",
    "title": "The French Revolution",
    "body": "The revolution began in 1789, and the storming of the Bastille on 14 July became its symbol. That year the Declaration of the Rights of Man and of the Citizen was adopted. The revolution ended absolute monarchy and feudal privilege in France and reshaped European politics."
   },
   {
-   "date": "2026-11-30",
+   "date": "2026-11-09",
    "category": "science",
    "title": "The DNA Double Helix",
    "body": "In 1953 James Watson and Francis Crick described the structure of DNA as a double helix, drawing heavily on Rosalind Franklin's X-ray images. The structure showed how genetic information can be copied."
   },
   {
-   "date": "2026-12-01",
+   "date": "2026-11-09",
    "category": "geography",
    "title": "The Himalayas",
    "body": "The range is formed by the Indian plate pushing into the Eurasian plate. The collision continues, so the mountains are still rising. It contains Mount Everest, the highest mountain above sea level."
   },
   {
-   "date": "2026-12-02",
+   "date": "2026-11-10",
    "category": "arts",
    "title": "War and Peace",
    "body": "Leo Tolstoy's novel, published in full in 1869, follows Russian aristocratic families through Napoleon's invasion of Russia. It mixes fiction with long reflections on history and is often counted among the greatest novels ever written."
   },
   {
-   "date": "2026-12-03",
+   "date": "2026-11-10",
    "category": "music",
    "title": "The Birth of Jazz",
    "body": "Jazz emerged in New Orleans around 1900 from African American traditions such as blues and ragtime. Improvisation and syncopated rhythm are central. Louis Armstrong became one of its first great soloists."
   },
   {
-   "date": "2026-12-04",
+   "date": "2026-11-10",
    "category": "philosophy",
    "title": "I Think, Therefore I Am",
    "body": "René Descartes sought knowledge that could not be doubted and concluded that the act of doubting proves one's own existence. The argument appears in his Discourse on the Method of 1637 and became a foundation of rationalist philosophy."
   },
   {
-   "date": "2026-12-05",
+   "date": "2026-11-11",
    "category": "economics",
    "title": "The Wall Street Crash of 1929",
    "body": "Share prices on Wall Street collapsed in October 1929. The crash opened the Great Depression, the deepest economic crisis of the industrial era, which changed views on the role of the state in the economy."
   },
   {
-   "date": "2026-12-06",
+   "date": "2026-11-11",
    "category": "politics",
    "title": "The Freedom of the Press Act of 1766",
    "body": "Sweden's 1766 act is regarded as the world's first constitutional protection of press freedom. It also introduced an early form of the principle of public access to official documents."
   },
   {
-   "date": "2026-12-07",
+   "date": "2026-11-11",
    "category": "language",
    "title": "Greek Building Blocks",
    "body": "Many English words are built from Greek parts, often coined long after antiquity. Democracy combines demos (people) and kratos (power); telephone combines tele (far) and phone (sound)."
   },
   {
-   "date": "2026-12-08",
+   "date": "2026-11-12",
    "category": "technology",
    "title": "The World Wide Web",
    "body": "Tim Berners-Lee proposed the web at CERN in 1989 as a way to link documents over the internet. The web is a service running on the internet, not the same thing. The technology was made freely available, which helped it spread quickly."
   },
   {
-   "date": "2026-12-09",
+   "date": "2026-11-12",
    "category": "history",
    "title": "The Fall of the Western Roman Empire",
    "body": "The Western Roman Empire is conventionally said to have fallen in 476, when the Germanic leader Odoacer deposed the last emperor, Romulus Augustulus. The Eastern Roman, or Byzantine, Empire survived for almost another thousand years."
   },
   {
-   "date": "2026-12-10",
+   "date": "2026-11-12",
    "category": "science",
    "title": "Relativity",
    "body": "Einstein's special relativity of 1905 showed that measurements of time and space depend on the observer's motion, and gave the equation E = mc². General relativity, from 1915, describes gravity as the curvature of spacetime."
   },
   {
-   "date": "2026-12-11",
+   "date": "2026-11-13",
    "category": "geography",
    "title": "The Nile",
    "body": "The Nile flows north through north-east Africa into the Mediterranean and is usually counted, along with the Amazon, as the world's longest river. The White and Blue Nile meet at Khartoum. The river made ancient Egyptian civilisation possible."
   },
   {
-   "date": "2026-12-12",
+   "date": "2026-11-13",
    "category": "arts",
    "title": "The Sistine Chapel Ceiling",
    "body": "Michelangelo painted the ceiling of the Sistine Chapel in the Vatican between 1508 and 1512, including The Creation of Adam. The Last Judgment on the altar wall came later. The work is a high point of the High Renaissance."
   },
   {
-   "date": "2026-12-13",
+   "date": "2026-11-13",
    "category": "music",
    "title": "The Birth of Opera",
    "body": "Opera arose in Italy around 1600 as an attempt to revive ancient Greek drama with music. Monteverdi's L'Orfeo of 1607 is considered an early masterpiece of the form."
   },
   {
-   "date": "2026-12-14",
+   "date": "2026-11-14",
    "category": "philosophy",
    "title": "Socrates",
    "body": "Socrates wrote nothing himself; we know him mainly through Plato's dialogues. He questioned people to expose contradictions in their beliefs. In 399 BC he was sentenced to death in Athens for corrupting the young and impiety."
   },
   {
-   "date": "2026-12-15",
+   "date": "2026-11-14",
    "category": "economics",
    "title": "The Bretton Woods System",
    "body": "At a 1944 conference the Allies agreed on fixed exchange rates tied to the US dollar, which was in turn convertible into gold. The IMF and the World Bank were founded there. The system broke down in the early 1970s after the US ended the dollar's convertibility into gold."
   },
   {
-   "date": "2026-12-16",
+   "date": "2026-11-14",
    "category": "politics",
    "title": "The European Union",
    "body": "The Treaty of Rome of 1957 created the European Economic Community. The Maastricht Treaty of 1992 founded the European Union and laid the ground for the single currency."
   },
   {
-   "date": "2026-12-17",
+   "date": "2026-11-15",
    "category": "language",
    "title": "Ethos, Pathos and Logos",
    "body": "Aristotle described three ways to persuade: through the speaker's credibility (ethos), by stirring emotion (pathos) and with reasoned argument (logos). The distinction still underpins the teaching of rhetoric."
   },
   {
-   "date": "2026-12-18",
+   "date": "2026-11-15",
    "category": "technology",
    "title": "The Light Bulb",
    "body": "In 1879 Thomas Edison produced an incandescent bulb that lasted long enough to be commercially useful; Joseph Swan was working on a similar lamp in England. Edison also built systems to generate and distribute electricity."
   },
   {
-   "date": "2026-12-19",
+   "date": "2026-11-15",
    "category": "history",
    "title": "The Kalmar Union",
    "body": "In 1397 Denmark, Norway and Sweden were united under a single monarch, with Queen Margaret I as the driving force. The union was marked by constant conflict, and Sweden left it for good when Gustav Vasa became king in 1523."
   },
   {
-   "date": "2026-12-20",
+   "date": "2026-11-16",
    "category": "science",
    "title": "Photosynthesis",
    "body": "Plants, algae and cyanobacteria use light energy to turn carbon dioxide and water into sugar and oxygen. Almost all life on Earth depends on this process, and it is the source of the oxygen in the atmosphere."
   },
   {
-   "date": "2026-12-21",
+   "date": "2026-11-16",
    "category": "geography",
    "title": "The Sahara",
    "body": "The Sahara is the world's largest hot desert and covers much of North Africa. Its climate has changed over time: several thousand years ago it held lakes and grassland, as rock paintings of animals show."
   },
   {
-   "date": "2026-12-22",
+   "date": "2026-11-16",
    "category": "arts",
    "title": "Hamlet",
    "body": "Written around 1600, Hamlet is Shakespeare's longest play. The drama of the Danish prince who hesitates to avenge his father is among the most performed and analysed works in world literature."
   },
   {
-   "date": "2026-12-23",
+   "date": "2026-11-17",
    "category": "music",
    "title": "Wolfgang Amadeus Mozart",
    "body": "Mozart (1756–1791) wrote more than 600 works in a short life, including the operas The Marriage of Figaro and The Magic Flute. His Requiem was unfinished when he died. With Haydn and Beethoven he defines the Classical style."
   },
   {
-   "date": "2026-12-24",
+   "date": "2026-11-17",
    "category": "philosophy",
    "title": "The Five Pillars of Islam",
    "body": "The five basic duties of Islam are the declaration of faith, the daily prayers, almsgiving (zakat), fasting during Ramadan, and the pilgrimage to Mecca for those able to make it."
   },
   {
-   "date": "2026-12-25",
+   "date": "2026-11-17",
    "category": "economics",
    "title": "Tulip Mania",
    "body": "In the Netherlands in the 1630s, prices of tulip bulbs rose steeply and then collapsed in 1637. It is often cited as one of the first speculative bubbles, although historians now think its scale has been exaggerated."
   },
   {
-   "date": "2026-12-26",
+   "date": "2026-11-18",
    "category": "politics",
    "title": "The Universal Declaration of Human Rights",
    "body": "The UN General Assembly adopted the declaration on 10 December 1948. The drafting commission was chaired by Eleanor Roosevelt. It is not binding in itself but has inspired a series of binding human rights treaties."
   },
   {
-   "date": "2026-12-27",
+   "date": "2026-11-18",
    "category": "language",
    "title": "A Pyrrhic Victory",
    "body": "A Pyrrhic victory is a win so costly that it is almost a defeat. The phrase comes from King Pyrrhus of Epirus, who beat the Romans in 280–279 BC but lost so many men that he could not continue the war."
   },
   {
-   "date": "2026-12-28",
+   "date": "2026-11-18",
    "category": "technology",
    "title": "The Haber–Bosch Process",
    "body": "In the early 20th century Fritz Haber and Carl Bosch developed an industrial method for making ammonia from nitrogen in the air. It made synthetic fertiliser cheap and underpins a large share of the world's food production."
   },
   {
-   "date": "2026-12-29",
+   "date": "2026-11-19",
    "category": "history",
    "title": "The Gunpowder Plot",
    "body": "On 5 November 1605 Guy Fawkes was arrested beneath the English Parliament guarding barrels of gunpowder. A group of Catholic conspirators had planned to kill King James I. Britain still marks the date with bonfires and fireworks."
   },
   {
-   "date": "2026-12-30",
+   "date": "2026-11-19",
    "category": "science",
    "title": "Newton's Laws of Motion",
    "body": "In the Principia of 1687 Isaac Newton set out three laws of motion and the law of universal gravitation. They explained falling objects and planetary orbits with the same principles and underpinned physics for two centuries."
   },
   {
-   "date": "2026-12-31",
+   "date": "2026-11-19",
    "category": "geography",
    "title": "The Panama Canal",
    "body": "Opened in 1914, the canal links the Atlantic and Pacific across the Isthmus of Panama. Ships are raised by locks to a lake above sea level. The United States ran the canal until 1999, when it was handed over to Panama."
   },
   {
-   "date": "2027-01-01",
+   "date": "2026-11-20",
    "category": "arts",
    "title": "The Iliad and the Odyssey",
    "body": "The two epic poems attributed to Homer date from around the 8th century BC. The Iliad tells of the Trojan War, the Odyssey of Odysseus' long journey home. They are the foundation of Western literature."
   },
   {
-   "date": "2027-01-02",
+   "date": "2026-11-20",
    "category": "music",
    "title": "Twelve-Tone Music",
    "body": "In the 1920s Arnold Schoenberg developed a method in which all twelve notes of the chromatic scale are treated as equal. The technique broke with the major-minor key system and strongly influenced 20th-century classical music."
   },
   {
-   "date": "2027-01-03",
+   "date": "2026-11-20",
    "category": "philosophy",
    "title": "Confucianism",
    "body": "Confucius lived in China in the 6th and 5th centuries BC. His teaching stresses moral cultivation, respect within family and social relationships, and the ruler's duty to lead by example. It shaped Chinese government and culture for over two thousand years."
   },
   {
-   "date": "2027-01-04",
+   "date": "2026-11-21",
    "category": "economics",
    "title": "The Oldest Central Bank",
    "body": "Sweden's Riksbank, founded in 1668, is the world's oldest central bank still in operation. It grew out of Stockholm's Banco, which had issued some of Europe's first banknotes."
   },
   {
-   "date": "2027-01-05",
+   "date": "2026-11-21",
    "category": "politics",
    "title": "Athenian Democracy",
    "body": "Reforms by Cleisthenes around 508 BC gave Athens a system in which citizens voted directly on laws in the assembly. Only adult male citizens took part, excluding women, slaves and foreigners, but it is the best-known early democracy."
   },
   {
-   "date": "2027-01-06",
+   "date": "2026-11-21",
    "category": "language",
    "title": "Norman French in English",
    "body": "After 1066 the ruling class in England spoke French for centuries. That is why English often has Germanic words for animals in the field (cow, pig, sheep) and French-derived words for the meat on the table (beef, pork, mutton)."
   },
   {
-   "date": "2027-01-07",
+   "date": "2026-11-22",
    "category": "technology",
    "title": "Dynamite",
    "body": "Alfred Nobel patented dynamite in 1867. By absorbing unstable nitroglycerine into diatomaceous earth, he made the explosive much safer to handle. The fortune he built funds the Nobel Prizes."
   },
   {
-   "date": "2027-01-08",
+   "date": "2026-11-22",
    "category": "history",
    "title": "The Fall of Constantinople",
    "body": "In 1453 the Ottoman sultan Mehmed II captured Constantinople, ending the Byzantine Empire. The city became the Ottoman capital, and the event is often used to mark the end of the Middle Ages."
   },
   {
-   "date": "2027-01-09",
+   "date": "2026-11-22",
    "category": "science",
    "title": "Heliocentrism",
    "body": "In 1543 Nicolaus Copernicus argued that the Earth and planets orbit the Sun. Kepler later showed that the orbits are ellipses, and Galileo's telescope observations supported the model, overturning the Earth-centred view of the cosmos."
   },
   {
-   "date": "2027-01-10",
+   "date": "2026-11-23",
    "category": "geography",
    "title": "The Amazon Rainforest",
    "body": "The Amazon is the largest tropical rainforest on Earth, most of it in Brazil. It is home to an exceptional share of the world's species, and the Amazon River carries more water to the sea than any other river."
   },
   {
-   "date": "2027-01-11",
+   "date": "2026-11-23",
    "category": "arts",
    "title": "The Mona Lisa",
    "body": "Leonardo da Vinci worked on the portrait from about 1503 and kept it with him for years. Its soft transitions of light and shadow, known as sfumato, are much admired. It hangs in the Louvre and became world-famous partly after being stolen in 1911."
   },
   {
-   "date": "2027-01-12",
+   "date": "2026-11-23",
    "category": "music",
    "title": "The Four Seasons",
    "body": "Antonio Vivaldi published these four violin concertos in 1725, each paired with a sonnet describing a season. Birdsong, storms and shivering are depicted in the music, making it an early and famous example of programme music."
   },
   {
-   "date": "2027-01-13",
+   "date": "2026-11-24",
    "category": "philosophy",
    "title": "Plato's Allegory of the Cave",
    "body": "In the Republic, Plato describes prisoners who see only shadows on a cave wall and take them for reality. The allegory illustrates his view that the senses show us mere appearances, while true knowledge concerns unchanging Forms."
   },
   {
-   "date": "2027-01-14",
+   "date": "2026-11-24",
    "category": "economics",
    "title": "Supply and Demand",
    "body": "The price of a good settles where the quantity buyers want equals the quantity sellers offer. Alfred Marshall compared supply and demand to the two blades of a pair of scissors: neither alone determines the price."
   },
   {
-   "date": "2027-01-15",
+   "date": "2026-11-24",
    "category": "politics",
    "title": "The United States Constitution",
    "body": "Drafted in Philadelphia in 1787, it is the oldest written national constitution still in force. It divides power between three branches and between federal and state governments. The first ten amendments, the Bill of Rights, were added in 1791."
   },
   {
-   "date": "2027-01-16",
+   "date": "2026-11-25",
    "category": "language",
    "title": "Grimm's Law",
    "body": "Jacob Grimm described a regular sound shift that separated the Germanic languages from other Indo-European languages. It explains pairs such as Latin pater and English father, or Latin piscis and English fish."
   },
   {
-   "date": "2027-01-17",
+   "date": "2026-11-25",
    "category": "technology",
    "title": "The Wheel",
    "body": "The earliest evidence of wheeled vehicles dates from around 3500 BC, in Mesopotamia and Europe. The wheel and axle transformed transport and later machinery, from water mills to gears."
   },
   {
-   "date": "2027-01-18",
+   "date": "2026-11-25",
    "category": "history",
    "title": "The Battle of Hastings",
    "body": "In 1066 William, Duke of Normandy, defeated the English king Harold II at Hastings. The Norman Conquest replaced the English aristocracy and brought a flood of French into the English language."
   },
   {
-   "date": "2027-01-19",
+   "date": "2026-11-26",
    "category": "science",
    "title": "Germ Theory of Disease",
    "body": "In the 19th century Louis Pasteur and Robert Koch showed that many diseases are caused by microorganisms. The theory transformed medicine, leading to antiseptic surgery, vaccines and modern public health."
   },
   {
-   "date": "2027-01-20",
+   "date": "2026-11-26",
    "category": "geography",
    "title": "The Strait of Gibraltar",
    "body": "The strait connects the Atlantic Ocean to the Mediterranean and separates Europe from Africa by only about 14 kilometres at its narrowest. In antiquity its two headlands were known as the Pillars of Hercules."
   },
   {
-   "date": "2027-01-21",
+   "date": "2026-11-26",
    "category": "arts",
    "title": "Guernica",
    "body": "Pablo Picasso painted Guernica in 1937 in response to the bombing of the Basque town during the Spanish Civil War. The huge black, white and grey canvas has become one of the best-known images against war. It hangs in the Museo Reina Sofía in Madrid."
   },
   {
-   "date": "2027-01-22",
+   "date": "2026-11-27",
    "category": "music",
    "title": "The Symphony Orchestra",
    "body": "A modern orchestra has four sections: strings, woodwind, brass and percussion. Its core form took shape in the Classical era and grew larger through the 19th century."
   },
   {
-   "date": "2027-01-23",
+   "date": "2026-11-27",
    "category": "philosophy",
    "title": "Utilitarianism",
    "body": "Jeremy Bentham and John Stuart Mill argued that the right action is the one that produces the greatest happiness for the greatest number. Utilitarianism is the best-known form of consequentialism, which judges actions by their outcomes."
   },
   {
-   "date": "2027-01-24",
+   "date": "2026-11-27",
    "category": "economics",
    "title": "Opportunity Cost",
    "body": "The true cost of any choice is the value of the best alternative given up. An hour spent studying costs not only the time but whatever else that hour could have produced. The concept is central to economic reasoning."
   },
   {
-   "date": "2027-01-25",
+   "date": "2026-11-28",
    "category": "politics",
    "title": "NATO",
    "body": "The North Atlantic Treaty Organization was founded in 1949 as a Western defence alliance. Its core is Article 5: an armed attack on one member is considered an attack on all."
   },
   {
-   "date": "2027-01-26",
+   "date": "2026-11-28",
    "category": "language",
    "title": "The Rosetta Stone",
    "body": "Found in Egypt in 1799, the stone carries the same decree from 196 BC in hieroglyphic, Demotic and Greek. Because the Greek could be read, Jean-François Champollion was able to decipher hieroglyphs in 1822."
   },
   {
-   "date": "2027-01-27",
+   "date": "2026-11-28",
    "category": "technology",
    "title": "The Telephone",
    "body": "Alexander Graham Bell received a US patent for the telephone in 1876. Priority was disputed, as Elisha Gray filed a related claim the same day, but Bell's company went on to dominate telephone service."
   },
   {
-   "date": "2027-01-28",
+   "date": "2026-11-29",
    "category": "history",
    "title": "Columbus Reaches the Americas",
    "body": "In 1492 Christopher Columbus, sailing for Spain, reached the Caribbean while seeking a westward route to Asia. His voyages opened lasting contact between Europe and the Americas, with the exchange of crops, animals and diseases known as the Columbian Exchange."
   },
   {
-   "date": "2027-01-29",
+   "date": "2026-11-29",
    "category": "science",
    "title": "Plate Tectonics",
    "body": "The Earth's outer shell is divided into plates that move slowly over the mantle. Alfred Wegener proposed continental drift in 1912, but the theory was only accepted in the 1960s. It explains earthquakes, volcanoes and the formation of mountain ranges."
   },
   {
-   "date": "2027-01-30",
+   "date": "2026-11-29",
    "category": "geography",
    "title": "The Ring of Fire",
    "body": "The Ring of Fire is a horseshoe-shaped zone around the Pacific Ocean where tectonic plates meet. Most of the world's earthquakes and many of its active volcanoes occur along it, from Chile through Japan to New Zealand."
   },
   {
-   "date": "2027-01-31",
+   "date": "2026-11-30",
    "category": "arts",
    "title": "Pride and Prejudice",
    "body": "Jane Austen's novel of 1813 follows Elizabeth Bennet and Mr Darcy. Its ironic portrait of marriage, money and class in English gentry society made it one of the most widely read novels in English."
   },
   {
-   "date": "2027-02-01",
+   "date": "2026-11-30",
    "category": "music",
    "title": "Gregorian Chant",
    "body": "Gregorian chant is the unaccompanied, single-line singing of the medieval Western Church. It is named after Pope Gregory I, although it largely developed after his time. Its notation laid the groundwork for Western musical notation."
   },
   {
-   "date": "2027-02-02",
+   "date": "2026-11-30",
    "category": "philosophy",
    "title": "The Social Contract",
    "body": "Thomas Hobbes (Leviathan, 1651), John Locke and Jean-Jacques Rousseau (The Social Contract, 1762) explained political authority as an agreement among individuals. They disagreed on what people give up and what they keep, but the idea underpins modern theories of legitimate government."
   },
   {
-   "date": "2027-02-03",
+   "date": "2026-12-01",
    "category": "economics",
    "title": "The Quantity Theory of Money",
    "body": "The theory links the money supply to the price level: if money grows faster than the output of goods and services, prices tend to rise. Milton Friedman built on it to argue that inflation is ultimately a monetary phenomenon."
   },
   {
-   "date": "2027-02-04",
+   "date": "2026-12-01",
    "category": "politics",
    "title": "The Rule of Law",
    "body": "The rule of law means that everyone, including those in power, is subject to laws that are public, clear and applied equally by independent courts. It is distinct from 'rule by law', where law is merely a tool of those in power."
   },
   {
-   "date": "2027-02-05",
+   "date": "2026-12-01",
    "category": "language",
    "title": "The Great Vowel Shift",
    "body": "Between roughly 1400 and 1700 the long vowels of English changed their pronunciation. Spelling had largely settled before the shift ended, which is a major reason English spelling and pronunciation often fail to match."
   },
   {
-   "date": "2027-02-06",
+   "date": "2026-12-02",
    "category": "technology",
    "title": "The First Powered Flight",
    "body": "On 17 December 1903, at Kitty Hawk in North Carolina, Orville and Wilbur Wright made the first controlled, sustained flights in a powered aeroplane. The longest that day lasted under a minute."
   },
   {
-   "date": "2027-02-07",
+   "date": "2026-12-02",
    "category": "history",
    "title": "The Treaty of Versailles",
    "body": "Signed in 1919, the treaty ended the First World War between Germany and the Allies. It imposed territorial losses and reparations and assigned Germany responsibility for the war. Its harsh terms are widely seen as one of the causes of the Second World War."
   },
   {
-   "date": "2027-02-08",
+   "date": "2026-12-02",
    "category": "science",
    "title": "Penicillin",
    "body": "Alexander Fleming noticed in 1928 that a mould killed bacteria in his culture dish. Howard Florey and Ernst Chain later turned penicillin into a usable drug, mass-produced during the Second World War, and the three shared the 1945 Nobel Prize."
   },
   {
-   "date": "2027-02-09",
+   "date": "2026-12-03",
    "category": "geography",
    "title": "The Dead Sea",
    "body": "The shores of the Dead Sea, between Israel, the West Bank and Jordan, are the lowest land on Earth's surface. Its water is so salty that people float easily and almost nothing can live in it."
   },
   {
-   "date": "2027-02-10",
+   "date": "2026-12-03",
    "category": "arts",
    "title": "Gothic Architecture",
    "body": "Gothic architecture emerged in France in the 12th century. Pointed arches, ribbed vaults and flying buttresses allowed taller buildings with large stained-glass windows, as in the cathedrals of Chartres and Notre-Dame de Paris."
   },
   {
-   "date": "2027-02-11",
+   "date": "2026-12-03",
    "category": "music",
    "title": "The Blues",
    "body": "The blues grew out of African American communities in the American South, notably the Mississippi Delta, around the turn of the 20th century. The twelve-bar form and 'blue notes' became the foundation of rhythm and blues, rock and roll and much later popular music."
   },
   {
-   "date": "2027-02-12",
+   "date": "2026-12-04",
    "category": "philosophy",
    "title": "Stoicism",
    "body": "Founded by Zeno of Citium in Athens around 300 BC, Stoicism teaches that virtue is the only true good and that we should focus on what is within our control. Epictetus, Seneca and the emperor Marcus Aurelius are its best-known Roman voices."
   },
   {
-   "date": "2027-02-13",
+   "date": "2026-12-04",
    "category": "economics",
    "title": "Compound Interest",
    "body": "With compound interest, interest is earned on previously earned interest, so growth accelerates over time. The 'rule of 72' gives a quick estimate: divide 72 by the annual percentage rate to get the number of years it takes for money to double."
   },
   {
-   "date": "2027-02-14",
+   "date": "2026-12-04",
    "category": "politics",
    "title": "The Westminster System",
    "body": "Named after the British Parliament, this system makes the government depend on the confidence of an elected parliament. The prime minister and cabinet sit in parliament and can be removed by it. It has been adopted in many former British colonies."
   },
   {
-   "date": "2027-02-15",
+   "date": "2026-12-05",
    "category": "language",
    "title": "Crossing the Rubicon",
    "body": "In 49 BC Julius Caesar led his army across the Rubicon river into Italy, breaking Roman law and starting a civil war. To cross the Rubicon now means to take an irreversible step."
   },
   {
-   "date": "2027-02-16",
+   "date": "2026-12-05",
    "category": "technology",
    "title": "The Turing Machine",
    "body": "In 1936 Alan Turing described an abstract machine that reads and writes symbols on a tape according to rules. It defined what can be computed in principle and became the theoretical foundation of computer science."
   },
   {
-   "date": "2027-02-17",
+   "date": "2026-12-05",
    "category": "history",
    "title": "The Fall of the Berlin Wall",
    "body": "On 9 November 1989 East Germany opened its border crossings and crowds began tearing down the Berlin Wall. Germany was reunified less than a year later, on 3 October 1990, and the event became the symbol of the end of the Cold War."
   },
   {
-   "date": "2027-02-18",
+   "date": "2026-12-06",
    "category": "science",
    "title": "The Big Bang",
    "body": "The universe has been expanding from an extremely hot, dense state for about 13.8 billion years. Edwin Hubble's observations in 1929 showed galaxies receding from us, and the discovery of the cosmic microwave background in 1965 strongly supported the theory."
   },
   {
-   "date": "2027-02-19",
+   "date": "2026-12-06",
    "category": "geography",
    "title": "The Tropics and Polar Circles",
    "body": "The Tropics of Cancer and Capricorn, at about 23.4 degrees north and south, mark the furthest points where the Sun can be directly overhead. The Arctic and Antarctic Circles mark where it can stay above or below the horizon for a full day. Both follow from the tilt of the Earth's axis."
   },
   {
-   "date": "2027-02-20",
+   "date": "2026-12-06",
    "category": "arts",
    "title": "The Night Watch",
    "body": "Rembrandt painted this group portrait of an Amsterdam militia company in 1642. Instead of a static row of figures he showed them in motion, with dramatic light. It is the best-known work of the Dutch Golden Age and hangs in the Rijksmuseum."
   },
   {
-   "date": "2027-02-21",
+   "date": "2026-12-07",
    "category": "music",
    "title": "Handel's Messiah",
    "body": "George Frideric Handel's oratorio was first performed in Dublin in 1742. Its Hallelujah chorus is one of the most famous pieces of choral music, and the work is still performed every Christmas and Easter around the world."
   },
   {
-   "date": "2027-02-22",
+   "date": "2026-12-07",
    "category": "philosophy",
    "title": "Existentialism",
    "body": "Jean-Paul Sartre summed up existentialism as 'existence precedes essence': humans are not born with a fixed nature but define themselves through their choices. Søren Kierkegaard in the 19th century is often seen as its forerunner."
   },
   {
-   "date": "2027-02-23",
+   "date": "2026-12-07",
    "category": "economics",
    "title": "Das Kapital",
    "body": "Karl Marx published the first volume of Das Kapital in 1867. He argued that profit comes from surplus value, the difference between what workers produce and what they are paid, and that capitalism contains the seeds of its own crisis. His ideas shaped 20th-century politics."
   },
   {
-   "date": "2027-02-24",
+   "date": "2026-12-08",
    "category": "politics",
    "title": "The Geneva Conventions",
    "body": "The first Geneva Convention of 1864 protected wounded soldiers. The four conventions of 1949 extend protection to the sick, shipwrecked, prisoners of war and civilians, and form the core of international humanitarian law."
   },
   {
-   "date": "2027-02-25",
+   "date": "2026-12-08",
    "category": "language",
    "title": "Salary and Salt",
    "body": "The word salary comes from the Latin salarium, which is related to sal, salt. The popular story that Roman soldiers were paid in salt is not well supported; the exact link between the word and salt remains uncertain."
   },
   {
-   "date": "2027-02-26",
+   "date": "2026-12-08",
    "category": "technology",
    "title": "The Moon Landing",
    "body": "On 20 July 1969 Apollo 11 landed on the Moon, and Neil Armstrong and Buzz Aldrin became the first people to walk on its surface. The mission was the climax of the space race between the United States and the Soviet Union."
   },
   {
-   "date": "2027-02-27",
+   "date": "2026-12-09",
    "category": "history",
    "title": "The Black Death",
    "body": "Between 1347 and 1351 a plague pandemic, most likely caused by the bacterium Yersinia pestis, swept across Europe. Estimates vary, but it probably killed between a third and a half of the population, with deep consequences for labour, the economy and the Church."
   },
   {
-   "date": "2027-02-28",
+   "date": "2026-12-09",
    "category": "science",
    "title": "The Speed of Light",
    "body": "Light travels through a vacuum at 299,792,458 metres per second. Since 1983 this value has been exact by definition, because the metre is defined from it. According to relativity, nothing with mass can reach this speed."
   },
   {
-   "date": "2027-03-01",
+   "date": "2026-12-09",
    "category": "geography",
    "title": "The Suez Canal",
    "body": "Opened in 1869, the canal links the Mediterranean to the Red Sea and spares ships the voyage around Africa. Egypt's nationalisation of the canal in 1956 triggered the Suez Crisis, a turning point in the decline of British and French imperial power."
   },
   {
-   "date": "2027-03-02",
+   "date": "2026-12-10",
    "category": "arts",
    "title": "Franz Kafka",
    "body": "In The Metamorphosis (1915) a man wakes up transformed into a giant insect. Kafka's stories of powerless individuals facing absurd systems gave rise to the word Kafkaesque. Much of his work was published after his death by his friend Max Brod, against his wishes."
   },
   {
-   "date": "2027-03-03",
+   "date": "2026-12-10",
    "category": "music",
    "title": "Wagner's Ring Cycle",
    "body": "Der Ring des Nibelungen is four operas lasting around 15 hours in total. Richard Wagner built the music on leitmotifs, recurring themes tied to characters and ideas, and had a theatre built in Bayreuth for its first full performance in 1876."
   },
   {
-   "date": "2027-03-04",
+   "date": "2026-12-10",
    "category": "philosophy",
    "title": "Karma and Samsara",
    "body": "In Hinduism, the soul passes through a cycle of rebirth, samsara, shaped by karma, the moral consequences of actions. The ultimate goal is moksha, liberation from the cycle. Key texts include the Vedas, the Upanishads and the Bhagavad Gita."
   },
   {
-   "date": "2027-03-05",
+   "date": "2026-12-11",
    "category": "economics",
    "title": "The 2008 Financial Crisis",
    "body": "Losses on US subprime mortgages spread through a global financial system loaded with debt and complex securities. The bankruptcy of Lehman Brothers in September 2008 triggered a panic and the deepest recession since the 1930s."
   },
   {
-   "date": "2027-03-06",
+   "date": "2026-12-11",
    "category": "politics",
    "title": "Duverger's Law",
    "body": "Political scientist Maurice Duverger observed that first-past-the-post voting tends to produce two dominant parties, while proportional representation favours many parties. It is a tendency rather than a strict law, but it helps explain differences between party systems."
   },
   {
-   "date": "2027-03-07",
+   "date": "2026-12-11",
    "category": "language",
    "title": "Chinese Characters",
    "body": "Chinese is written with characters that mainly represent words or meaningful syllables rather than sounds alone. The earliest substantial examples are inscriptions on oracle bones from the Shang dynasty, more than 3,000 years ago, making it one of the oldest writing systems still in use."
   },
   {
-   "date": "2027-03-08",
+   "date": "2026-12-12",
    "category": "technology",
    "title": "The Electric Telegraph",
    "body": "In 1844 Samuel Morse sent a message by electric telegraph between Washington and Baltimore. For the first time, information could travel faster than a person or a horse, and Morse code became the standard language of long-distance communication."
   },
   {
-   "date": "2027-03-09",
+   "date": "2026-12-12",
    "category": "history",
    "title": "The Congress of Vienna",
    "body": "In 1814–1815 the great powers met in Vienna to redraw Europe after Napoleon's defeat. Their aim was a balance of power that no single state could overturn, and the settlement helped keep major wars between the powers at bay for decades."
   },
   {
-   "date": "2027-03-10",
+   "date": "2026-12-12",
    "category": "science",
    "title": "Cell Theory",
    "body": "In 1838–1839 Matthias Schleiden and Theodor Schwann proposed that all living things are made of cells, and Rudolf Virchow later added that every cell comes from another cell. Cell theory is one of the foundations of biology."
   },
   {
-   "date": "2027-03-11",
+   "date": "2026-12-13",
    "category": "geography",
    "title": "The Mariana Trench",
    "body": "The Mariana Trench in the western Pacific contains the deepest known point in the oceans, the Challenger Deep, roughly 11 kilometres down. It forms where one tectonic plate dives beneath another."
   },
   {
-   "date": "2027-03-12",
+   "date": "2026-12-13",
    "category": "arts",
    "title": "A Doll's House",
    "body": "Henrik Ibsen's play of 1879 ends with Nora leaving her husband and children to find herself. The ending caused a scandal, and the play is a landmark of modern realist drama and of debates about women's place in marriage."
   },
   {
-   "date": "2027-03-13",
+   "date": "2026-12-13",
    "category": "music",
    "title": "Guido of Arezzo",
    "body": "The 11th-century monk Guido of Arezzo developed the use of staff lines to show pitch and named the notes of the scale with syllables (ut, re, mi, fa, sol, la). His innovations made it possible to learn music from the page rather than only by ear."
   },
   {
-   "date": "2027-03-14",
+   "date": "2026-12-14",
    "category": "philosophy",
    "title": "The Great Schism of 1054",
    "body": "In 1054 mutual excommunications marked the split between the Church of Rome and the Church of Constantinople. The division into the Roman Catholic and Eastern Orthodox churches, rooted in disputes over authority and doctrine, persists today."
   },
   {
-   "date": "2027-03-15",
+   "date": "2026-12-14",
    "category": "economics",
    "title": "Gross Domestic Product",
    "body": "GDP measures the market value of all final goods and services produced in a country over a period. Simon Kuznets helped develop national accounts in the 1930s, and himself warned that GDP is not a measure of welfare."
   },
   {
-   "date": "2027-03-16",
+   "date": "2026-12-14",
    "category": "politics",
    "title": "The Beveridge Report",
    "body": "William Beveridge's 1942 report proposed a comprehensive system of social insurance in Britain to fight 'want, disease, ignorance, squalor and idleness'. It laid the ground for the post-war British welfare state, including the National Health Service."
   },
   {
-   "date": "2027-03-17",
+   "date": "2026-12-15",
    "category": "language",
    "title": "Latin Abbreviations",
    "body": "Several everyday abbreviations come from Latin: e.g. (exempli gratia, for example), i.e. (id est, that is) and etc. (et cetera, and the rest). Confusing e.g. and i.e. is one of the most common errors in English writing."
   },
   {
-   "date": "2027-03-18",
+   "date": "2026-12-15",
    "category": "technology",
    "title": "Roman Concrete",
    "body": "The Romans made concrete with lime and volcanic ash, which proved remarkably durable. The dome of the Pantheon in Rome, completed in the 2nd century, is still the largest unreinforced concrete dome in the world."
   },
   {
-   "date": "2027-03-19",
+   "date": "2026-12-15",
    "category": "history",
    "title": "The Meiji Restoration",
    "body": "In 1868 imperial rule was restored in Japan, ending the Tokugawa shogunate. The new government modernised the country rapidly, adopting Western industry, education and military organisation, and turned Japan into a major power within a few decades."
   },
   {
-   "date": "2027-03-20",
+   "date": "2026-12-16",
    "category": "science",
    "title": "Quantum Mechanics",
    "body": "In 1900 Max Planck proposed that energy is emitted in discrete packets, or quanta. Quantum mechanics grew from this idea to describe atoms and particles, and includes Heisenberg's uncertainty principle of 1927: position and momentum cannot both be known exactly."
   },
   {
-   "date": "2027-03-21",
+   "date": "2026-12-16",
    "category": "geography",
    "title": "Greenland",
    "body": "Greenland is the world's largest island that is not a continent. It is an autonomous territory within the Kingdom of Denmark, and its ice sheet is the second largest on Earth after Antarctica's."
   },
   {
-   "date": "2027-03-22",
+   "date": "2026-12-16",
    "category": "arts",
    "title": "Cubism",
    "body": "Pablo Picasso and Georges Braque developed Cubism around 1907–1914. Instead of a single viewpoint, they broke objects into geometric shapes seen from several angles at once. It was one of the most influential movements in modern art."
   },
   {
-   "date": "2027-03-23",
+   "date": "2026-12-17",
    "category": "music",
    "title": "The Beatles",
    "body": "Formed in Liverpool, the Beatles dominated popular music in the 1960s. With albums such as Sgt. Pepper's Lonely Hearts Club Band (1967) they used the studio itself as an instrument, and they remain the best-selling act in music history."
   },
   {
-   "date": "2027-03-24",
+   "date": "2026-12-17",
    "category": "philosophy",
    "title": "Aristotle's Golden Mean",
    "body": "In the Nicomachean Ethics, Aristotle argued that virtue lies between two extremes: courage, for example, between cowardice and recklessness. His virtue ethics focuses on character rather than rules or consequences."
   },
   {
-   "date": "2027-03-25",
+   "date": "2026-12-17",
    "category": "economics",
    "title": "Moral Hazard",
    "body": "Moral hazard arises when someone protected from the consequences of risk takes more risk. Insurance is the classic example; in finance, banks considered 'too big to fail' may take more risk if they expect to be rescued."
   },
   {
-   "date": "2027-03-26",
+   "date": "2026-12-18",
    "category": "politics",
    "title": "What Makes a State",
    "body": "The Montevideo Convention of 1933 sets out four widely cited criteria for statehood: a permanent population, a defined territory, a government, and the capacity to enter into relations with other states. Recognition by other states is a separate question."
   },
   {
-   "date": "2027-03-27",
+   "date": "2026-12-18",
    "category": "language",
    "title": "Pāṇini's Grammar",
    "body": "The Sanskrit grammarian Pāṇini, probably active around the 4th century BC, described the language in nearly 4,000 compact rules. His work is one of the earliest and most rigorous descriptions of any language and has influenced modern linguistics."
   },
   {
-   "date": "2027-03-28",
+   "date": "2026-12-18",
    "category": "technology",
    "title": "GPS",
    "body": "The Global Positioning System is a US network of satellites that broadcast precise time signals from atomic clocks. A receiver calculates its position from the time differences. The system must correct for relativity, because clocks in orbit run at a different rate from those on the ground."

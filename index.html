@@ -4,8 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Daily Knowledge</title>
-<meta name="description" content="One piece of general knowledge every day, rotating through ten areas.">
+<meta name="description" content="Three things worth knowing every day, rotating through ten areas.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="Daily Knowledge">
+<meta name="theme-color" content="#EEF1EE" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#141A21" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;900&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap" rel="stylesheet">
@@ -30,7 +34,7 @@
   --red:#E0485B; --redInk:#14181E; --focus:#8DB4F2; --catL:70%; --catS:45%;
 }
 *,*::before,*::after{box-sizing:inherit}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
+html{scroll-padding-top:env(safe-area-inset-top,0px);-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);
   font-family:"Literata",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.6;
   -webkit-font-smoothing:antialiased}
@@ -62,26 +66,49 @@ aside{position:sticky;top:calc(24px + env(safe-area-inset-top,0px))}
   .cal-meta{text-align:left}
 }
 .nav{display:flex;gap:8px;margin-top:20px}
-.nav button{flex:1;background:transparent;border:1px solid var(--rule);border-radius:4px;
-  padding:8px 6px;cursor:pointer;font-size:15px}
-.nav button:hover:not(:disabled){border-color:var(--ink)}
-.nav button:disabled{opacity:.4;cursor:default}
-.archive{margin-top:14px;font-size:15px;color:var(--muted)}
-.archive select{width:100%;margin-top:4px;padding:7px 8px;border:1px solid var(--rule);
-  border-radius:4px;background:var(--sheet)}
+.nav button,.bar button{flex:1;background:transparent;border:1px solid var(--rule);border-radius:4px;
+  min-height:44px;padding:8px 6px;cursor:pointer;font-size:15px}
+.nav button:hover:not(:disabled),.bar button:hover:not(:disabled){border-color:var(--ink)}
+.nav button:disabled,.bar button:disabled{opacity:.4;cursor:default}
+.archive{display:block;margin-top:14px;font-size:15px;color:var(--muted)}
+.archive[hidden]{display:none}
+.archive select{display:block;width:100%;margin-top:4px;min-height:44px;padding:8px;border:1px solid var(--rule);
+  border-radius:4px;background:var(--sheet);font-size:16px}
+
+/* Slim sticky date bar, narrow screens only */
+.bar{display:none}
+@media (max-width:820px){
+  .bar{display:flex;align-items:center;gap:8px;position:sticky;top:env(safe-area-inset-top,0px);z-index:5;
+    background:var(--paper);border-bottom:1px solid var(--rule);
+    padding:6px max(12px,env(safe-area-inset-right,0px)) 6px max(12px,env(safe-area-inset-left,0px))}
+  .bar button{flex:0 0 44px;width:44px;padding:0;font-size:20px;line-height:1}
+  .bar-date{flex:1;text-align:center;font-weight:600;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .nav #prevBtn,.nav #nextBtn{display:none}
+}
+@media (max-width:600px){
+  .wrap{padding:12px 16px 48px;gap:16px}
+  .cal-top{padding:6px 14px;font-size:17px}
+  .cal-day{font-size:56px;padding:0 14px 6px 4px}
+  .cal-wd{font-size:17px}
+  .nav{margin-top:10px}
+  .archive{margin-top:8px}
+  header h1{font-size:24px}
+  header p{font-size:15px;line-height:1.45}
+  .tabs{margin-top:12px}
+}
 
 /* Main column */
 header h1{font-weight:600;font-size:30px;line-height:1.2;margin:0}
 header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
 .tabs{display:flex;gap:4px;margin:22px 0 4px;border-bottom:1px solid var(--rule)}
-.tabs button{background:none;border:none;border-bottom:2px solid transparent;padding:8px 2px;
+.tabs button{background:none;border:none;border-bottom:2px solid transparent;padding:8px 2px;min-height:44px;min-width:44px;
   margin-right:18px;cursor:pointer;color:var(--muted);font-size:16px}
 .tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink)}
 .status{margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--red);background:var(--sheet);
   border-radius:0 4px 4px 0;font-size:16px}
 .status[hidden]{display:none}
 .status button{margin-top:10px;background:var(--ink);color:var(--paper);border:none;border-radius:4px;
-  padding:7px 14px;cursor:pointer;font-size:15px}
+  min-height:44px;padding:7px 14px;cursor:pointer;font-size:15px}
 .facts{list-style:none;margin:0;padding:0}
 .fact{padding:26px 0 24px;border-bottom:1px solid var(--rule);
   display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:16px}
@@ -97,14 +124,14 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
 .recent{margin-top:30px}
 .recent h3{font-size:16px;font-weight:600;color:var(--muted);margin:0 0 6px}
 .recent ul{list-style:none;margin:0;padding:0}
-.recent button{display:grid;grid-template-columns:7.5em 1fr;gap:12px;width:100%;text-align:left;background:none;border:none;border-bottom:1px solid var(--rule);padding:10px 0;cursor:pointer;font-size:16px}
-.recent button:hover .t{text-decoration:underline}
-.recent .d{color:var(--muted);font-size:15px}
-.recent .t::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:8px;vertical-align:middle;background:hsl(var(--h) var(--catS) var(--catL))}
+.recent a{display:flex;align-items:center;min-height:44px;border-bottom:1px solid var(--rule);padding:8px 0;
+  color:inherit;text-decoration:none;font-size:16px}
+.recent a:hover,.recent a:focus-visible{text-decoration:underline}
+.fact h2{overflow-wrap:break-word}
 .fact p{margin:0;max-width:66ch;line-height:1.68}
 .fact .date{font-size:14px;color:var(--muted);margin-top:8px}
 .star{align-self:start;background:none;border:1px solid var(--rule);border-radius:50%;
-  width:38px;height:38px;cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
+  width:44px;height:44px;cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
 .star[aria-pressed="true"]{color:var(--red);border-color:var(--red)}
 .empty{color:var(--muted);padding:28px 0}
 .foot{color:var(--muted);font-size:14px;margin-top:28px;max-width:66ch}
@@ -117,6 +144,11 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
 </style>
 </head>
 <body>
+<div class="bar" id="bar">
+  <button id="barPrev" type="button" aria-label="Previous day">‹</button>
+  <span class="bar-date" id="barDate">–</span>
+  <button id="barNext" type="button" aria-label="Next day">›</button>
+</div>
 <div class="wrap">
   <aside>
     <div class="cal">
@@ -139,10 +171,10 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
   <main>
     <header>
       <h1>Daily Knowledge</h1>
-      <p>One thing worth knowing every day, rotating through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology.</p>
+      <p>Three things worth knowing every day, rotating through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology.</p>
     </header>
     <div class="tabs" role="tablist">
-      <button role="tab" id="tabDay" aria-selected="true" type="button">Fact of the day</button>
+      <button role="tab" id="tabDay" aria-selected="true" type="button">Facts of the day</button>
       <button role="tab" id="tabSaved" aria-selected="false" type="button">Saved</button>
     </div>
     <div class="status" id="status" hidden><span id="statusText"></span></div>
@@ -172,10 +204,11 @@ const shortDate=k=>{const d=parseKey(k);return d.getDate()+" "+MONTHS[d.getMonth
 const ls={get(k,f){try{const v=localStorage.getItem(k);return v?JSON.parse(v):f;}catch(e){return f;}},
           set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}};
 let saved=ls.get("dk:saved",[]);
-const isSaved=d=>saved.some(f=>f.date===d);
-function toggleSave(f){saved=isSaved(f.date)?saved.filter(x=>x.date!==f.date):[f,...saved];ls.set("dk:saved",saved);}
+const idOf=f=>f.id||(f.date+"|"+f.category);
+const isSaved=id=>saved.some(f=>idOf(f)===id);
+function toggleSave(f){const id=idOf(f);saved=isSaved(id)?saved.filter(x=>idOf(x)!==id):[{...f,id},...saved];ls.set("dk:saved",saved);}
 
-const S={view:"day",cur:null,byDate:{},dates:[],error:null};
+const S={view:"day",cur:null,byDate:{},dates:[],order:[],error:null};
 const visible=()=>{const t=todayKey();return S.dates.filter(d=>d<=t);};
 const latest=()=>visible().slice(-1)[0];
 
@@ -189,14 +222,16 @@ function renderCal(){
   $("calDay").textContent=d.getDate();$("calDay").classList.toggle("sunday",d.getDay()===0);
   $("calWd").textContent=WDAYS[d.getDay()];$("calWeek").textContent="Week "+isoWeek(d);
   const v=visible(),i=v.indexOf(S.cur);
-  $("prevBtn").disabled=i<=0;$("nextBtn").disabled=i<0||i>=v.length-1;$("todayBtn").disabled=!v.length||S.cur===latest();
+  $("prevBtn").disabled=$("barPrev").disabled=i<=0;$("nextBtn").disabled=$("barNext").disabled=i<0||i>=v.length-1;
+  $("todayBtn").disabled=!v.length||S.cur===latest();
+  $("barDate").textContent=WDAYS[d.getDay()].slice(0,3)+" "+longDate(k);
   $("archiveWrap").hidden=v.length<2;
   const sel=$("archiveSel");sel.textContent="";
   for(const k2 of v.slice().reverse()){const o=el("option",null,longDate(k2));o.value=k2;if(k2===S.cur)o.selected=true;sel.append(o);}
 }
 
 function starBtn(f){
-  const on=isSaved(f.date),b=el("button","star","★");b.type="button";
+  const on=isSaved(idOf(f)),b=el("button","star","★");b.type="button";
   b.setAttribute("aria-pressed",on);b.setAttribute("aria-label",(on?"Remove ":"Save ")+f.title);
   b.title=on?"Remove from saved":"Save";b.onclick=()=>{toggleSave(f);render();};return b;
 }
@@ -216,18 +251,21 @@ function render(){
     return;
   }
   if(S.error){setStatus(S.error);return;}
-  const f=S.byDate[S.cur];
-  if(!f){setStatus("Loading…");return;}
-  setStatus(S.cur===latest()&&S.cur!==todayKey()?"There is no new fact for today yet. Showing the latest one, from "+longDate(S.cur)+".":"");
-  const hero=el("article","hero");hue(f.category,hero);
-  const t=el("div");t.append(el("h2",null,f.title),el("p",null,f.body));
-  hero.append(el("div","cat",CATS[f.category][0]),t,starBtn(f));m.append(hero);
+  const day=S.byDate[S.cur];
+  if(!day){setStatus("Loading…");return;}
+  setStatus(S.cur===latest()&&S.cur!==todayKey()?"There are no new facts for today yet. Showing the latest day, "+longDate(S.cur)+".":"");
+  const ol=el("ol","facts");ol.setAttribute("aria-label","Facts for "+longDate(S.cur));
+  day.forEach(f=>{
+    const li=el("li","fact");hue(f.category,li);
+    const t=el("div");t.append(el("h2",null,f.title),el("p",null,f.body));
+    li.append(el("div","cat",CATS[f.category]?CATS[f.category][0]:f.category),t,starBtn(f));ol.append(li);});
+  m.append(ol);
   const v=visible(),i=v.indexOf(S.cur),prev=v.slice(Math.max(0,i-6),i).reverse();
   if(prev.length){
     const sec=el("section","recent");sec.append(el("h3",null,"The days before"));
     const ul=el("ul");
-    prev.forEach(d=>{const p=S.byDate[d],li=el("li"),b=el("button");b.type="button";hue(p.category,b);
-      b.append(el("span","d",shortDate(d)),el("span","t",p.title));b.onclick=()=>go(d);li.append(b);ul.append(li);});
+    prev.forEach(d=>{const li=el("li"),a=el("a",null,WDAYS[parseKey(d).getDay()]+" "+longDate(d));
+      a.href="#d"+d;a.onclick=e=>{e.preventDefault();go(d);};li.append(a);ul.append(li);});
     sec.append(ul);m.append(sec);
   }
 }
@@ -239,7 +277,7 @@ function go(k){
   render();window.scrollTo({top:0});
 }
 function step(n){const v=visible(),i=v.indexOf(S.cur);if(v[i+n])go(v[i+n]);}
-$("prevBtn").onclick=()=>step(-1);$("nextBtn").onclick=()=>step(1);
+$("prevBtn").onclick=$("barPrev").onclick=()=>step(-1);$("nextBtn").onclick=$("barNext").onclick=()=>step(1);
 $("todayBtn").onclick=()=>{if(latest())go(latest());};
 $("archiveSel").onchange=e=>{if(e.target.value)go(e.target.value);};
 $("tabDay").onclick=()=>{S.view="day";render();};$("tabSaved").onclick=()=>{S.view="saved";render();};
@@ -253,13 +291,16 @@ render();
     const cfg=await get("schedule.json");
     const banks=await Promise.all(cfg.order.map(c=>get("bank/"+c+".json")));
     const bank=Object.fromEntries(cfg.order.map((c,i)=>[c,banks[i]]));
-    // Same rule as scripts/build.py: day n gets order[n % len] and that area's next unused fact.
-    const start=parseKey(cfg.start);
+    // Same rule as scripts/build.py: number all facts k = 0, 1, 2, ...; fact k is area order[k % len]
+    // and entry floor(k / len) of that area's bank. Day n shows k = per*n ... per*n + per-1.
+    // The schedule ends at the first day for which any of its facts is missing.
+    const start=parseKey(cfg.start),per=cfg.per_day,L=cfg.order.length;
+    const fact=k=>{const c=cfg.order[k%L],f=bank[c][Math.floor(k/L)];return f?{category:c,title:f.title.trim(),body:f.body.trim()}:null;};
     for(let n=0;;n++){
-      const c=cfg.order[n%cfg.order.length],f=bank[c][Math.floor(n/cfg.order.length)];
-      if(!f)break;
+      const fs=[];for(let j=0;j<per;j++){const f=fact(per*n+j);if(!f)break;fs.push(f);}
+      if(fs.length<per)break;
       const d=new Date(start);d.setDate(d.getDate()+n);const k=keyOf(d);
-      S.byDate[k]={date:k,category:c,title:f.title.trim(),body:f.body.trim()};
+      S.byDate[k]=fs.map(f=>({date:k,...f}));
     }
     S.dates=Object.keys(S.byDate).sort();
     const v=visible();

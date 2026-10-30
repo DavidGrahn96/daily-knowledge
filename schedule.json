@@ -1,5 +1,6 @@
 {
   "start": "2026-10-30",
+  "per_day": 3,
   "order": ["history", "science", "geography", "arts", "music",
             "philosophy", "economics", "politics", "language", "technology"]
 }
