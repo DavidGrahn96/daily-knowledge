@@ -13,7 +13,7 @@
 <style>
 :root{
   --bg:#FAFAF7; --card:#FFFFFF; --ink:#1F2328; --muted:#5F6670; --rule:#E2E2DC;
-  --accent:#2F5D8A; --tint:#F1F4F7; --focus:#2F5D8A;
+  --accent:#2F5D8A; --tint:#F1F4F7; --focus:#2F5D8A; --red:#B5162B; --redInk:#FFFFFF;
   --catL:36%; --catS:45%;
   box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
@@ -22,13 +22,13 @@
   :root:not([data-theme="light"]){
     color-scheme:dark;
     --bg:#111417; --card:#181C21; --ink:#E6E8EA; --muted:#9AA3AD; --rule:#2B3239;
-    --accent:#8DB4E2; --tint:#1A2028; --focus:#8DB4E2; --catL:72%; --catS:40%;
+    --accent:#8DB4E2; --tint:#1A2028; --focus:#8DB4E2; --catL:72%; --catS:40%; --red:#E0485B; --redInk:#14181E;
   }
 }
 :root[data-theme="dark"]{
   color-scheme:dark;
   --bg:#111417; --card:#181C21; --ink:#E6E8EA; --muted:#9AA3AD; --rule:#2B3239;
-  --accent:#8DB4E2; --tint:#1A2028; --focus:#8DB4E2; --catL:72%; --catS:40%;
+  --accent:#8DB4E2; --tint:#1A2028; --focus:#8DB4E2; --catL:72%; --catS:40%; --red:#E0485B; --redInk:#14181E;
 }
 *,*::before,*::after{box-sizing:inherit}
 html{scroll-padding-top:calc(60px + env(safe-area-inset-top,0px));-webkit-text-size-adjust:100%;text-size-adjust:100%}
@@ -44,8 +44,24 @@ a{color:var(--accent)}
 .mast{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:8px}
 .mast h1{font-size:15px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin:0}
 .mast .tag{color:var(--muted);font-size:14px;margin:0;text-align:right}
-.dateline{font-size:28px;font-weight:700;line-height:1.2;margin:18px 0 2px;letter-spacing:-.01em}
-.dateline .wk{display:block;font-size:14px;font-weight:400;color:var(--muted);letter-spacing:0;margin-top:4px}
+/* Tear-off calendar block (tap it to show name days) */
+.cal{background:var(--card);border-radius:8px;overflow:hidden;margin-top:18px;cursor:pointer;
+  box-shadow:0 1px 0 var(--rule),0 6px 0 -3px var(--card),0 6px 0 -2px var(--rule),0 11px 0 -6px var(--card),0 11px 0 -5px var(--rule)}
+.cal-top{background:var(--red);color:var(--redInk);display:flex;justify-content:space-between;
+  padding:9px 16px;font-weight:700;font-size:18px;letter-spacing:.02em}
+.cal-body{text-align:center;padding:2px 16px 16px}
+.cal-day{font-weight:800;font-size:132px;line-height:1;letter-spacing:-.05em;margin:8px 0 0;text-align:center;
+  font-family:"Arial Narrow","Helvetica Neue",system-ui,sans-serif}
+.cal-day.sunday{color:var(--red)}
+.cal-wd{font-size:19px;margin:0;font-weight:600}
+.cal-week{color:var(--muted);font-size:14px;margin:2px 0 0}
+@media (max-width:959px){
+  .cal{display:grid;grid-template-columns:auto 1fr;align-items:center}
+  .cal-top{grid-column:1/-1}
+  .cal-day{font-size:64px;padding:2px 16px 8px 12px;margin:0}
+  .cal-body{display:contents}
+  .cal-meta{text-align:left}
+}
 .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
 .nav{display:flex;gap:8px;flex:1 1 280px}
 .nav button,.bar button{flex:1;background:var(--card);border:1px solid var(--rule);border-radius:6px;
@@ -69,14 +85,16 @@ a{color:var(--accent)}
 @media (max-width:600px){
   .wrap{padding-top:14px}
   .mast .tag{display:none}
-  .dateline{font-size:22px;margin-top:12px}
+  .cal{margin-top:12px}
+  .cal-top{padding:6px 14px;font-size:16px}
+  .cal-day{font-size:52px}
+  .cal-wd{font-size:17px}
   .controls{margin-top:10px}
   .nav{flex:0 0 auto}
   .nav button{padding:8px 14px}
 }
 
 /* Name days */
-.dateline{cursor:pointer}
 .namedays{margin-top:6px}
 #ndBtn{display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;width:100%;min-height:44px;padding:6px 0;background:none;border:none;
   border-bottom:1px dashed var(--rule);text-align:left;cursor:pointer;font-size:15px;color:var(--ink)}
@@ -123,6 +141,40 @@ a{color:var(--accent)}
   color:inherit;text-decoration:none;font-size:16px}
 .recent a:hover,.recent a:focus-visible{text-decoration:underline}
 .foot{color:var(--muted);font-size:14px;margin-top:28px}
+
+/* Desktop: wide two-column page with a sidebar and a card grid */
+@media (min-width:960px){
+  .wrap{max-width:1240px;padding-left:32px;padding-right:32px}
+  .mast{padding-bottom:10px}
+  .mast h1{font-size:17px}
+  .mast .tag{font-size:15px}
+  .layout{display:grid;grid-template-columns:290px minmax(0,1fr);gap:44px;align-items:start;margin-top:26px}
+  .side{position:sticky;top:24px}
+  .cal{margin-top:0}
+  .nav button{white-space:nowrap;padding:8px 6px;font-size:14px}
+  .controls{flex-direction:column;align-items:stretch}
+  .nav,.archive{flex:0 0 auto}
+  .archive{flex-direction:column;align-items:stretch;gap:4px}
+  .tabs{margin-top:0}
+  .facts{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:20px;margin-top:20px}
+  .fact,.fact.special{grid-column:span 2;display:flex;flex-direction:column;margin:0;padding:20px;
+    background:var(--card);border:1px solid var(--rule);border-radius:10px}
+  .fact.special{grid-column:span 3;background:var(--tint);border-color:transparent}
+  .fact .cat{order:0}
+  .fact > div:not(.cat){order:1;flex:1;display:flex;flex-direction:column}
+  .fact .more{margin-top:auto;padding-top:8px;font-size:14px}
+  .fact.special + .fact:not(.special){margin-top:0}
+  .fact .star{order:2;align-self:flex-end;margin-top:6px}
+  .fact h2,.fact.special h2{font-size:20px}
+  .fact p{font-size:16px}
+  .empty{grid-column:1/-1}
+  .recent ul{columns:2;column-gap:28px}
+}
+@media (min-width:960px) and (max-width:1180px){
+  .facts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .fact,.fact.special{grid-column:span 1}
+  .fact:last-child:nth-child(odd){grid-column:span 2}
+}
 .foot a{color:inherit;display:inline-flex;align-items:center;min-height:44px;min-width:44px}
 </style>
 </head>
@@ -137,7 +189,16 @@ a{color:var(--accent)}
     <h1>Daily Knowledge</h1>
     <p class="tag">On this day, a fun fact and three things worth knowing</p>
   </header>
-  <p class="dateline" id="dateline"><span id="calWd">–</span> <span id="calDay">–</span> <span id="calMonth">–</span> <span id="calYear">–</span><span class="wk" id="calWeek">–</span></p>
+  <div class="layout">
+  <aside class="side">
+  <div class="cal" id="dateline" role="button" tabindex="0" aria-controls="ndPanel" title="Show name days">
+    <div class="cal-top"><span id="calMonth">–</span><span id="calYear">–</span></div>
+    <div class="cal-day" id="calDay">–</div>
+    <div class="cal-body"><div class="cal-meta">
+      <p class="cal-wd" id="calWd">–</p>
+      <p class="cal-week" id="calWeek">–</p>
+    </div></div>
+  </div>
   <div class="namedays">
     <button id="ndBtn" type="button" aria-expanded="false" aria-controls="ndPanel"><span class="nd-label">Name day</span> <span id="ndShort">–</span> <span class="nd-more">All countries ▾</span></button>
     <div id="ndPanel" hidden><dl id="ndList"></dl><p class="nd-src">Name days from the national name-day calendars as listed on Wikipedia. The US and the UK have no name-day tradition.</p></div>
@@ -152,6 +213,7 @@ a{color:var(--accent)}
       <select id="archiveSel" aria-label="Go to a day"></select>
     </label>
   </div>
+  </aside>
   <main>
     <div class="tabs" role="tablist">
       <button role="tab" id="tabDay" aria-selected="true" type="button">Today's page</button>
@@ -161,6 +223,7 @@ a{color:var(--accent)}
     <div id="main" aria-live="polite"></div>
     <p class="foot">Every day: one event from this date in history, a fun fact, and three facts that rotate through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology. Links go to Wikipedia. Spotted a mistake? <a href="https://github.com/DavidGrahn96/daily-knowledge/issues">Let us know</a>.</p>
   </main>
+  </div>
 </div>
 <script>
 (function(){
@@ -276,6 +339,7 @@ $("prevBtn").onclick=$("barPrev").onclick=()=>step(-1);$("nextBtn").onclick=$("b
 $("todayBtn").onclick=()=>{if(latest())go(latest());};
 $("archiveSel").onchange=e=>{if(e.target.value)go(e.target.value);};
 $("ndBtn").onclick=toggleNd;$("dateline").onclick=toggleNd;
+$("dateline").onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();toggleNd();}};
 $("tabDay").onclick=()=>{S.view="day";render();};$("tabSaved").onclick=()=>{S.view="saved";render();};
 const fromHash=()=>{const m=/^#d(\d{4}-\d{2}-\d{2})$/.exec(location.hash);return m?m[1]:null;};
 window.addEventListener("hashchange",()=>{const k=fromHash()||latest();if(k&&k!==S.cur&&visible().includes(k))go(k);});
