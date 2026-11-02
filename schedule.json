@@ -2,6 +2,8 @@
   "start": "2026-10-30",
   "per_day": 3,
   "fun": "fun",
+  "onthisday": "onthisday",
+  "namedays": "namedays",
   "order": ["history", "science", "geography", "arts", "music",
             "philosophy", "economics", "politics", "language", "technology"]
 }

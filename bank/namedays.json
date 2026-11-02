@@ -1,0 +1,15421 @@
+{
+ "countries": {
+  "FR": {
+   "name": "France",
+   "source": "https://fr.wikipedia.org/wiki/Calendrier_fran%C3%A7ais_des_fleuristes"
+  },
+  "SE": {
+   "name": "Sweden",
+   "source": "https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_namnsdagar_i_Sverige_i_datumordning"
+  },
+  "NO": {
+   "name": "Norway",
+   "source": "https://no.wikipedia.org/wiki/Liste_over_norske_navnedager"
+  },
+  "DK": {
+   "name": "Denmark",
+   "source": "https://da.wikipedia.org/wiki/Danske_navnedage"
+  },
+  "FI": {
+   "name": "Finland",
+   "source": "https://fi.wikipedia.org/wiki/1._tammikuuta (per-day articles, section Nimipäivät, suomalainen kalenteri)"
+  },
+  "DE": {
+   "name": "Germany",
+   "source": "https://de.wikipedia.org/wiki/1._Januar (per-day articles, section Namenstage; gaps from https://de.wikipedia.org/wiki/Liste_der_Namenstage)"
+  },
+  "PL": {
+   "name": "Poland",
+   "source": "https://pl.wikipedia.org/wiki/Imieniny_%E2%80%93_stycze%C5%84 (monthly pages Imieniny – <miesiąc>)"
+  },
+  "CZ": {
+   "name": "Czechia",
+   "source": "https://cs.wikipedia.org/wiki/Jmeniny_v_%C4%8Cesku"
+  },
+  "HU": {
+   "name": "Hungary",
+   "source": "https://hu.wikipedia.org/wiki/Magyar_n%C3%A9vnapok_list%C3%A1ja_d%C3%A1tum_szerint"
+  },
+  "SK": {
+   "name": "Slovakia",
+   "source": "https://sk.wikipedia.org/wiki/Meniny_na_Slovensku"
+  }
+ },
+ "days": {
+  "01-01": {
+   "FR": [
+    "Marie"
+   ],
+   "SE": [],
+   "NO": [],
+   "DK": [],
+   "FI": [],
+   "DE": [
+    "Manuela",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Mieczysław",
+    "Mieszko",
+    "Maria",
+    "Mieczysława"
+   ],
+   "CZ": [],
+   "HU": [
+    "Alpár",
+    "Fruzsina",
+    "Bazil"
+   ],
+   "SK": []
+  },
+  "01-02": {
+   "FR": [
+    "Basile"
+   ],
+   "SE": [
+    "Svea"
+   ],
+   "NO": [
+    "Dagfinn",
+    "Dagfrid"
+   ],
+   "DK": [
+    "Abel"
+   ],
+   "FI": [
+    "Aapeli"
+   ],
+   "DE": [
+    "Dietmar",
+    "Gregor"
+   ],
+   "PL": [
+    "Abel",
+    "Bazyli",
+    "Narcyz",
+    "Aspazja"
+   ],
+   "CZ": [
+    "Karina",
+    "Vasil",
+    "Ábel",
+    "Dětmar"
+   ],
+   "HU": [
+    "Ábel",
+    "Gergely",
+    "Vazul"
+   ],
+   "SK": [
+    "Alexandra",
+    "Karina"
+   ]
+  },
+  "01-03": {
+   "FR": [
+    "Geneviève"
+   ],
+   "SE": [
+    "Alfred",
+    "Alfrida"
+   ],
+   "NO": [
+    "Alfred",
+    "Alf",
+    "Alva"
+   ],
+   "DK": [
+    "Enok"
+   ],
+   "FI": [
+    "Elmeri",
+    "Elmo",
+    "Elmer"
+   ],
+   "DE": [
+    "Adele",
+    "Hermine",
+    "Irma"
+   ],
+   "PL": [
+    "Arleta",
+    "Anter",
+    "Daniel",
+    "Danuta"
+   ],
+   "CZ": [
+    "Radmila",
+    "Radomil",
+    "Jennifer",
+    "Jenovéfa"
+   ],
+   "HU": [
+    "Genovéva",
+    "Gyöngyvér",
+    "Benjámin",
+    "Dzsenifer"
+   ],
+   "SK": [
+    "Daniela"
+   ]
+  },
+  "01-04": {
+   "FR": [
+    "Odilon"
+   ],
+   "SE": [
+    "Rut"
+   ],
+   "NO": [
+    "Roar",
+    "Roger"
+   ],
+   "DK": [
+    "Metusalem"
+   ],
+   "FI": [
+    "Tiitus",
+    "Ruut"
+   ],
+   "DE": [
+    "Angela",
+    "Angelika",
+    "Roger"
+   ],
+   "PL": [
+    "Aniela",
+    "Angelika",
+    "Benedykta",
+    "Dobromir"
+   ],
+   "CZ": [
+    "Diana"
+   ],
+   "HU": [
+    "Titusz",
+    "Leona",
+    "Angéla"
+   ],
+   "SK": [
+    "Drahoslav"
+   ]
+  },
+  "01-05": {
+   "FR": [
+    "Édouard"
+   ],
+   "SE": [
+    "Hanna",
+    "Hannele"
+   ],
+   "NO": [
+    "Hanna",
+    "Hanne"
+   ],
+   "DK": [
+    "Simeon"
+   ],
+   "FI": [
+    "Lea",
+    "Leea"
+   ],
+   "DE": [
+    "Eduard",
+    "Emilia",
+    "Emilie"
+   ],
+   "PL": [
+    "Amata",
+    "Emiliana",
+    "Edward",
+    "Szymon"
+   ],
+   "CZ": [
+    "Dalimil",
+    "Teofan"
+   ],
+   "HU": [
+    "Simon",
+    "Emília"
+   ],
+   "SK": [
+    "Andrea"
+   ]
+  },
+  "01-06": {
+   "FR": [
+    "Melaine"
+   ],
+   "SE": [
+    "Kasper",
+    "Melker",
+    "Baltsar"
+   ],
+   "NO": [
+    "Aslaug",
+    "Aisha",
+    "Alex"
+   ],
+   "DK": [],
+   "FI": [
+    "Harri"
+   ],
+   "DE": [
+    "Balthasar",
+    "Kaspar",
+    "Pia",
+    "Wiltrud"
+   ],
+   "PL": [
+    "Andrzej",
+    "Jędrzej",
+    "Baltazar",
+    "Epifania"
+   ],
+   "CZ": [],
+   "HU": [
+    "Gáspár",
+    "Menyhért",
+    "Boldizsár"
+   ],
+   "SK": [
+    "Antónia"
+   ]
+  },
+  "01-07": {
+   "FR": [
+    "Raymond"
+   ],
+   "SE": [
+    "August",
+    "Augusta"
+   ],
+   "NO": [
+    "Eldbjørg",
+    "Knut"
+   ],
+   "DK": [
+    "Knud"
+   ],
+   "FI": [
+    "Aku",
+    "Aukusti",
+    "August"
+   ],
+   "DE": [
+    "Knut",
+    "Raimund",
+    "Reinhold",
+    "Sigrid"
+   ],
+   "PL": [
+    "Chociesław",
+    "Julian",
+    "Lucjan",
+    "Kryspin"
+   ],
+   "CZ": [
+    "Vilma",
+    "Wilhelmina",
+    "Atila"
+   ],
+   "HU": [
+    "Attila",
+    "Etele",
+    "Ramóna",
+    "Rajmund"
+   ],
+   "SK": [
+    "Bohuslava"
+   ]
+  },
+  "01-08": {
+   "FR": [
+    "Lucien"
+   ],
+   "SE": [
+    "Erland"
+   ],
+   "NO": [
+    "Turid",
+    "Torfinn"
+   ],
+   "DK": [
+    "Erhardt"
+   ],
+   "FI": [
+    "Titta",
+    "Hilppa"
+   ],
+   "DE": [
+    "Erhard",
+    "Gudrun",
+    "Gudula",
+    "Heinrich"
+   ],
+   "PL": [
+    "Mścisław",
+    "Seweryn",
+    "Teofil",
+    "Mroczysław"
+   ],
+   "CZ": [
+    "Čestmír",
+    "Erhard"
+   ],
+   "HU": [
+    "Gyöngyvér",
+    "Keve",
+    "Szeverin",
+    "Szörény"
+   ],
+   "SK": [
+    "Severín"
+   ]
+  },
+  "01-09": {
+   "FR": [
+    "Alix"
+   ],
+   "SE": [
+    "Gunnar",
+    "Gunder"
+   ],
+   "NO": [
+    "Gunnar",
+    "Gunn"
+   ],
+   "DK": [
+    "Julianus"
+   ],
+   "FI": [
+    "Veikko",
+    "Veli",
+    "Veikka",
+    "Veijo"
+   ],
+   "DE": [
+    "Adrian",
+    "Julian"
+   ],
+   "PL": [
+    "Adrian",
+    "Antoni",
+    "Julian",
+    "Marcelin"
+   ],
+   "CZ": [
+    "Vladan",
+    "Walter"
+   ],
+   "HU": [
+    "Marcell",
+    "Juliánusz"
+   ],
+   "SK": [
+    "Alexej"
+   ]
+  },
+  "01-10": {
+   "FR": [
+    "Guillaume"
+   ],
+   "SE": [
+    "Sigurd",
+    "Sigbritt"
+   ],
+   "NO": [
+    "Sigmund",
+    "Sigrun",
+    "Sina"
+   ],
+   "DK": [
+    "Paul"
+   ],
+   "FI": [
+    "Nyyrikki"
+   ],
+   "DE": [
+    "Gregor",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Agaton",
+    "Danuta",
+    "Dobrosław",
+    "Jan"
+   ],
+   "CZ": [
+    "Břetislav"
+   ],
+   "HU": [
+    "Melánia",
+    "Vilmos",
+    "Vilma"
+   ],
+   "SK": [
+    "Dáša"
+   ]
+  },
+  "01-11": {
+   "FR": [
+    "Paulin"
+   ],
+   "SE": [
+    "Jan",
+    "Jannike"
+   ],
+   "NO": [
+    "Børge",
+    "Børre"
+   ],
+   "DK": [
+    "Hyginus"
+   ],
+   "FI": [
+    "Kari",
+    "Karri"
+   ],
+   "DE": [
+    "Adolf",
+    "Theodosios",
+    "Werner"
+   ],
+   "PL": [
+    "Feliks",
+    "Hilary",
+    "Honorata",
+    "Hortensja"
+   ],
+   "CZ": [
+    "Bohdana",
+    "Teodora"
+   ],
+   "HU": [
+    "Ágota",
+    "Honoráta"
+   ],
+   "SK": [
+    "Malvína"
+   ]
+  },
+  "01-12": {
+   "FR": [
+    "Tatiana"
+   ],
+   "SE": [
+    "Frideborg",
+    "Fridolf"
+   ],
+   "NO": [
+    "Nelly",
+    "Nataniel"
+   ],
+   "DK": [
+    "Reinhold"
+   ],
+   "FI": [
+    "Toini"
+   ],
+   "DE": [
+    "Arkadius",
+    "Erna",
+    "Ernst",
+    "Tanja"
+   ],
+   "PL": [
+    "Antoni",
+    "Arkadiusz",
+    "Wiktorian",
+    "Bonet"
+   ],
+   "CZ": [
+    "Pravoslav",
+    "Arkád"
+   ],
+   "HU": [
+    "Ernő",
+    "Erneszta",
+    "Tatjána"
+   ],
+   "SK": [
+    "Ernest"
+   ]
+  },
+  "01-13": {
+   "FR": [
+    "Yvette"
+   ],
+   "SE": [
+    "Knut"
+   ],
+   "NO": [
+    "Gisle",
+    "Gislaug"
+   ],
+   "DK": [
+    "Hilarius"
+   ],
+   "FI": [
+    "Nuutti"
+   ],
+   "DE": [
+    "Gottfried",
+    "Remigius"
+   ],
+   "PL": [
+    "Bogumił",
+    "Bogusław",
+    "Gotfryd",
+    "Leoncjusz"
+   ],
+   "CZ": [
+    "Edita",
+    "Edyta",
+    "Leontýna"
+   ],
+   "HU": [
+    "Veronika",
+    "Csongor",
+    "Yvett"
+   ],
+   "SK": [
+    "Rastislav"
+   ]
+  },
+  "01-14": {
+   "FR": [
+    "Nina"
+   ],
+   "SE": [
+    "Felix",
+    "Felicia"
+   ],
+   "NO": [
+    "Herbjørn",
+    "Herbjørg",
+    "Hermine"
+   ],
+   "DK": [
+    "Felix"
+   ],
+   "FI": [
+    "Saku",
+    "Sakari",
+    "Sasu"
+   ],
+   "DE": [
+    "Felix"
+   ],
+   "PL": [
+    "Feliks",
+    "Hilary",
+    "Amadea",
+    "Krystiana"
+   ],
+   "CZ": [
+    "Radovan",
+    "Radúz"
+   ],
+   "HU": [
+    "Bódog",
+    "Félix"
+   ],
+   "SK": [
+    "Radovan"
+   ]
+  },
+  "01-15": {
+   "FR": [
+    "Remi"
+   ],
+   "SE": [
+    "Laura",
+    "Lorentz"
+   ],
+   "NO": [
+    "Laurits",
+    "Laura",
+    "Lykke"
+   ],
+   "DK": [
+    "Maura"
+   ],
+   "FI": [
+    "Solja"
+   ],
+   "DE": [
+    "Arnold",
+    "Gabriel"
+   ],
+   "PL": [
+    "Aleksander",
+    "Dąbrówka",
+    "Dobrawa",
+    "Domosław"
+   ],
+   "CZ": [
+    "Alice",
+    "Severín",
+    "Alyson"
+   ],
+   "HU": [
+    "Lóránt",
+    "Loránd",
+    "Pál"
+   ],
+   "SK": [
+    "Dobroslav"
+   ]
+  },
+  "01-16": {
+   "FR": [
+    "Marcel"
+   ],
+   "SE": [
+    "Hjalmar",
+    "Helmer"
+   ],
+   "NO": [
+    "Hjalmar",
+    "Hilmar",
+    "Hassan"
+   ],
+   "DK": [
+    "Marcellus"
+   ],
+   "FI": [
+    "Ilmari",
+    "Ilmo"
+   ],
+   "DE": [
+    "Marcellus"
+   ],
+   "PL": [
+    "Marceli",
+    "Waldemar",
+    "Waleriusz",
+    "Treweriusz"
+   ],
+   "CZ": [
+    "Ctirad",
+    "Ctislav"
+   ],
+   "HU": [
+    "Gusztáv",
+    "Marcell"
+   ],
+   "SK": [
+    "Kristína"
+   ]
+  },
+  "01-17": {
+   "FR": [
+    "Roseline"
+   ],
+   "SE": [
+    "Anton",
+    "Tony"
+   ],
+   "NO": [
+    "Anton",
+    "Tønnes",
+    "Tony"
+   ],
+   "DK": [
+    "Antonius"
+   ],
+   "FI": [
+    "Toni",
+    "Anton",
+    "Antto",
+    "Anttoni"
+   ],
+   "DE": [
+    "Antonius",
+    "Beatrix"
+   ],
+   "PL": [
+    "Antoni",
+    "Jan",
+    "Alba",
+    "Sulpicjusz"
+   ],
+   "CZ": [
+    "Drahoslav"
+   ],
+   "HU": [
+    "Antal",
+    "Antónia"
+   ],
+   "SK": [
+    "Nataša"
+   ]
+  },
+  "01-18": {
+   "FR": [
+    "Prisca"
+   ],
+   "SE": [
+    "Hilda",
+    "Hildur"
+   ],
+   "NO": [
+    "Hildur",
+    "Hild"
+   ],
+   "DK": [
+    "Prisca"
+   ],
+   "FI": [
+    "Laura"
+   ],
+   "DE": [
+    "Priska",
+    "Regina"
+   ],
+   "PL": [
+    "Beatrycze",
+    "Bogumił",
+    "Krystyna",
+    "Liberata"
+   ],
+   "CZ": [
+    "Vladislav",
+    "Vladislava"
+   ],
+   "HU": [
+    "Margit",
+    "Piroska"
+   ],
+   "SK": [
+    "Bohdana"
+   ]
+  },
+  "01-19": {
+   "FR": [
+    "Marius"
+   ],
+   "SE": [
+    "Henrik",
+    "Henry"
+   ],
+   "NO": [
+    "Marius",
+    "Margunn",
+    "Matheo"
+   ],
+   "DK": [
+    "Pontianus"
+   ],
+   "FI": [
+    "Heikki",
+    "Henrik",
+    "Henri",
+    "Henrikki"
+   ],
+   "DE": [
+    "Heinrich",
+    "Ljiljana",
+    "Mario",
+    "Marius"
+   ],
+   "PL": [
+    "Andrzej",
+    "Bernard",
+    "Erwin",
+    "Erwina"
+   ],
+   "CZ": [
+    "Doubravka"
+   ],
+   "HU": [
+    "Sára",
+    "Márta",
+    "Márió"
+   ],
+   "SK": [
+    "Drahomíra",
+    "Mário",
+    "Sára"
+   ]
+  },
+  "01-20": {
+   "FR": [
+    "Sébastien"
+   ],
+   "SE": [
+    "Fabian",
+    "Sebastian"
+   ],
+   "NO": [
+    "Fabian",
+    "Sebastian",
+    "Bastian"
+   ],
+   "DK": [
+    "Fabian",
+    "Sebastian"
+   ],
+   "FI": [
+    "Sebastian"
+   ],
+   "DE": [
+    "Fabian",
+    "Sebastian"
+   ],
+   "PL": [
+    "Dobiegniew",
+    "Fabian",
+    "Dobrożyźń",
+    "Sebastian"
+   ],
+   "CZ": [
+    "Ilona",
+    "Sebastián"
+   ],
+   "HU": [
+    "Fábián",
+    "Sebestyén"
+   ],
+   "SK": [
+    "Dalibor"
+   ]
+  },
+  "01-21": {
+   "FR": [
+    "Agnès"
+   ],
+   "SE": [
+    "Agnes",
+    "Agneta"
+   ],
+   "NO": [
+    "Agnes",
+    "Agnete",
+    "Abdul"
+   ],
+   "DK": [
+    "Agnes"
+   ],
+   "FI": [
+    "Aune",
+    "Oona",
+    "Netta",
+    "Auni"
+   ],
+   "DE": [
+    "Agnes",
+    "Ines",
+    "Maxim"
+   ],
+   "PL": [
+    "Agnieszka",
+    "Patrokles",
+    "Epifani",
+    "Jarosław"
+   ],
+   "CZ": [
+    "Běla",
+    "Bianka"
+   ],
+   "HU": [
+    "Ágnes",
+    "Agnéta"
+   ],
+   "SK": [
+    "Vincent"
+   ]
+  },
+  "01-22": {
+   "FR": [
+    "Vincent"
+   ],
+   "SE": [
+    "Vincent",
+    "Viktor"
+   ],
+   "NO": [
+    "Ivan",
+    "Vanja",
+    "Vanessa"
+   ],
+   "DK": [
+    "Vincentius"
+   ],
+   "FI": [
+    "Visa"
+   ],
+   "DE": [
+    "Anastasius",
+    "Dietlinde",
+    "Irene",
+    "Linda"
+   ],
+   "PL": [
+    "Uriel",
+    "Anastazy",
+    "Dorian",
+    "Gaudencjusz"
+   ],
+   "CZ": [
+    "Slavomír",
+    "Slavomíra",
+    "Mnislav"
+   ],
+   "HU": [
+    "Vince",
+    "Artúr"
+   ],
+   "SK": [
+    "Zora"
+   ]
+  },
+  "01-23": {
+   "FR": [
+    "Barnard"
+   ],
+   "SE": [
+    "Frej",
+    "Freja"
+   ],
+   "NO": [
+    "Emil",
+    "Emilie",
+    "Emma"
+   ],
+   "DK": [
+    "Emerentius"
+   ],
+   "FI": [
+    "Enni",
+    "Eine",
+    "Eini",
+    "Enna"
+   ],
+   "DE": [
+    "Hartmut"
+   ],
+   "PL": [
+    "Emerencja",
+    "Ildefons",
+    "Jan",
+    "Klemens"
+   ],
+   "CZ": [
+    "Zdeněk"
+   ],
+   "HU": [
+    "Zelma",
+    "Rajmund",
+    "Emerencia",
+    "Emese"
+   ],
+   "SK": [
+    "Miloš"
+   ]
+  },
+  "01-24": {
+   "FR": [
+    "François"
+   ],
+   "SE": [
+    "Erika"
+   ],
+   "NO": [
+    "Joar",
+    "Jarle",
+    "Jarl"
+   ],
+   "DK": [
+    "Timotheus"
+   ],
+   "FI": [
+    "Senja"
+   ],
+   "DE": [
+    "Arne",
+    "Franz",
+    "Vera",
+    "Milena"
+   ],
+   "PL": [
+    "Chwalibog",
+    "Franciszek",
+    "Milena",
+    "Wera"
+   ],
+   "CZ": [
+    "Milena"
+   ],
+   "HU": [
+    "Timót",
+    "Ferenc"
+   ],
+   "SK": [
+    "Timotej"
+   ]
+  },
+  "01-25": {
+   "FR": [
+    "Paul"
+   ],
+   "SE": [
+    "Paul",
+    "Pål"
+   ],
+   "NO": [
+    "Paul",
+    "Pål"
+   ],
+   "DK": [
+    "Paulus"
+   ],
+   "FI": [
+    "Pauli",
+    "Paavo",
+    "Paul",
+    "Paulus"
+   ],
+   "DE": [
+    "Paul",
+    "Tatjana",
+    "Wolfram"
+   ],
+   "PL": [
+    "Miłosz",
+    "Paweł",
+    "Artemia",
+    "Albert"
+   ],
+   "CZ": [
+    "Miloš",
+    "Milota"
+   ],
+   "HU": [
+    "Pál",
+    "Henrik"
+   ],
+   "SK": [
+    "Gejza"
+   ]
+  },
+  "01-26": {
+   "FR": [
+    "Paule"
+   ],
+   "SE": [
+    "Bodil",
+    "Boel"
+   ],
+   "NO": [
+    "Øystein",
+    "Esten"
+   ],
+   "DK": [
+    "Polycarpus"
+   ],
+   "FI": [
+    "Joonatan"
+   ],
+   "DE": [
+    "Edith",
+    "Paula",
+    "Robert",
+    "Tim"
+   ],
+   "PL": [
+    "Paula",
+    "Skarbimir",
+    "Leon",
+    "Tymoteusz"
+   ],
+   "CZ": [
+    "Zora",
+    "Danica"
+   ],
+   "HU": [
+    "Vanda",
+    "Paula",
+    "Timóteusz"
+   ],
+   "SK": [
+    "Tamara"
+   ]
+  },
+  "01-27": {
+   "FR": [
+    "Angèle"
+   ],
+   "SE": [
+    "Göte",
+    "Göta"
+   ],
+   "NO": [
+    "Gaute",
+    "Gry"
+   ],
+   "DK": [
+    "Chrysostomus"
+   ],
+   "FI": [
+    "Viljo"
+   ],
+   "DE": [
+    "Angela",
+    "Dietrich",
+    "Gerhard",
+    "Julian"
+   ],
+   "PL": [
+    "Aniela",
+    "Rozalia",
+    "Jan",
+    "Jerzy"
+   ],
+   "CZ": [
+    "Ingrid"
+   ],
+   "HU": [
+    "Angéla",
+    "Angelika"
+   ],
+   "SK": [
+    "Bohuš"
+   ]
+  },
+  "01-28": {
+   "FR": [
+    "Thomas"
+   ],
+   "SE": [
+    "Karl",
+    "Karla"
+   ],
+   "NO": [
+    "Karl",
+    "Karoline",
+    "Carlos"
+   ],
+   "DK": [
+    "Carolus",
+    "Magnus",
+    "Karl"
+   ],
+   "FI": [
+    "Kalle",
+    "Kaarlo",
+    "Kaarle",
+    "Mies"
+   ],
+   "DE": [
+    "Manfred",
+    "Thomas",
+    "Caroline"
+   ],
+   "PL": [
+    "Augustyn",
+    "Manfred",
+    "Manfreda",
+    "Flawian"
+   ],
+   "CZ": [
+    "Otýlie"
+   ],
+   "HU": [
+    "Károly",
+    "Karola",
+    "Tamás"
+   ],
+   "SK": [
+    "Alfonz"
+   ]
+  },
+  "01-29": {
+   "FR": [
+    "Gildas"
+   ],
+   "SE": [
+    "Diana"
+   ],
+   "NO": [
+    "Herdis",
+    "Hermod",
+    "Hermann"
+   ],
+   "DK": [
+    "Valerius"
+   ],
+   "FI": [
+    "Valtteri"
+   ],
+   "DE": [],
+   "PL": [
+    "Sulpicjusz",
+    "Ismena",
+    "Gildas",
+    "Waleriusz"
+   ],
+   "CZ": [
+    "Zdislava",
+    "Zdeslava"
+   ],
+   "HU": [
+    "Adél",
+    "Valér"
+   ],
+   "SK": [
+    "Gašpar"
+   ]
+  },
+  "01-30": {
+   "FR": [
+    "Martine"
+   ],
+   "SE": [
+    "Gunilla",
+    "Gunhild"
+   ],
+   "NO": [
+    "Gunnhild",
+    "Gunda"
+   ],
+   "DK": [
+    "Adelgunde"
+   ],
+   "FI": [
+    "Irja"
+   ],
+   "DE": [
+    "Adelgunde",
+    "Martina"
+   ],
+   "PL": [
+    "Adelajda",
+    "Cyntia",
+    "Dobiegniew",
+    "Feliks"
+   ],
+   "CZ": [
+    "Robin",
+    "Robyn",
+    "Erna"
+   ],
+   "HU": [
+    "Martina",
+    "Gerda",
+    "Jácinta"
+   ],
+   "SK": [
+    "Ema"
+   ]
+  },
+  "01-31": {
+   "FR": [
+    "Marcelle"
+   ],
+   "SE": [
+    "Ivar",
+    "Joar"
+   ],
+   "NO": [
+    "Idun",
+    "Ivar"
+   ],
+   "DK": [
+    "Vigilius"
+   ],
+   "FI": [
+    "Alli"
+   ],
+   "DE": [
+    "Emma",
+    "Johannes",
+    "Marcella"
+   ],
+   "PL": [
+    "Cyrus",
+    "Euzebiusz",
+    "Jan",
+    "Ksawery"
+   ],
+   "CZ": [
+    "Marika",
+    "Spytihněv"
+   ],
+   "HU": [
+    "Marcella",
+    "János"
+   ],
+   "SK": [
+    "Emil"
+   ]
+  },
+  "02-01": {
+   "FR": [
+    "Ella"
+   ],
+   "SE": [
+    "Max",
+    "Maximilian"
+   ],
+   "NO": [
+    "Birte",
+    "Bjarte"
+   ],
+   "DK": [
+    "Brigida"
+   ],
+   "FI": [
+    "Riitta"
+   ],
+   "DE": [
+    "Brigitte"
+   ],
+   "PL": [
+    "Brygida",
+    "Winand",
+    "Winanda",
+    "Seweryn"
+   ],
+   "CZ": [
+    "Hynek"
+   ],
+   "HU": [
+    "Ignác",
+    "Brigitta",
+    "Kincső",
+    "Renátó"
+   ],
+   "SK": [
+    "Tatiana"
+   ]
+  },
+  "02-02": {
+   "FR": [],
+   "SE": [],
+   "NO": [
+    "Jomar",
+    "Jostein",
+    "Omar",
+    "Bianca"
+   ],
+   "DK": [],
+   "FI": [
+    "Jemina",
+    "Lumi",
+    "Aamu"
+   ],
+   "DE": [
+    "Bodo",
+    "Stefan"
+   ],
+   "PL": [
+    "Berwin",
+    "Ermentruda",
+    "Jagoda",
+    "Joanna"
+   ],
+   "CZ": [
+    "Nela"
+   ],
+   "HU": [
+    "Karolina",
+    "Karola",
+    "Aida"
+   ],
+   "SK": [
+    "Erik",
+    "Erika"
+   ]
+  },
+  "02-03": {
+   "FR": [
+    "Blaise"
+   ],
+   "SE": [
+    "Disa",
+    "Hjördis"
+   ],
+   "NO": [
+    "Ansgar",
+    "Asgeir",
+    "Angelika"
+   ],
+   "DK": [
+    "Blasius"
+   ],
+   "FI": [
+    "Hugo",
+    "Valo"
+   ],
+   "DE": [
+    "Ansgar",
+    "Blasius",
+    "Oskar"
+   ],
+   "PL": [
+    "Błażej",
+    "Oskar",
+    "Ignacy"
+   ],
+   "CZ": [
+    "Blažej"
+   ],
+   "HU": [
+    "Balázs",
+    "Oszkár",
+    "Celerina"
+   ],
+   "SK": [
+    "Blažej"
+   ]
+  },
+  "02-04": {
+   "FR": [
+    "Véronique"
+   ],
+   "SE": [
+    "Ansgar",
+    "Anselm"
+   ],
+   "NO": [
+    "Veronika",
+    "Vera"
+   ],
+   "DK": [
+    "Veronica"
+   ],
+   "FI": [
+    "Ronja",
+    "Armi",
+    "Mio"
+   ],
+   "DE": [
+    "Johanna",
+    "Veronika"
+   ],
+   "PL": [
+    "Joanna",
+    "Weronika",
+    "Częstogoj",
+    "Izydor"
+   ],
+   "CZ": [
+    "Jarmila"
+   ],
+   "HU": [
+    "Ráhel",
+    "Csenge",
+    "Veronika",
+    "András"
+   ],
+   "SK": [
+    "Veronika"
+   ]
+  },
+  "02-05": {
+   "FR": [
+    "Agathe"
+   ],
+   "SE": [
+    "Agata",
+    "Agda"
+   ],
+   "NO": [
+    "Agate",
+    "Ågot"
+   ],
+   "DK": [
+    "Agathe"
+   ],
+   "FI": [
+    "Asser"
+   ],
+   "DE": [
+    "Alina",
+    "Adelheid"
+   ],
+   "PL": [
+    "Sabbas",
+    "Agata",
+    "Lubodrog",
+    "Awit"
+   ],
+   "CZ": [
+    "Dobromila",
+    "Dobromíra"
+   ],
+   "HU": [
+    "Ágota",
+    "Ingrid",
+    "Etelka",
+    "Léda"
+   ],
+   "SK": [
+    "Agáta"
+   ]
+  },
+  "02-06": {
+   "FR": [
+    "Gaston"
+   ],
+   "SE": [
+    "Dorotea",
+    "Doris"
+   ],
+   "NO": [
+    "Dortea",
+    "Dorte",
+    "Dominik"
+   ],
+   "DK": [
+    "Dorothea"
+   ],
+   "FI": [
+    "Terhi",
+    "Teija",
+    "Tiia",
+    "Tea"
+   ],
+   "DE": [
+    "Doris",
+    "Dorothea",
+    "Paul"
+   ],
+   "PL": [
+    "Dorota",
+    "Leon",
+    "Paweł",
+    "Leona"
+   ],
+   "CZ": [
+    "Vanda",
+    "Danuše"
+   ],
+   "HU": [
+    "Dorottya",
+    "Dóra",
+    "Doroti",
+    "Pál"
+   ],
+   "SK": [
+    "Dorota"
+   ]
+  },
+  "02-07": {
+   "FR": [
+    "Eugénie"
+   ],
+   "SE": [
+    "Rikard",
+    "Dick"
+   ],
+   "NO": [
+    "Rikard",
+    "Rigmor"
+   ],
+   "DK": [
+    "Richard"
+   ],
+   "FI": [
+    "Riku",
+    "Rikhard"
+   ],
+   "DE": [
+    "Ava",
+    "Richard",
+    "Ronan"
+   ],
+   "PL": [
+    "Ryszard",
+    "Romuald",
+    "Teodor",
+    "Partenia"
+   ],
+   "CZ": [
+    "Veronika",
+    "Bereniké",
+    "Verona"
+   ],
+   "HU": [
+    "Tódor",
+    "Rómeó",
+    "Richárd"
+   ],
+   "SK": [
+    "Vanda"
+   ]
+  },
+  "02-08": {
+   "FR": [
+    "Jacqueline"
+   ],
+   "SE": [
+    "Berta",
+    "Bert"
+   ],
+   "NO": [
+    "Åshild",
+    "Åsne",
+    "Ådne"
+   ],
+   "DK": [
+    "Corintha"
+   ],
+   "FI": [
+    "Laina"
+   ],
+   "DE": [
+    "Emil",
+    "Hieronymus",
+    "Philipp"
+   ],
+   "PL": [
+    "Elfryda",
+    "Hieronim",
+    "Ampeliusz",
+    "Gabriela"
+   ],
+   "CZ": [
+    "Milada",
+    "Mlada"
+   ],
+   "HU": [
+    "Aranka",
+    "Jeromos"
+   ],
+   "SK": [
+    "Zoja"
+   ]
+  },
+  "02-09": {
+   "FR": [
+    "Apolline"
+   ],
+   "SE": [
+    "Fanny",
+    "Franciska"
+   ],
+   "NO": [
+    "Lone",
+    "Leikny",
+    "Levi"
+   ],
+   "DK": [
+    "Apollonia"
+   ],
+   "FI": [
+    "Raija",
+    "Raisa"
+   ],
+   "DE": [
+    "Apollonia",
+    "Julian",
+    "Katharina"
+   ],
+   "PL": [
+    "Apolonia",
+    "Cyryl",
+    "Marian",
+    "Pola"
+   ],
+   "CZ": [
+    "Apolena",
+    "Apolonie"
+   ],
+   "HU": [
+    "Abigél",
+    "Alex",
+    "Apollónia"
+   ],
+   "SK": [
+    "Zdenko"
+   ]
+  },
+  "02-10": {
+   "FR": [
+    "Arnaud"
+   ],
+   "SE": [
+    "Iris"
+   ],
+   "NO": [
+    "Ingfrid",
+    "Ingrid"
+   ],
+   "DK": [
+    "Scholastica"
+   ],
+   "FI": [
+    "Elina",
+    "Ella",
+    "Ellen",
+    "Elna"
+   ],
+   "DE": [
+    "Scholastika",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Jacek",
+    "Elwira",
+    "Scholastyka",
+    "Trojan"
+   ],
+   "CZ": [
+    "Mojmír"
+   ],
+   "HU": [
+    "Elvira"
+   ],
+   "SK": [
+    "Gabriela"
+   ]
+  },
+  "02-11": {
+   "FR": [],
+   "SE": [
+    "Yngve",
+    "Inge"
+   ],
+   "NO": [
+    "Ingve",
+    "Yngve"
+   ],
+   "DK": [
+    "Euphrosyne"
+   ],
+   "FI": [
+    "Iisa",
+    "Isabella",
+    "Talvikki"
+   ],
+   "DE": [
+    "Maria",
+    "Viktoria"
+   ],
+   "PL": [
+    "Dezydery",
+    "Lucjan",
+    "Olgierd",
+    "Cedmon"
+   ],
+   "CZ": [
+    "Božena",
+    "Dezider"
+   ],
+   "HU": [
+    "Bertold",
+    "Marietta"
+   ],
+   "SK": [
+    "Dezider"
+   ]
+  },
+  "02-12": {
+   "FR": [
+    "Félix"
+   ],
+   "SE": [
+    "Evelina",
+    "Evy"
+   ],
+   "NO": [
+    "Randi",
+    "Ronja"
+   ],
+   "DK": [
+    "Eulalia"
+   ],
+   "FI": [
+    "Elma",
+    "Elmi"
+   ],
+   "DE": [
+    "Benedikt",
+    "Gregor"
+   ],
+   "PL": [
+    "Modest",
+    "Eulalia",
+    "Damian",
+    "Ampeliusz"
+   ],
+   "CZ": [
+    "Slavěna",
+    "Slávka"
+   ],
+   "HU": [
+    "Lívia",
+    "Lídia",
+    "Eulália"
+   ],
+   "SK": [
+    "Perla"
+   ]
+  },
+  "02-13": {
+   "FR": [
+    "Béatrice"
+   ],
+   "SE": [
+    "Agne",
+    "Ove"
+   ],
+   "NO": [
+    "Svanhild",
+    "Scott"
+   ],
+   "DK": [
+    "Benignus"
+   ],
+   "FI": [
+    "Sulo",
+    "Sulho"
+   ],
+   "DE": [
+    "Beatrix",
+    "Christian",
+    "Ekkehard",
+    "Gisela"
+   ],
+   "PL": [
+    "Arleta",
+    "Grzegorz",
+    "Katarzyna",
+    "Jordana"
+   ],
+   "CZ": [
+    "Věnceslav",
+    "Věnceslava",
+    "Věnka"
+   ],
+   "HU": [
+    "Ella",
+    "Linda",
+    "Levente",
+    "Katalin"
+   ],
+   "SK": [
+    "Arpád"
+   ]
+  },
+  "02-14": {
+   "FR": [
+    "Valentin"
+   ],
+   "SE": [
+    "Valentin"
+   ],
+   "NO": [
+    "Valentin",
+    "Valentina"
+   ],
+   "DK": [
+    "Valentinus"
+   ],
+   "FI": [
+    "Tino",
+    "Voitto",
+    "Valentin"
+   ],
+   "DE": [
+    "Bruno",
+    "Cyrill",
+    "Hjørdis",
+    "Josefa"
+   ],
+   "PL": [
+    "Cyryl",
+    "Dobiesława",
+    "Metody",
+    "Auksencja"
+   ],
+   "CZ": [
+    "Valentin",
+    "Valentýn",
+    "Valentýna"
+   ],
+   "HU": [
+    "Bálint",
+    "Valentin",
+    "Cirill",
+    "Metód"
+   ],
+   "SK": [
+    "Valentín"
+   ]
+  },
+  "02-15": {
+   "FR": [
+    "Claude"
+   ],
+   "SE": [
+    "Sigfrid"
+   ],
+   "NO": [
+    "Sigbjørn",
+    "Silas",
+    "Sienna"
+   ],
+   "DK": [
+    "Faustinus"
+   ],
+   "FI": [
+    "Sipi",
+    "Sippo"
+   ],
+   "DE": [
+    "Siegfried",
+    "Sigurd"
+   ],
+   "PL": [
+    "Julia",
+    "Jowita",
+    "Faustyn",
+    "Zygfryda"
+   ],
+   "CZ": [
+    "Jiřina",
+    "Jorga"
+   ],
+   "HU": [
+    "Kolos",
+    "Györgyi",
+    "Georgina"
+   ],
+   "SK": [
+    "Pravoslav"
+   ]
+  },
+  "02-16": {
+   "FR": [
+    "Julienne"
+   ],
+   "SE": [
+    "Julia",
+    "Julius"
+   ],
+   "NO": [
+    "Julian",
+    "Juliane",
+    "Jill"
+   ],
+   "DK": [
+    "Juliane"
+   ],
+   "FI": [
+    "Kai",
+    "Kaius"
+   ],
+   "DE": [
+    "Juliana",
+    "Pamela"
+   ],
+   "PL": [
+    "Danuta",
+    "Eliasz",
+    "Julianna",
+    "Izajasz"
+   ],
+   "CZ": [
+    "Ljuba"
+   ],
+   "HU": [
+    "Julianna",
+    "Lilla",
+    "Filippa"
+   ],
+   "SK": [
+    "Ida",
+    "Liana"
+   ]
+  },
+  "02-17": {
+   "FR": [
+    "Alexis"
+   ],
+   "SE": [
+    "Alexandra",
+    "Sandra"
+   ],
+   "NO": [
+    "Aleksandra",
+    "Sandra",
+    "Sondre"
+   ],
+   "DK": [
+    "Findanus"
+   ],
+   "FI": [
+    "Väinö",
+    "Rita",
+    "Karita",
+    "Väinämö"
+   ],
+   "DE": [
+    "Constanze",
+    "Donatus",
+    "Lukas"
+   ],
+   "PL": [
+    "Łukasz",
+    "Aleksy",
+    "Donat",
+    "Zbigniew"
+   ],
+   "CZ": [
+    "Miloslava"
+   ],
+   "HU": [
+    "Donát"
+   ],
+   "SK": [
+    "Miloslava"
+   ]
+  },
+  "02-18": {
+   "FR": [
+    "Bernadette"
+   ],
+   "SE": [
+    "Frida",
+    "Fritiof"
+   ],
+   "NO": [
+    "Frøydis",
+    "Frode",
+    "Fatima"
+   ],
+   "DK": [
+    "Concordia"
+   ],
+   "FI": [
+    "Kaino"
+   ],
+   "DE": [
+    "Jimena"
+   ],
+   "PL": [
+    "Konstancja",
+    "Szymon",
+    "Konstantyna",
+    "Klaudiusz"
+   ],
+   "CZ": [
+    "Gizela",
+    "Gisel"
+   ],
+   "HU": [
+    "Bernadett",
+    "Simon",
+    "Zenkő"
+   ],
+   "SK": [
+    "Jaromír"
+   ]
+  },
+  "02-19": {
+   "FR": [
+    "Gabin"
+   ],
+   "SE": [
+    "Gabriella",
+    "Ella"
+   ],
+   "NO": [
+    "Ella",
+    "Elna",
+    "Ebba"
+   ],
+   "DK": [
+    "Ammon"
+   ],
+   "FI": [
+    "Eija"
+   ],
+   "DE": [
+    "Bonifatius",
+    "Zsuzsa"
+   ],
+   "PL": [
+    "Arnold",
+    "Konrad",
+    "Barbacy",
+    "Barbat"
+   ],
+   "CZ": [
+    "Patrik"
+   ],
+   "HU": [
+    "Zsuzsanna",
+    "Eliza",
+    "Konrád"
+   ],
+   "SK": [
+    "Vlasta"
+   ]
+  },
+  "02-20": {
+   "FR": [
+    "Aimée"
+   ],
+   "SE": [
+    "Vivianne"
+   ],
+   "NO": [
+    "Halldis",
+    "Halldor"
+   ],
+   "DK": [
+    "Eucharias"
+   ],
+   "FI": [
+    "Heli",
+    "Heljä",
+    "Helinä",
+    "Hely"
+   ],
+   "DE": [
+    "Falko",
+    "Leon"
+   ],
+   "PL": [
+    "Leon",
+    "Ludomira",
+    "Leona",
+    "Aulus"
+   ],
+   "CZ": [
+    "Oldřich"
+   ],
+   "HU": [
+    "Aladár",
+    "Álmos",
+    "Leó"
+   ],
+   "SK": [
+    "Lívia"
+   ]
+  },
+  "02-21": {
+   "FR": [
+    "Pierre-Damien"
+   ],
+   "SE": [
+    "Hilding"
+   ],
+   "NO": [
+    "Samuel",
+    "Selma",
+    "Celine"
+   ],
+   "DK": [
+    "Samuel"
+   ],
+   "FI": [
+    "Keijo",
+    "Alva"
+   ],
+   "DE": [
+    "Eleonore",
+    "Petrus"
+   ],
+   "PL": [
+    "Eleonora",
+    "Piotr",
+    "Gumbert",
+    "Pepin"
+   ],
+   "CZ": [
+    "Lenka",
+    "Eleonora"
+   ],
+   "HU": [
+    "Eleonóra",
+    "Zelmira",
+    "Péter"
+   ],
+   "SK": [
+    "Eleonóra"
+   ]
+  },
+  "02-22": {
+   "FR": [
+    "Isabelle"
+   ],
+   "SE": [
+    "Pia"
+   ],
+   "NO": [
+    "Tina",
+    "Tim",
+    "Tilde"
+   ],
+   "DK": [
+    "Peter"
+   ],
+   "FI": [
+    "Tuulikki",
+    "Tuuli",
+    "Hilda",
+    "Tuulia"
+   ],
+   "DE": [
+    "Isabella"
+   ],
+   "PL": [
+    "Małgorzata",
+    "Marwald",
+    "Konkordia",
+    "Wrocisław"
+   ],
+   "CZ": [
+    "Petr",
+    "Etel"
+   ],
+   "HU": [
+    "Gerzson",
+    "Margit",
+    "Zétény"
+   ],
+   "SK": [
+    "Etela"
+   ]
+  },
+  "02-23": {
+   "FR": [
+    "Lazare"
+   ],
+   "SE": [
+    "Torsten",
+    "Torun"
+   ],
+   "NO": [
+    "Torstein",
+    "Torunn"
+   ],
+   "DK": [
+    "Papias"
+   ],
+   "FI": [
+    "Aslak"
+   ],
+   "DE": [
+    "Romana"
+   ],
+   "PL": [
+    "Marta",
+    "Damian",
+    "Romana",
+    "Izabela"
+   ],
+   "CZ": [
+    "Svatopluk"
+   ],
+   "HU": [
+    "Alfréd",
+    "Polikárp",
+    "Mirtill"
+   ],
+   "SK": [
+    "Roman",
+    "Romana"
+   ]
+  },
+  "02-24": {
+   "FR": [
+    "Modeste"
+   ],
+   "SE": [
+    "Mattias",
+    "Mats"
+   ],
+   "NO": [
+    "Mattias",
+    "Mattis",
+    "Mats"
+   ],
+   "DK": [
+    "Mattias"
+   ],
+   "FI": [
+    "Matti",
+    "Matias"
+   ],
+   "DE": [
+    "Matthias"
+   ],
+   "PL": [
+    "Józefa",
+    "Bogurad",
+    "Sergiusz",
+    "Maciej"
+   ],
+   "CZ": [
+    "Matěj",
+    "Matyáš"
+   ],
+   "HU": [
+    "Mátyás",
+    "Jázmin"
+   ],
+   "SK": [
+    "Matej"
+   ]
+  },
+  "02-25": {
+   "FR": [
+    "Roméo"
+   ],
+   "SE": [
+    "Sigvard",
+    "Sivert"
+   ],
+   "NO": [
+    "Viktor",
+    "Viktoria",
+    "Vincent"
+   ],
+   "DK": [
+    "Victorinus"
+   ],
+   "FI": [
+    "Tuija",
+    "Jessica",
+    "Tuire",
+    "Vanessa"
+   ],
+   "DE": [
+    "Vanessa"
+   ],
+   "PL": [
+    "Cezary",
+    "Wiktor",
+    "Lubart",
+    "Antonina"
+   ],
+   "CZ": [
+    "Liliana",
+    "Lilie"
+   ],
+   "HU": [
+    "Géza",
+    "Cézár",
+    "Vanda"
+   ],
+   "SK": [
+    "Frederik",
+    "Frederika"
+   ]
+  },
+  "02-26": {
+   "FR": [
+    "Nestor"
+   ],
+   "SE": [
+    "Torgny",
+    "Torkel"
+   ],
+   "NO": [
+    "Inger",
+    "Ingjerd"
+   ],
+   "DK": [
+    "Inger"
+   ],
+   "FI": [
+    "Nestori"
+   ],
+   "DE": [
+    "Alexander",
+    "Ludger",
+    "Mechthild"
+   ],
+   "PL": [
+    "Aleksander",
+    "Dionizy",
+    "Mirosław",
+    "Klaudian"
+   ],
+   "CZ": [
+    "Dorota",
+    "Dorothea"
+   ],
+   "HU": [
+    "Viktor",
+    "Győző",
+    "Edina"
+   ],
+   "SK": [
+    "Viktor"
+   ]
+  },
+  "02-27": {
+   "FR": [
+    "Honorine"
+   ],
+   "SE": [
+    "Lage"
+   ],
+   "NO": [
+    "Leander",
+    "Laila",
+    "Lill"
+   ],
+   "DK": [
+    "Leander"
+   ],
+   "FI": [
+    "Torsti"
+   ],
+   "DE": [
+    "Leander",
+    "Marko"
+   ],
+   "PL": [
+    "Gabriel",
+    "Anastazja",
+    "Auksencja",
+    "Baldomer"
+   ],
+   "CZ": [
+    "Alexandr",
+    "Saša"
+   ],
+   "HU": [
+    "Ákos",
+    "Bátor",
+    "Gábor"
+   ],
+   "SK": [
+    "Alexander"
+   ]
+  },
+  "02-28": {
+   "FR": [
+    "Romain"
+   ],
+   "SE": [
+    "Maria",
+    "Maja"
+   ],
+   "NO": [
+    "Marina",
+    "Maren",
+    "Mira"
+   ],
+   "DK": [
+    "Øllegaard"
+   ],
+   "FI": [
+    "Onni",
+    "Sisu"
+   ],
+   "DE": [
+    "Roman",
+    "Silvana"
+   ],
+   "PL": [
+    "Ludomir",
+    "Roman",
+    "Falibog",
+    "Gaja"
+   ],
+   "CZ": [
+    "Lumír"
+   ],
+   "HU": [
+    "Elemér",
+    "Oszvald",
+    "Román"
+   ],
+   "SK": [
+    "Zlatica"
+   ]
+  },
+  "02-29": {
+   "FR": [
+    "Auguste"
+   ],
+   "SE": [],
+   "NO": [],
+   "DK": [
+    "Øllegaard"
+   ],
+   "FI": [],
+   "DE": [
+    "Roman",
+    "Silvana"
+   ],
+   "PL": [
+    "Ariusz",
+    "Roman",
+    "Dobrosiodł",
+    "August"
+   ],
+   "CZ": [
+    "Horymír"
+   ],
+   "HU": [
+    "Elemér",
+    "Oszvald",
+    "Román"
+   ],
+   "SK": [
+    "Radomír"
+   ]
+  },
+  "03-01": {
+   "FR": [
+    "Aubin"
+   ],
+   "SE": [
+    "Albin",
+    "Elvira"
+   ],
+   "NO": [
+    "Audny",
+    "Audun"
+   ],
+   "DK": [
+    "Albinus"
+   ],
+   "FI": [
+    "Alpo",
+    "Alvi",
+    "Alpi"
+   ],
+   "DE": [
+    "Albin",
+    "David",
+    "Oswald",
+    "Roger"
+   ],
+   "PL": [
+    "Feliks",
+    "Herakles",
+    "Józef",
+    "Eudokia"
+   ],
+   "CZ": [
+    "Bedřich",
+    "Bedřiška",
+    "Frederik"
+   ],
+   "HU": [
+    "Albin",
+    "Albina",
+    "Leonita"
+   ],
+   "SK": [
+    "Albín"
+   ]
+  },
+  "03-02": {
+   "FR": [
+    "Charles"
+   ],
+   "SE": [
+    "Ernst",
+    "Erna"
+   ],
+   "NO": [
+    "Erna",
+    "Ernst"
+   ],
+   "DK": [
+    "Simplicius"
+   ],
+   "FI": [
+    "Virve",
+    "Fanni",
+    "Virva",
+    "Fiona"
+   ],
+   "DE": [
+    "Agnes"
+   ],
+   "PL": [
+    "Absalon",
+    "Paweł",
+    "Januaria",
+    "Agnieszka"
+   ],
+   "CZ": [
+    "Anežka"
+   ],
+   "HU": [
+    "Lujza",
+    "Ágnes",
+    "Henrik",
+    "Magor"
+   ],
+   "SK": [
+    "Anežka"
+   ]
+  },
+  "03-03": {
+   "FR": [
+    "Guénolé"
+   ],
+   "SE": [
+    "Gunborg",
+    "Gunvor"
+   ],
+   "NO": [
+    "Gunnbjørg",
+    "Gunnveig",
+    "Gunnlaug"
+   ],
+   "DK": [
+    "Kunigunde"
+   ],
+   "FI": [
+    "Kauko"
+   ],
+   "DE": [
+    "Friedrich",
+    "Kunigunde"
+   ],
+   "PL": [
+    "Wirzchosława",
+    "Gerwina",
+    "Asteriusz",
+    "Samuel"
+   ],
+   "CZ": [
+    "Kamil",
+    "Vladivoj"
+   ],
+   "HU": [
+    "Kornélia",
+    "Kunigunda",
+    "Frigyes"
+   ],
+   "SK": [
+    "Bohumil",
+    "Bohumila"
+   ]
+  },
+  "03-04": {
+   "FR": [
+    "Casimir"
+   ],
+   "SE": [
+    "Adrian",
+    "Adriana"
+   ],
+   "NO": [
+    "Ada",
+    "Adrian",
+    "Adele"
+   ],
+   "DK": [
+    "Adrianus"
+   ],
+   "FI": [
+    "Ari",
+    "Arsi",
+    "Atro"
+   ],
+   "DE": [
+    "Kasimir",
+    "Lucius"
+   ],
+   "PL": [
+    "Adrian",
+    "Leonard",
+    "Lucjusz",
+    "Gerarda"
+   ],
+   "CZ": [
+    "Stella"
+   ],
+   "HU": [
+    "Kázmér",
+    "Lúciusz",
+    "Zorán"
+   ],
+   "SK": [
+    "Kazimír"
+   ]
+  },
+  "03-05": {
+   "FR": [
+    "Olive"
+   ],
+   "SE": [
+    "Tora",
+    "Tove"
+   ],
+   "NO": [
+    "Patrick",
+    "Patricia"
+   ],
+   "DK": [
+    "Theophillus"
+   ],
+   "FI": [
+    "Leila",
+    "Laila"
+   ],
+   "DE": [
+    "Gerda",
+    "Olivia",
+    "Dietmar"
+   ],
+   "PL": [
+    "Adrian",
+    "Fryderyk",
+    "Pakosław",
+    "Jan"
+   ],
+   "CZ": [
+    "Kazimír"
+   ],
+   "HU": [
+    "Adorján",
+    "Adrián"
+   ],
+   "SK": [
+    "Fridrich"
+   ]
+  },
+  "03-06": {
+   "FR": [
+    "Colette"
+   ],
+   "SE": [
+    "Ebba",
+    "Ebbe"
+   ],
+   "NO": [
+    "Annfrid",
+    "Aida",
+    "Alida"
+   ],
+   "DK": [
+    "Gotfred"
+   ],
+   "FI": [
+    "Tarmo",
+    "Rolf"
+   ],
+   "DE": [
+    "Nicole",
+    "Nicola",
+    "Fridolin",
+    "Rosa"
+   ],
+   "PL": [
+    "Eugenia",
+    "Róża",
+    "Jordana",
+    "Koleta"
+   ],
+   "CZ": [
+    "Miroslav"
+   ],
+   "HU": [
+    "Leonóra",
+    "Inez",
+    "Koletta",
+    "Felicitász"
+   ],
+   "SK": [
+    "Radoslav",
+    "Radoslava"
+   ]
+  },
+  "03-07": {
+   "FR": [
+    "Félicité"
+   ],
+   "SE": [
+    "Camilla"
+   ],
+   "NO": [
+    "Arild",
+    "Are",
+    "Ali"
+   ],
+   "DK": [
+    "Perpetua"
+   ],
+   "FI": [
+    "Tarja",
+    "Taru",
+    "Taika"
+   ],
+   "DE": [
+    "Reinhard",
+    "Volker"
+   ],
+   "PL": [
+    "Paweł",
+    "Bazyli",
+    "Tomasz",
+    "Nadmir"
+   ],
+   "CZ": [
+    "Tomáš"
+   ],
+   "HU": [
+    "Tamás",
+    "Perpétua",
+    "Ubul"
+   ],
+   "SK": [
+    "Tomáš"
+   ]
+  },
+  "03-08": {
+   "FR": [
+    "Jean"
+   ],
+   "SE": [
+    "Siv",
+    "Saga"
+   ],
+   "NO": [
+    "Beate",
+    "Betty",
+    "Bettina"
+   ],
+   "DK": [
+    "Beata"
+   ],
+   "FI": [
+    "Vilppu"
+   ],
+   "DE": [
+    "Johannes",
+    "Julian"
+   ],
+   "PL": [
+    "Miłogost",
+    "Wincenty",
+    "Stefan",
+    "Filemon"
+   ],
+   "CZ": [
+    "Gabriela",
+    "Zoltán"
+   ],
+   "HU": [
+    "János",
+    "Zoltán",
+    "Apolka"
+   ],
+   "SK": [
+    "Alan",
+    "Alana"
+   ]
+  },
+  "03-09": {
+   "FR": [],
+   "SE": [
+    "Torbjörn",
+    "Torleif"
+   ],
+   "NO": [
+    "Sverre",
+    "Sindre"
+   ],
+   "DK": [],
+   "FI": [
+    "Auvo",
+    "Edvin",
+    "Elvin"
+   ],
+   "DE": [
+    "Dominik",
+    "Franziska"
+   ],
+   "PL": [
+    "Mścisława",
+    "Dominik",
+    "Tarazjusz",
+    "Prudencjusz"
+   ],
+   "CZ": [
+    "Františka",
+    "Rebeka",
+    "Franka"
+   ],
+   "HU": [
+    "Franciska",
+    "Fanni"
+   ],
+   "SK": [
+    "Františka"
+   ]
+  },
+  "03-10": {
+   "FR": [
+    "Vivien"
+   ],
+   "SE": [
+    "Edla",
+    "Ada"
+   ],
+   "NO": [
+    "Edel",
+    "Edle"
+   ],
+   "DK": [
+    "Edel"
+   ],
+   "FI": [
+    "Aurora",
+    "Aura",
+    "Auri"
+   ],
+   "DE": [
+    "Gustav"
+   ],
+   "PL": [
+    "Makary",
+    "Porfirion",
+    "Marceli",
+    "Cyprian"
+   ],
+   "CZ": [
+    "Viktorie"
+   ],
+   "HU": [
+    "Ildikó",
+    "Emil",
+    "Gusztáv"
+   ],
+   "SK": [
+    "Branislav",
+    "Bruno"
+   ]
+  },
+  "03-11": {
+   "FR": [
+    "Rosine"
+   ],
+   "SE": [
+    "Edvin",
+    "Egon"
+   ],
+   "NO": [
+    "Edvin",
+    "Tale"
+   ],
+   "DK": [
+    "Thala"
+   ],
+   "FI": [
+    "Kalervo"
+   ],
+   "DE": [
+    "Rosina"
+   ],
+   "PL": [
+    "Benedykt",
+    "Konstantyn",
+    "Prokop",
+    "Sofroniusz"
+   ],
+   "CZ": [
+    "Anděla",
+    "Angelika"
+   ],
+   "HU": [
+    "Szilárd",
+    "Tímea",
+    "Konstantin"
+   ],
+   "SK": [
+    "Angela",
+    "Angelika"
+   ]
+  },
+  "03-12": {
+   "FR": [
+    "Justine"
+   ],
+   "SE": [
+    "Viktoria",
+    "Regina"
+   ],
+   "NO": [
+    "Gregor",
+    "Gro"
+   ],
+   "DK": [
+    "Gregorius"
+   ],
+   "FI": [
+    "Reijo",
+    "Reko"
+   ],
+   "DE": [
+    "Almut",
+    "Maximilian"
+   ],
+   "PL": [
+    "Bernard",
+    "Józefina",
+    "Grzegorz",
+    "Blizbor"
+   ],
+   "CZ": [
+    "Řehoř"
+   ],
+   "HU": [
+    "Gergely",
+    "Maximilián"
+   ],
+   "SK": [
+    "Gregor"
+   ]
+  },
+  "03-13": {
+   "FR": [
+    "Rodrigue"
+   ],
+   "SE": [
+    "Greger"
+   ],
+   "NO": [
+    "Greta",
+    "Grete"
+   ],
+   "DK": [
+    "Macedonius"
+   ],
+   "FI": [
+    "Erno",
+    "Tarvo",
+    "Ernesti"
+   ],
+   "DE": [
+    "Leander",
+    "Pauline"
+   ],
+   "PL": [
+    "Roderyk",
+    "Patrycja",
+    "Bożena",
+    "Marek"
+   ],
+   "CZ": [
+    "Růžena",
+    "Rosalie",
+    "Rosa"
+   ],
+   "HU": [
+    "Krisztián",
+    "Ajtony",
+    "Egyed",
+    "Patrícia"
+   ],
+   "SK": [
+    "Vlastimil"
+   ]
+  },
+  "03-14": {
+   "FR": [
+    "Mathilde"
+   ],
+   "SE": [
+    "Matilda",
+    "Maud"
+   ],
+   "NO": [
+    "Mathilde",
+    "Mette",
+    "Mille"
+   ],
+   "DK": [
+    "Eutychius"
+   ],
+   "FI": [
+    "Matilda",
+    "Mette",
+    "Tilda",
+    "Malla"
+   ],
+   "DE": [
+    "Enno",
+    "Mathilde"
+   ],
+   "PL": [
+    "Fawila",
+    "Michał",
+    "Afrodyzy",
+    "Pamela"
+   ],
+   "CZ": [
+    "Rut",
+    "Matylda",
+    "Vlastibor"
+   ],
+   "HU": [
+    "Matild",
+    "Matilda",
+    "Tilla"
+   ],
+   "SK": [
+    "Matilda"
+   ]
+  },
+  "03-15": {
+   "FR": [
+    "Louise"
+   ],
+   "SE": [
+    "Kristoffer",
+    "Christel"
+   ],
+   "NO": [
+    "Christel",
+    "Christer",
+    "Chris"
+   ],
+   "DK": [
+    "Zacharias"
+   ],
+   "FI": [
+    "Risto"
+   ],
+   "DE": [
+    "Luise"
+   ],
+   "PL": [
+    "Klemens",
+    "Ludwika",
+    "Longina",
+    "Longin"
+   ],
+   "CZ": [
+    "Ida",
+    "Idunn"
+   ],
+   "HU": [
+    "Kristóf",
+    "Kelemen"
+   ],
+   "SK": [
+    "Svetlana"
+   ]
+  },
+  "03-16": {
+   "FR": [
+    "Bénédicte"
+   ],
+   "SE": [
+    "Herbert",
+    "Gilbert"
+   ],
+   "NO": [
+    "Gudmund",
+    "Gudny"
+   ],
+   "DK": [
+    "Gudmund"
+   ],
+   "FI": [
+    "Ilkka"
+   ],
+   "DE": [
+    "Herbert",
+    "Heribert",
+    "Rüdiger"
+   ],
+   "PL": [
+    "Hilary",
+    "Abraham",
+    "Cyriak",
+    "Hiacynt"
+   ],
+   "CZ": [
+    "Elena",
+    "Herbert"
+   ],
+   "HU": [
+    "Henrietta",
+    "Herbert"
+   ],
+   "SK": [
+    "Boleslav"
+   ]
+  },
+  "03-17": {
+   "FR": [
+    "Patrice"
+   ],
+   "SE": [
+    "Gertrud"
+   ],
+   "NO": [
+    "Gjertrud",
+    "Trude"
+   ],
+   "DK": [
+    "Gertrud"
+   ],
+   "FI": [
+    "Kerttu",
+    "Kerttuli"
+   ],
+   "DE": [
+    "Gertrud",
+    "Patrick"
+   ],
+   "PL": [
+    "Agrykola",
+    "Ambroży",
+    "Cieszysław",
+    "Gertruda"
+   ],
+   "CZ": [
+    "Vlastimil",
+    "Vlastimila"
+   ],
+   "HU": [
+    "Gertrúd",
+    "Patrik"
+   ],
+   "SK": [
+    "Ľubica"
+   ]
+  },
+  "03-18": {
+   "FR": [
+    "Cyrille"
+   ],
+   "SE": [
+    "Edvard",
+    "Edmund"
+   ],
+   "NO": [
+    "Aleksander",
+    "Sander",
+    "Edvard"
+   ],
+   "DK": [
+    "Alexander"
+   ],
+   "FI": [
+    "Eetu",
+    "Eppu",
+    "Edvard"
+   ],
+   "DE": [
+    "Eduard"
+   ],
+   "PL": [
+    "Aleksa",
+    "Narcyz",
+    "Boguchwał",
+    "Anzelm"
+   ],
+   "CZ": [
+    "Eduard"
+   ],
+   "HU": [
+    "Sándor",
+    "Ede",
+    "Cirill"
+   ],
+   "SK": [
+    "Eduard"
+   ]
+  },
+  "03-19": {
+   "FR": [
+    "Joseph"
+   ],
+   "SE": [
+    "Josef",
+    "Josefina"
+   ],
+   "NO": [
+    "Josef",
+    "Josefine",
+    "Joel"
+   ],
+   "DK": [
+    "Joseph"
+   ],
+   "FI": [
+    "Juuso",
+    "Joose",
+    "Josefiina",
+    "Jose"
+   ],
+   "DE": [
+    "Gero",
+    "Josef",
+    "Joseph"
+   ],
+   "PL": [
+    "Bogdan",
+    "Jan",
+    "Józef",
+    "Leoncjusz"
+   ],
+   "CZ": [
+    "Josef",
+    "Josefa"
+   ],
+   "HU": [
+    "József",
+    "Bánk"
+   ],
+   "SK": [
+    "Jozef"
+   ]
+  },
+  "03-20": {
+   "FR": [
+    "Herbert"
+   ],
+   "SE": [
+    "Joakim",
+    "Kim"
+   ],
+   "NO": [
+    "Joakim",
+    "Kim"
+   ],
+   "DK": [
+    "Gordius"
+   ],
+   "FI": [
+    "Aki",
+    "Kim",
+    "Kimi",
+    "Joakim"
+   ],
+   "DE": [
+    "Claudia",
+    "Irmgard",
+    "Wolfram"
+   ],
+   "PL": [
+    "Klemens",
+    "Klaudia",
+    "Bogusław",
+    "Ambroży"
+   ],
+   "CZ": [
+    "Světlana",
+    "Světla"
+   ],
+   "HU": [
+    "Klaudia",
+    "Alexandra"
+   ],
+   "SK": [
+    "Víťazoslav"
+   ]
+  },
+  "03-21": {
+   "FR": [
+    "Clémence"
+   ],
+   "SE": [
+    "Bengt"
+   ],
+   "NO": [
+    "Bendik",
+    "Bengt",
+    "Bent"
+   ],
+   "DK": [
+    "Benedictus"
+   ],
+   "FI": [
+    "Pentti"
+   ],
+   "DE": [
+    "Axel",
+    "Benedikt",
+    "Christian",
+    "Emilia"
+   ],
+   "PL": [
+    "Benedykt",
+    "Marzanna",
+    "Klemencja",
+    "Mikołaj"
+   ],
+   "CZ": [
+    "Radek",
+    "Vesna"
+   ],
+   "HU": [
+    "Benedek",
+    "Bence",
+    "Miklós"
+   ],
+   "SK": [
+    "Blahoslav"
+   ]
+  },
+  "03-22": {
+   "FR": [
+    "Léa"
+   ],
+   "SE": [
+    "Kennet",
+    "Kent"
+   ],
+   "NO": [
+    "Paula",
+    "Pauline"
+   ],
+   "DK": [
+    "Paulus"
+   ],
+   "FI": [
+    "Viktor",
+    "Vihtori"
+   ],
+   "DE": [
+    "Elmar",
+    "Lea"
+   ],
+   "PL": [
+    "Paweł",
+    "Bogusław",
+    "August",
+    "Kazimierz"
+   ],
+   "CZ": [
+    "Leona",
+    "Leontina",
+    "Lea"
+   ],
+   "HU": [
+    "Beáta",
+    "Izolda",
+    "Lea"
+   ],
+   "SK": [
+    "Beňadik"
+   ]
+  },
+  "03-23": {
+   "FR": [
+    "Victorien"
+   ],
+   "SE": [
+    "Gerda",
+    "Gerd"
+   ],
+   "NO": [
+    "Gerda",
+    "Gerd"
+   ],
+   "DK": [
+    "Fidelis"
+   ],
+   "FI": [
+    "Akseli",
+    "Selina"
+   ],
+   "DE": [
+    "Eberhard",
+    "Otto",
+    "Rebekka"
+   ],
+   "PL": [
+    "Feliks",
+    "Pelagia",
+    "Zbysław",
+    "Eberhard"
+   ],
+   "CZ": [
+    "Ivona"
+   ],
+   "HU": [
+    "Emőke",
+    "Botond",
+    "Ottó",
+    "Kartal"
+   ],
+   "SK": [
+    "Adrián"
+   ]
+  },
+  "03-24": {
+   "FR": [
+    "Catherine"
+   ],
+   "SE": [
+    "Gabriel",
+    "Rafael"
+   ],
+   "NO": [
+    "Ulrikke",
+    "Rikke"
+   ],
+   "DK": [
+    "Judica",
+    "Ulrica"
+   ],
+   "FI": [
+    "Gabriel",
+    "Kaapo",
+    "Kaapro",
+    "Kaappo"
+   ],
+   "DE": [
+    "Katharina"
+   ],
+   "PL": [
+    "Sewer",
+    "Sofroniusz",
+    "Marek",
+    "Aldmir"
+   ],
+   "CZ": [
+    "Gabriel",
+    "Zbyslav"
+   ],
+   "HU": [
+    "Gábor",
+    "Karina"
+   ],
+   "SK": [
+    "Gabriel"
+   ]
+  },
+  "03-25": {
+   "FR": [
+    "Humbert"
+   ],
+   "SE": [],
+   "NO": [
+    "Maria",
+    "Marie",
+    "Mari"
+   ],
+   "DK": [
+    "Maria"
+   ],
+   "FI": [
+    "Aija",
+    "Aava"
+   ],
+   "DE": [
+    "Jutta",
+    "Manuela"
+   ],
+   "PL": [
+    "Mariola",
+    "Dyzma",
+    "Nikodem",
+    "Maria"
+   ],
+   "CZ": [
+    "Marian"
+   ],
+   "HU": [
+    "Irén",
+    "Írisz",
+    "Lúcia"
+   ],
+   "SK": [
+    "Marián"
+   ]
+  },
+  "03-26": {
+   "FR": [
+    "Larissa"
+   ],
+   "SE": [
+    "Emanuel"
+   ],
+   "NO": [
+    "Gabriel",
+    "Glenn"
+   ],
+   "DK": [
+    "Gabriel"
+   ],
+   "FI": [
+    "Manu",
+    "Manne",
+    "Immanuel",
+    "Immo"
+   ],
+   "DE": [
+    "Felix",
+    "Lara",
+    "Larissa",
+    "Ludger"
+   ],
+   "PL": [
+    "Feliks",
+    "Emanuel",
+    "Emanuela",
+    "Teodor"
+   ],
+   "CZ": [
+    "Emanuel"
+   ],
+   "HU": [
+    "Emánuel",
+    "Emánuéla",
+    "Lara",
+    "Larissza"
+   ],
+   "SK": [
+    "Emanuel"
+   ]
+  },
+  "03-27": {
+   "FR": [
+    "Habib"
+   ],
+   "SE": [
+    "Rudolf",
+    "Ralf"
+   ],
+   "NO": [
+    "Rudolf",
+    "Rudi"
+   ],
+   "DK": [
+    "Kastor"
+   ],
+   "FI": [
+    "Sauli",
+    "Saul"
+   ],
+   "DE": [
+    "Robert",
+    "Rupert"
+   ],
+   "PL": [
+    "Benedykt",
+    "Ernest",
+    "Lidia",
+    "Jan"
+   ],
+   "CZ": [
+    "Dita"
+   ],
+   "HU": [
+    "Hajnalka",
+    "Lídia",
+    "Auguszta"
+   ],
+   "SK": [
+    "Alena"
+   ]
+  },
+  "03-28": {
+   "FR": [
+    "Gontran"
+   ],
+   "SE": [
+    "Malkolm",
+    "Morgan"
+   ],
+   "NO": [
+    "Åsta",
+    "Åste"
+   ],
+   "DK": [
+    "Eustachius"
+   ],
+   "FI": [
+    "Armas"
+   ],
+   "DE": [
+    "Guntram"
+   ],
+   "PL": [
+    "Aleksander",
+    "Doroteusz",
+    "Guntram",
+    "Renata"
+   ],
+   "CZ": [
+    "Soňa"
+   ],
+   "HU": [
+    "Gedeon",
+    "Johanna"
+   ],
+   "SK": [
+    "Soňa"
+   ]
+  },
+  "03-29": {
+   "FR": [
+    "Gwladys"
+   ],
+   "SE": [
+    "Jonas",
+    "Jens"
+   ],
+   "NO": [
+    "Jonas",
+    "Jonatan"
+   ],
+   "DK": [
+    "Jonas"
+   ],
+   "FI": [
+    "Joni",
+    "Joonas",
+    "Jouni",
+    "Joona"
+   ],
+   "DE": [
+    "Berthold",
+    "Ludolf"
+   ],
+   "PL": [
+    "Wiktoryn",
+    "Marek",
+    "Eustazy",
+    "Czcirad"
+   ],
+   "CZ": [
+    "Taťána",
+    "Slavomil",
+    "Táňa"
+   ],
+   "HU": [
+    "Auguszta",
+    "Bercel",
+    "Bertold"
+   ],
+   "SK": [
+    "Miroslav"
+   ]
+  },
+  "03-30": {
+   "FR": [
+    "Amédée"
+   ],
+   "SE": [
+    "Holger",
+    "Holmfrid"
+   ],
+   "NO": [
+    "Holger",
+    "Olga",
+    "Olai"
+   ],
+   "DK": [
+    "Quirinus"
+   ],
+   "FI": [
+    "Usko"
+   ],
+   "DE": [
+    "Amadeus",
+    "Johannes"
+   ],
+   "PL": [
+    "Amelia",
+    "Leonard",
+    "Dobromir",
+    "Amadea"
+   ],
+   "CZ": [
+    "Arnošt",
+    "Ernest"
+   ],
+   "HU": [
+    "Zalán"
+   ],
+   "SK": [
+    "Vieroslava"
+   ]
+  },
+  "03-31": {
+   "FR": [
+    "Benjamin"
+   ],
+   "SE": [
+    "Ester",
+    "Noa"
+   ],
+   "NO": [
+    "Vebjørn",
+    "Vegard"
+   ],
+   "DK": [
+    "Balbina"
+   ],
+   "FI": [
+    "Irma",
+    "Irmeli",
+    "Aamos"
+   ],
+   "DE": [
+    "Benjamin",
+    "Cornelia"
+   ],
+   "PL": [
+    "Gwido",
+    "Beniamin",
+    "Kornelia",
+    "Dobromira"
+   ],
+   "CZ": [
+    "Kvido"
+   ],
+   "HU": [
+    "Árpád",
+    "Benjámin",
+    "Benő"
+   ],
+   "SK": [
+    "Benjamín"
+   ]
+  },
+  "04-01": {
+   "FR": [
+    "Hugues"
+   ],
+   "SE": [
+    "Harald",
+    "Hervor"
+   ],
+   "NO": [
+    "Aron",
+    "Arve",
+    "Arvid"
+   ],
+   "DK": [
+    "Hugo"
+   ],
+   "FI": [
+    "Peppi",
+    "Raita",
+    "Pulmu"
+   ],
+   "DE": [
+    "Aurora",
+    "Daria",
+    "Hugo",
+    "Irene"
+   ],
+   "PL": [
+    "Hugo",
+    "Zbigniew",
+    "Grażyna",
+    "Meliton"
+   ],
+   "CZ": [
+    "Hugo"
+   ],
+   "HU": [
+    "Hugó",
+    "Agád"
+   ],
+   "SK": [
+    "Hugo"
+   ]
+  },
+  "04-02": {
+   "FR": [
+    "Sandrine"
+   ],
+   "SE": [
+    "Gudmund",
+    "Ingemund"
+   ],
+   "NO": [
+    "Sigvard",
+    "Sivert"
+   ],
+   "DK": [
+    "Theodosius"
+   ],
+   "FI": [
+    "Pellervo"
+   ],
+   "DE": [
+    "Franz",
+    "Mirjam",
+    "Sandra",
+    "Theodosia"
+   ],
+   "PL": [
+    "Laurencja",
+    "Franciszek",
+    "Urban",
+    "Miłobąd"
+   ],
+   "CZ": [
+    "Erika",
+    "Rosalind"
+   ],
+   "HU": [
+    "Áron",
+    "Ferenc"
+   ],
+   "SK": [
+    "Zita"
+   ]
+  },
+  "04-03": {
+   "FR": [
+    "Richard"
+   ],
+   "SE": [
+    "Ferdinand",
+    "Nanna"
+   ],
+   "NO": [
+    "Gunnvald",
+    "Gunvor"
+   ],
+   "DK": [
+    "Nicæas"
+   ],
+   "FI": [
+    "Veeti",
+    "Sampo"
+   ],
+   "DE": [
+    "Richard"
+   ],
+   "PL": [
+    "Sykstus",
+    "Ryszard",
+    "Antoni",
+    "Pankracy"
+   ],
+   "CZ": [
+    "Richard"
+   ],
+   "HU": [
+    "Buda",
+    "Richárd",
+    "Hóvirág",
+    "Indira"
+   ],
+   "SK": [
+    "Richard"
+   ]
+  },
+  "04-04": {
+   "FR": [
+    "Isidore"
+   ],
+   "SE": [
+    "Marianne",
+    "Marlene"
+   ],
+   "NO": [
+    "Nanna",
+    "Nancy",
+    "Nina"
+   ],
+   "DK": [
+    "Ambrosius"
+   ],
+   "FI": [
+    "Ukko"
+   ],
+   "DE": [
+    "Benedikt",
+    "Isidor",
+    "Konrad"
+   ],
+   "PL": [
+    "Benedykt",
+    "Ambroży",
+    "Zdzimir",
+    "Izydor"
+   ],
+   "CZ": [
+    "Ivana"
+   ],
+   "HU": [
+    "Izidor"
+   ],
+   "SK": [
+    "Izidor"
+   ]
+  },
+  "04-05": {
+   "FR": [
+    "Irène"
+   ],
+   "SE": [
+    "Irene",
+    "Irja"
+   ],
+   "NO": [
+    "Irene",
+    "Eirin",
+    "Eiril"
+   ],
+   "DK": [
+    "Irene"
+   ],
+   "FI": [
+    "Irene",
+    "Irina",
+    "Ira",
+    "Iro"
+   ],
+   "DE": [
+    "Enzo"
+   ],
+   "PL": [
+    "Irena",
+    "Wincenty",
+    "Borzywoj",
+    "Tristan"
+   ],
+   "CZ": [
+    "Miroslava"
+   ],
+   "HU": [
+    "Vince",
+    "Irén",
+    "Teodóra"
+   ],
+   "SK": [
+    "Miroslava"
+   ]
+  },
+  "04-06": {
+   "FR": [
+    "Marcellin"
+   ],
+   "SE": [
+    "Vilhelm",
+    "William"
+   ],
+   "NO": [
+    "Åsmund",
+    "Asmund"
+   ],
+   "DK": [
+    "Sixtus"
+   ],
+   "FI": [
+    "Ville",
+    "Vili",
+    "Jami",
+    "Viljami"
+   ],
+   "DE": [
+    "Sixtus"
+   ],
+   "PL": [
+    "Zachariasz",
+    "Wilhelm",
+    "Diogenes",
+    "Zachary"
+   ],
+   "CZ": [
+    "Vendula",
+    "Venuše"
+   ],
+   "HU": [
+    "Vilmos",
+    "Bíborka",
+    "Taksony",
+    "Celesztin"
+   ],
+   "SK": [
+    "Irena"
+   ]
+  },
+  "04-07": {
+   "FR": [
+    "Jean-Baptiste"
+   ],
+   "SE": [
+    "Irma",
+    "Irmelin"
+   ],
+   "NO": [
+    "Oddveig",
+    "Oddvin"
+   ],
+   "DK": [
+    "Egesippus"
+   ],
+   "FI": [
+    "Allan",
+    "Ahvo"
+   ],
+   "DE": [
+    "Hermann"
+   ],
+   "PL": [
+    "Donat",
+    "Herman",
+    "Przecław",
+    "Epifaniusz"
+   ],
+   "CZ": [
+    "Heřman",
+    "Hermína"
+   ],
+   "HU": [
+    "Herman",
+    "János"
+   ],
+   "SK": [
+    "Zoltán"
+   ]
+  },
+  "04-08": {
+   "FR": [
+    "Julie"
+   ],
+   "SE": [
+    "Nadja",
+    "Tanja"
+   ],
+   "NO": [
+    "Asle",
+    "Atle",
+    "Ava"
+   ],
+   "DK": [
+    "Janus"
+   ],
+   "FI": [
+    "Suoma",
+    "Suometar"
+   ],
+   "DE": [
+    "Beate",
+    "Walter"
+   ],
+   "PL": [
+    "Sieciesława",
+    "Cezaryna",
+    "Radosław",
+    "August"
+   ],
+   "CZ": [
+    "Ema"
+   ],
+   "HU": [
+    "Dénes",
+    "Valér",
+    "Valter"
+   ],
+   "SK": [
+    "Albert"
+   ]
+  },
+  "04-09": {
+   "FR": [
+    "Gauthier"
+   ],
+   "SE": [
+    "Otto",
+    "Ottilia"
+   ],
+   "NO": [
+    "Rannveig",
+    "Rønnaug"
+   ],
+   "DK": [
+    "Otto",
+    "Procopius"
+   ],
+   "FI": [
+    "Elias",
+    "Eeli",
+    "Eelis",
+    "Eliel"
+   ],
+   "DE": [
+    "Waltraud"
+   ],
+   "PL": [
+    "Marceli",
+    "Maja",
+    "Dobrosława",
+    "Wadim"
+   ],
+   "CZ": [
+    "Dušan"
+   ],
+   "HU": [
+    "Erhard",
+    "Ákos",
+    "Döme"
+   ],
+   "SK": [
+    "Milena"
+   ]
+  },
+  "04-10": {
+   "FR": [
+    "Fulbert"
+   ],
+   "SE": [
+    "Ingvar",
+    "Ingvor"
+   ],
+   "NO": [
+    "Ingvald",
+    "Ingveig"
+   ],
+   "DK": [
+    "Ezechiel"
+   ],
+   "FI": [
+    "Tero"
+   ],
+   "DE": [
+    "Engelbert"
+   ],
+   "PL": [
+    "Grodzisław",
+    "Makary",
+    "Pompejusz",
+    "Marek"
+   ],
+   "CZ": [
+    "Darja"
+   ],
+   "HU": [
+    "Zsolt",
+    "Ezékiel"
+   ],
+   "SK": [
+    "Igor"
+   ]
+  },
+  "04-11": {
+   "FR": [
+    "Stanislas"
+   ],
+   "SE": [
+    "Ulf",
+    "Ylva"
+   ],
+   "NO": [
+    "Ylva",
+    "Ulf"
+   ],
+   "DK": [
+    "Leo"
+   ],
+   "FI": [
+    "Minea",
+    "Minka",
+    "Verna"
+   ],
+   "DE": [
+    "Reiner",
+    "Stanislaus"
+   ],
+   "PL": [
+    "Filip",
+    "Herman",
+    "Leon",
+    "Jaromir"
+   ],
+   "CZ": [
+    "Izabela",
+    "Izabel",
+    "Ratmír"
+   ],
+   "HU": [
+    "Leó",
+    "Szaniszló",
+    "Glória"
+   ],
+   "SK": [
+    "Július"
+   ]
+  },
+  "04-12": {
+   "FR": [
+    "Jules"
+   ],
+   "SE": [
+    "Liv"
+   ],
+   "NO": [
+    "Julius",
+    "Julie"
+   ],
+   "DK": [
+    "Julius"
+   ],
+   "FI": [
+    "Julius",
+    "Julia",
+    "Juulia",
+    "Janna"
+   ],
+   "DE": [
+    "Julius"
+   ],
+   "PL": [
+    "Zenon",
+    "Sabbas",
+    "Andrzej",
+    "Wiktor"
+   ],
+   "CZ": [
+    "Julius",
+    "Julian"
+   ],
+   "HU": [
+    "Gyula",
+    "Baldvin",
+    "Sába",
+    "Nara"
+   ],
+   "SK": [
+    "Estera"
+   ]
+  },
+  "04-13": {
+   "FR": [
+    "Ida"
+   ],
+   "SE": [
+    "Artur",
+    "Douglas"
+   ],
+   "NO": [
+    "Asta",
+    "Astrid"
+   ],
+   "DK": [
+    "Justinus"
+   ],
+   "FI": [
+    "Tellervo"
+   ],
+   "DE": [
+    "Martin"
+   ],
+   "PL": [
+    "Justyn",
+    "Marcjusz",
+    "Marcin",
+    "Hermenegilda"
+   ],
+   "CZ": [
+    "Aleš"
+   ],
+   "HU": [
+    "Ida",
+    "Márton",
+    "Hermina"
+   ],
+   "SK": [
+    "Aleš"
+   ]
+  },
+  "04-14": {
+   "FR": [
+    "Maxime"
+   ],
+   "SE": [
+    "Tiburtius"
+   ],
+   "NO": [
+    "Ellinor",
+    "Nora",
+    "Noah"
+   ],
+   "DK": [
+    "Tiburtius"
+   ],
+   "FI": [
+    "Taito"
+   ],
+   "DE": [
+    "Lidwina"
+   ],
+   "PL": [
+    "Walerian",
+    "Tyburcja",
+    "Tyburcy",
+    "Maria"
+   ],
+   "CZ": [
+    "Vincent"
+   ],
+   "HU": [
+    "Tibor"
+   ],
+   "SK": [
+    "Justína"
+   ]
+  },
+  "04-15": {
+   "FR": [
+    "Paterne"
+   ],
+   "SE": [
+    "Olivia",
+    "Oliver"
+   ],
+   "NO": [
+    "Oda",
+    "Odin",
+    "Odd"
+   ],
+   "DK": [
+    "Olympia"
+   ],
+   "FI": [
+    "Linda",
+    "Tuomi"
+   ],
+   "DE": [
+    "Asta",
+    "Saskia"
+   ],
+   "PL": [
+    "Wiktoryn",
+    "Olimpia",
+    "Modest",
+    "Abel"
+   ],
+   "CZ": [
+    "Anastázie",
+    "Stáza"
+   ],
+   "HU": [
+    "Anasztázia",
+    "Tas",
+    "Oktávia"
+   ],
+   "SK": [
+    "Fedor"
+   ]
+  },
+  "04-16": {
+   "FR": [
+    "Benoît-Joseph"
+   ],
+   "SE": [
+    "Patrik",
+    "Patricia"
+   ],
+   "NO": [
+    "Magnus",
+    "Mons",
+    "Mohammad"
+   ],
+   "DK": [
+    "Mariane"
+   ],
+   "FI": [
+    "Jalo",
+    "Patrik"
+   ],
+   "DE": [
+    "Benedikt",
+    "Bernadette",
+    "Enikő",
+    "Paul"
+   ],
+   "PL": [
+    "Benedykt",
+    "Bernadeta",
+    "Charyzjusz",
+    "Leonid"
+   ],
+   "CZ": [
+    "Irena",
+    "Bernadeta"
+   ],
+   "HU": [
+    "Csongor",
+    "Bernadett"
+   ],
+   "SK": [
+    "Dana",
+    "Danica"
+   ]
+  },
+  "04-17": {
+   "FR": [
+    "Anicet"
+   ],
+   "SE": [
+    "Elias",
+    "Elis"
+   ],
+   "NO": [
+    "Elise",
+    "Else",
+    "Elsa"
+   ],
+   "DK": [
+    "Anicetus"
+   ],
+   "FI": [
+    "Otto"
+   ],
+   "DE": [
+    "Rudolf"
+   ],
+   "PL": [
+    "Klara",
+    "Józef",
+    "Robert",
+    "Radociech"
+   ],
+   "CZ": [
+    "Rudolf"
+   ],
+   "HU": [
+    "Rudolf",
+    "Izidóra"
+   ],
+   "SK": [
+    "Rudolf"
+   ]
+  },
+  "04-18": {
+   "FR": [
+    "Parfait"
+   ],
+   "SE": [
+    "Valdemar",
+    "Volmar"
+   ],
+   "NO": [
+    "Eilen",
+    "Eilert"
+   ],
+   "DK": [
+    "Eleutherius"
+   ],
+   "FI": [
+    "Valto",
+    "Valdemar"
+   ],
+   "DE": [
+    "Alicja",
+    "Aya"
+   ],
+   "PL": [
+    "Gościsław",
+    "Bogusław",
+    "Apoloniusz",
+    "Flawiusz"
+   ],
+   "CZ": [
+    "Valérie"
+   ],
+   "HU": [
+    "Andrea",
+    "Ilma",
+    "Apolló",
+    "Aladár"
+   ],
+   "SK": [
+    "Valér"
+   ]
+  },
+  "04-19": {
+   "FR": [
+    "Emma"
+   ],
+   "SE": [
+    "Olaus",
+    "Ola"
+   ],
+   "NO": [
+    "Arnfinn",
+    "Arnstein",
+    "Alvin"
+   ],
+   "DK": [
+    "Daniel"
+   ],
+   "FI": [
+    "Pälvi",
+    "Pilvi"
+   ],
+   "DE": [
+    "Gerold"
+   ],
+   "PL": [
+    "Konrada",
+    "Leontyna",
+    "Werner",
+    "Leona"
+   ],
+   "CZ": [
+    "Rostislav"
+   ],
+   "HU": [
+    "Emma",
+    "Malvin",
+    "Zseraldina"
+   ],
+   "SK": [
+    "Jela"
+   ]
+  },
+  "04-20": {
+   "FR": [
+    "Odette"
+   ],
+   "SE": [
+    "Amalia",
+    "Amelie"
+   ],
+   "NO": [
+    "Kjellaug",
+    "Kjellrun"
+   ],
+   "DK": [
+    "Sulpicius"
+   ],
+   "FI": [
+    "Lauha",
+    "Nella",
+    "Neela"
+   ],
+   "DE": [
+    "Hildegund",
+    "Hildegunde",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Amalia",
+    "Sekundyn",
+    "Teodor",
+    "Marcelin"
+   ],
+   "CZ": [
+    "Marcela"
+   ],
+   "HU": [
+    "Tivadar",
+    "Tihamér",
+    "Töhötöm"
+   ],
+   "SK": [
+    "Marcel"
+   ]
+  },
+  "04-21": {
+   "FR": [
+    "Anselme"
+   ],
+   "SE": [
+    "Anneli",
+    "Annika"
+   ],
+   "NO": [
+    "Jeanette",
+    "Jannike",
+    "Jessica"
+   ],
+   "DK": [
+    "Florentius"
+   ],
+   "FI": [
+    "Anssi",
+    "Anselmi",
+    "Camilla"
+   ],
+   "DE": [
+    "Alexandra",
+    "Anselm",
+    "Konrad",
+    "Kurt"
+   ],
+   "PL": [
+    "Feliks",
+    "Addar",
+    "Anzelm",
+    "Drogomił"
+   ],
+   "CZ": [
+    "Alexandra",
+    "Selma"
+   ],
+   "HU": [
+    "Konrád",
+    "Zelmira",
+    "Anzelm"
+   ],
+   "SK": [
+    "Ervín"
+   ]
+  },
+  "04-22": {
+   "FR": [
+    "Alexandre"
+   ],
+   "SE": [
+    "Allan",
+    "Glenn"
+   ],
+   "NO": [
+    "Oddgeir",
+    "Oddny"
+   ],
+   "DK": [
+    "Cajus"
+   ],
+   "FI": [
+    "Alina",
+    "Aida"
+   ],
+   "DE": [
+    "Leonidas"
+   ],
+   "PL": [
+    "Łukasz",
+    "Wanesa",
+    "Gajusz",
+    "Teodor"
+   ],
+   "CZ": [
+    "Evženie"
+   ],
+   "HU": [
+    "Csilla",
+    "Noémi",
+    "Kájusz",
+    "Noé"
+   ],
+   "SK": [
+    "Slavomír"
+   ]
+  },
+  "04-23": {
+   "FR": [
+    "Georges"
+   ],
+   "SE": [
+    "Georg",
+    "Göran"
+   ],
+   "NO": [
+    "Georg",
+    "Jørgen",
+    "Jørn"
+   ],
+   "DK": [
+    "Georgius"
+   ],
+   "FI": [
+    "Yrjö",
+    "Jyrki",
+    "Jyri",
+    "Yrjänä"
+   ],
+   "DE": [
+    "Adalbert",
+    "Georg",
+    "Gerhard",
+    "Jürgen"
+   ],
+   "PL": [
+    "Adalbert",
+    "Wojciech",
+    "Gerard",
+    "Helena"
+   ],
+   "CZ": [
+    "Vojtěch"
+   ],
+   "HU": [
+    "Béla",
+    "Adalbert"
+   ],
+   "SK": [
+    "Vojtech"
+   ]
+  },
+  "04-24": {
+   "FR": [
+    "Fidèle"
+   ],
+   "SE": [
+    "Vega"
+   ],
+   "NO": [
+    "Albert",
+    "Olaug",
+    "Olivia"
+   ],
+   "DK": [
+    "Albertus"
+   ],
+   "FI": [
+    "Pertti",
+    "Albert",
+    "Altti"
+   ],
+   "DE": [
+    "Helmut",
+    "Marian",
+    "Wilfried"
+   ],
+   "PL": [
+    "Fidelis",
+    "Erwin",
+    "Horacy",
+    "Egbert"
+   ],
+   "CZ": [
+    "Jiří"
+   ],
+   "HU": [
+    "György",
+    "Fidél",
+    "Debóra"
+   ],
+   "SK": [
+    "Juraj"
+   ]
+  },
+  "04-25": {
+   "FR": [
+    "Marc"
+   ],
+   "SE": [
+    "Markus"
+   ],
+   "NO": [
+    "Markus",
+    "Mark",
+    "Marco"
+   ],
+   "DK": [
+    "Markus"
+   ],
+   "FI": [
+    "Markku",
+    "Markus",
+    "Marko"
+   ],
+   "DE": [
+    "Ermin",
+    "Markus"
+   ],
+   "PL": [
+    "Kaliksta",
+    "Ewodia",
+    "Markusław",
+    "Jarosław"
+   ],
+   "CZ": [
+    "Marek",
+    "Markus"
+   ],
+   "HU": [
+    "Márk",
+    "Ányos",
+    "Mohamed"
+   ],
+   "SK": [
+    "Marek"
+   ]
+  },
+  "04-26": {
+   "FR": [
+    "Alida"
+   ],
+   "SE": [
+    "Teresia",
+    "Terese"
+   ],
+   "NO": [
+    "Terese",
+    "Tea",
+    "Telma"
+   ],
+   "DK": [
+    "Cletus"
+   ],
+   "FI": [
+    "Terttu",
+    "Teresa",
+    "Tessa"
+   ],
+   "DE": [
+    "Helene"
+   ],
+   "PL": [
+    "Marcelin",
+    "Klarencjusz",
+    "Spycimir",
+    "Klet"
+   ],
+   "CZ": [
+    "Oto"
+   ],
+   "HU": [
+    "Ervin",
+    "Klétusz"
+   ],
+   "SK": [
+    "Jaroslava"
+   ]
+  },
+  "04-27": {
+   "FR": [
+    "Zita"
+   ],
+   "SE": [
+    "Engelbrekt"
+   ],
+   "NO": [
+    "Charles",
+    "Charlotte",
+    "Lotte"
+   ],
+   "DK": [
+    "Ananias"
+   ],
+   "FI": [
+    "Merja",
+    "Meea"
+   ],
+   "DE": [
+    "Zita"
+   ],
+   "PL": [
+    "Felicja",
+    "Anastazy",
+    "Marcin",
+    "Zyta"
+   ],
+   "CZ": [
+    "Jaroslav"
+   ],
+   "HU": [
+    "Zita",
+    "Mariann",
+    "Anasztáz"
+   ],
+   "SK": [
+    "Jaroslav"
+   ]
+  },
+  "04-28": {
+   "FR": [
+    "Valérie"
+   ],
+   "SE": [
+    "Ture",
+    "Tyra"
+   ],
+   "NO": [
+    "Vivi",
+    "Vivian",
+    "Viljar"
+   ],
+   "DK": [
+    "Vitalis"
+   ],
+   "FI": [
+    "Ilpo",
+    "Tuure",
+    "Ilppo"
+   ],
+   "DE": [
+    "Hugo",
+    "Ludwig"
+   ],
+   "PL": [
+    "Paweł",
+    "Maria",
+    "Waleria",
+    "Marek"
+   ],
+   "CZ": [
+    "Vlastislav"
+   ],
+   "HU": [
+    "Valéria",
+    "Péter"
+   ],
+   "SK": [
+    "Jarmila"
+   ]
+  },
+  "04-29": {
+   "FR": [
+    "Catherine"
+   ],
+   "SE": [
+    "Tyko"
+   ],
+   "NO": [
+    "Toralf",
+    "Torolf"
+   ],
+   "DK": [
+    "Peter"
+   ],
+   "FI": [
+    "Teijo"
+   ],
+   "DE": [
+    "Katharina",
+    "Roswitha"
+   ],
+   "PL": [
+    "Hugo",
+    "Bogusław",
+    "Robert",
+    "Piotr"
+   ],
+   "CZ": [
+    "Robert"
+   ],
+   "HU": [
+    "Péter",
+    "Katalin",
+    "Roberta"
+   ],
+   "SK": [
+    "Lea"
+   ]
+  },
+  "04-30": {
+   "FR": [
+    "Robert"
+   ],
+   "SE": [
+    "Mariana"
+   ],
+   "NO": [
+    "Gina",
+    "Gitte"
+   ],
+   "DK": [
+    "Serverus",
+    "Valborg"
+   ],
+   "FI": [
+    "Mirja",
+    "Miia",
+    "Mira",
+    "Mirva"
+   ],
+   "DE": [
+    "Pius",
+    "Quirin"
+   ],
+   "PL": [
+    "Eutropiusz",
+    "Bartłomiej",
+    "Chwalisława",
+    "Lilla"
+   ],
+   "CZ": [
+    "Blahoslav"
+   ],
+   "HU": [
+    "Katalin",
+    "Kitti",
+    "Zsófia",
+    "Piusz"
+   ],
+   "SK": [
+    "Anastázia"
+   ]
+  },
+  "05-01": {
+   "FR": [
+    "Joseph"
+   ],
+   "SE": [
+    "Valborg"
+   ],
+   "NO": [
+    "Filip",
+    "Valborg",
+    "Filippa"
+   ],
+   "DK": [
+    "Jacob",
+    "Philip",
+    "Valborg"
+   ],
+   "FI": [
+    "Vappu",
+    "Valpuri"
+   ],
+   "DE": [
+    "Josef"
+   ],
+   "PL": [
+    "Jeremiasz",
+    "Berta",
+    "Briok",
+    "Jeremi"
+   ],
+   "CZ": [],
+   "HU": [
+    "Fülöp",
+    "Jakab",
+    "Zsaklin",
+    "Jefte"
+   ],
+   "SK": []
+  },
+  "05-02": {
+   "FR": [
+    "Boris"
+   ],
+   "SE": [
+    "Filip",
+    "Filippa"
+   ],
+   "NO": [
+    "Åsa",
+    "Åse"
+   ],
+   "DK": [
+    "Athanasius"
+   ],
+   "FI": [
+    "Viivi",
+    "Vuokko",
+    "Vivian"
+   ],
+   "DE": [
+    "Boris",
+    "Wiebke",
+    "Zoe"
+   ],
+   "PL": [
+    "Zoe",
+    "Borys",
+    "Zygmunta",
+    "Walter"
+   ],
+   "CZ": [
+    "Zikmund"
+   ],
+   "HU": [
+    "Zsigmond",
+    "Idir",
+    "Zoé"
+   ],
+   "SK": [
+    "Žigmund"
+   ]
+  },
+  "05-03": {
+   "FR": [
+    "Jacques"
+   ],
+   "SE": [
+    "John",
+    "Jane"
+   ],
+   "NO": [
+    "Gjermund",
+    "Gøril"
+   ],
+   "DK": [],
+   "FI": [
+    "Outi",
+    "Linus"
+   ],
+   "DE": [
+    "Alexander",
+    "Philipp"
+   ],
+   "PL": [
+    "Juwenalis",
+    "Maria",
+    "Alodia",
+    "Antonina"
+   ],
+   "CZ": [
+    "Alexej",
+    "Alexie",
+    "Timea"
+   ],
+   "HU": [
+    "Tímea",
+    "Irma",
+    "Jakab",
+    "Fülöp"
+   ],
+   "SK": [
+    "Galina",
+    "Timea"
+   ]
+  },
+  "05-04": {
+   "FR": [
+    "Sylvain"
+   ],
+   "SE": [
+    "Monika",
+    "Mona"
+   ],
+   "NO": [
+    "Monika",
+    "Mona",
+    "Milla"
+   ],
+   "DK": [
+    "Florian"
+   ],
+   "FI": [
+    "Roosa",
+    "Rosa",
+    "Ruusu"
+   ],
+   "DE": [
+    "Florian",
+    "Guido",
+    "Valerie"
+   ],
+   "PL": [
+    "Florian",
+    "Michał",
+    "Paulin",
+    "Monika"
+   ],
+   "CZ": [
+    "Květoslav"
+   ],
+   "HU": [
+    "Mónika",
+    "Flórián"
+   ],
+   "SK": [
+    "Florián"
+   ]
+  },
+  "05-05": {
+   "FR": [
+    "Judith"
+   ],
+   "SE": [
+    "Gotthard",
+    "Erhard"
+   ],
+   "NO": [
+    "Nicole",
+    "Noel",
+    "Noor"
+   ],
+   "DK": [
+    "Gothard"
+   ],
+   "FI": [
+    "Melissa",
+    "Melina",
+    "Maini"
+   ],
+   "DE": [
+    "Sigrid",
+    "Jutta"
+   ],
+   "PL": [
+    "Pius",
+    "Teodor",
+    "Irena",
+    "Zdziebor"
+   ],
+   "CZ": [
+    "Klaudie",
+    "Claudie"
+   ],
+   "HU": [
+    "Györgyi",
+    "Irén"
+   ],
+   "SK": [
+    "Lesana"
+   ]
+  },
+  "05-06": {
+   "FR": [
+    "Prudence"
+   ],
+   "SE": [
+    "Marit",
+    "Rita"
+   ],
+   "NO": [
+    "Guri",
+    "Gyri",
+    "Gudbrand"
+   ],
+   "DK": [
+    "Johannes"
+   ],
+   "FI": [
+    "Ylermi"
+   ],
+   "DE": [
+    "Antonia",
+    "Gundula"
+   ],
+   "PL": [
+    "Judyta",
+    "Ewodia",
+    "Teodor",
+    "Gościwit"
+   ],
+   "CZ": [
+    "Radoslav",
+    "Radovít"
+   ],
+   "HU": [
+    "Ivett",
+    "Frida",
+    "Judit",
+    "Yvett"
+   ],
+   "SK": [
+    "Hermína"
+   ]
+  },
+  "05-07": {
+   "FR": [
+    "Gisèle"
+   ],
+   "SE": [
+    "Carina",
+    "Carita"
+   ],
+   "NO": [
+    "Maia",
+    "Mai",
+    "Maiken"
+   ],
+   "DK": [
+    "Flavia"
+   ],
+   "FI": [
+    "Helmi",
+    "Kastehelmi"
+   ],
+   "DE": [
+    "Alexei",
+    "Gisela",
+    "Silke"
+   ],
+   "PL": [
+    "Benedykt",
+    "Florian",
+    "Gizela",
+    "August"
+   ],
+   "CZ": [
+    "Stanislav",
+    "Stanimír"
+   ],
+   "HU": [
+    "Gizella",
+    "Gusztáv",
+    "Bendegúz",
+    "Gália"
+   ],
+   "SK": [
+    "Monika"
+   ]
+  },
+  "05-08": {
+   "FR": [
+    "Désiré"
+   ],
+   "SE": [
+    "Åke"
+   ],
+   "NO": [
+    "Åge",
+    "Åke",
+    "Åslaug"
+   ],
+   "DK": [
+    "Stanislaus"
+   ],
+   "FI": [
+    "Heino"
+   ],
+   "DE": [
+    "Désirée",
+    "Friedrich",
+    "Klara",
+    "Nina"
+   ],
+   "PL": [
+    "Heladiusz",
+    "Dezyderia",
+    "Amat",
+    "Michał"
+   ],
+   "CZ": [],
+   "HU": [
+    "Mihály",
+    "Győző"
+   ],
+   "SK": [
+    "Ingrida"
+   ]
+  },
+  "05-09": {
+   "FR": [
+    "Pacôme"
+   ],
+   "SE": [
+    "Reidar",
+    "Reidun"
+   ],
+   "NO": [
+    "Kasper",
+    "Jesper",
+    "Kaspian"
+   ],
+   "DK": [
+    "Caspar"
+   ],
+   "FI": [
+    "Timo",
+    "Timi"
+   ],
+   "DE": [
+    "Beat",
+    "Volkmar"
+   ],
+   "PL": [
+    "Karolina",
+    "Hiob",
+    "Grzegorz",
+    "Mikołaj"
+   ],
+   "CZ": [
+    "Ctibor"
+   ],
+   "HU": [
+    "Gergely",
+    "Katinka",
+    "Alberta",
+    "Édua"
+   ],
+   "SK": [
+    "Roland"
+   ]
+  },
+  "05-10": {
+   "FR": [
+    "Solange"
+   ],
+   "SE": [
+    "Esbjörn",
+    "Styrbjörn"
+   ],
+   "NO": [
+    "Asbjørg",
+    "Asbjørn",
+    "Espen"
+   ],
+   "DK": [
+    "Gordianus"
+   ],
+   "FI": [
+    "Aino",
+    "Aini",
+    "Aina",
+    "Ainikki"
+   ],
+   "DE": [
+    "Bertram",
+    "Regine"
+   ],
+   "PL": [
+    "Gordian",
+    "Chociesław",
+    "Gordiana",
+    "Symeon"
+   ],
+   "CZ": [
+    "Blažena"
+   ],
+   "HU": [
+    "Ármin",
+    "Pálma",
+    "Izidor"
+   ],
+   "SK": [
+    "Viktória"
+   ]
+  },
+  "05-11": {
+   "FR": [
+    "Estelle"
+   ],
+   "SE": [
+    "Märta",
+    "Märit"
+   ],
+   "NO": [
+    "Magda",
+    "Malvin",
+    "Madelen"
+   ],
+   "DK": [
+    "Mamertus"
+   ],
+   "FI": [
+    "Osmo"
+   ],
+   "DE": [
+    "Jakob",
+    "Joachim",
+    "Mamertus"
+   ],
+   "PL": [
+    "Benedykt",
+    "Filip",
+    "Mamerta",
+    "Adalbert"
+   ],
+   "CZ": [
+    "Svatava"
+   ],
+   "HU": [
+    "Ferenc",
+    "Sára"
+   ],
+   "SK": [
+    "Blažena"
+   ]
+  },
+  "05-12": {
+   "FR": [
+    "Achille"
+   ],
+   "SE": [
+    "Charlotta",
+    "Lotta"
+   ],
+   "NO": [
+    "Normann",
+    "Norvald"
+   ],
+   "DK": [
+    "Pancratius"
+   ],
+   "FI": [
+    "Lotta"
+   ],
+   "DE": [
+    "Johanna",
+    "Pankratius"
+   ],
+   "PL": [
+    "Wszemił",
+    "Dominik",
+    "Epifani",
+    "Nawoja"
+   ],
+   "CZ": [
+    "Pankrác"
+   ],
+   "HU": [
+    "Pongrác"
+   ],
+   "SK": [
+    "Pankrác"
+   ]
+  },
+  "05-13": {
+   "FR": [
+    "Rolande"
+   ],
+   "SE": [
+    "Linnea",
+    "Linn"
+   ],
+   "NO": [
+    "Linda",
+    "Line",
+    "Linn"
+   ],
+   "DK": [
+    "Ingenuus"
+   ],
+   "FI": [
+    "Kukka",
+    "Floora"
+   ],
+   "DE": [
+    "Roland",
+    "Servatius"
+   ],
+   "PL": [
+    "Robert",
+    "Gerard",
+    "Serwacy",
+    "Aaron"
+   ],
+   "CZ": [
+    "Servác"
+   ],
+   "HU": [
+    "Szervác",
+    "Imola",
+    "Imelda"
+   ],
+   "SK": [
+    "Servác"
+   ]
+  },
+  "05-14": {
+   "FR": [
+    "Matthias"
+   ],
+   "SE": [
+    "Halvard",
+    "Halvar"
+   ],
+   "NO": [
+    "Kristian",
+    "Kristen",
+    "Karsten"
+   ],
+   "DK": [
+    "Kristian"
+   ],
+   "FI": [
+    "Tuula"
+   ],
+   "DE": [
+    "Bonifatius",
+    "Carsten",
+    "Christian"
+   ],
+   "PL": [
+    "Jeremiasz",
+    "Koryna",
+    "Bonifacy",
+    "Maciej"
+   ],
+   "CZ": [
+    "Bonifác",
+    "Dina"
+   ],
+   "HU": [
+    "Bonifác",
+    "Gyöngyi"
+   ],
+   "SK": [
+    "Bonifác"
+   ]
+  },
+  "05-15": {
+   "FR": [
+    "Denise"
+   ],
+   "SE": [
+    "Sofia",
+    "Sonja"
+   ],
+   "NO": [
+    "Hallvard",
+    "Halvor"
+   ],
+   "DK": [
+    "Sophie"
+   ],
+   "FI": [
+    "Sofia",
+    "Sonja",
+    "Sohvi"
+   ],
+   "DE": [
+    "Rupert",
+    "Sophia"
+   ],
+   "PL": [
+    "Strzeżysław",
+    "Robert",
+    "Cecyliusz",
+    "Atanazy"
+   ],
+   "CZ": [
+    "Žofie",
+    "Sofie",
+    "Selena"
+   ],
+   "HU": [
+    "Bodza",
+    "Zsófia",
+    "Szonja",
+    "Döníz"
+   ],
+   "SK": [
+    "Žofia"
+   ]
+  },
+  "05-16": {
+   "FR": [
+    "Honoré"
+   ],
+   "SE": [
+    "Ronald",
+    "Ronny"
+   ],
+   "NO": [
+    "Sara",
+    "Siren",
+    "Samira"
+   ],
+   "DK": [
+    "Sara"
+   ],
+   "FI": [
+    "Essi",
+    "Ester",
+    "Esteri"
+   ],
+   "DE": [
+    "Johannes"
+   ],
+   "PL": [
+    "Germeriusz",
+    "Trzebiemysł",
+    "Fidol",
+    "Wiktoriana"
+   ],
+   "CZ": [
+    "Přemysl"
+   ],
+   "HU": [
+    "Mózes",
+    "Botond",
+    "János"
+   ],
+   "SK": [
+    "Svetozár"
+   ]
+  },
+  "05-17": {
+   "FR": [
+    "Pascal"
+   ],
+   "SE": [
+    "Rebecka",
+    "Ruben"
+   ],
+   "NO": [
+    "Harald",
+    "Ragnhild"
+   ],
+   "DK": [
+    "Bruno"
+   ],
+   "FI": [
+    "Maila",
+    "Mailis",
+    "Maili",
+    "Maisa"
+   ],
+   "DE": [
+    "Dietmar",
+    "Pascal",
+    "Walter"
+   ],
+   "PL": [
+    "Weronika",
+    "Paschalis",
+    "Herakliusz",
+    "Sławomir"
+   ],
+   "CZ": [
+    "Aneta"
+   ],
+   "HU": [
+    "Paszkál",
+    "Ditmár",
+    "Rezeda",
+    "Lian"
+   ],
+   "SK": [
+    "Gizela"
+   ]
+  },
+  "05-18": {
+   "FR": [
+    "Éric"
+   ],
+   "SE": [
+    "Erik"
+   ],
+   "NO": [
+    "Eirik",
+    "Erik",
+    "Erika"
+   ],
+   "DK": [
+    "Erik"
+   ],
+   "FI": [
+    "Erkki",
+    "Eero",
+    "Eerik",
+    "Eerika"
+   ],
+   "DE": [
+    "Claudia",
+    "Erich",
+    "Felix"
+   ],
+   "PL": [
+    "Feliks",
+    "Wenancjusz",
+    "Myślibor",
+    "Eryk"
+   ],
+   "CZ": [
+    "Nataša"
+   ],
+   "HU": [
+    "Erik",
+    "Alexandra",
+    "János",
+    "Hanga"
+   ],
+   "SK": [
+    "Viola"
+   ]
+  },
+  "05-19": {
+   "FR": [
+    "Yves"
+   ],
+   "SE": [
+    "Maj",
+    "Majken"
+   ],
+   "NO": [
+    "Torjus",
+    "Torje",
+    "Truls"
+   ],
+   "DK": [
+    "Potentiana"
+   ],
+   "FI": [
+    "Emma",
+    "Emilia",
+    "Milla",
+    "Emmi"
+   ],
+   "DE": [
+    "Ivo"
+   ],
+   "PL": [
+    "Celestyn",
+    "Potencjana",
+    "Potencjanna",
+    "Kryspin"
+   ],
+   "CZ": [
+    "Ivo"
+   ],
+   "HU": [
+    "Ivó",
+    "Iván",
+    "Milán"
+   ],
+   "SK": [
+    "Gertrúda"
+   ]
+  },
+  "05-20": {
+   "FR": [
+    "Bernardin"
+   ],
+   "SE": [
+    "Karolina",
+    "Carola"
+   ],
+   "NO": [
+    "Bjørnar",
+    "Bror"
+   ],
+   "DK": [
+    "Angelica"
+   ],
+   "FI": [
+    "Lilja",
+    "Karoliina",
+    "Lilli",
+    "Lilian"
+   ],
+   "DE": [
+    "Elfriede"
+   ],
+   "PL": [
+    "Teodor",
+    "Anastazy",
+    "Aleksander",
+    "Wiktoria"
+   ],
+   "CZ": [
+    "Zbyšek"
+   ],
+   "HU": [
+    "Bernát",
+    "Bernardin",
+    "Felícia"
+   ],
+   "SK": [
+    "Bernard"
+   ]
+  },
+  "05-21": {
+   "FR": [
+    "Constantin"
+   ],
+   "SE": [
+    "Konstantin",
+    "Conny"
+   ],
+   "NO": [
+    "Helene",
+    "Ellen",
+    "Eli"
+   ],
+   "DK": [
+    "Helene"
+   ],
+   "FI": [
+    "Kosti",
+    "Konsta",
+    "Konstantin"
+   ],
+   "DE": [
+    "Hermann",
+    "Hermann-Josef",
+    "Konstantin",
+    "Wiltrud"
+   ],
+   "PL": [
+    "Tymoteusz",
+    "Ryksa",
+    "Walenty",
+    "Wiktor"
+   ],
+   "CZ": [
+    "Monika"
+   ],
+   "HU": [
+    "Konstantin",
+    "András"
+   ],
+   "SK": [
+    "Zina"
+   ]
+  },
+  "05-22": {
+   "FR": [
+    "Émile"
+   ],
+   "SE": [
+    "Hemming",
+    "Henning"
+   ],
+   "NO": [
+    "Henning",
+    "Henny"
+   ],
+   "DK": [
+    "Castus"
+   ],
+   "FI": [
+    "Hemmo",
+    "Hemminki"
+   ],
+   "DE": [
+    "Rita"
+   ],
+   "PL": [
+    "Wisława",
+    "Emil",
+    "Helena",
+    "Ryta"
+   ],
+   "CZ": [
+    "Emil",
+    "Emilian"
+   ],
+   "HU": [
+    "Júlia",
+    "Rita",
+    "Emil"
+   ],
+   "SK": [
+    "Júlia",
+    "Juliana"
+   ]
+  },
+  "05-23": {
+   "FR": [
+    "Didier"
+   ],
+   "SE": [
+    "Desideria",
+    "Desirée"
+   ],
+   "NO": [
+    "Oddleif",
+    "Oddlaug"
+   ],
+   "DK": [
+    "Desiderus"
+   ],
+   "FI": [
+    "Lyydia",
+    "Lyyli"
+   ],
+   "DE": [
+    "Desiderius",
+    "Renate",
+    "Alma"
+   ],
+   "PL": [
+    "Dezydery",
+    "Iwona",
+    "Symeon",
+    "Michał"
+   ],
+   "CZ": [
+    "Vladimír"
+   ],
+   "HU": [
+    "Dezső",
+    "Vilmos",
+    "Renáta"
+   ],
+   "SK": [
+    "Želmíra"
+   ]
+  },
+  "05-24": {
+   "FR": [
+    "Donatien"
+   ],
+   "SE": [
+    "Ivan",
+    "Vanja"
+   ],
+   "NO": [
+    "Ester",
+    "Iris"
+   ],
+   "DK": [
+    "Esther"
+   ],
+   "FI": [
+    "Tuukka",
+    "Touko"
+   ],
+   "DE": [
+    "Johanna"
+   ],
+   "PL": [
+    "Maria",
+    "Wincenty",
+    "Milena",
+    "Joanna"
+   ],
+   "CZ": [
+    "Jana",
+    "Vanesa"
+   ],
+   "HU": [
+    "Eszter",
+    "Eliza",
+    "Vanessza"
+   ],
+   "SK": [
+    "Ela"
+   ]
+  },
+  "05-25": {
+   "FR": [
+    "Sophie"
+   ],
+   "SE": [
+    "Urban"
+   ],
+   "NO": [
+    "Ragna",
+    "Ragnar"
+   ],
+   "DK": [
+    "Urbanus"
+   ],
+   "FI": [
+    "Urpo"
+   ],
+   "DE": [
+    "Gregor",
+    "Urban"
+   ],
+   "PL": [
+    "Magdalena",
+    "Beda",
+    "Leon",
+    "Imisława"
+   ],
+   "CZ": [
+    "Viola",
+    "Violeta",
+    "Violína"
+   ],
+   "HU": [
+    "Orbán",
+    "Gergely"
+   ],
+   "SK": [
+    "Urban"
+   ]
+  },
+  "05-26": {
+   "FR": [
+    "Béranger"
+   ],
+   "SE": [
+    "Vilhelmina",
+    "Vilma"
+   ],
+   "NO": [
+    "Annbjørg",
+    "Annlaug",
+    "Anneli"
+   ],
+   "DK": [
+    "Beda"
+   ],
+   "FI": [
+    "Minna",
+    "Vilma",
+    "Miina",
+    "Mimmi"
+   ],
+   "DE": [
+    "Alwin",
+    "Philipp"
+   ],
+   "PL": [
+    "Angelika",
+    "Filip",
+    "Adalwina",
+    "Alwina"
+   ],
+   "CZ": [
+    "Filip",
+    "Filippa"
+   ],
+   "HU": [
+    "Fülöp",
+    "Evelin"
+   ],
+   "SK": [
+    "Dušan"
+   ]
+  },
+  "05-27": {
+   "FR": [
+    "Augustin"
+   ],
+   "SE": [
+    "Beda",
+    "Blenda"
+   ],
+   "NO": [
+    "Katinka",
+    "Cato",
+    "Carmen"
+   ],
+   "DK": [
+    "Lucian"
+   ],
+   "FI": [
+    "Ritva"
+   ],
+   "DE": [
+    "August",
+    "Eleonora"
+   ],
+   "PL": [
+    "Lucjan",
+    "Magdalena",
+    "Oliwer",
+    "Radowit"
+   ],
+   "CZ": [
+    "Valdemar",
+    "Vojslav"
+   ],
+   "HU": [
+    "Hella",
+    "Pelbárt",
+    "Ágoston"
+   ],
+   "SK": [
+    "Iveta"
+   ]
+  },
+  "05-28": {
+   "FR": [
+    "Germain"
+   ],
+   "SE": [
+    "Ingeborg",
+    "Borghild"
+   ],
+   "NO": [
+    "Vilhelm",
+    "William",
+    "Willy"
+   ],
+   "DK": [
+    "Vilhelm"
+   ],
+   "FI": [
+    "Alma"
+   ],
+   "DE": [
+    "Wilhelm"
+   ],
+   "PL": [
+    "Heladiusz",
+    "Wilhelm",
+    "Emil",
+    "Priam"
+   ],
+   "CZ": [
+    "Vilém",
+    "Wilem"
+   ],
+   "HU": [
+    "Emil",
+    "Csanád",
+    "Vilmos"
+   ],
+   "SK": [
+    "Viliam"
+   ]
+  },
+  "05-29": {
+   "FR": [
+    "Aymar",
+    "Aymard"
+   ],
+   "SE": [
+    "Yvonne",
+    "Jeanette"
+   ],
+   "NO": [
+    "Magnar",
+    "Magnhild",
+    "Mario"
+   ],
+   "DK": [
+    "Maciminus"
+   ],
+   "FI": [
+    "Oliver",
+    "Olivia",
+    "Oiva",
+    "Livia"
+   ],
+   "DE": [
+    "Erwin",
+    "Maximilian"
+   ],
+   "PL": [
+    "Maksymina",
+    "Teodor",
+    "Bogusława",
+    "Maksymin"
+   ],
+   "CZ": [
+    "Maxmilián",
+    "Maxim"
+   ],
+   "HU": [
+    "Magdolna",
+    "Magda",
+    "Ervin",
+    "Léna"
+   ],
+   "SK": [
+    "Vilma"
+   ]
+  },
+  "05-30": {
+   "FR": [
+    "Ferdinand"
+   ],
+   "SE": [
+    "Vera",
+    "Veronika"
+   ],
+   "NO": [
+    "Gard",
+    "Geir"
+   ],
+   "DK": [
+    "Vigand"
+   ],
+   "FI": [
+    "Pasi"
+   ],
+   "DE": [
+    "Ferdinand",
+    "Jennifer",
+    "Johanna"
+   ],
+   "PL": [
+    "Feliks",
+    "Ferdynand",
+    "Jan",
+    "Andronik"
+   ],
+   "CZ": [
+    "Ferdinand"
+   ],
+   "HU": [
+    "Janka",
+    "Zsanett",
+    "Johanna",
+    "Nándor"
+   ],
+   "SK": [
+    "Ferdinand"
+   ]
+  },
+  "05-31": {
+   "FR": [
+    "Pétronille"
+   ],
+   "SE": [
+    "Petronella",
+    "Pernilla"
+   ],
+   "NO": [
+    "Pernille",
+    "Preben"
+   ],
+   "DK": [
+    "Petronella"
+   ],
+   "FI": [
+    "Helka",
+    "Helga"
+   ],
+   "DE": [
+    "Mechthild"
+   ],
+   "PL": [
+    "Feliks",
+    "Teodor",
+    "Petronela",
+    "Petronia"
+   ],
+   "CZ": [
+    "Kamila",
+    "Camilla"
+   ],
+   "HU": [
+    "Angéla",
+    "Petronella"
+   ],
+   "SK": [
+    "Petrana"
+   ]
+  },
+  "06-01": {
+   "FR": [
+    "Justin"
+   ],
+   "SE": [
+    "Gun",
+    "Gunnel"
+   ],
+   "NO": [
+    "June",
+    "Juni"
+   ],
+   "DK": [
+    "Nikomedes"
+   ],
+   "FI": [
+    "Teemu",
+    "Nikodemus"
+   ],
+   "DE": [
+    "Kunibert"
+   ],
+   "PL": [
+    "Bernard",
+    "Nikodem",
+    "Alfons",
+    "Symeon"
+   ],
+   "CZ": [
+    "Laura"
+   ],
+   "HU": [
+    "Tünde",
+    "Jusztinusz"
+   ],
+   "SK": [
+    "Žaneta"
+   ]
+  },
+  "06-02": {
+   "FR": [
+    "Blandine"
+   ],
+   "SE": [
+    "Rutger",
+    "Roger"
+   ],
+   "NO": [
+    "Runa",
+    "Runar",
+    "Rune"
+   ],
+   "DK": [
+    "Marcellinus"
+   ],
+   "FI": [
+    "Venla"
+   ],
+   "DE": [
+    "Armin"
+   ],
+   "PL": [
+    "Blandyna",
+    "Marzanna",
+    "Marcelin",
+    "Efrem"
+   ],
+   "CZ": [
+    "Jarmil",
+    "Jaromil"
+   ],
+   "HU": [
+    "Kármen",
+    "Anita",
+    "Péter",
+    "Marcellinusz"
+   ],
+   "SK": [
+    "Oxana",
+    "Xénia"
+   ]
+  },
+  "06-03": {
+   "FR": [
+    "Kévin"
+   ],
+   "SE": [
+    "Ingemar",
+    "Gudmar"
+   ],
+   "NO": [
+    "Rasmus",
+    "Rakel",
+    "Rafael"
+   ],
+   "DK": [
+    "Erasmus"
+   ],
+   "FI": [
+    "Viola",
+    "Orvokki"
+   ],
+   "DE": [
+    "Archibald",
+    "Kevin"
+   ],
+   "PL": [
+    "Tamara",
+    "Konstantyn",
+    "Owidiusz",
+    "Leszek"
+   ],
+   "CZ": [
+    "Tamara",
+    "Kevin"
+   ],
+   "HU": [
+    "Klotild",
+    "Cecília",
+    "Károly",
+    "Kevin"
+   ],
+   "SK": [
+    "Karolína"
+   ]
+  },
+  "06-04": {
+   "FR": [
+    "Clotilde"
+   ],
+   "SE": [
+    "Solbritt",
+    "Solveig"
+   ],
+   "NO": [
+    "Heidi",
+    "Heid",
+    "Helmer"
+   ],
+   "DK": [
+    "Optatus"
+   ],
+   "FI": [
+    "Toivo"
+   ],
+   "DE": [
+    "Eva",
+    "Franz",
+    "Quirin",
+    "Werner"
+   ],
+   "PL": [
+    "Dacjan",
+    "Karol",
+    "Braturad",
+    "Niepełka"
+   ],
+   "CZ": [
+    "Dalibor"
+   ],
+   "HU": [
+    "Bulcsú",
+    "Kerény",
+    "Kerubin"
+   ],
+   "SK": [
+    "Lenka"
+   ]
+  },
+  "06-05": {
+   "FR": [
+    "Igor"
+   ],
+   "SE": [
+    "Bo"
+   ],
+   "NO": [
+    "Torbjørg",
+    "Torbjørn",
+    "Torben"
+   ],
+   "DK": [
+    "Bonifacius"
+   ],
+   "FI": [
+    "Sulevi"
+   ],
+   "DE": [
+    "Bonifatius",
+    "Winfried"
+   ],
+   "PL": [
+    "Walter",
+    "Waleria",
+    "Dobrociech",
+    "Bonifacy"
+   ],
+   "CZ": [
+    "Dobroslav"
+   ],
+   "HU": [
+    "Frézia",
+    "Zenke",
+    "Fatime",
+    "Fatima"
+   ],
+   "SK": [
+    "Laura"
+   ]
+  },
+  "06-06": {
+   "FR": [
+    "Norbert"
+   ],
+   "SE": [
+    "Gustav",
+    "Gösta"
+   ],
+   "NO": [
+    "Gustav",
+    "Gyda"
+   ],
+   "DK": [
+    "Nobertus"
+   ],
+   "FI": [
+    "Kustaa",
+    "Kyösti",
+    "Kustavi"
+   ],
+   "DE": [
+    "Kevin",
+    "Norbert"
+   ],
+   "PL": [
+    "Norberta",
+    "Dominika",
+    "Benignus",
+    "Gerarda"
+   ],
+   "CZ": [
+    "Norbert"
+   ],
+   "HU": [
+    "Norbert",
+    "Norberta",
+    "Cintia"
+   ],
+   "SK": [
+    "Norbert"
+   ]
+  },
+  "06-07": {
+   "FR": [
+    "Gilbert"
+   ],
+   "SE": [
+    "Robert",
+    "Robin"
+   ],
+   "NO": [
+    "Robert",
+    "Robin"
+   ],
+   "DK": [
+    "Jeremias"
+   ],
+   "FI": [
+    "Suvi",
+    "Roope",
+    "Robert",
+    "Robin"
+   ],
+   "DE": [
+    "Robert"
+   ],
+   "PL": [
+    "Lukrecja",
+    "Paweł",
+    "Anna",
+    "Robert"
+   ],
+   "CZ": [
+    "Iveta",
+    "Slavoj"
+   ],
+   "HU": [
+    "Róbert",
+    "Robertina",
+    "Arianna",
+    "Fülöp"
+   ],
+   "SK": [
+    "Róbert"
+   ]
+  },
+  "06-08": {
+   "FR": [
+    "Médard"
+   ],
+   "SE": [
+    "Eivor",
+    "Majvor"
+   ],
+   "NO": [
+    "Renate",
+    "René"
+   ],
+   "DK": [
+    "Medardus"
+   ],
+   "FI": [
+    "Salomon",
+    "Salomo"
+   ],
+   "DE": [
+    "Engelbert",
+    "Helga",
+    "Maria"
+   ],
+   "PL": [
+    "Wyszesław",
+    "Wilhelm",
+    "Medard",
+    "Maksymin"
+   ],
+   "CZ": [
+    "Medard"
+   ],
+   "HU": [
+    "Medárd",
+    "Helga"
+   ],
+   "SK": [
+    "Medard"
+   ]
+  },
+  "06-09": {
+   "FR": [
+    "Diane"
+   ],
+   "SE": [
+    "Börje",
+    "Birger"
+   ],
+   "NO": [
+    "Kolbjørn",
+    "Kassandra"
+   ],
+   "DK": [
+    "Primus"
+   ],
+   "FI": [
+    "Ensio"
+   ],
+   "DE": [
+    "Ephraim"
+   ],
+   "PL": [
+    "Anna",
+    "Felicjan",
+    "Pelagia",
+    "Sylwester"
+   ],
+   "CZ": [
+    "Stanislava"
+   ],
+   "HU": [
+    "Félix",
+    "Előd",
+    "Annamária",
+    "Annabella"
+   ],
+   "SK": [
+    "Stanislava"
+   ]
+  },
+  "06-10": {
+   "FR": [
+    "Landry"
+   ],
+   "SE": [
+    "Svante",
+    "Boris"
+   ],
+   "NO": [
+    "Ingolf",
+    "Ingunn"
+   ],
+   "DK": [
+    "Onuphrius"
+   ],
+   "FI": [
+    "Seppo"
+   ],
+   "DE": [
+    "Diana",
+    "Heinrich"
+   ],
+   "PL": [
+    "Bogumiła",
+    "Mauryn",
+    "Bogumił",
+    "Apollo"
+   ],
+   "CZ": [
+    "Gita"
+   ],
+   "HU": [
+    "Margit",
+    "Gréta"
+   ],
+   "SK": [
+    "Margaréta"
+   ]
+  },
+  "06-11": {
+   "FR": [
+    "Barnabé"
+   ],
+   "SE": [
+    "Bertil",
+    "Berthold"
+   ],
+   "NO": [
+    "Borgar",
+    "Bjørge",
+    "Bjørg"
+   ],
+   "DK": [
+    "Barnabas"
+   ],
+   "FI": [
+    "Immi",
+    "Impi"
+   ],
+   "DE": [
+    "Barnabas"
+   ],
+   "PL": [
+    "Feliks",
+    "Teodozja",
+    "Anastazy",
+    "Radomił"
+   ],
+   "CZ": [
+    "Bruno",
+    "Amabel",
+    "Mabel"
+   ],
+   "HU": [
+    "Barnabás",
+    "Barangó"
+   ],
+   "SK": [
+    "Dobroslava"
+   ]
+  },
+  "06-12": {
+   "FR": [
+    "Guy",
+    "Gui"
+   ],
+   "SE": [
+    "Eskil"
+   ],
+   "NO": [
+    "Sigfrid",
+    "Sigrid",
+    "Siri"
+   ],
+   "DK": [
+    "Balisius"
+   ],
+   "FI": [
+    "Esko"
+   ],
+   "DE": [
+    "Eskil"
+   ],
+   "PL": [
+    "Wyszemir",
+    "Onufry",
+    "Władysława",
+    "Jarogniewa"
+   ],
+   "CZ": [
+    "Antonie"
+   ],
+   "HU": [
+    "Villő",
+    "Orfeusz",
+    "Adelaida",
+    "Duru"
+   ],
+   "SK": [
+    "Zlatko"
+   ]
+  },
+  "06-13": {
+   "FR": [
+    "Antoine"
+   ],
+   "SE": [
+    "Aina",
+    "Aino"
+   ],
+   "NO": [
+    "Tone",
+    "Tonje",
+    "Tanja"
+   ],
+   "DK": [
+    "Cyrillus"
+   ],
+   "FI": [
+    "Raili",
+    "Raila"
+   ],
+   "DE": [
+    "Antonius",
+    "Bernhild"
+   ],
+   "PL": [
+    "Herman",
+    "Armand",
+    "Chociemir",
+    "Lucjan"
+   ],
+   "CZ": [
+    "Antonín"
+   ],
+   "HU": [
+    "Antal",
+    "Anett"
+   ],
+   "SK": [
+    "Anton"
+   ]
+  },
+  "06-14": {
+   "FR": [
+    "Élisée"
+   ],
+   "SE": [
+    "Håkan",
+    "Hakon"
+   ],
+   "NO": [
+    "Erlend",
+    "Erland",
+    "Erle"
+   ],
+   "DK": [
+    "Rufinus"
+   ],
+   "FI": [
+    "Pihla",
+    "Kielo"
+   ],
+   "DE": [
+    "Hartwig"
+   ],
+   "PL": [
+    "Walerian",
+    "Justyn",
+    "Eliza",
+    "Ninogniew"
+   ],
+   "CZ": [
+    "Roland"
+   ],
+   "HU": [
+    "Vazul",
+    "Elizeus",
+    "Herta"
+   ],
+   "SK": [
+    "Vasil"
+   ]
+  },
+  "06-15": {
+   "FR": [
+    "Germaine"
+   ],
+   "SE": [
+    "Margit",
+    "Margot"
+   ],
+   "NO": [
+    "Vigdis",
+    "Viggo",
+    "Vilja"
+   ],
+   "DK": [
+    "Vitus"
+   ],
+   "FI": [
+    "Vieno",
+    "Moona",
+    "Mona",
+    "Viena"
+   ],
+   "DE": [
+    "Bernhard",
+    "Gebhard",
+    "Germana",
+    "Veit"
+   ],
+   "PL": [
+    "Bernard",
+    "Abraham",
+    "Edburga",
+    "Witold"
+   ],
+   "CZ": [
+    "Vít",
+    "Svantovít",
+    "Isolde"
+   ],
+   "HU": [
+    "Jolán",
+    "Vid",
+    "Viola",
+    "Ariana"
+   ],
+   "SK": [
+    "Vít"
+   ]
+  },
+  "06-16": {
+   "FR": [
+    "Jean-François"
+   ],
+   "SE": [
+    "Axel",
+    "Axelina"
+   ],
+   "NO": [
+    "Torhild",
+    "Toril",
+    "Tiril"
+   ],
+   "DK": [
+    "Tycho"
+   ],
+   "FI": [
+    "Päivi",
+    "Päivikki",
+    "Päivä"
+   ],
+   "DE": [
+    "Benno",
+    "Marcus",
+    "Quirin"
+   ],
+   "PL": [
+    "Benon",
+    "Cyryk",
+    "Ludgarda",
+    "Aneta"
+   ],
+   "CZ": [
+    "Zbyněk"
+   ],
+   "HU": [
+    "Jusztin",
+    "Jusztina",
+    "Auréliusz"
+   ],
+   "SK": [
+    "Bianka",
+    "Blanka"
+   ]
+  },
+  "06-17": {
+   "FR": [
+    "Hervé"
+   ],
+   "SE": [
+    "Torborg",
+    "Torvald"
+   ],
+   "NO": [
+    "Botolv",
+    "Bodil"
+   ],
+   "DK": [
+    "Botolphus"
+   ],
+   "FI": [
+    "Urho"
+   ],
+   "DE": [
+    "Adolf",
+    "Rainer"
+   ],
+   "PL": [
+    "Izaura",
+    "Laura",
+    "Drogomysł",
+    "Radomił"
+   ],
+   "CZ": [
+    "Adolf"
+   ],
+   "HU": [
+    "Laura",
+    "Alida",
+    "Alina",
+    "Szabolcs"
+   ],
+   "SK": [
+    "Adolf"
+   ]
+  },
+  "06-18": {
+   "FR": [
+    "Léonce"
+   ],
+   "SE": [
+    "Björn",
+    "Bjarne"
+   ],
+   "NO": [
+    "Bjarne",
+    "Bjørn"
+   ],
+   "DK": [
+    "Leontius"
+   ],
+   "FI": [
+    "Tapio"
+   ],
+   "DE": [
+    "Arnulf",
+    "Elisabeth",
+    "Else",
+    "Marina"
+   ],
+   "PL": [
+    "Elżbieta",
+    "Paula",
+    "Marek",
+    "Efrem"
+   ],
+   "CZ": [
+    "Milan"
+   ],
+   "HU": [
+    "Arnold",
+    "Levente",
+    "Doloróza"
+   ],
+   "SK": [
+    "Vratislav"
+   ]
+  },
+  "06-19": {
+   "FR": [
+    "Romuald"
+   ],
+   "SE": [
+    "Germund",
+    "Görel"
+   ],
+   "NO": [
+    "Erling",
+    "Elling",
+    "Ellie"
+   ],
+   "DK": [
+    "Gervasius"
+   ],
+   "FI": [
+    "Siiri"
+   ],
+   "DE": [
+    "Gervais"
+   ],
+   "PL": [
+    "Michalina",
+    "Borzysław",
+    "Gerwazy",
+    "Odo"
+   ],
+   "CZ": [
+    "Leoš",
+    "Leon"
+   ],
+   "HU": [
+    "Gyárfás",
+    "Romuald",
+    "Azurea",
+    "Zorka"
+   ],
+   "SK": [
+    "Alfréd"
+   ]
+  },
+  "06-20": {
+   "FR": [
+    "Silvère"
+   ],
+   "SE": [
+    "Linda"
+   ],
+   "NO": [
+    "Sølve",
+    "Sølvi"
+   ],
+   "DK": [
+    "Sylverius"
+   ],
+   "FI": [
+    "Into"
+   ],
+   "DE": [
+    "Adalbert"
+   ],
+   "PL": [
+    "Bożena",
+    "Bogna",
+    "Rafał",
+    "Edburga"
+   ],
+   "CZ": [
+    "Květa"
+   ],
+   "HU": [
+    "Rafael",
+    "Dina"
+   ],
+   "SK": [
+    "Valéria"
+   ]
+  },
+  "06-21": {
+   "FR": [
+    "Rodolphe"
+   ],
+   "SE": [
+    "Alf",
+    "Alvar"
+   ],
+   "NO": [
+    "Agnar",
+    "Annar",
+    "Ahmed"
+   ],
+   "DK": [
+    "Albanus"
+   ],
+   "FI": [
+    "Ahti",
+    "Ahto"
+   ],
+   "DE": [
+    "Alban",
+    "Alois",
+    "Ralf",
+    "Ralph"
+   ],
+   "PL": [
+    "Teodor",
+    "Domamir",
+    "Demetria",
+    "Lutfryd"
+   ],
+   "CZ": [
+    "Alois"
+   ],
+   "HU": [
+    "Alajos",
+    "Leila"
+   ],
+   "SK": [
+    "Alojz"
+   ]
+  },
+  "06-22": {
+   "FR": [
+    "Alban"
+   ],
+   "SE": [
+    "Paulina",
+    "Paula"
+   ],
+   "NO": [
+    "Håkon",
+    "Maud"
+   ],
+   "DK": [],
+   "FI": [
+    "Paula",
+    "Pauliina",
+    "Liina"
+   ],
+   "DE": [
+    "Achatius",
+    "Eberhard",
+    "Thomas"
+   ],
+   "PL": [
+    "Agenor",
+    "Flawiusz",
+    "Achacy",
+    "Innocenta"
+   ],
+   "CZ": [
+    "Pavla"
+   ],
+   "HU": [
+    "Paulina",
+    "Tamás"
+   ],
+   "SK": [
+    "Paulína"
+   ]
+  },
+  "06-23": {
+   "FR": [
+    "Audrey"
+   ],
+   "SE": [
+    "Adolf",
+    "Alice"
+   ],
+   "NO": [
+    "Elfrid",
+    "Eldrid",
+    "Elliot"
+   ],
+   "DK": [
+    "Paulinus"
+   ],
+   "FI": [
+    "Aatu",
+    "Aatto",
+    "Aadolf"
+   ],
+   "DE": [
+    "Æthelthryth",
+    "Edeltraud"
+   ],
+   "PL": [
+    "Józef",
+    "Wanda",
+    "Agrypina",
+    "Zenon"
+   ],
+   "CZ": [
+    "Zdeňka",
+    "Zdenka"
+   ],
+   "HU": [
+    "Zoltán",
+    "Szultána"
+   ],
+   "SK": [
+    "Sidónia"
+   ]
+  },
+  "06-24": {
+   "FR": [
+    "Jean-Baptiste"
+   ],
+   "SE": [],
+   "NO": [
+    "Johannes",
+    "Jon",
+    "Hans"
+   ],
+   "DK": [
+    "Hans"
+   ],
+   "FI": [
+    "Jani",
+    "Janne",
+    "Johannes",
+    "Juha"
+   ],
+   "DE": [
+    "Johannes"
+   ],
+   "PL": [
+    "Emilia",
+    "Wilhelm",
+    "Danuta",
+    "Jan"
+   ],
+   "CZ": [
+    "Jan"
+   ],
+   "HU": [
+    "János",
+    "Iván"
+   ],
+   "SK": [
+    "Ján"
+   ]
+  },
+  "06-25": {
+   "FR": [
+    "Prosper"
+   ],
+   "SE": [
+    "David",
+    "Salomon"
+   ],
+   "NO": [
+    "Jørund",
+    "Jorunn"
+   ],
+   "DK": [
+    "Prosper"
+   ],
+   "FI": [
+    "Uuno"
+   ],
+   "DE": [
+    "Dorothea",
+    "Heinrich",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Prosper",
+    "Fiebrosław",
+    "Wilhelm",
+    "Antyd"
+   ],
+   "CZ": [
+    "Ivan"
+   ],
+   "HU": [
+    "Vilmos",
+    "Viola",
+    "Vilma"
+   ],
+   "SK": [
+    "Tadeáš",
+    "Olívia"
+   ]
+  },
+  "06-26": {
+   "FR": [
+    "Anthelme"
+   ],
+   "SE": [
+    "Rakel",
+    "Lea"
+   ],
+   "NO": [
+    "Jenny",
+    "Jonny",
+    "Jennifer"
+   ],
+   "DK": [
+    "Pelagius"
+   ],
+   "FI": [
+    "Jorma",
+    "Jarmo",
+    "Jarkko",
+    "Jarno"
+   ],
+   "DE": [
+    "David",
+    "Johannes",
+    "Paulus"
+   ],
+   "PL": [
+    "Jeremiasz",
+    "Edburga",
+    "Paweł",
+    "Zdziwoj"
+   ],
+   "CZ": [
+    "Adrian"
+   ],
+   "HU": [
+    "János",
+    "Pál",
+    "Cirill"
+   ],
+   "SK": [
+    "Adriána"
+   ]
+  },
+  "06-27": {
+   "FR": [
+    "Fernand"
+   ],
+   "SE": [
+    "Selma",
+    "Fingal"
+   ],
+   "NO": [
+    "Aina",
+    "Ina",
+    "Ine"
+   ],
+   "DK": [],
+   "FI": [
+    "Elviira",
+    "Elvi"
+   ],
+   "DE": [
+    "Wladislaw"
+   ],
+   "PL": [
+    "Włodzisław",
+    "Cyryl",
+    "Bożydar"
+   ],
+   "CZ": [
+    "Ladislav"
+   ],
+   "HU": [
+    "László",
+    "Sámson"
+   ],
+   "SK": [
+    "Ladislav",
+    "Ladislava"
+   ]
+  },
+  "06-28": {
+   "FR": [
+    "Irénée"
+   ],
+   "SE": [
+    "Leo"
+   ],
+   "NO": [
+    "Lea",
+    "Leo",
+    "Leon"
+   ],
+   "DK": [
+    "Eleonora"
+   ],
+   "FI": [
+    "Leo"
+   ],
+   "DE": [
+    "Diethild",
+    "Ekkehard"
+   ],
+   "PL": [
+    "Paweł",
+    "Ekhard",
+    "Józef",
+    "Zbrosław"
+   ],
+   "CZ": [
+    "Lubomír"
+   ],
+   "HU": [
+    "Levente",
+    "Irén",
+    "Iréneusz"
+   ],
+   "SK": [
+    "Beáta"
+   ]
+  },
+  "06-29": {
+   "FR": [
+    "Pierre"
+   ],
+   "SE": [
+    "Peter",
+    "Petra"
+   ],
+   "NO": [
+    "Peter",
+    "Petter",
+    "Per"
+   ],
+   "DK": [
+    "Petrus",
+    "Paulus"
+   ],
+   "FI": [
+    "Pekka",
+    "Petri",
+    "Petra",
+    "Petteri"
+   ],
+   "DE": [
+    "Gero",
+    "Judith",
+    "Petra"
+   ],
+   "PL": [
+    "Piotr",
+    "Paweł",
+    "Dawid",
+    "Dalebor"
+   ],
+   "CZ": [
+    "Petr",
+    "Pavel"
+   ],
+   "HU": [
+    "Péter",
+    "Pál",
+    "Adeliz",
+    "Adeliza"
+   ],
+   "SK": [
+    "Peter",
+    "Pavol",
+    "Petra"
+   ]
+  },
+  "06-30": {
+   "FR": [
+    "Martial"
+   ],
+   "SE": [
+    "Elof",
+    "Leif"
+   ],
+   "NO": [
+    "Solbjørg",
+    "Solgunn",
+    "Sol"
+   ],
+   "DK": [
+    "Lucina"
+   ],
+   "FI": [
+    "Päiviö",
+    "Päivö"
+   ],
+   "DE": [
+    "Otto"
+   ],
+   "PL": [
+    "Marcjalis",
+    "Bazyli",
+    "Władysława",
+    "Ciechosława"
+   ],
+   "CZ": [
+    "Šárka",
+    "Vlastimír"
+   ],
+   "HU": [
+    "Pál"
+   ],
+   "SK": [
+    "Melánia"
+   ]
+  },
+  "07-01": {
+   "FR": [
+    "Thiery",
+    "Théodoric"
+   ],
+   "SE": [
+    "Aron",
+    "Mirjam"
+   ],
+   "NO": [
+    "Ask",
+    "Embla"
+   ],
+   "DK": [
+    "Theobaldus"
+   ],
+   "FI": [
+    "Aaro",
+    "Aaron"
+   ],
+   "DE": [
+    "Aaron",
+    "Dietrich",
+    "Dirk"
+   ],
+   "PL": [
+    "Bogusław",
+    "Halina",
+    "Estera",
+    "Namir"
+   ],
+   "CZ": [
+    "Jaroslava"
+   ],
+   "HU": [
+    "Tihamér",
+    "Annamária",
+    "Olivér",
+    "Áron"
+   ],
+   "SK": [
+    "Diana"
+   ]
+  },
+  "07-02": {
+   "FR": [
+    "Martinien"
+   ],
+   "SE": [
+    "Rosa",
+    "Rosita"
+   ],
+   "NO": [
+    "Kjartan",
+    "Kjellfrid"
+   ],
+   "DK": [
+    "Maria"
+   ],
+   "FI": [
+    "Maria",
+    "Maija",
+    "Mari",
+    "Meeri"
+   ],
+   "DE": [
+    "Wiltrud"
+   ],
+   "PL": [
+    "Otto",
+    "Urban",
+    "Martynian",
+    "Bożydar"
+   ],
+   "CZ": [
+    "Patricie"
+   ],
+   "HU": [
+    "Ottó"
+   ],
+   "SK": [
+    "Berta"
+   ]
+  },
+  "07-03": {
+   "FR": [
+    "Thomas"
+   ],
+   "SE": [
+    "Aurora"
+   ],
+   "NO": [
+    "Andrea",
+    "Andrine",
+    "André"
+   ],
+   "DK": [
+    "Cornelius"
+   ],
+   "FI": [
+    "Arvo"
+   ],
+   "DE": [
+    "Thomas"
+   ],
+   "PL": [
+    "Heliodor",
+    "Jacek",
+    "Miłosław",
+    "Otto"
+   ],
+   "CZ": [
+    "Radomír"
+   ],
+   "HU": [
+    "Kornél",
+    "Soma",
+    "Tamás"
+   ],
+   "SK": [
+    "Miloslav"
+   ]
+  },
+  "07-04": {
+   "FR": [
+    "Florent"
+   ],
+   "SE": [
+    "Ulrika",
+    "Ulla"
+   ],
+   "NO": [
+    "Ulrik",
+    "Ulla"
+   ],
+   "DK": [
+    "Ulricus"
+   ],
+   "FI": [
+    "Ulla",
+    "Ulpu"
+   ],
+   "DE": [
+    "Else",
+    "Hatto",
+    "Ulrich",
+    "Ulrike"
+   ],
+   "PL": [
+    "Elżbieta",
+    "Aurelian",
+    "Aggeusz",
+    "Alfred"
+   ],
+   "CZ": [
+    "Prokop"
+   ],
+   "HU": [
+    "Ulrik",
+    "Erzsébet",
+    "Fédra",
+    "Babett"
+   ],
+   "SK": [
+    "Prokop"
+   ]
+  },
+  "07-05": {
+   "FR": [
+    "Antoine-Marie"
+   ],
+   "SE": [
+    "Laila",
+    "Ritva"
+   ],
+   "NO": [
+    "Mirjam",
+    "Mina",
+    "Michelle"
+   ],
+   "DK": [
+    "Anshelmus"
+   ],
+   "FI": [
+    "Unto",
+    "Untamo"
+   ],
+   "DE": [
+    "Anton",
+    "Laetitia",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Zoe",
+    "Marta",
+    "Wilhelm",
+    "Trofima"
+   ],
+   "CZ": [
+    "Cyril",
+    "Metoděj"
+   ],
+   "HU": [
+    "Emese",
+    "Sarolta",
+    "Lotti",
+    "Antal"
+   ],
+   "SK": [
+    "Cyril",
+    "Metod"
+   ]
+  },
+  "07-06": {
+   "FR": [
+    "Marietta"
+   ],
+   "SE": [
+    "Esaias",
+    "Jessika"
+   ],
+   "NO": [
+    "Torgrim",
+    "Torgunn"
+   ],
+   "DK": [
+    "Dion"
+   ],
+   "FI": [
+    "Esa",
+    "Esaias"
+   ],
+   "DE": [
+    "Goar"
+   ],
+   "PL": [
+    "Niegosław",
+    "Dominika",
+    "Nazaria",
+    "Dominik"
+   ],
+   "CZ": [],
+   "HU": [
+    "Csaba",
+    "Mária"
+   ],
+   "SK": [
+    "Patrik",
+    "Patrícia"
+   ]
+  },
+  "07-07": {
+   "FR": [
+    "Raoul"
+   ],
+   "SE": [
+    "Klas"
+   ],
+   "NO": [
+    "Håvard",
+    "Hulda",
+    "Hussein"
+   ],
+   "DK": [
+    "Villebaldus"
+   ],
+   "FI": [
+    "Klaus",
+    "Launo"
+   ],
+   "DE": [
+    "Odo",
+    "Willibald"
+   ],
+   "PL": [
+    "Benedykt",
+    "Pompejusz",
+    "Sędzisława",
+    "German"
+   ],
+   "CZ": [
+    "Bohuslava"
+   ],
+   "HU": [
+    "Apollónia",
+    "Vilibald",
+    "Bene"
+   ],
+   "SK": [
+    "Oliver"
+   ]
+  },
+  "07-08": {
+   "FR": [
+    "Thibaut"
+   ],
+   "SE": [
+    "Kjell"
+   ],
+   "NO": [
+    "Sunniva",
+    "Synnøve",
+    "Synne"
+   ],
+   "DK": [
+    "Kjeld"
+   ],
+   "FI": [
+    "Turo",
+    "Turkka"
+   ],
+   "DE": [
+    "Amelie",
+    "Edgar",
+    "Kilian",
+    "Theobald"
+   ],
+   "PL": [
+    "Adrian",
+    "Kilian",
+    "Kiliana",
+    "Prokop"
+   ],
+   "CZ": [
+    "Nora",
+    "Edgar",
+    "Kilian"
+   ],
+   "HU": [
+    "Ellák",
+    "Edgár",
+    "Eperke",
+    "Zsóka"
+   ],
+   "SK": [
+    "Ivan"
+   ]
+  },
+  "07-09": {
+   "FR": [
+    "Amandine"
+   ],
+   "SE": [
+    "Jörgen",
+    "Örjan"
+   ],
+   "NO": [
+    "Gøran",
+    "Jøran",
+    "Ørjan"
+   ],
+   "DK": [
+    "Sostrata"
+   ],
+   "FI": [
+    "Jasmin",
+    "Ilta",
+    "Jade",
+    "Nanna"
+   ],
+   "DE": [
+    "Dietrich",
+    "Dirk",
+    "Thilo",
+    "Theodor"
+   ],
+   "PL": [
+    "Lukrecja",
+    "Zenona",
+    "Sylwia",
+    "Anatola"
+   ],
+   "CZ": [
+    "Drahoslava",
+    "Berenika",
+    "Leticie"
+   ],
+   "HU": [
+    "Lukrécia",
+    "Veronika",
+    "Hajnalka"
+   ],
+   "SK": [
+    "Lujza"
+   ]
+  },
+  "07-10": {
+   "FR": [
+    "Ulrich"
+   ],
+   "SE": [
+    "André",
+    "Andrea"
+   ],
+   "NO": [
+    "Anita",
+    "Anja",
+    "Amina"
+   ],
+   "DK": [
+    "Knud"
+   ],
+   "FI": [
+    "Saima",
+    "Saimi"
+   ],
+   "DE": [
+    "Alexander",
+    "Engelbert",
+    "Erich",
+    "Knut"
+   ],
+   "PL": [
+    "Filip",
+    "Aniela",
+    "Samson",
+    "Zacheusz"
+   ],
+   "CZ": [
+    "Libuše",
+    "Amálie",
+    "Ludoslav"
+   ],
+   "HU": [
+    "Amália",
+    "Melina",
+    "Engelbert",
+    "Ulrika"
+   ],
+   "SK": [
+    "Amália"
+   ]
+  },
+  "07-11": {
+   "FR": [
+    "Benoît"
+   ],
+   "SE": [
+    "Eleonora",
+    "Ellinor"
+   ],
+   "NO": [
+    "Kjetil",
+    "Kjell"
+   ],
+   "DK": [
+    "Josva"
+   ],
+   "FI": [
+    "Noora",
+    "Elli",
+    "Nelli",
+    "Elea"
+   ],
+   "DE": [
+    "Benedikt",
+    "Olga",
+    "Oliver"
+   ],
+   "PL": [
+    "Benedykt",
+    "Pius",
+    "Pelagia",
+    "Siepraw"
+   ],
+   "CZ": [
+    "Olga"
+   ],
+   "HU": [
+    "Nóra",
+    "Lili",
+    "Nelli",
+    "Benedek"
+   ],
+   "SK": [
+    "Milota"
+   ]
+  },
+  "07-12": {
+   "FR": [
+    "Olivier"
+   ],
+   "SE": [
+    "Herman",
+    "Hermine"
+   ],
+   "NO": [
+    "Elias",
+    "Eldar",
+    "Elida"
+   ],
+   "DK": [
+    "Henrik"
+   ],
+   "FI": [
+    "Hermanni",
+    "Herkko",
+    "Herman"
+   ],
+   "DE": [
+    "Felix"
+   ],
+   "PL": [
+    "Feliks",
+    "Paweł",
+    "Leon",
+    "Epifania"
+   ],
+   "CZ": [
+    "Bořek"
+   ],
+   "HU": [
+    "Izabella",
+    "Dalma",
+    "Eleonóra"
+   ],
+   "SK": [
+    "Nina"
+   ]
+  },
+  "07-13": {
+   "FR": [
+    "Henri"
+   ],
+   "SE": [
+    "Joel",
+    "Judit"
+   ],
+   "NO": [
+    "Mildrid",
+    "Melissa",
+    "Mia"
+   ],
+   "DK": [
+    "Margrethe"
+   ],
+   "FI": [
+    "Joel",
+    "Ilari",
+    "Lari"
+   ],
+   "DE": [
+    "Arne",
+    "Heike",
+    "Heinrich",
+    "Joel"
+   ],
+   "PL": [
+    "Radomiła",
+    "Henryk",
+    "Joel",
+    "Ernest"
+   ],
+   "CZ": [
+    "Markéta"
+   ],
+   "HU": [
+    "Jenő",
+    "Henrik"
+   ],
+   "SK": [
+    "Margita"
+   ]
+  },
+  "07-14": {
+   "FR": [
+    "Camille"
+   ],
+   "SE": [
+    "Folke"
+   ],
+   "NO": [
+    "Solfrid",
+    "Solrun",
+    "Frøya"
+   ],
+   "DK": [
+    "Bonaventura"
+   ],
+   "FI": [
+    "Aliisa",
+    "Alisa",
+    "Alissa"
+   ],
+   "DE": [
+    "Bruno",
+    "Roland",
+    "Ulrich"
+   ],
+   "PL": [
+    "Marcelin",
+    "Ulryk",
+    "Kamil",
+    "Tuskana"
+   ],
+   "CZ": [
+    "Karolína"
+   ],
+   "HU": [
+    "Örs",
+    "Stella",
+    "Kamil"
+   ],
+   "SK": [
+    "Kamil"
+   ]
+  },
+  "07-15": {
+   "FR": [
+    "Donald"
+   ],
+   "SE": [
+    "Ragnhild",
+    "Ragnvald"
+   ],
+   "NO": [
+    "Oddmund",
+    "Oddrun"
+   ],
+   "DK": [],
+   "FI": [
+    "Rauni",
+    "Rauna"
+   ],
+   "DE": [
+    "Bernhard",
+    "Donald",
+    "Egon"
+   ],
+   "PL": [
+    "Lubomysł",
+    "Daniel",
+    "Donald",
+    "Włodzimierz"
+   ],
+   "CZ": [
+    "Jindřich",
+    "Egon"
+   ],
+   "HU": [
+    "Örkény",
+    "Henrik",
+    "Roland",
+    "Bonaventúra"
+   ],
+   "SK": [
+    "Henrich"
+   ]
+  },
+  "07-16": {
+   "FR": [
+    "Carmel",
+    "Carmen"
+   ],
+   "SE": [
+    "Reinhold",
+    "Reine"
+   ],
+   "NO": [
+    "Susanne",
+    "Sanna",
+    "Saga"
+   ],
+   "DK": [
+    "Tychos"
+   ],
+   "FI": [
+    "Reino",
+    "Rene"
+   ],
+   "DE": [
+    "Carmen",
+    "Irmgard"
+   ],
+   "PL": [
+    "Benedykt",
+    "Faust",
+    "Stefan",
+    "Eustacjusz"
+   ],
+   "CZ": [
+    "Luboš"
+   ],
+   "HU": [
+    "Valter",
+    "Irma"
+   ],
+   "SK": [
+    "Drahomír"
+   ]
+  },
+  "07-17": {
+   "FR": [
+    "Charlotte"
+   ],
+   "SE": [
+    "Bruno"
+   ],
+   "NO": [
+    "Guttorm",
+    "Gorm"
+   ],
+   "DK": [
+    "Alecius"
+   ],
+   "FI": [
+    "Ossi",
+    "Ossian"
+   ],
+   "DE": [
+    "Alexis",
+    "Charlotte",
+    "Marina"
+   ],
+   "PL": [
+    "Januaria",
+    "Donata",
+    "Marcelina",
+    "Dzierżykraj"
+   ],
+   "CZ": [
+    "Martina"
+   ],
+   "HU": [
+    "Endre",
+    "Elek",
+    "András"
+   ],
+   "SK": [
+    "Bohuslav"
+   ]
+  },
+  "07-18": {
+   "FR": [
+    "Frédéric"
+   ],
+   "SE": [
+    "Fredrik",
+    "Fritz"
+   ],
+   "NO": [
+    "Arnulf",
+    "Ørnulf"
+   ],
+   "DK": [
+    "Arnolphus"
+   ],
+   "FI": [
+    "Riikka"
+   ],
+   "DE": [
+    "Arnold",
+    "Arnulf",
+    "Friedrich"
+   ],
+   "PL": [
+    "Robert",
+    "Erwin",
+    "Uniesław",
+    "Matern"
+   ],
+   "CZ": [
+    "Drahomíra",
+    "Drahuše",
+    "Drahomila"
+   ],
+   "HU": [
+    "Szömér",
+    "Frigyes",
+    "Milla",
+    "Hedvig"
+   ],
+   "SK": [
+    "Kamila"
+   ]
+  },
+  "07-19": {
+   "FR": [
+    "Arsène"
+   ],
+   "SE": [
+    "Sara"
+   ],
+   "NO": [
+    "Gerhard",
+    "Gjert"
+   ],
+   "DK": [
+    "Justa"
+   ],
+   "FI": [
+    "Sari",
+    "Saara",
+    "Sara",
+    "Salla"
+   ],
+   "DE": [
+    "Alfred",
+    "Marina",
+    "Reto",
+    "Vinzenz"
+   ],
+   "PL": [
+    "Arseniusz",
+    "Marcin",
+    "Wincenty",
+    "Lutobor"
+   ],
+   "CZ": [
+    "Čeněk"
+   ],
+   "HU": [
+    "Emília"
+   ],
+   "SK": [
+    "Dušana"
+   ]
+  },
+  "07-20": {
+   "FR": [
+    "Marina"
+   ],
+   "SE": [
+    "Margareta",
+    "Greta"
+   ],
+   "NO": [
+    "Margareta",
+    "Margit",
+    "Marit"
+   ],
+   "DK": [
+    "Elias"
+   ],
+   "FI": [
+    "Marketta",
+    "Maarit",
+    "Reetta",
+    "Reeta"
+   ],
+   "DE": [
+    "Elias",
+    "Margarete"
+   ],
+   "PL": [
+    "Paweł",
+    "Eliasz",
+    "Sewera",
+    "Hieronim"
+   ],
+   "CZ": [
+    "Eliáš",
+    "Ilja",
+    "Elias"
+   ],
+   "HU": [
+    "Illés",
+    "Margaréta"
+   ],
+   "SK": [
+    "Eliáš",
+    "Iľja"
+   ]
+  },
+  "07-21": {
+   "FR": [
+    "Victor"
+   ],
+   "SE": [
+    "Johanna"
+   ],
+   "NO": [
+    "Johanne",
+    "Janne",
+    "Jane"
+   ],
+   "DK": [
+    "Evenus"
+   ],
+   "FI": [
+    "Johanna",
+    "Hanna",
+    "Jenni",
+    "Jenna"
+   ],
+   "DE": [
+    "Daniel",
+    "Daniela",
+    "Laurentius",
+    "Stella"
+   ],
+   "PL": [
+    "Benedykt",
+    "Prokop",
+    "Daniel",
+    "Ignacy"
+   ],
+   "CZ": [
+    "Vítězslav",
+    "Vitoslav"
+   ],
+   "HU": [
+    "Dániel",
+    "Daniella",
+    "Lőrinc"
+   ],
+   "SK": [
+    "Daniel"
+   ]
+  },
+  "07-22": {
+   "FR": [
+    "Marie-Madeleine"
+   ],
+   "SE": [
+    "Magdalena",
+    "Madeleine"
+   ],
+   "NO": [
+    "Malene",
+    "Malin",
+    "Mali"
+   ],
+   "DK": [
+    "Maria Magdalene"
+   ],
+   "FI": [
+    "Leena",
+    "Matleena",
+    "Leeni",
+    "Lenita"
+   ],
+   "DE": [
+    "Marleen"
+   ],
+   "PL": [
+    "Wawrzyniec",
+    "Bolesława",
+    "Magdalena",
+    "Pankracy"
+   ],
+   "CZ": [
+    "Magdalena"
+   ],
+   "HU": [
+    "Magdolna",
+    "Mária",
+    "Magda",
+    "Nara"
+   ],
+   "SK": [
+    "Magdaléna"
+   ]
+  },
+  "07-23": {
+   "FR": [
+    "Brigitte"
+   ],
+   "SE": [
+    "Emma",
+    "Emmy"
+   ],
+   "NO": [
+    "Brita",
+    "Brit",
+    "Britt"
+   ],
+   "DK": [
+    "Apollinaris"
+   ],
+   "FI": [
+    "Olga",
+    "Oili"
+   ],
+   "DE": [
+    "Berit",
+    "Birgit",
+    "Brigitte"
+   ],
+   "PL": [
+    "Bogna",
+    "Apolinary",
+    "Apolinaria"
+   ],
+   "CZ": [
+    "Libor",
+    "Larisa"
+   ],
+   "HU": [
+    "Lenke",
+    "Brigitta",
+    "Apollinár"
+   ],
+   "SK": [
+    "Oľga"
+   ]
+  },
+  "07-24": {
+   "FR": [
+    "Christine"
+   ],
+   "SE": [
+    "Kristina",
+    "Kerstin"
+   ],
+   "NO": [
+    "Kristine",
+    "Kristin",
+    "Kristi"
+   ],
+   "DK": [
+    "Christina"
+   ],
+   "FI": [
+    "Kristiina",
+    "Tiina",
+    "Kirsti",
+    "Kirsi"
+   ],
+   "DE": [
+    "Christine",
+    "Christoph",
+    "Luise"
+   ],
+   "PL": [
+    "Olga",
+    "Antoni",
+    "Kinga",
+    "Wojciecha"
+   ],
+   "CZ": [
+    "Kristýna",
+    "Kristin"
+   ],
+   "HU": [
+    "Kinga",
+    "Kunigunda",
+    "Kincső",
+    "Krisztina"
+   ],
+   "SK": [
+    "Vladimír"
+   ]
+  },
+  "07-25": {
+   "FR": [
+    "Jacques"
+   ],
+   "SE": [
+    "Jakob"
+   ],
+   "NO": [
+    "Jakob",
+    "Jack",
+    "Jim"
+   ],
+   "DK": [
+    "Jacobus"
+   ],
+   "FI": [
+    "Jaakko",
+    "Jimi",
+    "Jasu",
+    "Jaakob"
+   ],
+   "DE": [
+    "Jacqueline",
+    "Jakob"
+   ],
+   "PL": [
+    "Walentyna",
+    "Nieznamir",
+    "Alfons",
+    "Olimpia"
+   ],
+   "CZ": [
+    "Jakub"
+   ],
+   "HU": [
+    "Kristóf",
+    "Jakab"
+   ],
+   "SK": [
+    "Jakub"
+   ]
+  },
+  "07-26": {
+   "FR": [
+    "Anne"
+   ],
+   "SE": [
+    "Jesper",
+    "Jasmine"
+   ],
+   "NO": [
+    "Anna",
+    "Anne",
+    "Ane"
+   ],
+   "DK": [
+    "Anna"
+   ],
+   "FI": [
+    "Martta"
+   ],
+   "DE": [
+    "Achim",
+    "Anita",
+    "Anja",
+    "Anna"
+   ],
+   "PL": [
+    "Anna",
+    "Mirosława",
+    "Grażyna",
+    "Krystiana"
+   ],
+   "CZ": [
+    "Anna"
+   ],
+   "HU": [
+    "Panna",
+    "Anna",
+    "Anikó",
+    "Joakim"
+   ],
+   "SK": [
+    "Anna",
+    "Hana"
+   ]
+  },
+  "07-27": {
+   "FR": [
+    "Nathalie"
+   ],
+   "SE": [
+    "Marta"
+   ],
+   "NO": [
+    "Marita",
+    "Rita"
+   ],
+   "DK": [
+    "Marta"
+   ],
+   "FI": [
+    "Heidi"
+   ],
+   "DE": [
+    "Berthold",
+    "Christian",
+    "Natalie",
+    "Pantaleon"
+   ],
+   "PL": [
+    "Aureli",
+    "Pantaleon",
+    "Antuza",
+    "Natalia"
+   ],
+   "CZ": [
+    "Věroslav",
+    "Heidi"
+   ],
+   "HU": [
+    "Olga",
+    "Liliána",
+    "Natália",
+    "Pantaleon"
+   ],
+   "SK": [
+    "Božena"
+   ]
+  },
+  "07-28": {
+   "FR": [
+    "Samson"
+   ],
+   "SE": [
+    "Botvid",
+    "Seved"
+   ],
+   "NO": [
+    "Reidar",
+    "Reidun"
+   ],
+   "DK": [
+    "Aurelius"
+   ],
+   "FI": [
+    "Atso"
+   ],
+   "DE": [
+    "Ada",
+    "Timon"
+   ],
+   "PL": [
+    "Alfonsa",
+    "Samson",
+    "Pantaleon",
+    "Marcela"
+   ],
+   "CZ": [
+    "Viktor"
+   ],
+   "HU": [
+    "Szabolcs",
+    "Alina",
+    "Ince",
+    "Győző"
+   ],
+   "SK": [
+    "Krištof"
+   ]
+  },
+  "07-29": {
+   "FR": [
+    "Marthe"
+   ],
+   "SE": [
+    "Olof",
+    "Olle"
+   ],
+   "NO": [
+    "Olav",
+    "Ola",
+    "Ole"
+   ],
+   "DK": [
+    "Oluf"
+   ],
+   "FI": [
+    "Olli",
+    "Olavi",
+    "Oula",
+    "Uolevi"
+   ],
+   "DE": [
+    "Flora",
+    "Martha",
+    "Olaf"
+   ],
+   "PL": [
+    "Konstantyn",
+    "Lucyliusz",
+    "Olaf",
+    "Maria"
+   ],
+   "CZ": [
+    "Marta",
+    "Beatris"
+   ],
+   "HU": [
+    "Márta",
+    "Flóra"
+   ],
+   "SK": [
+    "Marta"
+   ]
+  },
+  "07-30": {
+   "FR": [
+    "Juliette"
+   ],
+   "SE": [
+    "Algot"
+   ],
+   "NO": [
+    "Aurora",
+    "Audhild",
+    "Aud"
+   ],
+   "DK": [
+    "Abdon"
+   ],
+   "FI": [
+    "Asta"
+   ],
+   "DE": [
+    "Ingeburg"
+   ],
+   "PL": [
+    "Ubysław",
+    "Ubysława",
+    "Ludomiła",
+    "Julita"
+   ],
+   "CZ": [
+    "Bořivoj"
+   ],
+   "HU": [
+    "Judit",
+    "Xénia",
+    "Péter"
+   ],
+   "SK": [
+    "Libuša"
+   ]
+  },
+  "07-31": {
+   "FR": [
+    "Ignace"
+   ],
+   "SE": [
+    "Helena",
+    "Elin"
+   ],
+   "NO": [
+    "Elin",
+    "Eline",
+    "Elina"
+   ],
+   "DK": [
+    "Helena",
+    "Germanus"
+   ],
+   "FI": [
+    "Helena",
+    "Elena"
+   ],
+   "DE": [
+    "German",
+    "Helene",
+    "Hermann",
+    "Ignaz"
+   ],
+   "PL": [
+    "Alfonsa",
+    "Justyn",
+    "German",
+    "Helena"
+   ],
+   "CZ": [
+    "Ignác",
+    "Elin"
+   ],
+   "HU": [
+    "Oszkár",
+    "Ignác",
+    "Bató"
+   ],
+   "SK": [
+    "Ignác"
+   ]
+  },
+  "08-01": {
+   "FR": [
+    "Alphonse"
+   ],
+   "SE": [
+    "Per"
+   ],
+   "NO": [
+    "Peder",
+    "Petra"
+   ],
+   "DK": [
+    "Peter"
+   ],
+   "FI": [
+    "Maire"
+   ],
+   "DE": [
+    "Abel",
+    "Alfons"
+   ],
+   "PL": [
+    "Alfons",
+    "Justyn",
+    "Nadzieja",
+    "Piotr"
+   ],
+   "CZ": [
+    "Oskar"
+   ],
+   "HU": [
+    "Boglárka",
+    "Nimród",
+    "Alfonz"
+   ],
+   "SK": [
+    "Božidara"
+   ]
+  },
+  "08-02": {
+   "FR": [
+    "Julien"
+   ],
+   "SE": [
+    "Karin",
+    "Kajsa"
+   ],
+   "NO": [
+    "Karen",
+    "Karin",
+    "Karina"
+   ],
+   "DK": [
+    "Hannibal"
+   ],
+   "FI": [
+    "Kimmo"
+   ],
+   "DE": [],
+   "PL": [
+    "Gustaw",
+    "Karina",
+    "Maria",
+    "Stefan"
+   ],
+   "CZ": [
+    "Gustav"
+   ],
+   "HU": [
+    "Lehel"
+   ],
+   "SK": [
+    "Gustáv"
+   ]
+  },
+  "08-03": {
+   "FR": [
+    "Lydie"
+   ],
+   "SE": [
+    "Tage"
+   ],
+   "NO": [
+    "Oline",
+    "Oliver",
+    "Olve"
+   ],
+   "DK": [
+    "Nikodemus"
+   ],
+   "FI": [
+    "Nea",
+    "Linnea",
+    "Neea",
+    "Vanamo"
+   ],
+   "DE": [
+    "Lydia",
+    "Linnea"
+   ],
+   "PL": [
+    "Nikodem",
+    "Nikodema",
+    "Szczepan",
+    "Lidia"
+   ],
+   "CZ": [
+    "Miluše"
+   ],
+   "HU": [
+    "Hermina",
+    "Lídia",
+    "Kamélia",
+    "Kíra"
+   ],
+   "SK": [
+    "Jerguš"
+   ]
+  },
+  "08-04": {
+   "FR": [
+    "Jean-Marie"
+   ],
+   "SE": [
+    "Arne",
+    "Arnold"
+   ],
+   "NO": [
+    "Arnhild",
+    "Arna",
+    "Arne"
+   ],
+   "DK": [
+    "Dominicus"
+   ],
+   "FI": [
+    "Veera"
+   ],
+   "DE": [
+    "Dominik",
+    "Johannes",
+    "Rainer"
+   ],
+   "PL": [
+    "Alfred",
+    "Mironieg",
+    "Perpetua",
+    "Maria"
+   ],
+   "CZ": [
+    "Dominik",
+    "Dominika"
+   ],
+   "HU": [
+    "Domonkos",
+    "Dominik",
+    "János",
+    "Dominika"
+   ],
+   "SK": [
+    "Dominik",
+    "Dominika"
+   ]
+  },
+  "08-05": {
+   "FR": [
+    "Abel"
+   ],
+   "SE": [
+    "Ulrik",
+    "Alrik"
+   ],
+   "NO": [
+    "Osvald",
+    "Oskar"
+   ],
+   "DK": [
+    "Osvaldus"
+   ],
+   "FI": [
+    "Salme",
+    "Sanelma"
+   ],
+   "DE": [
+    "Abel",
+    "Oswald"
+   ],
+   "PL": [
+    "Nonna",
+    "Cyriak",
+    "Abel",
+    "Maria"
+   ],
+   "CZ": [
+    "Kristián",
+    "Oswald"
+   ],
+   "HU": [
+    "Krisztina"
+   ],
+   "SK": [
+    "Hortenzia"
+   ]
+  },
+  "08-06": {
+   "FR": [
+    "Sauveur",
+    "Salvador"
+   ],
+   "SE": [
+    "Alfons",
+    "Inez"
+   ],
+   "NO": [
+    "Loke",
+    "Lilja",
+    "Luis"
+   ],
+   "DK": [],
+   "FI": [
+    "Toimi",
+    "Keimo"
+   ],
+   "DE": [
+    "Gilbert",
+    "Hermann"
+   ],
+   "PL": [
+    "Wincenty",
+    "Felicysym",
+    "Stefan",
+    "Jakub"
+   ],
+   "CZ": [
+    "Oldřiška"
+   ],
+   "HU": [
+    "Berta",
+    "Bettina"
+   ],
+   "SK": [
+    "Jozefína"
+   ]
+  },
+  "08-07": {
+   "FR": [
+    "Gaétan"
+   ],
+   "SE": [
+    "Dennis",
+    "Denise"
+   ],
+   "NO": [
+    "Didrik",
+    "Doris"
+   ],
+   "DK": [
+    "Donatus"
+   ],
+   "FI": [
+    "Lahja"
+   ],
+   "DE": [
+    "Albert",
+    "Juliane"
+   ],
+   "PL": [
+    "Licyniusz",
+    "Kajetan",
+    "Klaudia",
+    "Dobiemir"
+   ],
+   "CZ": [
+    "Lada"
+   ],
+   "HU": [
+    "Ibolya"
+   ],
+   "SK": [
+    "Štefánia"
+   ]
+  },
+  "08-08": {
+   "FR": [
+    "Dominique"
+   ],
+   "SE": [
+    "Silvia",
+    "Sylvia"
+   ],
+   "NO": [
+    "Evy",
+    "Yvonne",
+    "Yasmin"
+   ],
+   "DK": [
+    "Ruth"
+   ],
+   "FI": [
+    "Silva",
+    "Sylvi",
+    "Sylvia"
+   ],
+   "DE": [
+    "Dominikus"
+   ],
+   "PL": [
+    "Dominik",
+    "Niezamysł",
+    "Cyriak",
+    "Sylwiusz"
+   ],
+   "CZ": [
+    "Soběslav"
+   ],
+   "HU": [
+    "László",
+    "Domonkos"
+   ],
+   "SK": [
+    "Oskár"
+   ]
+  },
+  "08-09": {
+   "FR": [
+    "Amour"
+   ],
+   "SE": [
+    "Roland"
+   ],
+   "NO": [
+    "Ronald",
+    "Ronny"
+   ],
+   "DK": [
+    "Rosmanus"
+   ],
+   "FI": [
+    "Erja",
+    "Eira",
+    "Nadja"
+   ],
+   "DE": [
+    "Edith",
+    "Roman"
+   ],
+   "PL": [
+    "Klarysa",
+    "Miłorad",
+    "Domicjan",
+    "Domicjana"
+   ],
+   "CZ": [
+    "Roman",
+    "Ratibor",
+    "Ratislav"
+   ],
+   "HU": [
+    "Emőd",
+    "Román"
+   ],
+   "SK": [
+    "Ľubomíra"
+   ]
+  },
+  "08-10": {
+   "FR": [
+    "Laurent"
+   ],
+   "SE": [
+    "Lars"
+   ],
+   "NO": [
+    "Lorents",
+    "Lars",
+    "Lasse"
+   ],
+   "DK": [
+    "Laurentius"
+   ],
+   "FI": [
+    "Lauri",
+    "Lasse",
+    "Lassi"
+   ],
+   "DE": [
+    "Astrid",
+    "Lorenz"
+   ],
+   "PL": [
+    "Bernard",
+    "Amadea",
+    "Wawrzyniec",
+    "Wierzchosław"
+   ],
+   "CZ": [
+    "Vavřinec"
+   ],
+   "HU": [
+    "Lőrinc",
+    "Blanka",
+    "Csilla"
+   ],
+   "SK": [
+    "Vavrinec"
+   ]
+  },
+  "08-11": {
+   "FR": [
+    "Claire"
+   ],
+   "SE": [
+    "Susanna"
+   ],
+   "NO": [
+    "Torvald",
+    "Tarald",
+    "Tara"
+   ],
+   "DK": [
+    "Herman"
+   ],
+   "FI": [
+    "Sanna",
+    "Susanna",
+    "Sanni",
+    "Susanne"
+   ],
+   "DE": [
+    "Claire",
+    "Donald",
+    "Klara",
+    "Susanne"
+   ],
+   "PL": [
+    "Lukrecja",
+    "Herman",
+    "Włodzimierz",
+    "Tyburcja"
+   ],
+   "CZ": [
+    "Zuzana"
+   ],
+   "HU": [
+    "Zsuzsanna",
+    "Tiborc",
+    "Klára"
+   ],
+   "SK": [
+    "Zuzana"
+   ]
+  },
+  "08-12": {
+   "FR": [
+    "Jeanne-Françoise"
+   ],
+   "SE": [
+    "Klara"
+   ],
+   "NO": [
+    "Klara",
+    "Camilla",
+    "Lara"
+   ],
+   "DK": [
+    "Clara"
+   ],
+   "FI": [
+    "Kiira",
+    "Kira",
+    "Klaara"
+   ],
+   "DE": [
+    "Johannes"
+   ],
+   "PL": [
+    "Anicet",
+    "Aniceta",
+    "Bądzsław",
+    "Cyriak"
+   ],
+   "CZ": [
+    "Klára"
+   ],
+   "HU": [
+    "Klára",
+    "Hilária",
+    "Diána"
+   ],
+   "SK": [
+    "Darina"
+   ]
+  },
+  "08-13": {
+   "FR": [
+    "Hippolyte"
+   ],
+   "SE": [
+    "Kaj"
+   ],
+   "NO": [
+    "Anny",
+    "Anine",
+    "Ann"
+   ],
+   "DK": [
+    "Hippolytus"
+   ],
+   "FI": [
+    "Jesse",
+    "Okko"
+   ],
+   "DE": [
+    "Alena",
+    "Marco",
+    "Wiebke",
+    "Maxim"
+   ],
+   "PL": [
+    "Radomiła",
+    "Hipolit",
+    "Sekundyn",
+    "Hipolita"
+   ],
+   "CZ": [
+    "Alena"
+   ],
+   "HU": [
+    "Ipoly",
+    "Ince",
+    "Vitália"
+   ],
+   "SK": [
+    "Ľubomír"
+   ]
+  },
+  "08-14": {
+   "FR": [
+    "Évrard"
+   ],
+   "SE": [
+    "Uno"
+   ],
+   "NO": [
+    "Stella",
+    "Storm"
+   ],
+   "DK": [
+    "Eusebius"
+   ],
+   "FI": [
+    "Onerva",
+    "Kanerva"
+   ],
+   "DE": [
+    "Maximilian"
+   ],
+   "PL": [
+    "Alfred",
+    "Euzebiusz",
+    "Atanazja",
+    "Kalikst"
+   ],
+   "CZ": [
+    "Alan",
+    "Lorelai"
+   ],
+   "HU": [
+    "Marcell",
+    "Maximilián"
+   ],
+   "SK": [
+    "Mojmír"
+   ]
+  },
+  "08-15": {
+   "FR": [
+    "Marie"
+   ],
+   "SE": [
+    "Stella",
+    "Estelle"
+   ],
+   "NO": [
+    "Margot",
+    "Mary",
+    "Marielle"
+   ],
+   "DK": [
+    "Maria"
+   ],
+   "FI": [
+    "Marja",
+    "Jaana",
+    "Marjo",
+    "Marita"
+   ],
+   "DE": [
+    "Adam",
+    "Mechthild"
+   ],
+   "PL": [
+    "Napoleon",
+    "Maria",
+    "Stefan",
+    "Arnolf"
+   ],
+   "CZ": [
+    "Hana",
+    "Mirabel"
+   ],
+   "HU": [
+    "Mária"
+   ],
+   "SK": [
+    "Marcela"
+   ]
+  },
+  "08-16": {
+   "FR": [
+    "Armel"
+   ],
+   "SE": [
+    "Brynolf"
+   ],
+   "NO": [
+    "Brage",
+    "Brynjulf",
+    "Brynhild"
+   ],
+   "DK": [
+    "Rochus"
+   ],
+   "FI": [
+    "Aulis"
+   ],
+   "DE": [
+    "Achim",
+    "Joachim",
+    "Rochus"
+   ],
+   "PL": [
+    "Ambroży",
+    "Emil",
+    "Roch",
+    "Domarad"
+   ],
+   "CZ": [
+    "Jáchym"
+   ],
+   "HU": [
+    "Ábrahám",
+    "Rókus"
+   ],
+   "SK": [
+    "Leonard"
+   ]
+  },
+  "08-17": {
+   "FR": [
+    "Hyacinthe"
+   ],
+   "SE": [
+    "Verner",
+    "Valter"
+   ],
+   "NO": [
+    "Verner",
+    "Wenche"
+   ],
+   "DK": [
+    "Anastatius"
+   ],
+   "FI": [
+    "Verneri",
+    "Venni"
+   ],
+   "DE": [
+    "Jacek"
+   ],
+   "PL": [
+    "Bertram",
+    "Jacek",
+    "Miron",
+    "Zawisza"
+   ],
+   "CZ": [
+    "Petra"
+   ],
+   "HU": [
+    "Jácint",
+    "Réka",
+    "Hetény"
+   ],
+   "SK": [
+    "Milica"
+   ]
+  },
+  "08-18": {
+   "FR": [
+    "Hélène"
+   ],
+   "SE": [
+    "Ellen",
+    "Lena"
+   ],
+   "NO": [
+    "Tormod",
+    "Torodd",
+    "Valdemar"
+   ],
+   "DK": [
+    "Agapetus"
+   ],
+   "FI": [
+    "Leevi"
+   ],
+   "DE": [
+    "Claudia",
+    "Helena",
+    "Helene",
+    "Ilona"
+   ],
+   "PL": [
+    "Klara",
+    "Ilona",
+    "Tacjana",
+    "Tworzysława"
+   ],
+   "CZ": [
+    "Helena"
+   ],
+   "HU": [
+    "Ilona",
+    "Rajnald"
+   ],
+   "SK": [
+    "Elena",
+    "Helena"
+   ]
+  },
+  "08-19": {
+   "FR": [
+    "Jean"
+   ],
+   "SE": [
+    "Magnus",
+    "Måns"
+   ],
+   "NO": [
+    "Sigvald",
+    "Sigve"
+   ],
+   "DK": [
+    "Selbadus"
+   ],
+   "FI": [
+    "Mauno",
+    "Maunu"
+   ],
+   "DE": [
+    "Johannes",
+    "Ludwig"
+   ],
+   "PL": [
+    "Bolesław",
+    "Ludwik",
+    "Emilia",
+    "Sykstus"
+   ],
+   "CZ": [
+    "Ludvík"
+   ],
+   "HU": [
+    "Huba",
+    "Marián",
+    "Emília"
+   ],
+   "SK": [
+    "Lýdia"
+   ]
+  },
+  "08-20": {
+   "FR": [
+    "Bernard"
+   ],
+   "SE": [
+    "Bernhard",
+    "Bernt"
+   ],
+   "NO": [
+    "Bernhard",
+    "Bernt"
+   ],
+   "DK": [
+    "Bernhard"
+   ],
+   "FI": [
+    "Sami",
+    "Samuli",
+    "Samu",
+    "Samuel"
+   ],
+   "DE": [
+    "Bernhard",
+    "Björn",
+    "Oswin",
+    "Ronald"
+   ],
+   "PL": [
+    "Bernard",
+    "Samuel",
+    "Sobiesław",
+    "Sabin"
+   ],
+   "CZ": [
+    "Bernard"
+   ],
+   "HU": [
+    "István",
+    "Bernát"
+   ],
+   "SK": [
+    "Anabela"
+   ]
+  },
+  "08-21": {
+   "FR": [
+    "Christophe"
+   ],
+   "SE": [
+    "Jon",
+    "Jonna"
+   ],
+   "NO": [
+    "Ragnvald",
+    "Ragni"
+   ],
+   "DK": [
+    "Salomon"
+   ],
+   "FI": [
+    "Soini",
+    "Veini"
+   ],
+   "DE": [
+    "Pius"
+   ],
+   "PL": [
+    "Bernard",
+    "Franciszek",
+    "Joanna",
+    "Wiktoria"
+   ],
+   "CZ": [
+    "Johana"
+   ],
+   "HU": [
+    "Sámuel",
+    "Hajna",
+    "Piusz"
+   ],
+   "SK": [
+    "Jana"
+   ]
+  },
+  "08-22": {
+   "FR": [
+    "Fabrice"
+   ],
+   "SE": [
+    "Henrietta",
+    "Henrika"
+   ],
+   "NO": [
+    "Harriet",
+    "Harry"
+   ],
+   "DK": [
+    "Symphorian"
+   ],
+   "FI": [
+    "Iivari",
+    "Iivo"
+   ],
+   "DE": [
+    "Regina",
+    "Timo"
+   ],
+   "PL": [
+    "Fabrycjan",
+    "Tymoteusz",
+    "Teonas",
+    "Fabrycy"
+   ],
+   "CZ": [
+    "Bohuslav"
+   ],
+   "HU": [
+    "Menyhért",
+    "Mirjam",
+    "Merse"
+   ],
+   "SK": [
+    "Tichomír"
+   ]
+  },
+  "08-23": {
+   "FR": [
+    "Rose"
+   ],
+   "SE": [
+    "Signe",
+    "Signhild"
+   ],
+   "NO": [
+    "Signe",
+    "Signy"
+   ],
+   "DK": [
+    "Zakæus"
+   ],
+   "FI": [
+    "Signe",
+    "Varma"
+   ],
+   "DE": [
+    "Isolde",
+    "Rosa"
+   ],
+   "PL": [
+    "Filip",
+    "Róża",
+    "Walerian",
+    "Benicjusz"
+   ],
+   "CZ": [
+    "Sandra"
+   ],
+   "HU": [
+    "Bence",
+    "Róza",
+    "Szidónia"
+   ],
+   "SK": [
+    "Filip"
+   ]
+  },
+  "08-24": {
+   "FR": [
+    "Barthélemy"
+   ],
+   "SE": [
+    "Bartolomeus"
+   ],
+   "NO": [
+    "Belinda",
+    "Bertil"
+   ],
+   "DK": [
+    "Bartholomæus"
+   ],
+   "FI": [
+    "Perttu",
+    "Bertta"
+   ],
+   "DE": [
+    "Bartholomäus",
+    "Emilia",
+    "Isolde",
+    "Michaela"
+   ],
+   "PL": [
+    "Michalina",
+    "Halina",
+    "Anita",
+    "Cieszymir"
+   ],
+   "CZ": [
+    "Bartoloměj"
+   ],
+   "HU": [
+    "Bertalan",
+    "Aliz",
+    "Detre"
+   ],
+   "SK": [
+    "Bartolomej"
+   ]
+  },
+  "08-25": {
+   "FR": [
+    "Louis"
+   ],
+   "SE": [
+    "Lovisa",
+    "Louise"
+   ],
+   "NO": [
+    "Ludvig",
+    "Lovise",
+    "Louise"
+   ],
+   "DK": [
+    "Ludvig"
+   ],
+   "FI": [
+    "Loviisa"
+   ],
+   "DE": [
+    "Patricia"
+   ],
+   "PL": [
+    "Sieciesław",
+    "Kalasanty",
+    "Ludwik",
+    "Luiza"
+   ],
+   "CZ": [
+    "Radim"
+   ],
+   "HU": [
+    "Lajos",
+    "Patrícia"
+   ],
+   "SK": [
+    "Ľudovít"
+   ]
+  },
+  "08-26": {
+   "FR": [
+    "Natacha"
+   ],
+   "SE": [
+    "Östen"
+   ],
+   "NO": [
+    "Øyvind",
+    "Eivind",
+    "Even"
+   ],
+   "DK": [
+    "Ienæus"
+   ],
+   "FI": [
+    "Ilma",
+    "Ilmi",
+    "Ilmatar"
+   ],
+   "DE": [
+    "Miriam",
+    "Teresa",
+    "Johanna Elisabeth"
+   ],
+   "PL": [
+    "Wirzchosława",
+    "Maria",
+    "Maksym",
+    "Dobroniega"
+   ],
+   "CZ": [
+    "Luděk",
+    "Ludiše"
+   ],
+   "HU": [
+    "Izsó",
+    "Tália",
+    "Natália",
+    "Zamfira"
+   ],
+   "SK": [
+    "Samuel"
+   ]
+  },
+  "08-27": {
+   "FR": [
+    "Monique"
+   ],
+   "SE": [
+    "Rolf",
+    "Raoul"
+   ],
+   "NO": [
+    "Roald",
+    "Rolf"
+   ],
+   "DK": [
+    "Gebhardus"
+   ],
+   "FI": [
+    "Rauli"
+   ],
+   "DE": [
+    "Gebhard",
+    "Monika"
+   ],
+   "PL": [
+    "Teodor",
+    "Józef",
+    "Gebhard",
+    "Rufus"
+   ],
+   "CZ": [
+    "Otakar",
+    "Otokar"
+   ],
+   "HU": [
+    "Gáspár",
+    "Mónika"
+   ],
+   "SK": [
+    "Silvia"
+   ]
+  },
+  "08-28": {
+   "FR": [
+    "Augustin"
+   ],
+   "SE": [
+    "Fatima",
+    "Leila"
+   ],
+   "NO": [
+    "Artur",
+    "August",
+    "Angela"
+   ],
+   "DK": [
+    "Augustinus"
+   ],
+   "FI": [
+    "Tauno"
+   ],
+   "DE": [
+    "Adelinde",
+    "Alina",
+    "Augustin",
+    "Elmar"
+   ],
+   "PL": [
+    "Alfons",
+    "Hermes",
+    "Joachima",
+    "Stronisław"
+   ],
+   "CZ": [
+    "Augustýn",
+    "Augustin"
+   ],
+   "HU": [
+    "Ágoston",
+    "Mózes"
+   ],
+   "SK": [
+    "Augustín"
+   ]
+  },
+  "08-29": {
+   "FR": [
+    "Sabine"
+   ],
+   "SE": [
+    "Hans",
+    "Hampus"
+   ],
+   "NO": [
+    "Johan",
+    "Jone",
+    "Jo"
+   ],
+   "DK": [
+    "Johannes"
+   ],
+   "FI": [
+    "Iines",
+    "Iina",
+    "Inari",
+    "Inna"
+   ],
+   "DE": [
+    "Beatrice",
+    "Sabine"
+   ],
+   "PL": [
+    "Mederyka",
+    "Sabina",
+    "Flora",
+    "Racibor"
+   ],
+   "CZ": [
+    "Evelína",
+    "Evelin"
+   ],
+   "HU": [
+    "Beatrix",
+    "Erna"
+   ],
+   "SK": [
+    "Nikola"
+   ]
+  },
+  "08-30": {
+   "FR": [
+    "Fiacre"
+   ],
+   "SE": [
+    "Albert",
+    "Albertina"
+   ],
+   "NO": [
+    "Benjamin",
+    "Ben"
+   ],
+   "DK": [
+    "Albert",
+    "Benjamin"
+   ],
+   "FI": [
+    "Eemeli",
+    "Eemil",
+    "Eemi"
+   ],
+   "DE": [
+    "Amadeus",
+    "Felix",
+    "Rebecca"
+   ],
+   "PL": [
+    "Gaudencja",
+    "Miron",
+    "Tekla",
+    "Częstowoj"
+   ],
+   "CZ": [
+    "Vladěna",
+    "Vlaďka"
+   ],
+   "HU": [
+    "Rózsa",
+    "Róza",
+    "Félix",
+    "Letícia"
+   ],
+   "SK": [
+    "Ružena"
+   ]
+  },
+  "08-31": {
+   "FR": [
+    "Aristide"
+   ],
+   "SE": [
+    "Arvid",
+    "Vidar"
+   ],
+   "NO": [
+    "Aria",
+    "Ariana",
+    "Ariel"
+   ],
+   "DK": [
+    "Bertha"
+   ],
+   "FI": [
+    "Arvi"
+   ],
+   "DE": [
+    "Raimund"
+   ],
+   "PL": [
+    "Rajmund",
+    "Bogdan",
+    "Albertyna",
+    "Amat"
+   ],
+   "CZ": [
+    "Pavlína"
+   ],
+   "HU": [
+    "Erika",
+    "Bella",
+    "Arisztid",
+    "Hanga"
+   ],
+   "SK": [
+    "Nora"
+   ]
+  },
+  "09-01": {
+   "FR": [
+    "Gilles"
+   ],
+   "SE": [
+    "Samuel",
+    "Sam"
+   ],
+   "NO": [
+    "Solveig",
+    "Solvor"
+   ],
+   "DK": [
+    "Ægidius"
+   ],
+   "FI": [
+    "Pirkka"
+   ],
+   "DE": [
+    "Ruth",
+    "Verena"
+   ],
+   "PL": [
+    "Idzi",
+    "Bronisław",
+    "Bronisława",
+    "Sykstus"
+   ],
+   "CZ": [
+    "Linda",
+    "Samuel"
+   ],
+   "HU": [
+    "Egyed",
+    "Egon",
+    "Noémi",
+    "Tamara"
+   ],
+   "SK": [
+    "Drahoslava"
+   ]
+  },
+  "09-02": {
+   "FR": [
+    "Ingrid"
+   ],
+   "SE": [
+    "Justus",
+    "Justina"
+   ],
+   "NO": [
+    "Lisa",
+    "Lise",
+    "Liss"
+   ],
+   "DK": [
+    "Elisa"
+   ],
+   "FI": [
+    "Sini",
+    "Justus",
+    "Sinikka"
+   ],
+   "DE": [
+    "Ingrid"
+   ],
+   "PL": [
+    "Absalon",
+    "Dziesław",
+    "Wilhelm",
+    "Stefan"
+   ],
+   "CZ": [
+    "Adéla"
+   ],
+   "HU": [
+    "Rebeka",
+    "Dorina",
+    "Renáta",
+    "Ingrid"
+   ],
+   "SK": [
+    "Linda"
+   ]
+  },
+  "09-03": {
+   "FR": [
+    "Grégoire"
+   ],
+   "SE": [
+    "Alfhild",
+    "Alva"
+   ],
+   "NO": [
+    "Alise",
+    "Alvhild",
+    "Vilde"
+   ],
+   "DK": [
+    "Seraphia"
+   ],
+   "FI": [
+    "Soile",
+    "Soili",
+    "Soila"
+   ],
+   "DE": [
+    "Sophie"
+   ],
+   "PL": [
+    "Eufemia",
+    "Erazma",
+    "Wincenty",
+    "Gerarda"
+   ],
+   "CZ": [
+    "Bronislav"
+   ],
+   "HU": [
+    "Hilda",
+    "Gergely"
+   ],
+   "SK": [
+    "Belo"
+   ]
+  },
+  "09-04": {
+   "FR": [
+    "Rosalie"
+   ],
+   "SE": [
+    "Gisela"
+   ],
+   "NO": [
+    "Ida",
+    "Idar",
+    "Iben"
+   ],
+   "DK": [
+    "Theodosias"
+   ],
+   "FI": [
+    "Ansa"
+   ],
+   "DE": [
+    "Hermine",
+    "Ida",
+    "Iris",
+    "Irmgard"
+   ],
+   "PL": [
+    "Rozalia",
+    "Liliana",
+    "Rościgniew",
+    "Daniela"
+   ],
+   "CZ": [
+    "Jindřiška",
+    "Henrieta"
+   ],
+   "HU": [
+    "Rozália",
+    "Róza",
+    "Ida"
+   ],
+   "SK": [
+    "Rozália"
+   ]
+  },
+  "09-05": {
+   "FR": [
+    "Raïssa"
+   ],
+   "SE": [
+    "Adela",
+    "Heidi"
+   ],
+   "NO": [
+    "Brede",
+    "Brian",
+    "Njål"
+   ],
+   "DK": [
+    "Regina"
+   ],
+   "FI": [
+    "Roni",
+    "Mainio"
+   ],
+   "DE": [
+    "Roswitha",
+    "Urs"
+   ],
+   "PL": [
+    "Herakles",
+    "Herkulan",
+    "Dorota",
+    "Fereol"
+   ],
+   "CZ": [
+    "Boris"
+   ],
+   "HU": [
+    "Viktor",
+    "Lőrinc",
+    "Ofélia"
+   ],
+   "SK": [
+    "Regína"
+   ]
+  },
+  "09-06": {
+   "FR": [
+    "Bertrand"
+   ],
+   "SE": [
+    "Lilian",
+    "Lilly"
+   ],
+   "NO": [
+    "Siril",
+    "Siv"
+   ],
+   "DK": [
+    "Magnus"
+   ],
+   "FI": [
+    "Asko",
+    "Felix"
+   ],
+   "DE": [
+    "Beate",
+    "Magnus",
+    "Theobald"
+   ],
+   "PL": [
+    "Michał",
+    "Zachariasz",
+    "Magnus",
+    "German"
+   ],
+   "CZ": [
+    "Boleslav",
+    "Bolemír"
+   ],
+   "HU": [
+    "Zakariás",
+    "Beáta",
+    "Brájen"
+   ],
+   "SK": [
+    "Alica"
+   ]
+  },
+  "09-07": {
+   "FR": [
+    "Reine"
+   ],
+   "SE": [
+    "Kevin",
+    "Roy"
+   ],
+   "NO": [
+    "Regine",
+    "Rose"
+   ],
+   "DK": [
+    "Robert"
+   ],
+   "FI": [
+    "Miro",
+    "Milo",
+    "Arho",
+    "Arhippa"
+   ],
+   "DE": [
+    "Dietrich",
+    "Judith",
+    "Ralph",
+    "Regina"
+   ],
+   "PL": [
+    "Sozont",
+    "Melchior",
+    "Ryszard",
+    "Domasława"
+   ],
+   "CZ": [
+    "Regína"
+   ],
+   "HU": [
+    "Regina"
+   ],
+   "SK": [
+    "Marianna"
+   ]
+  },
+  "09-08": {
+   "FR": [
+    "Adrien",
+    "Adrienne"
+   ],
+   "SE": [
+    "Alma",
+    "Hulda"
+   ],
+   "NO": [
+    "Amalie",
+    "Alma",
+    "Allan"
+   ],
+   "DK": [
+    "Maria"
+   ],
+   "FI": [
+    "Taimi"
+   ],
+   "DE": [
+    "Adrian"
+   ],
+   "PL": [
+    "Radosława",
+    "Maria",
+    "Adrianna",
+    "Adrian"
+   ],
+   "CZ": [
+    "Mariana",
+    "Marion"
+   ],
+   "HU": [
+    "Mária",
+    "Adrienn"
+   ],
+   "SK": [
+    "Miriama"
+   ]
+  },
+  "09-09": {
+   "FR": [
+    "Alain"
+   ],
+   "SE": [
+    "Anita",
+    "Annette"
+   ],
+   "NO": [
+    "Trygve",
+    "Tyra",
+    "Trym"
+   ],
+   "DK": [
+    "Gorgonius"
+   ],
+   "FI": [
+    "Eevert",
+    "Isto",
+    "Vertti"
+   ],
+   "DE": [
+    "Grażyna",
+    "Korbinian",
+    "Otmar"
+   ],
+   "PL": [
+    "Gorgoniusz",
+    "Aureliusz",
+    "Otmar",
+    "Piotr"
+   ],
+   "CZ": [
+    "Daniela"
+   ],
+   "HU": [
+    "Ádám",
+    "Péter"
+   ],
+   "SK": [
+    "Martina"
+   ]
+  },
+  "09-10": {
+   "FR": [
+    "Inès"
+   ],
+   "SE": [
+    "Tord",
+    "Turid"
+   ],
+   "NO": [
+    "Tord",
+    "Tor"
+   ],
+   "DK": [
+    "Buchardt"
+   ],
+   "FI": [
+    "Kalevi",
+    "Kaleva"
+   ],
+   "DE": [
+    "Colin",
+    "Klaus",
+    "Nikolaus"
+   ],
+   "PL": [
+    "Mścibor",
+    "Klemens",
+    "Leon",
+    "Poliana"
+   ],
+   "CZ": [
+    "Irma"
+   ],
+   "HU": [
+    "Nikolett",
+    "Hunor",
+    "Miklós"
+   ],
+   "SK": [
+    "Oleg"
+   ]
+  },
+  "09-11": {
+   "FR": [
+    "Adelphe"
+   ],
+   "SE": [
+    "Dagny",
+    "Helny"
+   ],
+   "NO": [
+    "Dagny",
+    "Dag",
+    "Damian"
+   ],
+   "DK": [
+    "Hillebert"
+   ],
+   "FI": [
+    "Santeri",
+    "Aleksanteri",
+    "Aleksandra",
+    "Santtu"
+   ],
+   "DE": [
+    "Felix",
+    "Helga",
+    "Josef",
+    "Regula"
+   ],
+   "PL": [
+    "Feliks",
+    "Jacek",
+    "Naczęsław",
+    "Dagna"
+   ],
+   "CZ": [
+    "Denisa",
+    "Denys"
+   ],
+   "HU": [
+    "Teodóra",
+    "Jácint",
+    "Igor",
+    "Helga"
+   ],
+   "SK": [
+    "Bystrík"
+   ]
+  },
+  "09-12": {
+   "FR": [
+    "Apollinaire"
+   ],
+   "SE": [
+    "Åsa",
+    "Åslög"
+   ],
+   "NO": [
+    "Jofrid",
+    "Jorid"
+   ],
+   "DK": [
+    "Guido"
+   ],
+   "FI": [
+    "Vilja",
+    "Valma",
+    "Neo"
+   ],
+   "DE": [
+    "Guido"
+   ],
+   "PL": [
+    "Gwidon",
+    "Maria",
+    "Sylwin",
+    "Amadeusz"
+   ],
+   "CZ": [
+    "Marie"
+   ],
+   "HU": [
+    "Mária",
+    "Irma"
+   ],
+   "SK": [
+    "Mária"
+   ]
+  },
+  "09-13": {
+   "FR": [
+    "Aimé"
+   ],
+   "SE": [
+    "Sture"
+   ],
+   "NO": [
+    "Stian",
+    "Stig"
+   ],
+   "DK": [
+    "Cyprianus"
+   ],
+   "FI": [
+    "Orvo"
+   ],
+   "DE": [
+    "Johannes",
+    "Tobias"
+   ],
+   "PL": [
+    "Filip",
+    "Amat",
+    "Aureliusz",
+    "Morzysław"
+   ],
+   "CZ": [
+    "Lubor"
+   ],
+   "HU": [
+    "Kornél",
+    "János"
+   ],
+   "SK": [
+    "Ctibor"
+   ]
+  },
+  "09-14": {
+   "FR": [
+    "Corneille",
+    "Cornelia"
+   ],
+   "SE": [
+    "Ida",
+    "Ronja"
+   ],
+   "NO": [
+    "Ingebjørg",
+    "Ingeborg"
+   ],
+   "DK": [],
+   "FI": [
+    "Iida",
+    "Iita",
+    "Isla"
+   ],
+   "DE": [
+    "Dolores",
+    "Irmgard",
+    "Patricia"
+   ],
+   "PL": [
+    "Bernard",
+    "Siemomysł",
+    "Szymon",
+    "Matern"
+   ],
+   "CZ": [
+    "Radka"
+   ],
+   "HU": [
+    "Szeréna",
+    "Roxána"
+   ],
+   "SK": [
+    "Ľudomil"
+   ]
+  },
+  "09-15": {
+   "FR": [
+    "Roland"
+   ],
+   "SE": [
+    "Sigrid",
+    "Siri"
+   ],
+   "NO": [
+    "Aslak",
+    "Eskil",
+    "Ailo"
+   ],
+   "DK": [
+    "Eskild"
+   ],
+   "FI": [
+    "Sirpa"
+   ],
+   "DE": [
+    "Dolores",
+    "Enikő",
+    "Melitta",
+    "Roland"
+   ],
+   "PL": [
+    "Budzigniew",
+    "Maria",
+    "Albin",
+    "Ekhard"
+   ],
+   "CZ": [
+    "Jolana",
+    "Jolantha"
+   ],
+   "HU": [
+    "Enikő",
+    "Melitta"
+   ],
+   "SK": [
+    "Jolana"
+   ]
+  },
+  "09-16": {
+   "FR": [
+    "Édith"
+   ],
+   "SE": [
+    "Dag",
+    "Daga"
+   ],
+   "NO": [
+    "Lillian",
+    "Lilly",
+    "Linnea"
+   ],
+   "DK": [
+    "Euphemia"
+   ],
+   "FI": [
+    "Hilla",
+    "Hellevi",
+    "Hillevi",
+    "Hille"
+   ],
+   "DE": [
+    "Cornelius",
+    "Edith",
+    "Julia",
+    "Ludmilla"
+   ],
+   "PL": [
+    "Eugenia",
+    "Edyta",
+    "Jakub",
+    "Kornel"
+   ],
+   "CZ": [
+    "Ludmila"
+   ],
+   "HU": [
+    "Edit",
+    "Ciprián"
+   ],
+   "SK": [
+    "Ľudmila"
+   ]
+  },
+  "09-17": {
+   "FR": [
+    "Renaud"
+   ],
+   "SE": [
+    "Hildegard",
+    "Magnhild"
+   ],
+   "NO": [
+    "Hildegunn",
+    "Hjørdis"
+   ],
+   "DK": [
+    "Lambertu"
+   ],
+   "FI": [
+    "Aili",
+    "Aila"
+   ],
+   "DE": [
+    "Ariane",
+    "Hildegard",
+    "Lambert",
+    "Robert"
+   ],
+   "PL": [
+    "Ariadna",
+    "Szczęsny",
+    "Zygmunta",
+    "Justyna"
+   ],
+   "CZ": [
+    "Naděžda",
+    "Naděje"
+   ],
+   "HU": [
+    "Zsófia",
+    "Róbert"
+   ],
+   "SK": [
+    "Olympia"
+   ]
+  },
+  "09-18": {
+   "FR": [
+    "Nadège"
+   ],
+   "SE": [
+    "Orvar"
+   ],
+   "NO": [
+    "Henriette",
+    "Henry"
+   ],
+   "DK": [
+    "Titus"
+   ],
+   "FI": [
+    "Tytti",
+    "Tyyne",
+    "Tyyni"
+   ],
+   "DE": [
+    "Ricarda"
+   ],
+   "PL": [
+    "Irena",
+    "Józef",
+    "Fereol",
+    "Zachariasz"
+   ],
+   "CZ": [
+    "Kryštof"
+   ],
+   "HU": [
+    "Diána",
+    "József"
+   ],
+   "SK": [
+    "Eugénia"
+   ]
+  },
+  "09-19": {
+   "FR": [
+    "Émilie"
+   ],
+   "SE": [
+    "Fredrika"
+   ],
+   "NO": [
+    "Konstanse",
+    "Connie",
+    "Kornelia"
+   ],
+   "DK": [
+    "Constantia"
+   ],
+   "FI": [
+    "Reija"
+   ],
+   "DE": [
+    "Igor",
+    "Thorsten",
+    "Wilma"
+   ],
+   "PL": [
+    "Więcemir",
+    "Teodor",
+    "Wilhelmina",
+    "Marta"
+   ],
+   "CZ": [
+    "Zita"
+   ],
+   "HU": [
+    "Vilhelmina",
+    "Januáriusz",
+    "Dorián"
+   ],
+   "SK": [
+    "Konštantín"
+   ]
+  },
+  "09-20": {
+   "FR": [
+    "Davy"
+   ],
+   "SE": [
+    "Elise",
+    "Lisa"
+   ],
+   "NO": [
+    "Tobias",
+    "Tage"
+   ],
+   "DK": [
+    "Tobias"
+   ],
+   "FI": [
+    "Varpu",
+    "Vaula"
+   ],
+   "DE": [
+    "Zsuzsa"
+   ],
+   "PL": [
+    "Klemens",
+    "Mieczysława",
+    "Irena",
+    "Faustyna"
+   ],
+   "CZ": [
+    "Oleg"
+   ],
+   "HU": [
+    "Friderika"
+   ],
+   "SK": [
+    "Ľuboslav",
+    "Ľuboslava"
+   ]
+  },
+  "09-21": {
+   "FR": [
+    "Matthieu"
+   ],
+   "SE": [
+    "Matteus"
+   ],
+   "NO": [
+    "Trine",
+    "Trond",
+    "Tamara"
+   ],
+   "DK": [
+    "Matthæus"
+   ],
+   "FI": [
+    "Mervi"
+   ],
+   "DE": [
+    "Debora",
+    "Jonas"
+   ],
+   "PL": [
+    "Bernardyna",
+    "Hipolit",
+    "Jonasz",
+    "Marek"
+   ],
+   "CZ": [
+    "Matouš"
+   ],
+   "HU": [
+    "Máté",
+    "Mirella",
+    "Jónás"
+   ],
+   "SK": [
+    "Matúš"
+   ]
+  },
+  "09-22": {
+   "FR": [
+    "Maurice"
+   ],
+   "SE": [
+    "Maurits",
+    "Moritz"
+   ],
+   "NO": [
+    "Kyrre",
+    "Kåre"
+   ],
+   "DK": [
+    "Mauritius"
+   ],
+   "FI": [
+    "Mauri"
+   ],
+   "DE": [
+    "Moritz"
+   ],
+   "PL": [
+    "Maurycy",
+    "Tomasz",
+    "Ignacy",
+    "Joachim"
+   ],
+   "CZ": [
+    "Darina",
+    "Jimram"
+   ],
+   "HU": [
+    "Móric",
+    "Tamás"
+   ],
+   "SK": [
+    "Móric"
+   ]
+  },
+  "09-23": {
+   "FR": [
+    "Constant"
+   ],
+   "SE": [
+    "Tekla",
+    "Tea"
+   ],
+   "NO": [
+    "Snorre",
+    "Snefrid"
+   ],
+   "DK": [
+    "Linus"
+   ],
+   "FI": [
+    "Minja",
+    "Miisa",
+    "Mielikki"
+   ],
+   "DE": [
+    "Elisabet",
+    "Gerhild",
+    "Linus",
+    "Thekla"
+   ],
+   "PL": [
+    "Bogusław",
+    "Liwiusz",
+    "Tekla",
+    "Boguchwała"
+   ],
+   "CZ": [
+    "Berta"
+   ],
+   "HU": [
+    "Tekla",
+    "Líviusz",
+    "Ila",
+    "Nara"
+   ],
+   "SK": [
+    "Zdenka"
+   ]
+  },
+  "09-24": {
+   "FR": [
+    "Thècle"
+   ],
+   "SE": [
+    "Gerhard",
+    "Gert"
+   ],
+   "NO": [
+    "Jan",
+    "Jens"
+   ],
+   "DK": [
+    "Tecla"
+   ],
+   "FI": [
+    "Alvar",
+    "Auno"
+   ],
+   "DE": [
+    "Gerhard",
+    "Mercedes",
+    "Rupert"
+   ],
+   "PL": [
+    "Teodor",
+    "Gerard",
+    "Maria",
+    "Uniegost"
+   ],
+   "CZ": [
+    "Jaromír"
+   ],
+   "HU": [
+    "Gellért",
+    "Gerda",
+    "Mercédesz",
+    "Dodo"
+   ],
+   "SK": [
+    "Ľubor"
+   ]
+  },
+  "09-25": {
+   "FR": [
+    "Hermann"
+   ],
+   "SE": [
+    "Tryggve"
+   ],
+   "NO": [
+    "Ingvar",
+    "Yngvar"
+   ],
+   "DK": [
+    "Cleophas"
+   ],
+   "FI": [
+    "Kullervo"
+   ],
+   "DE": [
+    "Klaus",
+    "Trygve"
+   ],
+   "PL": [
+    "Aureli",
+    "Aurelia",
+    "Aurelian",
+    "Herkulan"
+   ],
+   "CZ": [
+    "Zlata"
+   ],
+   "HU": [
+    "Eufrozina",
+    "Kende"
+   ],
+   "SK": [
+    "Vladislav"
+   ]
+  },
+  "09-26": {
+   "FR": [
+    "Côme"
+   ],
+   "SE": [
+    "Enar",
+    "Einar"
+   ],
+   "NO": [
+    "Einar",
+    "Endre",
+    "Elvira"
+   ],
+   "DK": [
+    "Adolph"
+   ],
+   "FI": [
+    "Kuisma"
+   ],
+   "DE": [
+    "Cosima",
+    "Finja",
+    "Kaspar"
+   ],
+   "PL": [
+    "Euzebiusz",
+    "Majnard",
+    "Cyprian",
+    "Kacper"
+   ],
+   "CZ": [
+    "Andrea"
+   ],
+   "HU": [
+    "Jusztina",
+    "Kozma",
+    "Damján"
+   ],
+   "SK": [
+    "Edita"
+   ]
+  },
+  "09-27": {
+   "FR": [
+    "Vincent"
+   ],
+   "SE": [
+    "Dagmar",
+    "Rigmor"
+   ],
+   "NO": [
+    "Dagmar",
+    "Dagrun"
+   ],
+   "DK": [
+    "Cosmus"
+   ],
+   "FI": [
+    "Vesa"
+   ],
+   "DE": [
+    "Hiltrud",
+    "Thilo"
+   ],
+   "PL": [
+    "Przedbor",
+    "Urban",
+    "Gaja",
+    "Amadeusz"
+   ],
+   "CZ": [
+    "Jonáš"
+   ],
+   "HU": [
+    "Adalbert",
+    "Vince"
+   ],
+   "SK": [
+    "Cyprián"
+   ]
+  },
+  "09-28": {
+   "FR": [
+    "Venceslas"
+   ],
+   "SE": [
+    "Lennart",
+    "Leonard"
+   ],
+   "NO": [
+    "Lena",
+    "Lene",
+    "Elena"
+   ],
+   "DK": [
+    "Venceslaus"
+   ],
+   "FI": [
+    "Arja",
+    "Lenni",
+    "Leon"
+   ],
+   "DE": [
+    "Julia",
+    "Lioba",
+    "Thekla"
+   ],
+   "PL": [
+    "Więcesław",
+    "Wawrzyniec",
+    "Salomon",
+    "Wacława"
+   ],
+   "CZ": [
+    "Václav"
+   ],
+   "HU": [
+    "Vencel",
+    "Salamon"
+   ],
+   "SK": [
+    "Václav"
+   ]
+  },
+  "09-29": {
+   "FR": [
+    "Michel"
+   ],
+   "SE": [
+    "Mikael",
+    "Mikaela"
+   ],
+   "NO": [
+    "Mikael",
+    "Mikal",
+    "Mikkel"
+   ],
+   "DK": [
+    "Michael"
+   ],
+   "FI": [
+    "Mikko",
+    "Mika",
+    "Mikael",
+    "Miika"
+   ],
+   "DE": [
+    "Gabriel",
+    "Gabriele",
+    "Maik",
+    "Michael"
+   ],
+   "PL": [
+    "Cyriak",
+    "Dadzbog",
+    "Dadzboga",
+    "Lutwin"
+   ],
+   "CZ": [
+    "Michal",
+    "Michael"
+   ],
+   "HU": [
+    "Mihály",
+    "Gábor",
+    "Rafael",
+    "Mirabella"
+   ],
+   "SK": [
+    "Michal",
+    "Michaela"
+   ]
+  },
+  "09-30": {
+   "FR": [
+    "Jérôme"
+   ],
+   "SE": [
+    "Helge"
+   ],
+   "NO": [
+    "Helga",
+    "Helge",
+    "Hege"
+   ],
+   "DK": [
+    "Hieronymus"
+   ],
+   "FI": [
+    "Siru",
+    "Sirja",
+    "Sorja"
+   ],
+   "DE": [
+    "Victor"
+   ],
+   "PL": [
+    "Euzebia",
+    "Felicja",
+    "Grzegorz",
+    "Zofia"
+   ],
+   "CZ": [
+    "Jeroným",
+    "Ráchel"
+   ],
+   "HU": [
+    "Jeromos",
+    "Honória",
+    "Hunor"
+   ],
+   "SK": [
+    "Jarolím"
+   ]
+  },
+  "10-01": {
+   "FR": [
+    "Thérèse"
+   ],
+   "SE": [
+    "Ragnar",
+    "Ragna"
+   ],
+   "NO": [
+    "Rebekka",
+    "Remi"
+   ],
+   "DK": [
+    "Remigius"
+   ],
+   "FI": [
+    "Rauno",
+    "Rainer",
+    "Raine",
+    "Raino"
+   ],
+   "DE": [
+    "Emanuel",
+    "Remigius",
+    "Therese",
+    "Werner"
+   ],
+   "PL": [
+    "Cieszysław",
+    "Benigna",
+    "Danuta",
+    "Jan"
+   ],
+   "CZ": [
+    "Igor"
+   ],
+   "HU": [
+    "Malvin",
+    "Teréz"
+   ],
+   "SK": [
+    "Arnold"
+   ]
+  },
+  "10-02": {
+   "FR": [
+    "Léger"
+   ],
+   "SE": [
+    "Ludvig",
+    "Love"
+   ],
+   "NO": [
+    "Live",
+    "Liv",
+    "Linus"
+   ],
+   "DK": [
+    "Ditlev"
+   ],
+   "FI": [
+    "Valio"
+   ],
+   "DE": [
+    "Jakob"
+   ],
+   "PL": [
+    "Aleksandra",
+    "Leodegar",
+    "Stanimir",
+    "Teofil"
+   ],
+   "CZ": [
+    "Olivie",
+    "Oliver"
+   ],
+   "HU": [
+    "Petra",
+    "Örs"
+   ],
+   "SK": [
+    "Levoslav"
+   ]
+  },
+  "10-03": {
+   "FR": [
+    "Gérard"
+   ],
+   "SE": [
+    "Evald",
+    "Osvald"
+   ],
+   "NO": [
+    "Evald",
+    "Evelyn",
+    "Emine"
+   ],
+   "DK": [
+    "Mette"
+   ],
+   "FI": [
+    "Raimo"
+   ],
+   "DE": [
+    "Ewald"
+   ],
+   "PL": [
+    "Jan",
+    "Teresa",
+    "Gerard",
+    "Ewalda"
+   ],
+   "CZ": [
+    "Bohumil"
+   ],
+   "HU": [
+    "Helga",
+    "Évald"
+   ],
+   "SK": [
+    "Stela"
+   ]
+  },
+  "10-04": {
+   "FR": [
+    "François"
+   ],
+   "SE": [
+    "Frans",
+    "Frank"
+   ],
+   "NO": [
+    "Frans",
+    "Frank",
+    "Fanny"
+   ],
+   "DK": [
+    "Franciscus"
+   ],
+   "FI": [
+    "Saija",
+    "Saila",
+    "Frans",
+    "Sinna"
+   ],
+   "DE": [
+    "Edwin"
+   ],
+   "PL": [
+    "Dobromiła",
+    "Dalwin",
+    "Franciszek",
+    "Konrad"
+   ],
+   "CZ": [
+    "František",
+    "Francis"
+   ],
+   "HU": [
+    "Ferenc",
+    "Hajnalka",
+    "Zorka"
+   ],
+   "SK": [
+    "František"
+   ]
+  },
+  "10-05": {
+   "FR": [
+    "Fleur"
+   ],
+   "SE": [
+    "Bror"
+   ],
+   "NO": [
+    "Brynjar",
+    "Boye",
+    "Bo"
+   ],
+   "DK": [
+    "Placidus"
+   ],
+   "FI": [
+    "Inkeri",
+    "Inka"
+   ],
+   "DE": [
+    "Attila"
+   ],
+   "PL": [
+    "Justyn",
+    "Faust",
+    "Galla",
+    "Charytyna"
+   ],
+   "CZ": [
+    "Eliška"
+   ],
+   "HU": [
+    "Aurél",
+    "Placid",
+    "Attila"
+   ],
+   "SK": [
+    "Viera"
+   ]
+  },
+  "10-06": {
+   "FR": [
+    "Bruno"
+   ],
+   "SE": [
+    "Jenny",
+    "Jennifer"
+   ],
+   "NO": [
+    "Målfrid",
+    "Møyfrid",
+    "Mio"
+   ],
+   "DK": [
+    "Broderus"
+   ],
+   "FI": [
+    "Pinja",
+    "Minttu"
+   ],
+   "DE": [
+    "Adalbero",
+    "René"
+   ],
+   "PL": [
+    "Fryderyka",
+    "Alberta",
+    "Brunon",
+    "Roman"
+   ],
+   "CZ": [
+    "Hanuš"
+   ],
+   "HU": [
+    "Brúnó",
+    "Renáta",
+    "Renátó"
+   ],
+   "SK": [
+    "Natália"
+   ]
+  },
+  "10-07": {
+   "FR": [
+    "Serge"
+   ],
+   "SE": [
+    "Birgitta",
+    "Britta"
+   ],
+   "NO": [
+    "Birgitte",
+    "Birgit",
+    "Berit"
+   ],
+   "DK": [
+    "Amalie"
+   ],
+   "FI": [
+    "Pirkko",
+    "Pirjo",
+    "Piritta",
+    "Pirita"
+   ],
+   "DE": [
+    "Justine",
+    "Markus"
+   ],
+   "PL": [
+    "Amalia",
+    "Tekla",
+    "Marek",
+    "August"
+   ],
+   "CZ": [
+    "Justina"
+   ],
+   "HU": [
+    "Amália",
+    "Bekény"
+   ],
+   "SK": [
+    "Eliška"
+   ]
+  },
+  "10-08": {
+   "FR": [
+    "Pélagie"
+   ],
+   "SE": [
+    "Nils"
+   ],
+   "NO": [
+    "Benedikte",
+    "Bente"
+   ],
+   "DK": [
+    "Ingeborg"
+   ],
+   "FI": [
+    "Hilja"
+   ],
+   "DE": [
+    "Brigitte",
+    "Gunther",
+    "Günther",
+    "Sibylle"
+   ],
+   "PL": [
+    "Laurencja",
+    "Marcin",
+    "Ginter",
+    "Ewodia"
+   ],
+   "CZ": [
+    "Věra"
+   ],
+   "HU": [
+    "Koppány",
+    "Benedikta"
+   ],
+   "SK": [
+    "Brigita"
+   ]
+  },
+  "10-09": {
+   "FR": [
+    "Denis"
+   ],
+   "SE": [
+    "Ingrid",
+    "Inger"
+   ],
+   "NO": [
+    "Leif",
+    "Liam",
+    "Dennis"
+   ],
+   "DK": [
+    "Dionysius"
+   ],
+   "FI": [
+    "Ilona"
+   ],
+   "DE": [
+    "Dennis",
+    "Günther",
+    "Sara",
+    "Sibylle"
+   ],
+   "PL": [
+    "Przedpełk",
+    "Ludwik",
+    "Arnold",
+    "Guncerz"
+   ],
+   "CZ": [
+    "Sára"
+   ],
+   "HU": [
+    "Dénes",
+    "János"
+   ],
+   "SK": [
+    "Dionýz"
+   ]
+  },
+  "10-10": {
+   "FR": [
+    "Ghislain"
+   ],
+   "SE": [
+    "Harry",
+    "Harriet"
+   ],
+   "NO": [
+    "Fridtjof",
+    "Frida",
+    "Frits"
+   ],
+   "DK": [
+    "Gereon"
+   ],
+   "FI": [
+    "Aleksi",
+    "Aleksis"
+   ],
+   "DE": [
+    "Florentin",
+    "Gereon"
+   ],
+   "PL": [
+    "Lutomir",
+    "Kalistrat",
+    "Samuel",
+    "Przemysław"
+   ],
+   "CZ": [
+    "Marina"
+   ],
+   "HU": [
+    "Gedeon",
+    "Ferenc",
+    "Bendegúz"
+   ],
+   "SK": [
+    "Slavomíra"
+   ]
+  },
+  "10-11": {
+   "FR": [
+    "Firmin"
+   ],
+   "SE": [
+    "Erling",
+    "Jarl"
+   ],
+   "NO": [
+    "Kevin",
+    "Kennet",
+    "Kent"
+   ],
+   "DK": [
+    "Probus"
+   ],
+   "FI": [
+    "Otso",
+    "Ohto"
+   ],
+   "DE": [
+    "Bruno",
+    "Imke",
+    "Jakob",
+    "Quirin"
+   ],
+   "PL": [
+    "Burchard",
+    "Germanik",
+    "Maria",
+    "Dobromiła"
+   ],
+   "CZ": [
+    "Andrej"
+   ],
+   "HU": [
+    "Brigitta",
+    "Placida",
+    "Etel",
+    "Gitta"
+   ],
+   "SK": [
+    "Valentína"
+   ]
+  },
+  "10-12": {
+   "FR": [
+    "Wilfried"
+   ],
+   "SE": [
+    "Valfrid",
+    "Manfred"
+   ],
+   "NO": [
+    "Valter",
+    "Vibeke",
+    "Vilma"
+   ],
+   "DK": [
+    "Maximillian"
+   ],
+   "FI": [
+    "Aarre",
+    "Aarto"
+   ],
+   "DE": [
+    "Horst",
+    "Maximilian"
+   ],
+   "PL": [
+    "Witolda",
+    "Wilfryd",
+    "Serafin",
+    "Cyriak"
+   ],
+   "CZ": [
+    "Marcel"
+   ],
+   "HU": [
+    "Miksa",
+    "Rezső",
+    "Edvin"
+   ],
+   "SK": [
+    "Maximilián"
+   ]
+  },
+  "10-13": {
+   "FR": [
+    "Géraud"
+   ],
+   "SE": [
+    "Berit",
+    "Birgit"
+   ],
+   "NO": [
+    "Terje",
+    "Tarjei",
+    "Torgeir"
+   ],
+   "DK": [
+    "Angelus"
+   ],
+   "FI": [
+    "Taina",
+    "Tanja",
+    "Taija"
+   ],
+   "DE": [
+    "Eduard"
+   ],
+   "PL": [
+    "Daniel",
+    "Geraldyna",
+    "Wacław",
+    "Wacława"
+   ],
+   "CZ": [
+    "Renáta"
+   ],
+   "HU": [
+    "Kálmán",
+    "Ede",
+    "Edvárd"
+   ],
+   "SK": [
+    "Koloman"
+   ]
+  },
+  "10-14": {
+   "FR": [
+    "Juste"
+   ],
+   "SE": [
+    "Stellan"
+   ],
+   "NO": [
+    "Kaia",
+    "Kai",
+    "Kaisa"
+   ],
+   "DK": [
+    "Calixus"
+   ],
+   "FI": [
+    "Elsa",
+    "Else",
+    "Elsi"
+   ],
+   "DE": [
+    "Alan",
+    "Gwendolin"
+   ],
+   "PL": [
+    "Bernard",
+    "Dominik",
+    "Alan",
+    "Gaja"
+   ],
+   "CZ": [
+    "Agáta"
+   ],
+   "HU": [
+    "Helén",
+    "Kaldixtusz"
+   ],
+   "SK": [
+    "Boris"
+   ]
+  },
+  "10-15": {
+   "FR": [
+    "Thérèse"
+   ],
+   "SE": [
+    "Hedvig",
+    "Hillevi"
+   ],
+   "NO": [
+    "Hedvig",
+    "Hedda"
+   ],
+   "DK": [
+    "Hedevig"
+   ],
+   "FI": [
+    "Helvi",
+    "Heta"
+   ],
+   "DE": [
+    "Aurelia",
+    "Therese"
+   ],
+   "PL": [
+    "Teresa",
+    "Sewer",
+    "Tekla",
+    "Gościsława"
+   ],
+   "CZ": [
+    "Tereza"
+   ],
+   "HU": [
+    "Teréz",
+    "Aranka"
+   ],
+   "SK": [
+    "Terézia",
+    "Tereza"
+   ]
+  },
+  "10-16": {
+   "FR": [
+    "Edwige"
+   ],
+   "SE": [
+    "Finn"
+   ],
+   "NO": [
+    "Finn",
+    "Felix",
+    "Ferdinand"
+   ],
+   "DK": [
+    "Gallus"
+   ],
+   "FI": [
+    "Sirkka",
+    "Sirkku",
+    "Stella",
+    "Luna"
+   ],
+   "DE": [
+    "Gerhard"
+   ],
+   "PL": [
+    "Aurelia",
+    "Radzisław",
+    "Ambroży",
+    "Gerard"
+   ],
+   "CZ": [
+    "Havel"
+   ],
+   "HU": [
+    "Gál",
+    "Margit",
+    "Hedvig"
+   ],
+   "SK": [
+    "Vladimíra"
+   ]
+  },
+  "10-17": {
+   "FR": [
+    "Baudouin"
+   ],
+   "SE": [
+    "Antonia",
+    "Toini"
+   ],
+   "NO": [
+    "Marta",
+    "Marte",
+    "Mathea"
+   ],
+   "DK": [
+    "Floretinus"
+   ],
+   "FI": [
+    "Saana",
+    "Saaga",
+    "Saini"
+   ],
+   "DE": [
+    "Anselm",
+    "Hilda",
+    "Hilde",
+    "Luise"
+   ],
+   "PL": [
+    "Małgorzata",
+    "Lucyna",
+    "Laurentyna",
+    "Augustyna"
+   ],
+   "CZ": [
+    "Hedvika",
+    "Hedvig"
+   ],
+   "HU": [
+    "Hedvig",
+    "Ignác",
+    "Rudolf"
+   ],
+   "SK": [
+    "Hedviga"
+   ]
+  },
+  "10-18": {
+   "FR": [
+    "Luc"
+   ],
+   "SE": [
+    "Lukas"
+   ],
+   "NO": [
+    "Kjersti",
+    "Kjerstin",
+    "Lukas"
+   ],
+   "DK": [
+    "Lucas"
+   ],
+   "FI": [
+    "Satu",
+    "Luka",
+    "Luukas",
+    "Säde"
+   ],
+   "DE": [
+    "Lukas"
+   ],
+   "PL": [
+    "Asklepiades",
+    "Bratomił",
+    "Julian",
+    "Just"
+   ],
+   "CZ": [
+    "Lukáš"
+   ],
+   "HU": [
+    "Lukács",
+    "Jusztusz"
+   ],
+   "SK": [
+    "Lukáš"
+   ]
+  },
+  "10-19": {
+   "FR": [
+    "René"
+   ],
+   "SE": [
+    "Tore",
+    "Tor"
+   ],
+   "NO": [
+    "Tora",
+    "Tore"
+   ],
+   "DK": [
+    "Balthasar"
+   ],
+   "FI": [
+    "Uljas"
+   ],
+   "DE": [
+    "Frieda",
+    "Paul",
+    "Michaela"
+   ],
+   "PL": [
+    "Jerzy",
+    "Paweł",
+    "Kleopatra",
+    "Ferdynand"
+   ],
+   "CZ": [
+    "Michaela",
+    "Michala",
+    "Edwin"
+   ],
+   "HU": [
+    "Nándor",
+    "János",
+    "Pál"
+   ],
+   "SK": [
+    "Kristián"
+   ]
+  },
+  "10-20": {
+   "FR": [
+    "Adeline"
+   ],
+   "SE": [
+    "Sibylla"
+   ],
+   "NO": [
+    "Henrik",
+    "Heine",
+    "Henrikke"
+   ],
+   "DK": [
+    "Felicianus"
+   ],
+   "FI": [
+    "Kasper",
+    "Kasperi",
+    "Jasper",
+    "Jesper"
+   ],
+   "DE": [
+    "Arthur",
+    "Wendelin"
+   ],
+   "PL": [
+    "Budzisława",
+    "Irena",
+    "Wendelin",
+    "Apollo"
+   ],
+   "CZ": [
+    "Vendelín"
+   ],
+   "HU": [
+    "Vendel",
+    "Irén",
+    "Kleopátra"
+   ],
+   "SK": [
+    "Vendelín"
+   ]
+  },
+  "10-21": {
+   "FR": [
+    "Céline"
+   ],
+   "SE": [
+    "Ursula",
+    "Yrsa"
+   ],
+   "NO": [
+    "Bergljot",
+    "Birger",
+    "Birk"
+   ],
+   "DK": [
+    "Ursula"
+   ],
+   "FI": [
+    "Ursula"
+   ],
+   "DE": [
+    "Ursula"
+   ],
+   "PL": [
+    "Klementyna",
+    "Elżbieta",
+    "Hilary",
+    "Bernard"
+   ],
+   "CZ": [
+    "Brigita",
+    "Voršila"
+   ],
+   "HU": [
+    "Orsolya",
+    "Zsolt"
+   ],
+   "SK": [
+    "Uršuľa"
+   ]
+  },
+  "10-22": {
+   "FR": [
+    "Salomé"
+   ],
+   "SE": [
+    "Marika",
+    "Marita"
+   ],
+   "NO": [
+    "Karianne",
+    "Karine",
+    "Kine"
+   ],
+   "DK": [
+    "Cordula"
+   ],
+   "FI": [
+    "Anja",
+    "Anita",
+    "Anniina",
+    "Anitta"
+   ],
+   "DE": [
+    "Cordula",
+    "Corinna",
+    "Salome"
+   ],
+   "PL": [
+    "Filip",
+    "Sewer",
+    "Kordula",
+    "Marek"
+   ],
+   "CZ": [
+    "Sabina"
+   ],
+   "HU": [
+    "Előd",
+    "Szalóme",
+    "Kordélia"
+   ],
+   "SK": [
+    "Sergej"
+   ]
+  },
+  "10-23": {
+   "FR": [
+    "Jean"
+   ],
+   "SE": [
+    "Severin",
+    "Sören"
+   ],
+   "NO": [
+    "Severin",
+    "Søren",
+    "Sean"
+   ],
+   "DK": [
+    "Søren"
+   ],
+   "FI": [
+    "Severi"
+   ],
+   "DE": [
+    "Johannes"
+   ],
+   "PL": [
+    "Seweryn",
+    "Giedymin",
+    "Małogost",
+    "Marlena"
+   ],
+   "CZ": [
+    "Theodor"
+   ],
+   "HU": [
+    "Gyöngyvér",
+    "János",
+    "Gyöngyi"
+   ],
+   "SK": [
+    "Alojzia"
+   ]
+  },
+  "10-24": {
+   "FR": [
+    "Florentin"
+   ],
+   "SE": [
+    "Evert",
+    "Eilert"
+   ],
+   "NO": [
+    "Eilif",
+    "Eivor",
+    "Emrik"
+   ],
+   "DK": [
+    "Proclus"
+   ],
+   "FI": [
+    "Rasmus",
+    "Asmo"
+   ],
+   "DE": [
+    "Gilbert",
+    "Raphael"
+   ],
+   "PL": [
+    "Filip",
+    "Salomon",
+    "Marcin",
+    "Pamfilia"
+   ],
+   "CZ": [
+    "Nina"
+   ],
+   "HU": [
+    "Salamon",
+    "Antal"
+   ],
+   "SK": [
+    "Kvetoslava"
+   ]
+  },
+  "10-25": {
+   "FR": [
+    "Crépin"
+   ],
+   "SE": [
+    "Inga",
+    "Ingalill"
+   ],
+   "NO": [
+    "Margrete",
+    "Merete",
+    "Märta"
+   ],
+   "DK": [
+    "Crispinus"
+   ],
+   "FI": [
+    "Sointu"
+   ],
+   "DE": [
+    "Daria",
+    "Ludwig",
+    "Tabea"
+   ],
+   "PL": [
+    "Daria",
+    "Chryzant",
+    "Tarazjusz",
+    "German"
+   ],
+   "CZ": [
+    "Beáta",
+    "Krispin"
+   ],
+   "HU": [
+    "Blanka",
+    "Bianka",
+    "Dália",
+    "Beniel"
+   ],
+   "SK": [
+    "Aurel"
+   ]
+  },
+  "10-26": {
+   "FR": [
+    "Dimitri"
+   ],
+   "SE": [
+    "Amanda",
+    "Rasmus"
+   ],
+   "NO": [
+    "Amandus",
+    "Amanda"
+   ],
+   "DK": [
+    "Amandus"
+   ],
+   "FI": [
+    "Niina",
+    "Nina",
+    "Amanda",
+    "Ninni"
+   ],
+   "DE": [
+    "Dmitri"
+   ],
+   "PL": [
+    "Ludomiła",
+    "Ewaryst",
+    "Lutosław",
+    "Lucyna"
+   ],
+   "CZ": [
+    "Erik"
+   ],
+   "HU": [
+    "Dömötör",
+    "Armand",
+    "Örs"
+   ],
+   "SK": [
+    "Demeter"
+   ]
+  },
+  "10-27": {
+   "FR": [
+    "Émeline"
+   ],
+   "SE": [
+    "Sabina"
+   ],
+   "NO": [
+    "Sturla",
+    "Sture"
+   ],
+   "DK": [
+    "Sem"
+   ],
+   "FI": [
+    "Helli",
+    "Hellin",
+    "Hellä",
+    "Helle"
+   ],
+   "DE": [
+    "Wolfhard"
+   ],
+   "PL": [
+    "Frumencjusz",
+    "Sabina",
+    "Iwona",
+    "Wincenty"
+   ],
+   "CZ": [
+    "Šarlota",
+    "Zoe"
+   ],
+   "HU": [
+    "Szabina",
+    "Antonietta"
+   ],
+   "SK": [
+    "Sabína"
+   ]
+  },
+  "10-28": {
+   "FR": [
+    "Simon"
+   ],
+   "SE": [
+    "Simon",
+    "Simone"
+   ],
+   "NO": [
+    "Simon",
+    "Simen",
+    "Simone"
+   ],
+   "DK": [
+    "Judas",
+    "Simon"
+   ],
+   "FI": [
+    "Simo"
+   ],
+   "DE": [
+    "Simon"
+   ],
+   "PL": [
+    "Tadeusz",
+    "Wszeciech",
+    "Szymon",
+    "Juda"
+   ],
+   "CZ": [
+    "Jidáš",
+    "Alfred"
+   ],
+   "HU": [
+    "Simon",
+    "Szimonetta",
+    "Szimóna",
+    "Júdás"
+   ],
+   "SK": [
+    "Dobromila"
+   ]
+  },
+  "10-29": {
+   "FR": [
+    "Narcisse"
+   ],
+   "SE": [
+    "Viola"
+   ],
+   "NO": [
+    "Norunn",
+    "Naomi",
+    "Nikoline"
+   ],
+   "DK": [
+    "Narcissus"
+   ],
+   "FI": [
+    "Alfred",
+    "Urmas"
+   ],
+   "DE": [
+    "Abraham",
+    "Margarete"
+   ],
+   "PL": [
+    "Teodor",
+    "Narcyz",
+    "Longin",
+    "Lubgost"
+   ],
+   "CZ": [
+    "Silvie",
+    "Sylva"
+   ],
+   "HU": [
+    "Nárcisz",
+    "Melinda",
+    "Őzike"
+   ],
+   "SK": [
+    "Klára"
+   ]
+  },
+  "10-30": {
+   "FR": [
+    "Bienvenue"
+   ],
+   "SE": [
+    "Elsa",
+    "Isabella"
+   ],
+   "NO": [
+    "Aksel",
+    "Ove"
+   ],
+   "DK": [
+    "Elsa",
+    "Absalon"
+   ],
+   "FI": [
+    "Eila"
+   ],
+   "DE": [
+    "Alfons",
+    "Lukan"
+   ],
+   "PL": [
+    "Zenobia",
+    "Przemysław",
+    "Gerarda",
+    "German"
+   ],
+   "CZ": [
+    "Tadeáš"
+   ],
+   "HU": [
+    "Alfonz",
+    "Zenóbia"
+   ],
+   "SK": [
+    "Šimon",
+    "Simona"
+   ]
+  },
+  "10-31": {
+   "FR": [
+    "Quentin"
+   ],
+   "SE": [
+    "Edit",
+    "Edgar"
+   ],
+   "NO": [
+    "Edit",
+    "Edna"
+   ],
+   "DK": [
+    "Louise"
+   ],
+   "FI": [
+    "Arto",
+    "Arttu",
+    "Artturi"
+   ],
+   "DE": [
+    "Wolfgang"
+   ],
+   "PL": [
+    "Augusta",
+    "Alfons",
+    "Wolfgang",
+    "Antoni"
+   ],
+   "CZ": [
+    "Štěpánka"
+   ],
+   "HU": [
+    "Farkas",
+    "Rodrigó"
+   ],
+   "SK": [
+    "Aurélia"
+   ]
+  },
+  "11-01": {
+   "FR": [
+    "Toussaint"
+   ],
+   "SE": [],
+   "NO": [
+    "Veslemøy",
+    "Vetle"
+   ],
+   "DK": [],
+   "FI": [
+    "Pyry",
+    "Lyly"
+   ],
+   "DE": [
+    "Arthur"
+   ],
+   "PL": [
+    "Konradyn",
+    "Seweryn",
+    "Andrzej",
+    "Warcisław"
+   ],
+   "CZ": [
+    "Felix"
+   ],
+   "HU": [
+    "Marianna"
+   ],
+   "SK": [
+    "Denis",
+    "Denisa"
+   ]
+  },
+  "11-02": {
+   "FR": [
+    "Victorin"
+   ],
+   "SE": [
+    "Tobias",
+    "Tim"
+   ],
+   "NO": [
+    "Tove",
+    "Tuva"
+   ],
+   "DK": [],
+   "FI": [
+    "Topi",
+    "Topias"
+   ],
+   "DE": [
+    "Angela"
+   ],
+   "PL": [
+    "Wiktoryn",
+    "Eudoksjusz",
+    "Ambroży",
+    "Stomir"
+   ],
+   "CZ": [
+    "Tobiáš"
+   ],
+   "HU": [
+    "Achilles",
+    "Bató"
+   ],
+   "SK": []
+  },
+  "11-03": {
+   "FR": [
+    "Hubert"
+   ],
+   "SE": [
+    "Hubert",
+    "Hugo"
+   ],
+   "NO": [
+    "Raymond",
+    "Roy"
+   ],
+   "DK": [
+    "Hubertus"
+   ],
+   "FI": [
+    "Terho"
+   ],
+   "DE": [
+    "Hubert",
+    "Martin",
+    "Silvia",
+    "Winifred"
+   ],
+   "PL": [
+    "Sylwia",
+    "Huberta",
+    "Chwalisław",
+    "German"
+   ],
+   "CZ": [
+    "Hubert"
+   ],
+   "HU": [
+    "Győző",
+    "Márton"
+   ],
+   "SK": [
+    "Hubert"
+   ]
+  },
+  "11-04": {
+   "FR": [
+    "Charles"
+   ],
+   "SE": [
+    "Sverker"
+   ],
+   "NO": [
+    "Otto",
+    "Ottar",
+    "Otilie"
+   ],
+   "DK": [
+    "Otto"
+   ],
+   "FI": [
+    "Hertta"
+   ],
+   "DE": [
+    "Karl"
+   ],
+   "PL": [
+    "Karolina",
+    "Dżesika",
+    "Emeryk",
+    "Karol"
+   ],
+   "CZ": [
+    "Karel",
+    "Karla"
+   ],
+   "HU": [
+    "Károly",
+    "Karola"
+   ],
+   "SK": [
+    "Karol"
+   ]
+  },
+  "11-05": {
+   "FR": [
+    "Sylvie"
+   ],
+   "SE": [
+    "Eugen",
+    "Eugenia"
+   ],
+   "NO": [
+    "Egil",
+    "Egon",
+    "Eira"
+   ],
+   "DK": [
+    "Malachias"
+   ],
+   "FI": [
+    "Reima"
+   ],
+   "DE": [
+    "Bernhard",
+    "Elisabeth",
+    "Else",
+    "Emmerich"
+   ],
+   "PL": [
+    "Florian",
+    "Trofima",
+    "Marek",
+    "Sławomir"
+   ],
+   "CZ": [
+    "Miriam"
+   ],
+   "HU": [
+    "Imre",
+    "Zakariás",
+    "Tétény"
+   ],
+   "SK": [
+    "Imrich"
+   ]
+  },
+  "11-06": {
+   "FR": [
+    "Léonard"
+   ],
+   "SE": [
+    "Gustav Adolf"
+   ],
+   "NO": [
+    "Leonard",
+    "Lennart",
+    "Leonora"
+   ],
+   "DK": [
+    "Leonhardus"
+   ],
+   "FI": [
+    "Mimosa"
+   ],
+   "DE": [
+    "Leonhard"
+   ],
+   "PL": [
+    "Feliks",
+    "Leonard",
+    "Trzebowit",
+    "Daniela"
+   ],
+   "CZ": [
+    "Liběna",
+    "Leonard"
+   ],
+   "HU": [
+    "Lénárd"
+   ],
+   "SK": [
+    "Renáta"
+   ]
+  },
+  "11-07": {
+   "FR": [
+    "Carine"
+   ],
+   "SE": [
+    "Ingegerd",
+    "Ingela"
+   ],
+   "NO": [
+    "Ingebrigt",
+    "Ingelin"
+   ],
+   "DK": [
+    "Engelbrecht"
+   ],
+   "FI": [
+    "Taisto",
+    "Kevin",
+    "Erin"
+   ],
+   "DE": [
+    "Carina",
+    "Engelbert",
+    "Ernst",
+    "Karina"
+   ],
+   "PL": [
+    "Achilles",
+    "Ernest",
+    "Karyna",
+    "Amaranta"
+   ],
+   "CZ": [
+    "Saskie"
+   ],
+   "HU": [
+    "Csenger",
+    "Rezső",
+    "Ernő",
+    "Florentin"
+   ],
+   "SK": [
+    "René"
+   ]
+  },
+  "11-08": {
+   "FR": [
+    "Geoffroy"
+   ],
+   "SE": [
+    "Vendela"
+   ],
+   "NO": [
+    "Ingvild",
+    "Yngvild"
+   ],
+   "DK": [
+    "Cladius"
+   ],
+   "FI": [
+    "Aatos"
+   ],
+   "DE": [
+    "Gottfried",
+    "Johannes"
+   ],
+   "PL": [
+    "Sędziwoj",
+    "Sewerian",
+    "Adrian",
+    "Sewer"
+   ],
+   "CZ": [
+    "Bohumír"
+   ],
+   "HU": [
+    "Zsombor",
+    "Kolos",
+    "Gottfrid"
+   ],
+   "SK": [
+    "Bohumír"
+   ]
+  },
+  "11-09": {
+   "FR": [
+    "Théodore"
+   ],
+   "SE": [
+    "Teodor",
+    "Teodora"
+   ],
+   "NO": [
+    "Tordis",
+    "Teodor",
+    "Theo"
+   ],
+   "DK": [
+    "Theodor"
+   ],
+   "FI": [
+    "Teuvo",
+    "Teo"
+   ],
+   "DE": [
+    "Roland",
+    "Theodor"
+   ],
+   "PL": [
+    "Genowefa",
+    "Teodor",
+    "Bogodar",
+    "Teodora"
+   ],
+   "CZ": [
+    "Bohdan"
+   ],
+   "HU": [
+    "Tivadar"
+   ],
+   "SK": [
+    "Teodor"
+   ]
+  },
+  "11-10": {
+   "FR": [
+    "Léon"
+   ],
+   "SE": [
+    "Martin",
+    "Martina"
+   ],
+   "NO": [
+    "Gudbjørg",
+    "Gudveig"
+   ],
+   "DK": [
+    "Luther"
+   ],
+   "FI": [
+    "Martti",
+    "Martin"
+   ],
+   "DE": [
+    "Andreas",
+    "Leo"
+   ],
+   "PL": [
+    "Probus",
+    "Nimfa",
+    "Stefan",
+    "Andrzej"
+   ],
+   "CZ": [
+    "Evžen"
+   ],
+   "HU": [
+    "Réka",
+    "András",
+    "Leó"
+   ],
+   "SK": [
+    "Tibor"
+   ]
+  },
+  "11-11": {
+   "FR": [
+    "Martin",
+    "Martine"
+   ],
+   "SE": [
+    "Mårten"
+   ],
+   "NO": [
+    "Martin",
+    "Morten",
+    "Martine"
+   ],
+   "DK": [
+    "Morten"
+   ],
+   "FI": [
+    "Panu"
+   ],
+   "DE": [
+    "Martin"
+   ],
+   "PL": [
+    "Jozafat",
+    "Teodor",
+    "Marcin",
+    "Spycisław"
+   ],
+   "CZ": [
+    "Martin"
+   ],
+   "HU": [
+    "Márton",
+    "Atád",
+    "Tódor"
+   ],
+   "SK": [
+    "Martin",
+    "Maroš"
+   ]
+  },
+  "11-12": {
+   "FR": [
+    "Christian"
+   ],
+   "SE": [
+    "Konrad",
+    "Kurt"
+   ],
+   "NO": [
+    "Torkjell",
+    "Torkil",
+    "Tomine"
+   ],
+   "DK": [
+    "Torkild"
+   ],
+   "FI": [
+    "Virpi"
+   ],
+   "DE": [
+    "Christian",
+    "Kunibert",
+    "Levin"
+   ],
+   "PL": [
+    "Jozafat",
+    "Marcin",
+    "Witold",
+    "Jonasz"
+   ],
+   "CZ": [
+    "Benedikt"
+   ],
+   "HU": [
+    "Jónás",
+    "Renátó",
+    "Jozafát"
+   ],
+   "SK": [
+    "Svätopluk"
+   ]
+  },
+  "11-13": {
+   "FR": [
+    "Brice"
+   ],
+   "SE": [
+    "Kristian",
+    "Krister"
+   ],
+   "NO": [
+    "Kirsten",
+    "Kirsti"
+   ],
+   "DK": [
+    "Arcadius"
+   ],
+   "FI": [
+    "Kristian",
+    "Ano"
+   ],
+   "DE": [
+    "Livia",
+    "Wilhelm"
+   ],
+   "PL": [
+    "Brykcjusz",
+    "Walentyn",
+    "Eugeniusz",
+    "Stanisław"
+   ],
+   "CZ": [
+    "Tibor"
+   ],
+   "HU": [
+    "Szilvia",
+    "Szaniszló"
+   ],
+   "SK": [
+    "Stanislav",
+    "Orin"
+   ]
+  },
+  "11-14": {
+   "FR": [
+    "Sidoine"
+   ],
+   "SE": [
+    "Emil",
+    "Emilia"
+   ],
+   "NO": [
+    "Fredrik",
+    "Fred",
+    "Freddy"
+   ],
+   "DK": [
+    "Frederik"
+   ],
+   "FI": [
+    "Iiris"
+   ],
+   "DE": [
+    "Arik",
+    "Sidonia"
+   ],
+   "PL": [
+    "Elżbieta",
+    "Wszerad",
+    "Józef",
+    "Antyd"
+   ],
+   "CZ": [
+    "Sáva"
+   ],
+   "HU": [
+    "Aliz",
+    "Vanda",
+    "Huba",
+    "Klementina"
+   ],
+   "SK": [
+    "Irma"
+   ]
+  },
+  "11-15": {
+   "FR": [
+    "Albert"
+   ],
+   "SE": [
+    "Leopold"
+   ],
+   "NO": [
+    "Oddfrid",
+    "Oddvar"
+   ],
+   "DK": [
+    "Leopold"
+   ],
+   "FI": [
+    "Janina",
+    "Janika",
+    "Janita",
+    "Janette"
+   ],
+   "DE": [
+    "Albert",
+    "Helena",
+    "Leopold"
+   ],
+   "PL": [
+    "Alfons",
+    "Idalia",
+    "Leopold",
+    "Leopoldyna"
+   ],
+   "CZ": [
+    "Leopold"
+   ],
+   "HU": [
+    "Albert",
+    "Lipót"
+   ],
+   "SK": [
+    "Leopold"
+   ]
+  },
+  "11-16": {
+   "FR": [
+    "Marguerite"
+   ],
+   "SE": [
+    "Vibeke",
+    "Viveka"
+   ],
+   "NO": [
+    "Edmund",
+    "Edgar",
+    "Emilian"
+   ],
+   "DK": [
+    "Othenius"
+   ],
+   "FI": [
+    "Aarne",
+    "Aarno",
+    "Aarni"
+   ],
+   "DE": [
+    "Edmund",
+    "Margarete",
+    "Michelle",
+    "Othmar"
+   ],
+   "PL": [
+    "Ariel",
+    "Otmar",
+    "Aureliusz",
+    "Audomar"
+   ],
+   "CZ": [
+    "Otmar",
+    "Otomar"
+   ],
+   "HU": [
+    "Ödön",
+    "Margit"
+   ],
+   "SK": [
+    "Agnesa"
+   ]
+  },
+  "11-17": {
+   "FR": [
+    "Élisabeth"
+   ],
+   "SE": [
+    "Naemi",
+    "Naima"
+   ],
+   "NO": [
+    "Hugo",
+    "Hogne",
+    "Hauk"
+   ],
+   "DK": [
+    "Anianus"
+   ],
+   "FI": [
+    "Eino",
+    "Einari"
+   ],
+   "DE": [
+    "Gerda",
+    "Gregor",
+    "Hiltrud",
+    "Viktoria"
+   ],
+   "PL": [
+    "Jozafat",
+    "Hugo",
+    "Karolina",
+    "Palmira"
+   ],
+   "CZ": [
+    "Mahulena"
+   ],
+   "HU": [
+    "Hortenzia",
+    "Gergő",
+    "Dénes"
+   ],
+   "SK": [
+    "Klaudia"
+   ]
+  },
+  "11-18": {
+   "FR": [
+    "Aude"
+   ],
+   "SE": [
+    "Lillemor",
+    "Moa"
+   ],
+   "NO": [
+    "Magne",
+    "Magny"
+   ],
+   "DK": [
+    "Hesychius"
+   ],
+   "FI": [
+    "Max",
+    "Tenho",
+    "Jousia"
+   ],
+   "DE": [
+    "Odo",
+    "Roman"
+   ],
+   "PL": [
+    "Leonard",
+    "Aniela",
+    "Otto",
+    "Otton"
+   ],
+   "CZ": [
+    "Romana"
+   ],
+   "HU": [
+    "Jenő",
+    "Noé"
+   ],
+   "SK": [
+    "Eugen"
+   ]
+  },
+  "11-19": {
+   "FR": [
+    "Tanguy"
+   ],
+   "SE": [
+    "Elisabet",
+    "Lisbet"
+   ],
+   "NO": [
+    "Elisabet",
+    "Lisbet"
+   ],
+   "DK": [
+    "Elisabeth"
+   ],
+   "FI": [
+    "Liisa",
+    "Elisa",
+    "Eliisa",
+    "Liisi"
+   ],
+   "DE": [
+    "Elisabeth",
+    "Mechthild"
+   ],
+   "PL": [
+    "Elżbieta",
+    "Paweł",
+    "Seweryn",
+    "Mironiega"
+   ],
+   "CZ": [
+    "Alžběta"
+   ],
+   "HU": [
+    "Erzsébet"
+   ],
+   "SK": [
+    "Alžbeta"
+   ]
+  },
+  "11-20": {
+   "FR": [
+    "Edmond"
+   ],
+   "SE": [
+    "Pontus",
+    "Marina"
+   ],
+   "NO": [
+    "Halvdan",
+    "Helle"
+   ],
+   "DK": [
+    "Volkmarus"
+   ],
+   "FI": [
+    "Jari",
+    "Jare",
+    "Jalmari"
+   ],
+   "DE": [
+    "Edmund"
+   ],
+   "PL": [
+    "Feliks",
+    "Maksencja",
+    "Ampeliusz",
+    "Hieronim"
+   ],
+   "CZ": [
+    "Nikola",
+    "Niké",
+    "Nikita"
+   ],
+   "HU": [
+    "Jolán",
+    "Zsolt",
+    "Ödön",
+    "Bódog"
+   ],
+   "SK": [
+    "Félix"
+   ]
+  },
+  "11-21": {
+   "FR": [
+    "Maur",
+    "Amaury"
+   ],
+   "SE": [
+    "Helga",
+    "Olga"
+   ],
+   "NO": [
+    "Mariann",
+    "Marianne",
+    "Max"
+   ],
+   "DK": [
+    "Maria"
+   ],
+   "FI": [
+    "Hilma"
+   ],
+   "DE": [
+    "Johannes",
+    "Rufus"
+   ],
+   "PL": [
+    "Janusz",
+    "Twardosław",
+    "Maria",
+    "Elwira"
+   ],
+   "CZ": [
+    "Albert"
+   ],
+   "HU": [
+    "Olivér"
+   ],
+   "SK": [
+    "Elvíra"
+   ]
+  },
+  "11-22": {
+   "FR": [
+    "Cécile"
+   ],
+   "SE": [
+    "Cecilia",
+    "Sissela"
+   ],
+   "NO": [
+    "Cecilie",
+    "Silje",
+    "Sissel"
+   ],
+   "DK": [
+    "Cecilia"
+   ],
+   "FI": [
+    "Silja",
+    "Seela",
+    "Selja",
+    "Cecilia"
+   ],
+   "DE": [
+    "Cäcilie"
+   ],
+   "PL": [
+    "Cecylia",
+    "Marek",
+    "Maur",
+    "Wszemiła"
+   ],
+   "CZ": [
+    "Cecilie"
+   ],
+   "HU": [
+    "Cecília",
+    "Filemon"
+   ],
+   "SK": [
+    "Cecília"
+   ]
+  },
+  "11-23": {
+   "FR": [
+    "Clément"
+   ],
+   "SE": [
+    "Klemens"
+   ],
+   "NO": [
+    "Klement",
+    "Klaus",
+    "Klaudia"
+   ],
+   "DK": [
+    "Clemens"
+   ],
+   "FI": [
+    "Ismo"
+   ],
+   "DE": [
+    "Clemens",
+    "Detlef",
+    "Klemens"
+   ],
+   "PL": [
+    "Klemens",
+    "Adela",
+    "Przedwoj",
+    "Erast"
+   ],
+   "CZ": [
+    "Klement"
+   ],
+   "HU": [
+    "Kelemen",
+    "Klementina",
+    "Kolumbán"
+   ],
+   "SK": [
+    "Klement"
+   ]
+  },
+  "11-24": {
+   "FR": [
+    "Flora"
+   ],
+   "SE": [
+    "Gudrun",
+    "Rune"
+   ],
+   "NO": [
+    "Gudrun",
+    "Guro"
+   ],
+   "DK": [
+    "Chrysogonus"
+   ],
+   "FI": [
+    "Lempi",
+    "Lemmikki",
+    "Sivi"
+   ],
+   "DE": [
+    "Albert",
+    "Flora",
+    "Jasmin",
+    "Johannes"
+   ],
+   "PL": [
+    "Dobrosław",
+    "Pęcisław",
+    "Gerard",
+    "Emilia"
+   ],
+   "CZ": [
+    "Emilie"
+   ],
+   "HU": [
+    "Emma",
+    "Flóra",
+    "Virág",
+    "Emmaróza"
+   ],
+   "SK": [
+    "Emília"
+   ]
+  },
+  "11-25": {
+   "FR": [
+    "Catherine"
+   ],
+   "SE": [
+    "Katarina",
+    "Katja"
+   ],
+   "NO": [
+    "Katarina",
+    "Katrine",
+    "Kari"
+   ],
+   "DK": [
+    "Catharina"
+   ],
+   "FI": [
+    "Katri",
+    "Kaija",
+    "Katja",
+    "Kaisa"
+   ],
+   "DE": [
+    "Bernold",
+    "Egbert",
+    "Elisabeth",
+    "Else"
+   ],
+   "PL": [
+    "Erazm",
+    "Katarzyna",
+    "Tęgomir",
+    "Piotr"
+   ],
+   "CZ": [
+    "Kateřina"
+   ],
+   "HU": [
+    "Katalin",
+    "Liza",
+    "Katinka"
+   ],
+   "SK": [
+    "Katarína"
+   ]
+  },
+  "11-26": {
+   "FR": [
+    "Delphine"
+   ],
+   "SE": [
+    "Linus"
+   ],
+   "NO": [
+    "Konrad",
+    "Kurt"
+   ],
+   "DK": [
+    "Conradus"
+   ],
+   "FI": [
+    "Sisko"
+   ],
+   "DE": [
+    "Adalbert",
+    "Albert",
+    "Cord",
+    "Ida"
+   ],
+   "PL": [
+    "Leonard",
+    "Sylwester",
+    "Dobiemiest",
+    "Delfin"
+   ],
+   "CZ": [
+    "Artur",
+    "Artuš"
+   ],
+   "HU": [
+    "Virág",
+    "Szvetlana",
+    "Konrád",
+    "Viktória"
+   ],
+   "SK": [
+    "Kornel"
+   ]
+  },
+  "11-27": {
+   "FR": [],
+   "SE": [
+    "Astrid",
+    "Asta"
+   ],
+   "NO": [
+    "Torlaug",
+    "Torleif",
+    "Colin"
+   ],
+   "DK": [
+    "Facindus"
+   ],
+   "FI": [
+    "Hilkka"
+   ],
+   "DE": [
+    "Oda"
+   ],
+   "PL": [
+    "Wirgiliusz",
+    "Jozafat",
+    "Zygfryd",
+    "Stojgniew"
+   ],
+   "CZ": [
+    "Xenie"
+   ],
+   "HU": [
+    "Virgil",
+    "Virgínia"
+   ],
+   "SK": [
+    "Milan"
+   ]
+  },
+  "11-28": {
+   "FR": [
+    "Jacques"
+   ],
+   "SE": [
+    "Malte"
+   ],
+   "NO": [
+    "Ruben",
+    "Rut"
+   ],
+   "DK": [
+    "Sophie",
+    "Magdalene"
+   ],
+   "FI": [
+    "Heini",
+    "Kaisla"
+   ],
+   "DE": [
+    "Bertha",
+    "Gerhard",
+    "Gunther",
+    "Günther"
+   ],
+   "PL": [
+    "Grzegorz",
+    "Lesław",
+    "Zdzisław",
+    "Gościrad"
+   ],
+   "CZ": [
+    "René"
+   ],
+   "HU": [
+    "Stefánia",
+    "Jakab"
+   ],
+   "SK": [
+    "Henrieta"
+   ]
+  },
+  "11-29": {
+   "FR": [
+    "Saturnin"
+   ],
+   "SE": [
+    "Sune"
+   ],
+   "NO": [
+    "Sofie",
+    "Sonja",
+    "Sofia"
+   ],
+   "DK": [
+    "Saturnius"
+   ],
+   "FI": [
+    "Aimo"
+   ],
+   "DE": [
+    "Friedrich"
+   ],
+   "PL": [
+    "Klementyna",
+    "Walter",
+    "Błażej",
+    "Bolemysł"
+   ],
+   "CZ": [
+    "Zina"
+   ],
+   "HU": [
+    "Taksony",
+    "Ilma",
+    "Filoména"
+   ],
+   "SK": [
+    "Vratko"
+   ]
+  },
+  "11-30": {
+   "FR": [
+    "André"
+   ],
+   "SE": [
+    "Andreas",
+    "Anders"
+   ],
+   "NO": [
+    "Andreas",
+    "Anders",
+    "Ana"
+   ],
+   "DK": [
+    "Andreas"
+   ],
+   "FI": [
+    "Antti",
+    "Atte",
+    "Antero",
+    "Andreas"
+   ],
+   "DE": [
+    "André",
+    "Andrea",
+    "Andreas"
+   ],
+   "PL": [
+    "Zbysława",
+    "Andrzej",
+    "Justyna",
+    "Konstancjusz"
+   ],
+   "CZ": [
+    "Ondřej",
+    "Luna"
+   ],
+   "HU": [
+    "András",
+    "Andor",
+    "Andrea"
+   ],
+   "SK": [
+    "Andrej",
+    "Ondrej"
+   ]
+  },
+  "12-01": {
+   "FR": [
+    "Florence"
+   ],
+   "SE": [
+    "Oskar",
+    "Ossian"
+   ],
+   "NO": [
+    "Arnold",
+    "Arnljot",
+    "Arnt"
+   ],
+   "DK": [
+    "Arnold"
+   ],
+   "FI": [
+    "Oskari",
+    "Oskar"
+   ],
+   "DE": [
+    "Bianca",
+    "Natalie"
+   ],
+   "PL": [
+    "Eligia",
+    "Natalia",
+    "Platon",
+    "Edmund"
+   ],
+   "CZ": [
+    "Iva"
+   ],
+   "HU": [
+    "Elza",
+    "Blanka",
+    "Bonita"
+   ],
+   "SK": [
+    "Edmund"
+   ]
+  },
+  "12-02": {
+   "FR": [
+    "Viviane"
+   ],
+   "SE": [
+    "Beata",
+    "Beatrice"
+   ],
+   "NO": [
+    "Borghild",
+    "Borgny",
+    "Bård"
+   ],
+   "DK": [
+    "Bibiana"
+   ],
+   "FI": [
+    "Unna",
+    "Anelma",
+    "Unelma"
+   ],
+   "DE": [
+    "Johannes",
+    "Lucius"
+   ],
+   "PL": [
+    "Bibiana",
+    "Bibianna",
+    "Aurelia",
+    "Wiktoryn"
+   ],
+   "CZ": [
+    "Blanka"
+   ],
+   "HU": [
+    "Melinda",
+    "Vivien",
+    "Aranka"
+   ],
+   "SK": [
+    "Bibiána"
+   ]
+  },
+  "12-03": {
+   "FR": [
+    "François-Xavier"
+   ],
+   "SE": [
+    "Lydia",
+    "Cornelia"
+   ],
+   "NO": [
+    "Sveinung",
+    "Svein"
+   ],
+   "DK": [
+    "Svend"
+   ],
+   "FI": [
+    "Meri",
+    "Vellamo"
+   ],
+   "DE": [
+    "Gerlinde"
+   ],
+   "PL": [
+    "Uniemir",
+    "Kasjan",
+    "Lucjusz",
+    "Franciszek"
+   ],
+   "CZ": [
+    "Svatoslav"
+   ],
+   "HU": [
+    "Ferenc",
+    "Olívia"
+   ],
+   "SK": [
+    "Oldrich"
+   ]
+  },
+  "12-04": {
+   "FR": [
+    "Barbara"
+   ],
+   "SE": [
+    "Barbara",
+    "Barbro"
+   ],
+   "NO": [
+    "Barbara",
+    "Barbro"
+   ],
+   "DK": [
+    "Barbara"
+   ],
+   "FI": [
+    "Airi",
+    "Aira"
+   ],
+   "DE": [
+    "Barbara",
+    "Christian",
+    "Johannes"
+   ],
+   "PL": [
+    "Klemens",
+    "Chrystian",
+    "Barbara",
+    "Krystian"
+   ],
+   "CZ": [
+    "Barbora",
+    "Bára"
+   ],
+   "HU": [
+    "Borbála",
+    "Barbara",
+    "János"
+   ],
+   "SK": [
+    "Barbora"
+   ]
+  },
+  "12-05": {
+   "FR": [
+    "Gérald"
+   ],
+   "SE": [
+    "Sven"
+   ],
+   "NO": [
+    "Stine",
+    "Ståle"
+   ],
+   "DK": [
+    "Sabina"
+   ],
+   "FI": [
+    "Selma"
+   ],
+   "DE": [
+    "Gerald",
+    "Hartwig",
+    "Reinhard"
+   ],
+   "PL": [
+    "Anastazy",
+    "Kryspina",
+    "Sabina",
+    "Kryspin"
+   ],
+   "CZ": [
+    "Jitka"
+   ],
+   "HU": [
+    "Vilma",
+    "Ünige",
+    "Csaba"
+   ],
+   "SK": [
+    "Oto"
+   ]
+  },
+  "12-06": {
+   "FR": [
+    "Nicolas"
+   ],
+   "SE": [
+    "Nikolaus",
+    "Niklas"
+   ],
+   "NO": [
+    "Nikolai",
+    "Nils",
+    "Niklas"
+   ],
+   "DK": [
+    "Nikolaus"
+   ],
+   "FI": [
+    "Niko",
+    "Niilo",
+    "Niklas",
+    "Niki"
+   ],
+   "DE": [
+    "Colin",
+    "Denise",
+    "Klaus",
+    "Nicola"
+   ],
+   "PL": [
+    "Nikola",
+    "Angelika",
+    "Heliodor",
+    "Agata"
+   ],
+   "CZ": [
+    "Mikuláš"
+   ],
+   "HU": [
+    "Miklós",
+    "Csinszka",
+    "Gyopár",
+    "Gyopárka"
+   ],
+   "SK": [
+    "Mikuláš"
+   ]
+  },
+  "12-07": {
+   "FR": [
+    "Ambroise"
+   ],
+   "SE": [
+    "Angela",
+    "Angelika"
+   ],
+   "NO": [
+    "Hallfrid",
+    "Hallstein",
+    "Hallgeir"
+   ],
+   "DK": [
+    "Agathon"
+   ],
+   "FI": [
+    "Sampsa"
+   ],
+   "DE": [
+    "Ambrosius",
+    "Gerald"
+   ],
+   "PL": [
+    "Ambroży",
+    "Marcin",
+    "Ninomysł",
+    "Agaton"
+   ],
+   "CZ": [
+    "Benjamín"
+   ],
+   "HU": [
+    "Ambrus",
+    "Ambrózia"
+   ],
+   "SK": [
+    "Ambróz"
+   ]
+  },
+  "12-08": {
+   "FR": [],
+   "SE": [
+    "Virginia"
+   ],
+   "NO": [
+    "Marlene",
+    "Marion",
+    "Morgan"
+   ],
+   "DK": [
+    "Maria"
+   ],
+   "FI": [
+    "Kyllikki",
+    "Kylli"
+   ],
+   "DE": [
+    "Edith",
+    "Elfriede",
+    "Sabrina"
+   ],
+   "PL": [
+    "Maria",
+    "Narcyza",
+    "Apollo",
+    "Boguwola"
+   ],
+   "CZ": [
+    "Květoslava"
+   ],
+   "HU": [
+    "Mária",
+    "Emőke"
+   ],
+   "SK": [
+    "Marína"
+   ]
+  },
+  "12-09": {
+   "FR": [
+    "Pierre"
+   ],
+   "SE": [
+    "Anna"
+   ],
+   "NO": [
+    "Anniken",
+    "Annette"
+   ],
+   "DK": [
+    "Rudolph"
+   ],
+   "FI": [
+    "Anna",
+    "Anne",
+    "Anni",
+    "Anu"
+   ],
+   "DE": [
+    "Abel",
+    "Valerie"
+   ],
+   "PL": [
+    "Leokadia",
+    "Waleria",
+    "Joachim",
+    "Delfina"
+   ],
+   "CZ": [
+    "Vratislav"
+   ],
+   "HU": [
+    "Natália",
+    "Valéria",
+    "Filótea"
+   ],
+   "SK": [
+    "Izabela"
+   ]
+  },
+  "12-10": {
+   "FR": [
+    "Romaric"
+   ],
+   "SE": [
+    "Malin",
+    "Malena"
+   ],
+   "NO": [
+    "Judit",
+    "James",
+    "Jardar"
+   ],
+   "DK": [
+    "Judith"
+   ],
+   "FI": [
+    "Jutta"
+   ],
+   "DE": [
+    "Eulalia"
+   ],
+   "PL": [
+    "Polidor",
+    "Brajan",
+    "Daniel",
+    "Judyta"
+   ],
+   "CZ": [
+    "Julie",
+    "Eulalie"
+   ],
+   "HU": [
+    "Judit",
+    "Loretta",
+    "Eulália"
+   ],
+   "SK": [
+    "Radúz"
+   ]
+  },
+  "12-11": {
+   "FR": [
+    "Daniel"
+   ],
+   "SE": [
+    "Daniel",
+    "Daniela"
+   ],
+   "NO": [
+    "Daniel",
+    "Dan",
+    "Daniela"
+   ],
+   "DK": [
+    "Damasus"
+   ],
+   "FI": [
+    "Tatu",
+    "Taneli",
+    "Daniel",
+    "Daniela"
+   ],
+   "DE": [
+    "Arthur",
+    "Daniel",
+    "David",
+    "Ruben"
+   ],
+   "PL": [
+    "Stefan",
+    "Damazy",
+    "Waldemar",
+    "Wojmir"
+   ],
+   "CZ": [
+    "Dana"
+   ],
+   "HU": [
+    "Árpád",
+    "Árpádina",
+    "Damazusz"
+   ],
+   "SK": [
+    "Hilda"
+   ]
+  },
+  "12-12": {
+   "FR": [
+    "Corentin"
+   ],
+   "SE": [
+    "Alexander",
+    "Alexis"
+   ],
+   "NO": [
+    "Pia",
+    "Peggy"
+   ],
+   "DK": [
+    "Epimachus"
+   ],
+   "FI": [
+    "Tuovi"
+   ],
+   "DE": [
+    "Chantal",
+    "Johanna",
+    "Finn",
+    "Finnian"
+   ],
+   "PL": [
+    "Adelajda",
+    "Dagmara",
+    "Edburga",
+    "Suliwuj"
+   ],
+   "CZ": [
+    "Simona"
+   ],
+   "HU": [
+    "Gabriella",
+    "Johanna",
+    "Franciska"
+   ],
+   "SK": [
+    "Otília"
+   ]
+  },
+  "12-13": {
+   "FR": [
+    "Lucie"
+   ],
+   "SE": [
+    "Lucia"
+   ],
+   "NO": [
+    "Lucia",
+    "Lydia",
+    "Luna"
+   ],
+   "DK": [
+    "Lucia"
+   ],
+   "FI": [
+    "Seija"
+   ],
+   "DE": [
+    "Jodok"
+   ],
+   "PL": [
+    "Bernarda",
+    "Otylia",
+    "Edburga",
+    "Jodok"
+   ],
+   "CZ": [
+    "Lucie"
+   ],
+   "HU": [
+    "Luca",
+    "Otília",
+    "Lúcia",
+    "Éda"
+   ],
+   "SK": [
+    "Lucia"
+   ]
+  },
+  "12-14": {
+   "FR": [
+    "Odile"
+   ],
+   "SE": [
+    "Sten",
+    "Sixten"
+   ],
+   "NO": [
+    "Steinar",
+    "Stein"
+   ],
+   "DK": [
+    "Crispus"
+   ],
+   "FI": [
+    "Jouko"
+   ],
+   "DE": [
+    "Johannes"
+   ],
+   "PL": [
+    "Pompejusz",
+    "Sławobor",
+    "Alfred",
+    "Nahum"
+   ],
+   "CZ": [
+    "Lydie"
+   ],
+   "HU": [
+    "Szilárda",
+    "Szilárd",
+    "János"
+   ],
+   "SK": [
+    "Branislava",
+    "Bronislava"
+   ]
+  },
+  "12-15": {
+   "FR": [
+    "Ninon"
+   ],
+   "SE": [
+    "Gottfrid"
+   ],
+   "NO": [
+    "Hilda",
+    "Hilde"
+   ],
+   "DK": [
+    "Nikatius"
+   ],
+   "FI": [
+    "Nooa",
+    "Heimo"
+   ],
+   "DE": [
+    "Nina"
+   ],
+   "PL": [
+    "Cecylia",
+    "Walerian",
+    "Mścigniew",
+    "Sylwia"
+   ],
+   "CZ": [
+    "Radana"
+   ],
+   "HU": [
+    "Valér",
+    "Detre"
+   ],
+   "SK": [
+    "Ivica"
+   ]
+  },
+  "12-16": {
+   "FR": [
+    "Alice"
+   ],
+   "SE": [
+    "Assar"
+   ],
+   "NO": [
+    "Oddbjørg",
+    "Oddbjørn"
+   ],
+   "DK": [
+    "Lazarus"
+   ],
+   "FI": [
+    "Auli",
+    "Aulikki",
+    "Aada",
+    "Adele"
+   ],
+   "DE": [
+    "Adelheid"
+   ],
+   "PL": [
+    "Alina",
+    "Adelajda",
+    "Zdzisława",
+    "Ananiasz"
+   ],
+   "CZ": [
+    "Albína"
+   ],
+   "HU": [
+    "Etelka",
+    "Aletta",
+    "Adelaida"
+   ],
+   "SK": [
+    "Albína"
+   ]
+  },
+  "12-17": {
+   "FR": [
+    "Judicaël"
+   ],
+   "SE": [
+    "Stig"
+   ],
+   "NO": [
+    "Inga",
+    "Inge",
+    "Iman"
+   ],
+   "DK": [
+    "Albina"
+   ],
+   "FI": [
+    "Raakel"
+   ],
+   "DE": [
+    "Jolanta",
+    "Lazarus"
+   ],
+   "PL": [
+    "Florian",
+    "Łazarz",
+    "Łukasz",
+    "Olimpia"
+   ],
+   "CZ": [
+    "Daniel"
+   ],
+   "HU": [
+    "Lázár",
+    "Olimpia"
+   ],
+   "SK": [
+    "Kornélia"
+   ]
+  },
+  "12-18": {
+   "FR": [
+    "Gatien"
+   ],
+   "SE": [
+    "Abraham"
+   ],
+   "NO": [
+    "Kristoffer",
+    "Kate",
+    "Kristiane"
+   ],
+   "DK": [
+    "Lovise"
+   ],
+   "FI": [
+    "Aapo",
+    "Rami",
+    "Aappo"
+   ],
+   "DE": [
+    "Samantha"
+   ],
+   "PL": [
+    "Bogusław",
+    "Wszemir",
+    "Arkadia",
+    "Wilibald"
+   ],
+   "CZ": [
+    "Miloslav"
+   ],
+   "HU": [
+    "Auguszta",
+    "Gracián"
+   ],
+   "SK": [
+    "Sláva"
+   ]
+  },
+  "12-19": {
+   "FR": [
+    "Urbain"
+   ],
+   "SE": [
+    "Isak"
+   ],
+   "NO": [
+    "Iselin",
+    "Isak",
+    "Isa"
+   ],
+   "DK": [
+    "Nemesius"
+   ],
+   "FI": [
+    "Iiro",
+    "Iisakki",
+    "Iikka",
+    "Isko"
+   ],
+   "DE": [
+    "Adam",
+    "Benjamin",
+    "Konrad",
+    "Petrus"
+   ],
+   "PL": [
+    "Tymoteusz",
+    "Nemezjusz",
+    "Abraham",
+    "Dariusz"
+   ],
+   "CZ": [
+    "Ester"
+   ],
+   "HU": [
+    "Viola",
+    "Anasztáz"
+   ],
+   "SK": [
+    "Judita"
+   ]
+  },
+  "12-20": {
+   "FR": [
+    "Théophile"
+   ],
+   "SE": [
+    "Israel",
+    "Moses"
+   ],
+   "NO": [
+    "Abraham",
+    "Amund",
+    "Abel"
+   ],
+   "DK": [
+    "Abraham"
+   ],
+   "FI": [
+    "Benjamin",
+    "Kerkko"
+   ],
+   "DE": [
+    "Heinrich",
+    "Holger",
+    "Julius",
+    "Regina"
+   ],
+   "PL": [
+    "Bogumiła",
+    "Dominik",
+    "Amon",
+    "Liberat"
+   ],
+   "CZ": [
+    "Dagmar"
+   ],
+   "HU": [
+    "Teofil",
+    "Liberátusz"
+   ],
+   "SK": [
+    "Dagmara",
+    "Dagmar"
+   ]
+  },
+  "12-21": {
+   "FR": [
+    "Pierre"
+   ],
+   "SE": [
+    "Tomas"
+   ],
+   "NO": [
+    "Tomas",
+    "Tom",
+    "Tommy"
+   ],
+   "DK": [
+    "Thomas"
+   ],
+   "FI": [
+    "Tuomas",
+    "Tomi",
+    "Tommi",
+    "Tuomo"
+   ],
+   "DE": [
+    "Peter",
+    "Richard",
+    "Thomas"
+   ],
+   "PL": [
+    "Tomisław",
+    "Balbin",
+    "Tomasz",
+    "Honorat"
+   ],
+   "CZ": [
+    "Natálie"
+   ],
+   "HU": [
+    "Tamás",
+    "Péter"
+   ],
+   "SK": [
+    "Bohdan"
+   ]
+  },
+  "12-22": {
+   "FR": [
+    "Françoise-Xavière"
+   ],
+   "SE": [
+    "Natanael",
+    "Jonatan"
+   ],
+   "NO": [
+    "Ingemar",
+    "Ingar"
+   ],
+   "DK": [
+    "Japetus"
+   ],
+   "FI": [
+    "Raafael"
+   ],
+   "DE": [
+    "Jutta",
+    "Marian"
+   ],
+   "PL": [
+    "Drogomir",
+    "Ksawera",
+    "Honorata",
+    "Zenon"
+   ],
+   "CZ": [
+    "Šimon"
+   ],
+   "HU": [
+    "Zénó",
+    "Flórián"
+   ],
+   "SK": [
+    "Adela"
+   ]
+  },
+  "12-23": {
+   "FR": [
+    "Armand"
+   ],
+   "SE": [
+    "Adam"
+   ],
+   "NO": [
+    "Sigurd",
+    "Sjur"
+   ],
+   "DK": [
+    "Torlacus"
+   ],
+   "FI": [
+    "Senni",
+    "Noel"
+   ],
+   "DE": [
+    "Dagobert",
+    "Ivo",
+    "Johannes",
+    "Thorsten"
+   ],
+   "PL": [
+    "Wiktoria",
+    "Anatola",
+    "Sławomir",
+    "Sławomira"
+   ],
+   "CZ": [
+    "Vlasta"
+   ],
+   "HU": [
+    "Viktória",
+    "János"
+   ],
+   "SK": [
+    "Nadežda"
+   ]
+  },
+  "12-24": {
+   "FR": [
+    "Adèle"
+   ],
+   "SE": [
+    "Eva"
+   ],
+   "NO": [
+    "Adam",
+    "Eva"
+   ],
+   "DK": [
+    "Adam",
+    "Alexandrine"
+   ],
+   "FI": [
+    "Aatami",
+    "Eeva",
+    "Eevi",
+    "Eveliina"
+   ],
+   "DE": [
+    "Adam",
+    "Adele",
+    "Eva",
+    "Evelin"
+   ],
+   "PL": [
+    "Adela",
+    "Grzymisława",
+    "Druzjanna",
+    "Ewa"
+   ],
+   "CZ": [
+    "Adam",
+    "Eva"
+   ],
+   "HU": [
+    "Ádám",
+    "Éva",
+    "Adél",
+    "Noé"
+   ],
+   "SK": [
+    "Adam",
+    "Eva"
+   ]
+  },
+  "12-25": {
+   "FR": [
+    "Noël"
+   ],
+   "SE": [],
+   "NO": [],
+   "DK": [],
+   "FI": [],
+   "DE": [
+    "Anastasia"
+   ],
+   "PL": [
+    "Eugenia",
+    "Mateusz",
+    "Piotr",
+    "Siemisław"
+   ],
+   "CZ": [],
+   "HU": [
+    "Eugénia",
+    "Anasztázia",
+    "Noel"
+   ],
+   "SK": []
+  },
+  "12-26": {
+   "FR": [
+    "Étienne"
+   ],
+   "SE": [
+    "Stefan",
+    "Staffan"
+   ],
+   "NO": [
+    "Stefan",
+    "Steffen",
+    "Steven"
+   ],
+   "DK": [
+    "Stefan"
+   ],
+   "FI": [
+    "Tapani",
+    "Teppo",
+    "Tahvo"
+   ],
+   "DE": [
+    "Stefan",
+    "Steffen",
+    "Stephanie"
+   ],
+   "PL": [
+    "Wrociwoj",
+    "Szczepan",
+    "Dionizy"
+   ],
+   "CZ": [
+    "Štěpán",
+    "Štefan"
+   ],
+   "HU": [
+    "István"
+   ],
+   "SK": [
+    "Štefan"
+   ]
+  },
+  "12-27": {
+   "FR": [
+    "Jean"
+   ],
+   "SE": [
+    "Johannes",
+    "Johan"
+   ],
+   "NO": [
+    "Narve",
+    "Natalie",
+    "Nadia"
+   ],
+   "DK": [
+    "Johannes"
+   ],
+   "FI": [
+    "Hannu",
+    "Hannes",
+    "Hans"
+   ],
+   "DE": [
+    "Fabiola",
+    "Johannes"
+   ],
+   "PL": [
+    "Żaneta",
+    "Fabia",
+    "Fabiola",
+    "Jan"
+   ],
+   "CZ": [
+    "Žaneta"
+   ],
+   "HU": [
+    "János",
+    "Teodor"
+   ],
+   "SK": [
+    "Filoména"
+   ]
+  },
+  "12-28": {
+   "FR": [
+    "Innocent"
+   ],
+   "SE": [
+    "Benjamin"
+   ],
+   "NO": [
+    "Unni",
+    "Une",
+    "Unn"
+   ],
+   "DK": [],
+   "FI": [
+    "Piia"
+   ],
+   "DE": [
+    "Hermann",
+    "Julia",
+    "Otto"
+   ],
+   "PL": [
+    "Teofila",
+    "Antoni",
+    "Ema",
+    "Teonas"
+   ],
+   "CZ": [
+    "Bohumila"
+   ],
+   "HU": [
+    "Kamilla",
+    "Apor"
+   ],
+   "SK": [
+    "Ivana",
+    "Ivona"
+   ]
+  },
+  "12-29": {
+   "FR": [
+    "David"
+   ],
+   "SE": [
+    "Natalia",
+    "Natalie"
+   ],
+   "NO": [
+    "Vidar",
+    "Vemund",
+    "Vårin"
+   ],
+   "DK": [
+    "Noa"
+   ],
+   "FI": [
+    "Rauha"
+   ],
+   "DE": [
+    "David",
+    "Jonathan",
+    "Tamara"
+   ],
+   "PL": [
+    "Trofim",
+    "Jonatan",
+    "Gerarda",
+    "Dominik"
+   ],
+   "CZ": [
+    "Judita"
+   ],
+   "HU": [
+    "Tamás",
+    "Tamara"
+   ],
+   "SK": [
+    "Milada"
+   ]
+  },
+  "12-30": {
+   "FR": [
+    "Roger"
+   ],
+   "SE": [
+    "Abel",
+    "Set"
+   ],
+   "NO": [
+    "David",
+    "Diana",
+    "Dina"
+   ],
+   "DK": [
+    "David"
+   ],
+   "FI": [
+    "Taavetti",
+    "Taavi",
+    "Daavid"
+   ],
+   "DE": [
+    "Felix",
+    "Lothar"
+   ],
+   "PL": [
+    "Sewer",
+    "Anizja",
+    "Egwin",
+    "Eugeniusz"
+   ],
+   "CZ": [
+    "David"
+   ],
+   "HU": [
+    "Dávid",
+    "Hunor",
+    "Libériusz"
+   ],
+   "SK": [
+    "Dávid"
+   ]
+  },
+  "12-31": {
+   "FR": [
+    "Sylvestre"
+   ],
+   "SE": [
+    "Sylvester"
+   ],
+   "NO": [
+    "Sylfest",
+    "Sylvia",
+    "Sylvi"
+   ],
+   "DK": [
+    "Sylvester"
+   ],
+   "FI": [
+    "Sylvester",
+    "Silvo"
+   ],
+   "DE": [
+    "Mela",
+    "Melanie",
+    "Silvester"
+   ],
+   "PL": [
+    "Sylwester",
+    "Donata",
+    "Mariusz",
+    "Melania"
+   ],
+   "CZ": [
+    "Silvestr"
+   ],
+   "HU": [
+    "Szilveszter",
+    "Donáta"
+   ],
+   "SK": [
+    "Silvester"
+   ]
+  }
+ }
+}

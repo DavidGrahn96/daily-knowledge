@@ -1,442 +1,552 @@
 [
   {
     "title": "Gutenberg's Printing Press",
-    "body": "Around 1450 Johannes Gutenberg developed printing with movable metal type in Mainz. The Gutenberg Bible of the mid-1450s became the symbol of a technology that made books cheap and spread knowledge rapidly."
+    "body": "Around 1450 Johannes Gutenberg developed printing with movable metal type in Mainz. The Gutenberg Bible of the mid-1450s became the symbol of a technology that made books cheap and spread knowledge rapidly.",
+    "url": "https://en.wikipedia.org/wiki/Printing_press"
   },
   {
     "title": "Watt's Steam Engine",
-    "body": "In 1769 James Watt patented a separate condenser that made the steam engine far more efficient than Newcomen's earlier design. The improvement made steam power profitable in factories and helped drive the Industrial Revolution."
+    "body": "In 1769 James Watt patented a separate condenser that made the steam engine far more efficient than Newcomen's earlier design. The improvement made steam power profitable in factories and helped drive the Industrial Revolution.",
+    "url": "https://en.wikipedia.org/wiki/Watt_steam_engine"
   },
   {
     "title": "The Transistor",
-    "body": "The transistor was invented at Bell Labs in 1947 by John Bardeen, Walter Brattain and William Shockley, who shared the 1956 Nobel Prize in Physics. It replaced the vacuum tube and is the building block of every modern computer chip."
+    "body": "The transistor was invented at Bell Labs in 1947 by John Bardeen, Walter Brattain and William Shockley, who shared the 1956 Nobel Prize in Physics. It replaced the vacuum tube and is the building block of every modern computer chip.",
+    "url": "https://en.wikipedia.org/wiki/Transistor"
   },
   {
     "title": "The World Wide Web",
-    "body": "Tim Berners-Lee proposed the web at CERN in 1989 as a way to link documents over the internet. The web is a service running on the internet, not the same thing. The technology was made freely available, which helped it spread quickly."
+    "body": "Tim Berners-Lee proposed the web at CERN in 1989 as a way to link documents over the internet. The web is a service running on the internet, not the same thing. The technology was made freely available, which helped it spread quickly.",
+    "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
   },
   {
     "title": "The Light Bulb",
-    "body": "In 1879 Thomas Edison produced an incandescent bulb that lasted long enough to be commercially useful; Joseph Swan was working on a similar lamp in England. Edison also built systems to generate and distribute electricity."
+    "body": "In 1879 Thomas Edison produced an incandescent bulb that lasted long enough to be commercially useful; Joseph Swan was working on a similar lamp in England. Edison also built systems to generate and distribute electricity.",
+    "url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
   },
   {
     "title": "The Haber–Bosch Process",
-    "body": "In the early 20th century Fritz Haber and Carl Bosch developed an industrial method for making ammonia from nitrogen in the air. It made synthetic fertiliser cheap and underpins a large share of the world's food production."
+    "body": "In the early 20th century Fritz Haber and Carl Bosch developed an industrial method for making ammonia from nitrogen in the air. It made synthetic fertiliser cheap and underpins a large share of the world's food production.",
+    "url": "https://en.wikipedia.org/wiki/Haber_process"
   },
   {
     "title": "Dynamite",
-    "body": "Alfred Nobel patented dynamite in 1867. By absorbing unstable nitroglycerine into diatomaceous earth, he made the explosive much safer to handle. The fortune he built funds the Nobel Prizes."
+    "body": "Alfred Nobel patented dynamite in 1867. By absorbing unstable nitroglycerine into diatomaceous earth, he made the explosive much safer to handle. The fortune he built funds the Nobel Prizes.",
+    "url": "https://en.wikipedia.org/wiki/Dynamite"
   },
   {
     "title": "The Wheel",
-    "body": "The earliest evidence of wheeled vehicles dates from around 3500 BC, in Mesopotamia and Europe. The wheel and axle transformed transport and later machinery, from water mills to gears."
+    "body": "The earliest evidence of wheeled vehicles dates from around 3500 BC, in Mesopotamia and Europe. The wheel and axle transformed transport and later machinery, from water mills to gears.",
+    "url": "https://en.wikipedia.org/wiki/Wheel"
   },
   {
     "title": "The Telephone",
-    "body": "Alexander Graham Bell received a US patent for the telephone in 1876. Priority was disputed, as Elisha Gray filed a related claim the same day, but Bell's company went on to dominate telephone service."
+    "body": "Alexander Graham Bell received a US patent for the telephone in 1876. Priority was disputed, as Elisha Gray filed a related claim the same day, but Bell's company went on to dominate telephone service.",
+    "url": "https://en.wikipedia.org/wiki/Telephone"
   },
   {
     "title": "The First Powered Flight",
-    "body": "On 17 December 1903, at Kitty Hawk in North Carolina, Orville and Wilbur Wright made the first controlled, sustained flights in a powered aeroplane. The longest that day lasted under a minute."
+    "body": "On 17 December 1903, at Kitty Hawk in North Carolina, Orville and Wilbur Wright made the first controlled, sustained flights in a powered aeroplane. The longest that day lasted under a minute.",
+    "url": "https://en.wikipedia.org/wiki/Wright_Flyer"
   },
   {
     "title": "The Turing Machine",
-    "body": "In 1936 Alan Turing described an abstract machine that reads and writes symbols on a tape according to rules. It defined what can be computed in principle and became the theoretical foundation of computer science."
+    "body": "In 1936 Alan Turing described an abstract machine that reads and writes symbols on a tape according to rules. It defined what can be computed in principle and became the theoretical foundation of computer science.",
+    "url": "https://en.wikipedia.org/wiki/Turing_machine"
   },
   {
     "title": "The Moon Landing",
-    "body": "On 20 July 1969 Apollo 11 landed on the Moon, and Neil Armstrong and Buzz Aldrin became the first people to walk on its surface. The mission was the climax of the space race between the United States and the Soviet Union."
+    "body": "On 20 July 1969 Apollo 11 landed on the Moon, and Neil Armstrong and Buzz Aldrin became the first people to walk on its surface. The mission was the climax of the space race between the United States and the Soviet Union.",
+    "url": "https://en.wikipedia.org/wiki/Apollo_11"
   },
   {
     "title": "The Electric Telegraph",
-    "body": "In 1844 Samuel Morse sent a message by electric telegraph between Washington and Baltimore. For the first time, information could travel faster than a person or a horse, and Morse code became the standard language of long-distance communication."
+    "body": "In 1844 Samuel Morse sent a message by electric telegraph between Washington and Baltimore. For the first time, information could travel faster than a person or a horse, and Morse code became the standard language of long-distance communication.",
+    "url": "https://en.wikipedia.org/wiki/Electrical_telegraph"
   },
   {
     "title": "Roman Concrete",
-    "body": "The Romans made concrete with lime and volcanic ash, which proved remarkably durable. The dome of the Pantheon in Rome, completed in the 2nd century, still stands, more than 1,800 years later."
+    "body": "The Romans made concrete with lime and volcanic ash, which proved remarkably durable. The dome of the Pantheon in Rome, completed in the 2nd century, still stands, more than 1,800 years later.",
+    "url": "https://en.wikipedia.org/wiki/Roman_concrete"
   },
   {
     "title": "GPS",
-    "body": "The Global Positioning System is a US network of satellites that broadcast precise time signals from atomic clocks. A receiver calculates its position from the time differences. The system must correct for relativity, because clocks in orbit run at a different rate from those on the ground."
+    "body": "The Global Positioning System is a US network of satellites that broadcast precise time signals from atomic clocks. A receiver calculates its position from the time differences. The system must correct for relativity, because clocks in orbit run at a different rate from those on the ground.",
+    "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
   },
   {
     "title": "The Quartz Watch",
-    "body": "Quartz crystals vibrate at a very precise frequency when driven by an electric current, which makes them excellent timekeepers; the first quartz clock was built in the United States in 1927. In 1969 the Japanese company Seiko sold the first quartz wristwatch, the Astron. Cheap, accurate quartz watches transformed the industry in the 1970s and 1980s and badly hurt traditional Swiss mechanical watchmaking."
+    "body": "Quartz crystals vibrate at a very precise frequency when driven by an electric current, which makes them excellent timekeepers; the first quartz clock was built in the United States in 1927. In 1969 the Japanese company Seiko sold the first quartz wristwatch, the Astron. Cheap, accurate quartz watches transformed the industry in the 1970s and 1980s and badly hurt traditional Swiss mechanical watchmaking.",
+    "url": "https://en.wikipedia.org/wiki/Quartz_clock"
   },
   {
     "title": "Budj Bim Eel Traps",
-    "body": "In south-western Victoria, Australia, the Gunditjmara people built an extensive system of channels, weirs and ponds in the lava-flow landscape of Budj Bim to trap and hold short-finned eels. Parts of the system have been dated to around 6,600 years ago, making it one of the oldest known aquaculture systems in the world. It was inscribed as a UNESCO World Heritage Site in 2019."
+    "body": "In south-western Victoria, Australia, the Gunditjmara people built an extensive system of channels, weirs and ponds in the lava-flow landscape of Budj Bim to trap and hold short-finned eels. Parts of the system have been dated to around 6,600 years ago, making it one of the oldest known aquaculture systems in the world. It was inscribed as a UNESCO World Heritage Site in 2019.",
+    "url": "https://en.wikipedia.org/wiki/Budj_Bim"
   },
   {
     "title": "The Laser",
-    "body": "In 1960 Theodore Maiman built the first working laser at Hughes Research Laboratories in California, using a ruby crystal. A laser produces a narrow, intense beam of light of a single colour, with its waves in step. Lasers are used in fibre-optic communication, surgery, barcode scanners, manufacturing and precise measurement."
+    "body": "In 1960 Theodore Maiman built the first working laser at Hughes Research Laboratories in California, using a ruby crystal. A laser produces a narrow, intense beam of light of a single colour, with its waves in step. Lasers are used in fibre-optic communication, surgery, barcode scanners, manufacturing and precise measurement.",
+    "url": "https://en.wikipedia.org/wiki/Laser"
   },
   {
     "title": "Chinese Porcelain",
-    "body": "Porcelain, a hard, white, translucent ceramic fired at very high temperatures, was developed in China and established by the Tang dynasty, then refined under later dynasties. It was a major export, and in English the word china came to mean fine ceramics. Europeans could not reproduce it until the early 1700s, when it was first made at Meissen in Saxony."
+    "body": "Porcelain, a hard, white, translucent ceramic fired at very high temperatures, was developed in China and established by the Tang dynasty, then refined under later dynasties. It was a major export, and in English the word china came to mean fine ceramics. Europeans could not reproduce it until the early 1700s, when it was first made at Meissen in Saxony.",
+    "url": "https://en.wikipedia.org/wiki/Chinese_ceramics"
   },
   {
     "title": "Archimedes' Screw",
-    "body": "The screw pump traditionally attributed to Archimedes in the 3rd century BC is a helical surface inside a tube that lifts water as it turns. Set at an angle with its lower end in water, it raises a steady flow with little effort. It was used for irrigation and for draining mines and ships, and versions are still used in wastewater treatment plants."
+    "body": "The screw pump traditionally attributed to Archimedes in the 3rd century BC is a helical surface inside a tube that lifts water as it turns. Set at an angle with its lower end in water, it raises a steady flow with little effort. It was used for irrigation and for draining mines and ships, and versions are still used in wastewater treatment plants.",
+    "url": "https://en.wikipedia.org/wiki/Archimedes'_screw"
   },
   {
     "title": "The Mobile Phone",
-    "body": "In 1973 the Motorola engineer Martin Cooper made the first call from a handheld mobile phone, in New York. Commercial cellular networks, which divide an area into cells each served by its own transmitter, opened in Japan in 1979 and in Europe and the United States in the early 1980s. Mobile phones later reached billions of people, including in regions that never had extensive landline networks."
+    "body": "In 1973 the Motorola engineer Martin Cooper made the first call from a handheld mobile phone, in New York. Commercial cellular networks, which divide an area into cells each served by its own transmitter, opened in Japan in 1979 and in Europe and the United States in the early 1980s. Mobile phones later reached billions of people, including in regions that never had extensive landline networks.",
+    "url": "https://en.wikipedia.org/wiki/Mobile_phone"
   },
   {
     "title": "Babbage's Analytical Engine",
-    "body": "In the 1830s Charles Babbage designed the Analytical Engine, a general-purpose mechanical computer with a memory, a processing unit and punched-card input. It was never completed. Ada Lovelace's notes on it, published in 1843, include what is often described as the first computer program and foresaw that such machines could handle more than numbers."
+    "body": "In the 1830s Charles Babbage designed the Analytical Engine, a general-purpose mechanical computer with a memory, a processing unit and punched-card input. It was never completed. Ada Lovelace's notes on it, published in 1843, include what is often described as the first computer program and foresaw that such machines could handle more than numbers.",
+    "url": "https://en.wikipedia.org/wiki/Analytical_engine"
   },
   {
     "title": "Mesoamerican Rubber",
-    "body": "By around 1600 BC people in Mesoamerica were processing latex from rubber trees, mixing it with juice from morning glory vines to make it stronger and more elastic. They used it for the balls of the ritual ballgame, as well as for sandals and bindings. This chemical processing of rubber came more than 3,000 years before Charles Goodyear's vulcanisation in the 19th century."
+    "body": "By around 1600 BC people in Mesoamerica were processing latex from rubber trees, mixing it with juice from morning glory vines to make it stronger and more elastic. They used it for the balls of the ritual ballgame, as well as for sandals and bindings. This chemical processing of rubber came more than 3,000 years before Charles Goodyear's vulcanisation in the 19th century.",
+    "url": "https://en.wikipedia.org/wiki/Mesoamerican_rubber_balls"
   },
   {
     "title": "The Microprocessor",
-    "body": "In 1971 Intel released the 4004, the first commercial microprocessor, which put a computer's whole central processing unit on one chip. It was designed by Federico Faggin, Ted Hoff and Stanley Mazor, with Masatoshi Shima of the Japanese calculator firm Busicom, which had commissioned it. Microprocessors made personal computers and countless embedded devices possible."
+    "body": "In 1971 Intel released the 4004, the first commercial microprocessor, which put a computer's whole central processing unit on one chip. It was designed by Federico Faggin, Ted Hoff and Stanley Mazor, with Masatoshi Shima of the Japanese calculator firm Busicom, which had commissioned it. Microprocessors made personal computers and countless embedded devices possible.",
+    "url": "https://en.wikipedia.org/wiki/Microprocessor"
   },
   {
     "title": "Gunpowder",
-    "body": "Gunpowder, a mixture of saltpetre, sulphur and charcoal, was discovered by Chinese alchemists, probably in the 9th century. A military treatise of 1044 gives the earliest known written formulas. It was used in fire arrows, bombs and early guns, and by the 14th century cannon had spread to the Islamic world and Europe, transforming warfare."
+    "body": "Gunpowder, a mixture of saltpetre, sulphur and charcoal, was discovered by Chinese alchemists, probably in the 9th century. A military treatise of 1044 gives the earliest known written formulas. It was used in fire arrows, bombs and early guns, and by the 14th century cannon had spread to the Islamic world and Europe, transforming warfare.",
+    "url": "https://en.wikipedia.org/wiki/Gunpowder"
   },
   {
     "title": "Radar",
-    "body": "Radar detects distant objects by sending out radio waves and timing their echoes. Several countries developed it in the 1930s, and Britain's Chain Home network, based on work by Robert Watson-Watt, gave early warning of German air raids in 1940. The cavity magnetron, invented in Britain in 1940, made compact, powerful radar possible, and radar later became essential for air traffic control and weather forecasting."
+    "body": "Radar detects distant objects by sending out radio waves and timing their echoes. Several countries developed it in the 1930s, and Britain's Chain Home network, based on work by Robert Watson-Watt, gave early warning of German air raids in 1940. The cavity magnetron, invented in Britain in 1940, made compact, powerful radar possible, and radar later became essential for air traffic control and weather forecasting.",
+    "url": "https://en.wikipedia.org/wiki/Radar"
   },
   {
     "title": "Stepwells of India",
-    "body": "Stepwells are deep wells reached by long flights of steps, built especially in western India to give access to groundwater that rose and fell with the monsoon. They also offered a cool place to gather and worship, and many were richly carved. Rani ki Vav in Gujarat, built in the 11th century, is a UNESCO World Heritage Site."
+    "body": "Stepwells are deep wells reached by long flights of steps, built especially in western India to give access to groundwater that rose and fell with the monsoon. They also offered a cool place to gather and worship, and many were richly carved. Rani ki Vav in Gujarat, built in the 11th century, is a UNESCO World Heritage Site.",
+    "url": "https://en.wikipedia.org/wiki/Stepwell"
   },
   {
     "title": "The Cotton Gin",
-    "body": "In 1793 Eli Whitney invented the cotton gin, a machine that quickly separated cotton fibres from their sticky seeds. It made short-staple cotton profitable to grow across the American South. The result was a huge expansion of cotton plantations and of slavery, which grew sharply in the decades that followed."
+    "body": "In 1793 Eli Whitney invented the cotton gin, a machine that quickly separated cotton fibres from their sticky seeds. It made short-staple cotton profitable to grow across the American South. The result was a huge expansion of cotton plantations and of slavery, which grew sharply in the decades that followed.",
+    "url": "https://en.wikipedia.org/wiki/Cotton_gin"
   },
   {
     "title": "Zhang Heng's Seismoscope",
-    "body": "In AD 132 the Chinese scholar Zhang Heng built an instrument to detect earthquakes. According to historical accounts, a bronze vessel with dragon heads dropped a ball into the mouth of a bronze toad to indicate the direction of a distant tremor. It is the earliest known seismoscope, though its inner mechanism is not known for certain."
+    "body": "In AD 132 the Chinese scholar Zhang Heng built an instrument to detect earthquakes. According to historical accounts, a bronze vessel with dragon heads dropped a ball into the mouth of a bronze toad to indicate the direction of a distant tremor. It is the earliest known seismoscope, though its inner mechanism is not known for certain.",
+    "url": "https://en.wikipedia.org/wiki/Seismometer"
   },
   {
     "title": "Breaking Enigma",
-    "body": "The German military encrypted messages with the Enigma machine, whose rotors changed the cipher with every key pressed. Polish mathematicians led by Marian Rejewski first broke it in the 1930s and shared their methods with Britain and France in 1939. At Bletchley Park, Alan Turing and others built electromechanical machines called bombes to break Enigma traffic, producing intelligence that influenced the course of the Second World War."
+    "body": "The German military encrypted messages with the Enigma machine, whose rotors changed the cipher with every key pressed. Polish mathematicians led by Marian Rejewski first broke it in the 1930s and shared their methods with Britain and France in 1939. At Bletchley Park, Alan Turing and others built electromechanical machines called bombes to break Enigma traffic, producing intelligence that influenced the course of the Second World War.",
+    "url": "https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma"
   },
   {
     "title": "Papyrus",
-    "body": "The ancient Egyptians made a writing material from the papyrus reed of the Nile by laying strips of its pith crosswise and pressing them together. It was in use by around 3000 BC and became the main writing surface of the Mediterranean world for thousands of years. The word paper comes from papyrus, though true paper is made differently, from pulped fibres."
+    "body": "The ancient Egyptians made a writing material from the papyrus reed of the Nile by laying strips of its pith crosswise and pressing them together. It was in use by around 3000 BC and became the main writing surface of the Mediterranean world for thousands of years. The word paper comes from papyrus, though true paper is made differently, from pulped fibres.",
+    "url": "https://en.wikipedia.org/wiki/Papyrus"
   },
   {
     "title": "The Shinkansen",
-    "body": "Japan's Shinkansen, the first high-speed railway, opened between Tokyo and Osaka in 1964, just before the Tokyo Olympics. Running on dedicated, purpose-built tracks, its bullet trains cut the journey time dramatically. It inspired high-speed rail in Europe and elsewhere, and is known for its punctuality and safety."
+    "body": "Japan's Shinkansen, the first high-speed railway, opened between Tokyo and Osaka in 1964, just before the Tokyo Olympics. Running on dedicated, purpose-built tracks, its bullet trains cut the journey time dramatically. It inspired high-speed rail in Europe and elsewhere, and is known for its punctuality and safety.",
+    "url": "https://en.wikipedia.org/wiki/Shinkansen"
   },
   {
     "title": "Roman Aqueducts",
-    "body": "The Romans built aqueducts that carried water over long distances to cities using only a slight, steady downhill gradient. Most of each channel ran underground or at ground level, with arched bridges such as the Pont du Gard in France used to cross valleys. By the 3rd century AD eleven aqueducts supplied the city of Rome with water for fountains, baths and public latrines."
+    "body": "The Romans built aqueducts that carried water over long distances to cities using only a slight, steady downhill gradient. Most of each channel ran underground or at ground level, with arched bridges such as the Pont du Gard in France used to cross valleys. By the 3rd century AD eleven aqueducts supplied the city of Rome with water for fountains, baths and public latrines.",
+    "url": "https://en.wikipedia.org/wiki/Roman_aqueduct"
   },
   {
     "title": "The Lithium-Ion Battery",
-    "body": "The lithium-ion battery was developed in the 1970s and 1980s through work by Stanley Whittingham, John Goodenough and Akira Yoshino, who shared the 2019 Nobel Prize in Chemistry. Sony began selling it commercially in 1991. Light and rechargeable, it powers mobile phones, laptops and electric cars."
+    "body": "The lithium-ion battery was developed in the 1970s and 1980s through work by Stanley Whittingham, John Goodenough and Akira Yoshino, who shared the 2019 Nobel Prize in Chemistry. Sony began selling it commercially in 1991. Light and rechargeable, it powers mobile phones, laptops and electric cars.",
+    "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
   },
   {
     "title": "The Antikythera Mechanism",
-    "body": "Recovered in the early 1900s from an ancient shipwreck off the Greek island of Antikythera, this corroded bronze device dates from around the 2nd or 1st century BC. Modern imaging has shown that it contained dozens of precisely cut gears that modelled the movements of the Sun and Moon, predicted eclipses and tracked the cycle of games such as the Olympics. Nothing of comparable mechanical complexity is known again for well over a thousand years."
+    "body": "Recovered in the early 1900s from an ancient shipwreck off the Greek island of Antikythera, this corroded bronze device dates from around the 2nd or 1st century BC. Modern imaging has shown that it contained dozens of precisely cut gears that modelled the movements of the Sun and Moon, predicted eclipses and tracked the cycle of games such as the Olympics. Nothing of comparable mechanical complexity is known again for well over a thousand years.",
+    "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
   },
   {
     "title": "The Voyager Probes",
-    "body": "NASA launched the twin Voyager probes in 1977 to take advantage of a rare alignment of the outer planets. Between them they flew past Jupiter, Saturn, Uranus and Neptune, Voyager 2 being the first spacecraft to visit the last two. In 2012 Voyager 1 became the first human-made object to enter interstellar space. Each carries a gold-plated record of sounds and images from Earth."
+    "body": "NASA launched the twin Voyager probes in 1977 to take advantage of a rare alignment of the outer planets. Between them they flew past Jupiter, Saturn, Uranus and Neptune, Voyager 2 being the first spacecraft to visit the last two. In 2012 Voyager 1 became the first human-made object to enter interstellar space. Each carries a gold-plated record of sounds and images from Earth.",
+    "url": "https://en.wikipedia.org/wiki/Voyager_program"
   },
   {
     "title": "Champa Rice",
-    "body": "Champa rice was a fast-ripening, drought-tolerant variety from the kingdom of Champa, in what is now central Vietnam. In 1012 the Song emperor Zhenzong had its seed distributed to farmers in the Yangtze and Huai river regions. Because it matured quickly, farmers could often grow two crops a year, and it helped support strong population growth in Song China."
+    "body": "Champa rice was a fast-ripening, drought-tolerant variety from the kingdom of Champa, in what is now central Vietnam. In 1012 the Song emperor Zhenzong had its seed distributed to farmers in the Yangtze and Huai river regions. Because it matured quickly, farmers could often grow two crops a year, and it helped support strong population growth in Song China.",
+    "url": "https://en.wikipedia.org/wiki/Champa_rice"
   },
   {
     "title": "The Mouse and the Graphical Interface",
-    "body": "In 1968 Douglas Engelbart demonstrated the computer mouse, hypertext links and on-screen windows in a famous presentation in San Francisco. In the 1970s Xerox PARC developed a graphical interface with icons and overlapping windows on its Alto computer. Apple's Macintosh of 1984 brought the graphical interface to a mass market, followed by Microsoft Windows."
+    "body": "In 1968 Douglas Engelbart demonstrated the computer mouse, hypertext links and on-screen windows in a famous presentation in San Francisco. In the 1970s Xerox PARC developed a graphical interface with icons and overlapping windows on its Alto computer. Apple's Macintosh of 1984 brought the graphical interface to a mass market, followed by Microsoft Windows.",
+    "url": "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
   },
   {
     "title": "Wikipedia",
-    "body": "Wikipedia was launched in January 2001 by Jimmy Wales and Larry Sanger as a free online encyclopedia that anyone can edit. Run by the non-profit Wikimedia Foundation and written by volunteers, it grew to millions of articles in hundreds of languages. It showed that large-scale voluntary collaboration over the internet could produce a widely used reference work."
+    "body": "Wikipedia was launched in January 2001 by Jimmy Wales and Larry Sanger as a free online encyclopedia that anyone can edit. Run by the non-profit Wikimedia Foundation and written by volunteers, it grew to millions of articles in hundreds of languages. It showed that large-scale voluntary collaboration over the internet could produce a widely used reference work.",
+    "url": "https://en.wikipedia.org/wiki/Wikipedia"
   },
   {
     "title": "The Blue LED",
-    "body": "Red light-emitting diodes existed from the 1960s, but an efficient blue LED proved very hard to make. In the early 1990s Isamu Akasaki, Hiroshi Amano and Shuji Nakamura succeeded using gallium nitride, and shared the 2014 Nobel Prize in Physics. Blue LEDs made bright white LED lighting possible, which uses far less energy than incandescent bulbs."
+    "body": "Red light-emitting diodes existed from the 1960s, but an efficient blue LED proved very hard to make. In the early 1990s Isamu Akasaki, Hiroshi Amano and Shuji Nakamura succeeded using gallium nitride, and shared the 2014 Nobel Prize in Physics. Blue LEDs made bright white LED lighting possible, which uses far less energy than incandescent bulbs.",
+    "url": "https://en.wikipedia.org/wiki/Light-emitting_diode"
   },
   {
     "title": "Bazalgette's London Sewers",
-    "body": "After the Great Stink of 1858, when the smell of the sewage-filled Thames overwhelmed Parliament, the engineer Joseph Bazalgette built a network of intercepting sewers for London. Constructed mainly in the 1860s and 1870s, it carried waste away from the city to outfalls downstream. It greatly reduced cholera outbreaks and became a model for urban sanitation."
+    "body": "After the Great Stink of 1858, when the smell of the sewage-filled Thames overwhelmed Parliament, the engineer Joseph Bazalgette built a network of intercepting sewers for London. Constructed mainly in the 1860s and 1870s, it carried waste away from the city to outfalls downstream. It greatly reduced cholera outbreaks and became a model for urban sanitation.",
+    "url": "https://en.wikipedia.org/wiki/London_sewer_system"
   },
   {
     "title": "Wootz Steel",
-    "body": "Wootz was a high-carbon steel made in southern India and Sri Lanka by melting iron with carbon-rich material in sealed clay crucibles. Production goes back at least 2,000 years. Traded to the Middle East, it was forged into the famous Damascus blades, prized for their toughness and watery surface pattern."
+    "body": "Wootz was a high-carbon steel made in southern India and Sri Lanka by melting iron with carbon-rich material in sealed clay crucibles. Production goes back at least 2,000 years. Traded to the Middle East, it was forged into the famous Damascus blades, prized for their toughness and watery surface pattern.",
+    "url": "https://en.wikipedia.org/wiki/Wootz_steel"
   },
   {
     "title": "The Integrated Circuit",
-    "body": "In 1958 Jack Kilby at Texas Instruments built the first integrated circuit, combining several components on one piece of semiconductor. In 1959 Robert Noyce at Fairchild devised a planar silicon version suited to mass production. Integrated circuits let ever more transistors be packed onto a single chip, making modern electronics possible, and Kilby received the Nobel Prize in Physics in 2000."
+    "body": "In 1958 Jack Kilby at Texas Instruments built the first integrated circuit, combining several components on one piece of semiconductor. In 1959 Robert Noyce at Fairchild devised a planar silicon version suited to mass production. Integrated circuits let ever more transistors be packed onto a single chip, making modern electronics possible, and Kilby received the Nobel Prize in Physics in 2000.",
+    "url": "https://en.wikipedia.org/wiki/Integrated_circuit"
   },
   {
     "title": "Printing in East Asia",
-    "body": "Woodblock printing was used in China by the 8th century, and the Diamond Sutra of 868, found at Dunhuang, is the oldest known dated printed book. Around the 1040s the commoner Bi Sheng made movable type from baked clay. In Korea, the Jikji, printed with movable metal type in 1377, is the oldest surviving book of its kind and predates Gutenberg."
+    "body": "Woodblock printing was used in China by the 8th century, and the Diamond Sutra of 868, found at Dunhuang, is the oldest known dated printed book. Around the 1040s the commoner Bi Sheng made movable type from baked clay. In Korea, the Jikji, printed with movable metal type in 1377, is the oldest surviving book of its kind and predates Gutenberg.",
+    "url": "https://en.wikipedia.org/wiki/History_of_printing_in_East_Asia"
   },
   {
     "title": "The War of the Currents",
-    "body": "In the late 1880s Thomas Edison's direct current (DC) competed with the alternating current (AC) system championed by George Westinghouse, using patents of Nikola Tesla. AC can be stepped up to high voltage with transformers and sent efficiently over long distances. AC won, and it became the standard for power grids around the world."
+    "body": "In the late 1880s Thomas Edison's direct current (DC) competed with the alternating current (AC) system championed by George Westinghouse, using patents of Nikola Tesla. AC can be stepped up to high voltage with transformers and sent efficiently over long distances. AC won, and it became the standard for power grids around the world.",
+    "url": "https://en.wikipedia.org/wiki/War_of_the_currents"
   },
   {
     "title": "The Stirrup",
-    "body": "Paired stirrups appear in China by the early 4th century AD and spread across Asia and into Europe over the following centuries. By giving riders a stable footing, they made it easier to fight from horseback. Historians once linked them to the rise of feudal knighthood in Europe, but that argument is now widely disputed."
+    "body": "Paired stirrups appear in China by the early 4th century AD and spread across Asia and into Europe over the following centuries. By giving riders a stable footing, they made it easier to fight from horseback. Historians once linked them to the rise of feudal knighthood in Europe, but that argument is now widely disputed.",
+    "url": "https://en.wikipedia.org/wiki/Stirrup"
   },
   {
     "title": "The Persian Windmill",
-    "body": "The earliest well-documented windmills were built in Sistan, on the border of present-day Iran and Afghanistan, by around the 9th or 10th century. Their sails turned around a vertical axis inside walls that channelled the wind, and they were used to grind grain and lift water. Windmills of a different design, with a horizontal axis, appeared in north-western Europe in the late 12th century."
+    "body": "The earliest well-documented windmills were built in Sistan, on the border of present-day Iran and Afghanistan, by around the 9th or 10th century. Their sails turned around a vertical axis inside walls that channelled the wind, and they were used to grind grain and lift water. Windmills of a different design, with a horizontal axis, appeared in north-western Europe in the late 12th century.",
+    "url": "https://en.wikipedia.org/wiki/Windmill"
   },
   {
     "title": "Brazil's Ethanol Programme",
-    "body": "After the 1973 oil shock, Brazil launched its National Alcohol Programme, Proálcool, in 1975 to replace imported petrol with ethanol made from sugar cane. By the mid-1980s most new cars sold in Brazil ran on pure ethanol. Flex-fuel cars able to run on any blend were introduced in 2003 and soon dominated sales, making Brazil a pioneer of large-scale biofuels."
+    "body": "After the 1973 oil shock, Brazil launched its National Alcohol Programme, Proálcool, in 1975 to replace imported petrol with ethanol made from sugar cane. By the mid-1980s most new cars sold in Brazil ran on pure ethanol. Flex-fuel cars able to run on any blend were introduced in 2003 and soon dominated sales, making Brazil a pioneer of large-scale biofuels.",
+    "url": "https://en.wikipedia.org/wiki/History_of_ethanol_fuel_in_Brazil"
   },
   {
     "title": "The Telescope",
-    "body": "The telescope appeared in the Netherlands in 1608, when the spectacle-maker Hans Lipperhey applied for a patent. In 1609 and 1610 Galileo built improved versions and discovered the moons of Jupiter, mountains on the Moon and the phases of Venus. Isaac Newton later built a reflecting telescope that used a curved mirror instead of a lens."
+    "body": "The telescope appeared in the Netherlands in 1608, when the spectacle-maker Hans Lipperhey applied for a patent. In 1609 and 1610 Galileo built improved versions and discovered the moons of Jupiter, mountains on the Moon and the phases of Venus. Isaac Newton later built a reflecting telescope that used a curved mirror instead of a lens.",
+    "url": "https://en.wikipedia.org/wiki/Telescope"
   },
   {
     "title": "Bronze Metallurgy",
-    "body": "Bronze, an alloy of copper and tin, is harder than copper alone and was used for tools, weapons and vessels. It came into use in the Near East in the late 4th millennium BC and spread widely in the 3rd. Because tin deposits are rare, bronze-making stimulated long-distance trade, and archaeologists named the Bronze Age after it."
+    "body": "Bronze, an alloy of copper and tin, is harder than copper alone and was used for tools, weapons and vessels. It came into use in the Near East in the late 4th millennium BC and spread widely in the 3rd. Because tin deposits are rare, bronze-making stimulated long-distance trade, and archaeologists named the Bronze Age after it.",
+    "url": "https://en.wikipedia.org/wiki/Bronze"
   },
   {
     "title": "Television",
-    "body": "In 1926 John Logie Baird gave the first public demonstration of television in London, using a mechanical scanning system. All-electronic television, developed by Philo Farnsworth, Vladimir Zworykin and others, soon replaced mechanical systems. Regular broadcasting began in the 1930s, and after the Second World War television became the dominant mass medium."
+    "body": "In 1926 John Logie Baird gave the first public demonstration of television in London, using a mechanical scanning system. All-electronic television, developed by Philo Farnsworth, Vladimir Zworykin and others, soon replaced mechanical systems. Regular broadcasting began in the 1930s, and after the Second World War television became the dominant mass medium.",
+    "url": "https://en.wikipedia.org/wiki/Television"
   },
   {
     "title": "The Control of Fire",
-    "body": "Early humans learned to control fire long before modern humans appeared, though how early is debated, with claims ranging from over a million years ago to a few hundred thousand. Fire gave warmth, light and protection from predators, and cooking made food easier to digest. Some researchers argue that cooking helped shape human evolution."
+    "body": "Early humans learned to control fire long before modern humans appeared, though how early is debated, with claims ranging from over a million years ago to a few hundred thousand. Fire gave warmth, light and protection from predators, and cooking made food easier to digest. Some researchers argue that cooking helped shape human evolution.",
+    "url": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans"
   },
   {
     "title": "Public-Key Cryptography",
-    "body": "In 1976 Whitfield Diffie and Martin Hellman published a way for two parties to agree a secret key over an open channel, and in 1977 Rivest, Shamir and Adleman created the RSA system. Public-key cryptography uses a public key to encrypt and a private one to decrypt, so strangers can communicate securely. It underpins secure websites and online payments. British intelligence had made similar discoveries earlier but kept them secret."
+    "body": "In 1976 Whitfield Diffie and Martin Hellman published a way for two parties to agree a secret key over an open channel, and in 1977 Rivest, Shamir and Adleman created the RSA system. Public-key cryptography uses a public key to encrypt and a private one to decrypt, so strangers can communicate securely. It underpins secure websites and online payments. British intelligence had made similar discoveries earlier but kept them secret.",
+    "url": "https://en.wikipedia.org/wiki/Public-key_cryptography"
   },
   {
     "title": "Glassblowing",
-    "body": "Glass had been made for thousands of years, but blowing it through a tube was invented in the 1st century BC on the eastern Mediterranean coast, in the region of Syria and Palestine. Blowing made thin, transparent vessels quick and cheap to produce. The technique spread through the Roman Empire and remains the basis of handmade glassware."
+    "body": "Glass had been made for thousands of years, but blowing it through a tube was invented in the 1st century BC on the eastern Mediterranean coast, in the region of Syria and Palestine. Blowing made thin, transparent vessels quick and cheap to produce. The technique spread through the Roman Empire and remains the basis of handmade glassware.",
+    "url": "https://en.wikipedia.org/wiki/Glassblowing"
   },
   {
     "title": "Yuri Gagarin's Spaceflight",
-    "body": "On 12 April 1961 the Soviet cosmonaut Yuri Gagarin became the first human in space, orbiting the Earth once in Vostok 1. The flight lasted about 108 minutes, and he ejected and landed by parachute as planned. Launched from Baikonur, the mission proved that humans could survive and work in spaceflight."
+    "body": "On 12 April 1961 the Soviet cosmonaut Yuri Gagarin became the first human in space, orbiting the Earth once in Vostok 1. The flight lasted about 108 minutes, and he ejected and landed by parachute as planned. Launched from Baikonur, the mission proved that humans could survive and work in spaceflight.",
+    "url": "https://en.wikipedia.org/wiki/Vostok_1"
   },
   {
     "title": "Gutta-Percha and Undersea Cables",
-    "body": "Gutta-percha is a natural latex from trees of the Malay Peninsula and nearby islands. Introduced to Europe in the 1840s, it proved an excellent insulator that stays stable under seawater. It made the first submarine telegraph cables possible, including the cross-Channel cable of 1851 and the transatlantic cables, and the trade in it boomed."
+    "body": "Gutta-percha is a natural latex from trees of the Malay Peninsula and nearby islands. Introduced to Europe in the 1840s, it proved an excellent insulator that stays stable under seawater. It made the first submarine telegraph cables possible, including the cross-Channel cable of 1851 and the transatlantic cables, and the trade in it boomed.",
+    "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable"
   },
   {
     "title": "The Spinning Jenny",
-    "body": "Around 1764 James Hargreaves, a Lancashire weaver, invented the spinning jenny, which let one worker spin several threads at once. Together with Richard Arkwright's water frame and Samuel Crompton's mule, it mechanised cotton spinning. These machines moved textile production into factories and helped launch Britain's Industrial Revolution."
+    "body": "Around 1764 James Hargreaves, a Lancashire weaver, invented the spinning jenny, which let one worker spin several threads at once. Together with Richard Arkwright's water frame and Samuel Crompton's mule, it mechanised cotton spinning. These machines moved textile production into factories and helped launch Britain's Industrial Revolution.",
+    "url": "https://en.wikipedia.org/wiki/Spinning_jenny"
   },
   {
     "title": "The Hejaz Railway",
-    "body": "Built by the Ottoman Empire between 1900 and 1908, the Hejaz Railway linked Damascus with Medina, mainly to carry Muslim pilgrims towards Mecca. It cut a journey of weeks by camel to a few days. During the First World War Arab forces, aided by the British officer known as Lawrence of Arabia, repeatedly attacked it, and its southern section was never restored."
+    "body": "Built by the Ottoman Empire between 1900 and 1908, the Hejaz Railway linked Damascus with Medina, mainly to carry Muslim pilgrims towards Mecca. It cut a journey of weeks by camel to a few days. During the First World War Arab forces, aided by the British officer known as Lawrence of Arabia, repeatedly attacked it, and its southern section was never restored.",
+    "url": "https://en.wikipedia.org/wiki/Hejaz_railway"
   },
   {
     "title": "The Transformer in Artificial Intelligence",
-    "body": "In 2017 researchers at Google described the Transformer, a neural-network design built around a mechanism called attention, in a paper titled Attention Is All You Need. It processes whole sequences in parallel and learns which parts relate to each other. The Transformer became the basis of the large language models that brought generative AI to the public in the 2020s."
+    "body": "In 2017 researchers at Google described the Transformer, a neural-network design built around a mechanism called attention, in a paper titled Attention Is All You Need. It processes whole sequences in parallel and learns which parts relate to each other. The Transformer became the basis of the large language models that brought generative AI to the public in the 2020s.",
+    "url": "https://en.wikipedia.org/wiki/Transformer_(deep_learning)"
   },
   {
     "title": "The Water Wheel",
-    "body": "Water wheels harnessing flowing water to turn millstones appeared in the Greek world around the 3rd century BC. The Romans used them widely, and at Barbegal in southern France a series of sixteen wheels drove a large flour mill. Through the Middle Ages water power drove mills for grain, cloth and iron, and it powered the first factories of the Industrial Revolution."
+    "body": "Water wheels harnessing flowing water to turn millstones appeared in the Greek world around the 3rd century BC. The Romans used them widely, and at Barbegal in southern France a series of sixteen wheels drove a large flour mill. Through the Middle Ages water power drove mills for grain, cloth and iron, and it powered the first factories of the Industrial Revolution.",
+    "url": "https://en.wikipedia.org/wiki/Water_wheel"
   },
   {
     "title": "Medical Drone Delivery in Rwanda",
-    "body": "In 2016 Rwanda began delivering blood for transfusions to rural hospitals by drone, in partnership with the American company Zipline. Small fixed-wing aircraft launched from a central base drop packages by parachute, cutting delivery times from hours by road to minutes. It was widely hailed as the world's first national drone delivery service, and the model was later extended to other medical supplies and countries."
+    "body": "In 2016 Rwanda began delivering blood for transfusions to rural hospitals by drone, in partnership with the American company Zipline. Small fixed-wing aircraft launched from a central base drop packages by parachute, cutting delivery times from hours by road to minutes. It was widely hailed as the world's first national drone delivery service, and the model was later extended to other medical supplies and countries.",
+    "url": "https://en.wikipedia.org/wiki/Zipline_(drone_delivery_company)"
   },
   {
     "title": "The Iron Pillar of Delhi",
-    "body": "The Iron Pillar, now in the Qutb complex in Delhi, was made around AD 400 under the Gupta dynasty and is about 7 metres long, with over a metre of it below ground. Forged from wrought iron, it has resisted rusting for some 1,600 years. Studies attribute this to a thin protective layer encouraged by the iron's high phosphorus content. It shows the advanced skill of ancient Indian metalworkers."
+    "body": "The Iron Pillar, now in the Qutb complex in Delhi, was made around AD 400 under the Gupta dynasty and is about 7 metres long, with over a metre of it below ground. Forged from wrought iron, it has resisted rusting for some 1,600 years. Studies attribute this to a thin protective layer encouraged by the iron's high phosphorus content. It shows the advanced skill of ancient Indian metalworkers.",
+    "url": "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi"
   },
   {
     "title": "The Jet Engine",
-    "body": "The jet engine was developed independently in the 1930s by Frank Whittle in Britain and Hans von Ohain in Germany. In 1939 the German Heinkel He 178 made the first jet-powered flight. Jet engines allowed aircraft to fly much faster and higher, and from the 1950s jet airliners made long-distance air travel routine."
+    "body": "The jet engine was developed independently in the 1930s by Frank Whittle in Britain and Hans von Ohain in Germany. In 1939 the German Heinkel He 178 made the first jet-powered flight. Jet engines allowed aircraft to fly much faster and higher, and from the 1950s jet airliners made long-distance air travel routine.",
+    "url": "https://en.wikipedia.org/wiki/Jet_engine"
   },
   {
     "title": "The Earliest Pottery",
-    "body": "The oldest known pottery vessels, from Xianrendong Cave in southern China, are roughly 20,000 years old. They were made by hunter-gatherers, long before farming, overturning the idea that pottery began with agriculture. Fired clay pots allowed food to be boiled and stored, and pottery later became one of archaeology's main tools for dating sites."
+    "body": "The oldest known pottery vessels, from Xianrendong Cave in southern China, are roughly 20,000 years old. They were made by hunter-gatherers, long before farming, overturning the idea that pottery began with agriculture. Fired clay pots allowed food to be boiled and stored, and pottery later became one of archaeology's main tools for dating sites.",
+    "url": "https://en.wikipedia.org/wiki/Xianren_Cave"
   },
   {
     "title": "Radio",
-    "body": "In the mid-1890s Guglielmo Marconi developed wireless telegraphy, using the electromagnetic waves predicted by James Clerk Maxwell and demonstrated by Heinrich Hertz. In 1901 he reported receiving a signal across the Atlantic. Others, including Alexander Popov, Oliver Lodge and Nikola Tesla, made important contributions, and priority is still debated. Radio made communication with ships possible and later became a mass medium."
+    "body": "In the mid-1890s Guglielmo Marconi developed wireless telegraphy, using the electromagnetic waves predicted by James Clerk Maxwell and demonstrated by Heinrich Hertz. In 1901 he reported receiving a signal across the Atlantic. Others, including Alexander Popov, Oliver Lodge and Nikola Tesla, made important contributions, and priority is still debated. Radio made communication with ships possible and later became a mass medium.",
+    "url": "https://en.wikipedia.org/wiki/Radio"
   },
   {
     "title": "The Astrolabe",
-    "body": "The astrolabe is a hand-held model of the sky used to tell the time, measure the altitude of stars and solve astronomical problems. Developed by the ancient Greeks, it was greatly refined by astronomers in the medieval Islamic world, who also used it to find prayer times and the direction of Mecca. It reached Europe through Islamic Spain and remained widely used until the 17th century."
+    "body": "The astrolabe is a hand-held model of the sky used to tell the time, measure the altitude of stars and solve astronomical problems. Developed by the ancient Greeks, it was greatly refined by astronomers in the medieval Islamic world, who also used it to find prayer times and the direction of Mecca. It reached Europe through Islamic Spain and remained widely used until the 17th century.",
+    "url": "https://en.wikipedia.org/wiki/Astrolabe"
   },
   {
     "title": "The Voltaic Pile",
-    "body": "In 1800 the Italian physicist Alessandro Volta stacked discs of zinc and copper separated by brine-soaked cloth and produced a steady electric current. This first battery made continuous electricity available for experiments for the first time. It quickly led to electrolysis and the discovery of new elements, and the volt, the unit of electric potential, is named after him."
+    "body": "In 1800 the Italian physicist Alessandro Volta stacked discs of zinc and copper separated by brine-soaked cloth and produced a steady electric current. This first battery made continuous electricity available for experiments for the first time. It quickly led to electrolysis and the discovery of new elements, and the volt, the unit of electric potential, is named after him.",
+    "url": "https://en.wikipedia.org/wiki/Voltaic_pile"
   },
   {
     "title": "Optical Fibre Communication",
-    "body": "In 1966 Charles Kao, working in England, showed that glass fibres could carry light signals over long distances if impurities were removed. Low-loss fibres were produced a few years later. Optical cables became the backbone of long-distance telecommunications and the internet, and Kao shared the 2009 Nobel Prize in Physics."
+    "body": "In 1966 Charles Kao, working in England, showed that glass fibres could carry light signals over long distances if impurities were removed. Low-loss fibres were produced a few years later. Optical cables became the backbone of long-distance telecommunications and the internet, and Kao shared the 2009 Nobel Prize in Physics.",
+    "url": "https://en.wikipedia.org/wiki/Optical_fiber"
   },
   {
     "title": "Su Song's Astronomical Clock Tower",
-    "body": "In the late 11th century the Chinese official Su Song built a water-driven astronomical clock tower at Kaifeng, more than 10 metres tall. A waterwheel, advanced in controlled steps by an escapement-like mechanism, drove an armillary sphere, a celestial globe and figures that announced the time. Su Song's detailed illustrated description survives, making it one of the best-documented machines of the medieval world."
+    "body": "In the late 11th century the Chinese official Su Song built a water-driven astronomical clock tower at Kaifeng, more than 10 metres tall. A waterwheel, advanced in controlled steps by an escapement-like mechanism, drove an armillary sphere, a celestial globe and figures that announced the time. Su Song's detailed illustrated description survives, making it one of the best-documented machines of the medieval world.",
+    "url": "https://en.wikipedia.org/wiki/Su_Song"
   },
   {
     "title": "The First Nuclear Reactor",
-    "body": "On 2 December 1942 a team led by Enrico Fermi achieved the first self-sustaining nuclear chain reaction, in Chicago Pile-1. Built of graphite blocks and uranium beneath the stands of a university sports field, it was part of the Manhattan Project. Controlled chain reactions later made nuclear power stations possible, starting in the 1950s."
+    "body": "On 2 December 1942 a team led by Enrico Fermi achieved the first self-sustaining nuclear chain reaction, in Chicago Pile-1. Built of graphite blocks and uranium beneath the stands of a university sports field, it was part of the Manhattan Project. Controlled chain reactions later made nuclear power stations possible, starting in the 1950s.",
+    "url": "https://en.wikipedia.org/wiki/Chicago_Pile-1"
   },
   {
     "title": "The First Stone Tools",
-    "body": "The oldest widely accepted stone tools, known as the Oldowan industry, date from about 2.6 million years ago in East Africa. Early humans struck flakes off stones to make sharp edges for cutting meat and plants, and later Acheulean hand axes were shaped to a deliberate pattern. Toolmaking began more than two million years before our own species appeared."
+    "body": "The oldest widely accepted stone tools, known as the Oldowan industry, date from about 2.6 million years ago in East Africa. Early humans struck flakes off stones to make sharp edges for cutting meat and plants, and later Acheulean hand axes were shaped to a deliberate pattern. Toolmaking began more than two million years before our own species appeared.",
+    "url": "https://en.wikipedia.org/wiki/Oldowan"
   },
   {
     "title": "The Shipping Container",
-    "body": "In 1956 the American trucking entrepreneur Malcom McLean shipped containers aboard the Ideal X from New Jersey to Texas. Standard steel boxes that move unopened between ships, trains and lorries cut loading times and costs dramatically. Containerisation reshaped ports and greatly accelerated global trade."
+    "body": "In 1956 the American trucking entrepreneur Malcom McLean shipped containers aboard the Ideal X from New Jersey to Texas. Standard steel boxes that move unopened between ships, trains and lorries cut loading times and costs dramatically. Containerisation reshaped ports and greatly accelerated global trade.",
+    "url": "https://en.wikipedia.org/wiki/Containerization"
   },
   {
     "title": "Al-Jazari's Ingenious Devices",
-    "body": "In 1206 the engineer al-Jazari, working for the Artuqid rulers in south-eastern Anatolia, completed his Book of Knowledge of Ingenious Mechanical Devices. It describes and illustrates water clocks, automata, water-raising machines and a double-acting pump, with instructions for building them. It is one of the most important engineering texts of the medieval period."
+    "body": "In 1206 the engineer al-Jazari, working for the Artuqid rulers in south-eastern Anatolia, completed his Book of Knowledge of Ingenious Mechanical Devices. It describes and illustrates water clocks, automata, water-raising machines and a double-acting pump, with instructions for building them. It is one of the most important engineering texts of the medieval period.",
+    "url": "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
   },
   {
     "title": "The Steam Locomotive",
-    "body": "Richard Trevithick ran the first steam locomotive on rails in Wales in 1804. In 1830 the Liverpool and Manchester Railway, using locomotives such as George and Robert Stephenson's Rocket, became the first intercity line worked entirely by steam. Railways spread across the world within decades, shrinking travel times and transforming trade."
+    "body": "Richard Trevithick ran the first steam locomotive on rails in Wales in 1804. In 1830 the Liverpool and Manchester Railway, using locomotives such as George and Robert Stephenson's Rocket, became the first intercity line worked entirely by steam. Railways spread across the world within decades, shrinking travel times and transforming trade.",
+    "url": "https://en.wikipedia.org/wiki/Steam_locomotive"
   },
   {
     "title": "AlphaGo",
-    "body": "In 2016 AlphaGo, a program from the Google-owned company DeepMind, defeated Lee Sedol, one of the world's strongest Go players, by four games to one in Seoul. Go had long been considered far harder for computers than chess because of its enormous number of possible positions. The program combined deep neural networks with search and learned partly by playing against itself."
+    "body": "In 2016 AlphaGo, a program from the Google-owned company DeepMind, defeated Lee Sedol, one of the world's strongest Go players, by four games to one in Seoul. Go had long been considered far harder for computers than chess because of its enormous number of possible positions. The program combined deep neural networks with search and learned partly by playing against itself.",
+    "url": "https://en.wikipedia.org/wiki/AlphaGo"
   },
   {
     "title": "The Lighthouse of Alexandria",
-    "body": "The Pharos of Alexandria, completed in the 3rd century BC under the Ptolemies, was one of the tallest structures of the ancient world, probably over 100 metres high. A fire at its top guided ships into Egypt's great harbour. Counted among the Seven Wonders of the Ancient World, it was ruined by earthquakes in the Middle Ages, and its name became the word for lighthouse in several languages."
+    "body": "The Pharos of Alexandria, completed in the 3rd century BC under the Ptolemies, was one of the tallest structures of the ancient world, probably over 100 metres high. A fire at its top guided ships into Egypt's great harbour. Counted among the Seven Wonders of the Ancient World, it was ruined by earthquakes in the Middle Ages, and its name became the word for lighthouse in several languages.",
+    "url": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
   },
   {
     "title": "The Solar Cell",
-    "body": "In 1954 researchers at Bell Labs demonstrated the first practical silicon solar cell, which converted about 6 per cent of sunlight into electricity. Solar cells exploit the photovoltaic effect, in which light frees electrons in a semiconductor. They powered satellites from the late 1950s, and falling costs later made solar power a major source of electricity."
+    "body": "In 1954 researchers at Bell Labs demonstrated the first practical silicon solar cell, which converted about 6 per cent of sunlight into electricity. Solar cells exploit the photovoltaic effect, in which light frees electrons in a semiconductor. They powered satellites from the late 1950s, and falling costs later made solar power a major source of electricity.",
+    "url": "https://en.wikipedia.org/wiki/Solar_cell"
   },
   {
     "title": "The International Space Station",
-    "body": "The International Space Station was built in low Earth orbit by the United States, Russia, Europe, Japan and Canada. Assembly began in 1998 from modules launched separately, and from November 2000 crews lived aboard without a break for decades. It hosted thousands of experiments on how materials, plants and the human body behave in weightlessness."
+    "body": "The International Space Station was built in low Earth orbit by the United States, Russia, Europe, Japan and Canada. Assembly began in 1998 from modules launched separately, and from November 2000 crews lived aboard without a break for decades. It hosted thousands of experiments on how materials, plants and the human body behave in weightlessness.",
+    "url": "https://en.wikipedia.org/wiki/International_Space_Station"
   },
   {
     "title": "The First Electronic Computers",
-    "body": "Britain's Colossus, built in 1943 and 1944 to break German teleprinter codes, was the first programmable electronic digital computer, though it was kept secret for decades. In the United States ENIAC, completed in 1945, was a general-purpose machine with about 18,000 vacuum tubes. These machines marked the start of electronic computing."
+    "body": "Britain's Colossus, built in 1943 and 1944 to break German teleprinter codes, was the first programmable electronic digital computer, though it was kept secret for decades. In the United States ENIAC, completed in 1945, was a general-purpose machine with about 18,000 vacuum tubes. These machines marked the start of electronic computing.",
+    "url": "https://en.wikipedia.org/wiki/Colossus_computer"
   },
   {
     "title": "Iron Smelting",
-    "body": "Iron was smelted in Anatolia and the Near East during the 2nd millennium BC, and its use spread widely after about 1200 BC. Unlike copper and tin, iron ore is common, so iron tools and weapons could be made in large numbers. Early smiths produced a spongy mass of iron, called a bloom, that had to be hammered to drive out impurities."
+    "body": "Iron was smelted in Anatolia and the Near East during the 2nd millennium BC, and its use spread widely after about 1200 BC. Unlike copper and tin, iron ore is common, so iron tools and weapons could be made in large numbers. Early smiths produced a spongy mass of iron, called a bloom, that had to be hammered to drive out impurities.",
+    "url": "https://en.wikipedia.org/wiki/Iron_Age"
   },
   {
     "title": "The Black Box Flight Recorder",
-    "body": "In the 1950s the Australian scientist David Warren, at a government aeronautical laboratory in Melbourne, developed one of the first devices to record cockpit voices and instrument data. Investigating air crashes was hard because there were often no survivors or witnesses. After initial scepticism, flight recorders, popularly called black boxes, became compulsory on airliners and have greatly helped improve air safety."
+    "body": "In the 1950s the Australian scientist David Warren, at a government aeronautical laboratory in Melbourne, developed one of the first devices to record cockpit voices and instrument data. Investigating air crashes was hard because there were often no survivors or witnesses. After initial scepticism, flight recorders, popularly called black boxes, became compulsory on airliners and have greatly helped improve air safety.",
+    "url": "https://en.wikipedia.org/wiki/Flight_recorder"
   },
   {
     "title": "The Grand Anicut",
-    "body": "The Grand Anicut, or Kallanai, is a stone dam across the Kaveri river in Tamil Nadu, traditionally attributed to the Chola king Karikala around the 2nd century AD. It diverts water into the fertile Kaveri delta for irrigation. Remodelled by British engineers in the 19th century, it is among the oldest water-diversion works in the world still in use."
+    "body": "The Grand Anicut, or Kallanai, is a stone dam across the Kaveri river in Tamil Nadu, traditionally attributed to the Chola king Karikala around the 2nd century AD. It diverts water into the fertile Kaveri delta for irrigation. Remodelled by British engineers in the 19th century, it is among the oldest water-diversion works in the world still in use.",
+    "url": "https://en.wikipedia.org/wiki/Kallanai_Dam"
   },
   {
     "title": "Sputnik 1",
-    "body": "On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial satellite, from Baikonur in present-day Kazakhstan. The polished metal sphere, about 58 centimetres across, transmitted radio beeps that could be picked up around the world. Its success shocked the United States and started the space race."
+    "body": "On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial satellite, from Baikonur in present-day Kazakhstan. The polished metal sphere, about 58 centimetres across, transmitted radio beeps that could be picked up around the world. Its success shocked the United States and started the space race.",
+    "url": "https://en.wikipedia.org/wiki/Sputnik_1"
   },
   {
     "title": "Spectacles",
-    "body": "Spectacles were invented in northern Italy around 1286. Early pairs had convex lenses to correct long sight and were perched on the nose or held in front of the eyes. They extended the working lives of scholars and craftsmen, and concave lenses for short sight followed in the 15th century."
+    "body": "Spectacles were invented in northern Italy around 1286. Early pairs had convex lenses to correct long sight and were perched on the nose or held in front of the eyes. They extended the working lives of scholars and craftsmen, and concave lenses for short sight followed in the 15th century.",
+    "url": "https://en.wikipedia.org/wiki/Glasses"
   },
   {
     "title": "The First Oil Wells",
-    "body": "Drilling for oil began in the mid-19th century: wells were drilled near Baku on the Caspian Sea in the 1840s, and Edwin Drake's well of 1859 in Titusville, Pennsylvania, launched the American oil boom. Oil was at first wanted mainly for kerosene lamps, replacing whale oil. The internal combustion engine later made petroleum the central fuel of 20th-century transport."
+    "body": "Drilling for oil began in the mid-19th century: wells were drilled near Baku on the Caspian Sea in the 1840s, and Edwin Drake's well of 1859 in Titusville, Pennsylvania, launched the American oil boom. Oil was at first wanted mainly for kerosene lamps, replacing whale oil. The internal combustion engine later made petroleum the central fuel of 20th-century transport.",
+    "url": "https://en.wikipedia.org/wiki/History_of_the_petroleum_industry"
   },
   {
     "title": "Liquid-Fuel Rockets",
-    "body": "In 1926 the American physicist Robert Goddard launched the first liquid-fuelled rocket, in Massachusetts; it flew for only a few seconds. Liquid propellants are more efficient than the solid gunpowder-type fuels of earlier rockets. In Germany, Wernher von Braun's team built the V-2 missile during the Second World War, and its technology led directly to the rockets of the space race."
+    "body": "In 1926 the American physicist Robert Goddard launched the first liquid-fuelled rocket, in Massachusetts; it flew for only a few seconds. Liquid propellants are more efficient than the solid gunpowder-type fuels of earlier rockets. In Germany, Wernher von Braun's team built the V-2 missile during the Second World War, and its technology led directly to the rockets of the space race.",
+    "url": "https://en.wikipedia.org/wiki/Robert_H._Goddard"
   },
   {
     "title": "Papermaking",
-    "body": "Paper was invented in China; fragments survive from the 2nd century BC, and the court official Cai Lun is traditionally credited with improving it around AD 105. Made from plant fibres such as bark, hemp and rags, it was far cheaper than silk or bamboo strips. Papermaking spread to the Islamic world in the 8th century and reached Europe by the 12th, preparing the way for printing."
+    "body": "Paper was invented in China; fragments survive from the 2nd century BC, and the court official Cai Lun is traditionally credited with improving it around AD 105. Made from plant fibres such as bark, hemp and rags, it was far cheaper than silk or bamboo strips. Papermaking spread to the Islamic world in the 8th century and reached Europe by the 12th, preparing the way for printing.",
+    "url": "https://en.wikipedia.org/wiki/Paper"
   },
   {
     "title": "The Pendulum Clock",
-    "body": "In 1656 the Dutch scientist Christiaan Huygens built the first pendulum clock, using the observation, made earlier by Galileo, that a pendulum swings in a regular time. It reduced the error of the best clocks from many minutes a day to well under a minute. For nearly three centuries pendulum clocks were the most accurate timekeepers available."
+    "body": "In 1656 the Dutch scientist Christiaan Huygens built the first pendulum clock, using the observation, made earlier by Galileo, that a pendulum swings in a regular time. It reduced the error of the best clocks from many minutes a day to well under a minute. For nearly three centuries pendulum clocks were the most accurate timekeepers available.",
+    "url": "https://en.wikipedia.org/wiki/Pendulum_clock"
   },
   {
     "title": "Communications Satellites",
-    "body": "In 1945 the writer Arthur C. Clarke proposed relaying signals via satellites in geostationary orbit, which circle the Earth once a day and so appear fixed in the sky. In 1962 the satellite Telstar relayed the first live transatlantic television pictures. Communications satellites soon made live global broadcasts and long-distance telephone links routine."
+    "body": "In 1945 the writer Arthur C. Clarke proposed relaying signals via satellites in geostationary orbit, which circle the Earth once a day and so appear fixed in the sky. In 1962 the satellite Telstar relayed the first live transatlantic television pictures. Communications satellites soon made live global broadcasts and long-distance telephone links routine.",
+    "url": "https://en.wikipedia.org/wiki/Communications_satellite"
   },
   {
     "title": "The Magnetic Compass",
-    "body": "Chinese scholars knew that a magnetised needle points north and south, and the Song dynasty writer Shen Kuo described the needle compass in the late 11th century. Within a few decades it was being used for navigation at sea. The compass appeared in Europe around 1200 and became essential for ocean voyages."
+    "body": "Chinese scholars knew that a magnetised needle points north and south, and the Song dynasty writer Shen Kuo described the needle compass in the late 11th century. Within a few decades it was being used for navigation at sea. The compass appeared in Europe around 1200 and became essential for ocean voyages.",
+    "url": "https://en.wikipedia.org/wiki/Compass"
   },
   {
     "title": "The Bessemer Process",
-    "body": "In 1856 Henry Bessemer patented a process for making steel by blowing air through molten pig iron to burn off excess carbon. It turned an expensive material into one that could be made cheaply in bulk. Cheap steel built the railways, ships, bridges and skyscrapers of the later 19th century. William Kelly in the United States had worked on a similar method."
+    "body": "In 1856 Henry Bessemer patented a process for making steel by blowing air through molten pig iron to burn off excess carbon. It turned an expensive material into one that could be made cheaply in bulk. Cheap steel built the railways, ships, bridges and skyscrapers of the later 19th century. William Kelly in the United States had worked on a similar method.",
+    "url": "https://en.wikipedia.org/wiki/Bessemer_process"
   },
   {
     "title": "The Qanat",
-    "body": "A qanat is a gently sloping underground channel that carries groundwater from an aquifer at the foot of the hills to fields and towns, using gravity alone. The technique developed in ancient Iran in the early 1st millennium BC and spread across the Middle East, North Africa and Central Asia. Because the water flows underground, little is lost to evaporation in hot, dry climates."
+    "body": "A qanat is a gently sloping underground channel that carries groundwater from an aquifer at the foot of the hills to fields and towns, using gravity alone. The technique developed in ancient Iran in the early 1st millennium BC and spread across the Middle East, North Africa and Central Asia. Because the water flows underground, little is lost to evaporation in hot, dry climates.",
+    "url": "https://en.wikipedia.org/wiki/Qanat"
   },
   {
     "title": "The Assembly Line",
-    "body": "In 1913 Henry Ford introduced a moving assembly line at his Highland Park plant in Michigan. Work was broken into simple steps as the car moved past the workers, cutting the assembly time of a Model T from about twelve hours to around an hour and a half. Mass production made cars affordable to ordinary families and was copied across industry."
+    "body": "In 1913 Henry Ford introduced a moving assembly line at his Highland Park plant in Michigan. Work was broken into simple steps as the car moved past the workers, cutting the assembly time of a Model T from about twelve hours to around an hour and a half. Mass production made cars affordable to ordinary families and was copied across industry.",
+    "url": "https://en.wikipedia.org/wiki/Assembly_line"
   },
   {
     "title": "Chinese Cast Iron",
-    "body": "Chinese metalworkers were producing cast iron by around the 5th century BC, long before it was common in Europe, using furnaces hot enough to melt iron so that it could be poured into moulds. This allowed mass production of iron tools and farm implements. Under the Han dynasty iron production became a state monopoly, and methods were developed to turn cast iron into steel."
+    "body": "Chinese metalworkers were producing cast iron by around the 5th century BC, long before it was common in Europe, using furnaces hot enough to melt iron so that it could be poured into moulds. This allowed mass production of iron tools and farm implements. Under the Han dynasty iron production became a state monopoly, and methods were developed to turn cast iron into steel.",
+    "url": "https://en.wikipedia.org/wiki/Cast_iron"
   },
   {
     "title": "The Aswan High Dam",
-    "body": "Built across the Nile in southern Egypt and completed in 1970, the Aswan High Dam created Lake Nasser, one of the largest artificial lakes in the world. It ended the annual Nile flood, provided irrigation water all year and generated large amounts of hydroelectric power. It also trapped fertile silt and forced the relocation of Nubian communities and monuments, including the temples of Abu Simbel."
+    "body": "Built across the Nile in southern Egypt and completed in 1970, the Aswan High Dam created Lake Nasser, one of the largest artificial lakes in the world. It ended the annual Nile flood, provided irrigation water all year and generated large amounts of hydroelectric power. It also trapped fertile silt and forced the relocation of Nubian communities and monuments, including the temples of Abu Simbel.",
+    "url": "https://en.wikipedia.org/wiki/Aswan_High_Dam"
   },
   {
     "title": "The Hall–Héroult Process",
-    "body": "Aluminium is the most abundant metal in the Earth's crust, but it was once more expensive than silver because it was so hard to extract. In 1886 Charles Martin Hall in the United States and Paul Héroult in France independently discovered how to produce it by electrolysis. Their process made aluminium cheap, opening the way to its use in aircraft, packaging and power lines."
+    "body": "Aluminium is the most abundant metal in the Earth's crust, but it was once more expensive than silver because it was so hard to extract. In 1886 Charles Martin Hall in the United States and Paul Héroult in France independently discovered how to produce it by electrolysis. Their process made aluminium cheap, opening the way to its use in aircraft, packaging and power lines.",
+    "url": "https://en.wikipedia.org/wiki/Hall%E2%80%93H%C3%A9roult_process"
   },
   {
     "title": "The Green Revolution",
-    "body": "From the 1960s, high-yielding varieties of wheat and rice, combined with irrigation, fertiliser and pesticides, sharply raised harvests in Asia and Latin America. India, which had faced severe food shortages, greatly increased its wheat production. Norman Borlaug, whose wheat breeding in Mexico was central to the effort, received the 1970 Nobel Peace Prize. Critics point to environmental costs and growing inequality among farmers."
+    "body": "From the 1960s, high-yielding varieties of wheat and rice, combined with irrigation, fertiliser and pesticides, sharply raised harvests in Asia and Latin America. India, which had faced severe food shortages, greatly increased its wheat production. Norman Borlaug, whose wheat breeding in Mexico was central to the effort, received the 1970 Nobel Peace Prize. Critics point to environmental costs and growing inequality among farmers.",
+    "url": "https://en.wikipedia.org/wiki/Green_Revolution"
   },
   {
     "title": "The Motor Car",
-    "body": "In 1886 Karl Benz patented his Motorwagen, generally regarded as the first practical automobile powered by an internal combustion engine. Gottlieb Daimler and Wilhelm Maybach developed their own engines and vehicles at about the same time. In 1888 Bertha Benz drove the Motorwagen more than 100 kilometres, showing that it could make long journeys."
+    "body": "In 1886 Karl Benz patented his Motorwagen, generally regarded as the first practical automobile powered by an internal combustion engine. Gottlieb Daimler and Wilhelm Maybach developed their own engines and vehicles at about the same time. In 1888 Bertha Benz drove the Motorwagen more than 100 kilometres, showing that it could make long journeys.",
+    "url": "https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen"
   },
   {
     "title": "The Inca Road System",
-    "body": "The Inca built a road network tens of thousands of kilometres long along and across the Andes, linking their empire through what are now six countries. It included stairways, causeways and suspension bridges woven from grass rope. Relay runners carried messages along it, and in 2014 it was listed as a UNESCO World Heritage Site."
+    "body": "The Inca built a road network tens of thousands of kilometres long along and across the Andes, linking their empire through what are now six countries. It included stairways, causeways and suspension bridges woven from grass rope. Relay runners carried messages along it, and in 2014 it was listed as a UNESCO World Heritage Site.",
+    "url": "https://en.wikipedia.org/wiki/Inca_road_system"
   },
   {
     "title": "The Marine Chronometer",
-    "body": "To find longitude at sea, a navigator needs to know accurately the time at a reference point such as Greenwich. The English clockmaker John Harrison spent decades building sea clocks to do this, and his compact H4 performed well in trials in the 1760s. Chronometers later became standard equipment on ships, making ocean navigation far safer."
+    "body": "To find longitude at sea, a navigator needs to know accurately the time at a reference point such as Greenwich. The English clockmaker John Harrison spent decades building sea clocks to do this, and his compact H4 performed well in trials in the 1760s. Chronometers later became standard equipment on ships, making ocean navigation far safer.",
+    "url": "https://en.wikipedia.org/wiki/Marine_chronometer"
   },
   {
     "title": "India's Unified Payments Interface",
-    "body": "The Unified Payments Interface, launched in India in 2016, is a public system that lets people transfer money instantly between bank accounts using a mobile phone. Run by the National Payments Corporation of India, it is open to many banks and apps and is widely used to pay by scanning a QR code. It became a model of digital public infrastructure studied by other countries."
+    "body": "The Unified Payments Interface, launched in India in 2016, is a public system that lets people transfer money instantly between bank accounts using a mobile phone. Run by the National Payments Corporation of India, it is open to many banks and apps and is widely used to pay by scanning a QR code. It became a model of digital public infrastructure studied by other countries.",
+    "url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface"
   },
   {
     "title": "The Mechanical Clock",
-    "body": "Weight-driven mechanical clocks appeared in Europe in the late 13th century, regulated by an escapement that let a gear train advance in regular steps. Early clocks were large and installed in church and town towers, where they struck the hours. They spread the use of equal, standard hours in European towns, though they were not very accurate until the pendulum was introduced."
+    "body": "Weight-driven mechanical clocks appeared in Europe in the late 13th century, regulated by an escapement that let a gear train advance in regular steps. Early clocks were large and installed in church and town towers, where they struck the hours. They spread the use of equal, standard hours in European towns, though they were not very accurate until the pendulum was introduced.",
+    "url": "https://en.wikipedia.org/wiki/Clock"
   },
   {
     "title": "The Snowy Mountains Scheme",
-    "body": "Built between 1949 and 1974 in south-eastern Australia, the Snowy Mountains Scheme diverts rivers through tunnels and dams to generate hydroelectricity and supply irrigation water inland. It was one of the largest engineering projects of its time. Around 100,000 people from more than 30 countries worked on it, and it became a symbol of post-war immigration to Australia."
+    "body": "Built between 1949 and 1974 in south-eastern Australia, the Snowy Mountains Scheme diverts rivers through tunnels and dams to generate hydroelectricity and supply irrigation water inland. It was one of the largest engineering projects of its time. Around 100,000 people from more than 30 countries worked on it, and it became a symbol of post-war immigration to Australia.",
+    "url": "https://en.wikipedia.org/wiki/Snowy_Mountains_Scheme"
   },
   {
     "title": "The Jacquard Loom",
-    "body": "In the early 1800s Joseph Marie Jacquard developed a loom controlled by chains of punched cards, each card determining which threads were raised to weave a pattern. Complex designs could now be woven automatically and changed simply by swapping the cards. The idea of storing instructions on punched cards influenced Charles Babbage and later data-processing machines."
+    "body": "In the early 1800s Joseph Marie Jacquard developed a loom controlled by chains of punched cards, each card determining which threads were raised to weave a pattern. Complex designs could now be woven automatically and changed simply by swapping the cards. The idea of storing instructions on punched cards influenced Charles Babbage and later data-processing machines.",
+    "url": "https://en.wikipedia.org/wiki/Jacquard_machine"
   },
   {
     "title": "The Composite Bow",
-    "body": "The composite bow combines a wooden core with horn on the inner face and sinew on the outer, storing much more energy than a simple wooden bow of the same size. Its short length suited mounted archers, and it became the signature weapon of steppe peoples from the Scythians to the Mongols. Egyptian, Assyrian and Chinese armies also used composite bows from ancient times."
+    "body": "The composite bow combines a wooden core with horn on the inner face and sinew on the outer, storing much more energy than a simple wooden bow of the same size. Its short length suited mounted archers, and it became the signature weapon of steppe peoples from the Scythians to the Mongols. Egyptian, Assyrian and Chinese armies also used composite bows from ancient times.",
+    "url": "https://en.wikipedia.org/wiki/Composite_bow"
   },
   {
     "title": "Chandrayaan-3",
-    "body": "In August 2023 India's Chandrayaan-3 mission landed near the Moon's south pole, the first spacecraft to land in that region. India became the fourth country to make a soft landing on the Moon, after the Soviet Union, the United States and China. Its rover, Pragyan, explored the surface during a single lunar day."
+    "body": "In August 2023 India's Chandrayaan-3 mission landed near the Moon's south pole, the first spacecraft to land in that region. India became the fourth country to make a soft landing on the Moon, after the Soviet Union, the United States and China. Its rover, Pragyan, explored the surface during a single lunar day.",
+    "url": "https://en.wikipedia.org/wiki/Chandrayaan-3"
   },
   {
     "title": "The ARPANET and Internet Protocols",
-    "body": "The ARPANET, funded by the US Department of Defense, sent its first message between computers in California in 1969. It used packet switching, which breaks data into small blocks that travel independently. In 1974 Vint Cerf and Bob Kahn described the protocols later known as TCP/IP, which let different networks interconnect, and the ARPANET's switch to them in 1983 is often seen as the birth of the internet."
+    "body": "The ARPANET, funded by the US Department of Defense, sent its first message between computers in California in 1969. It used packet switching, which breaks data into small blocks that travel independently. In 1974 Vint Cerf and Bob Kahn described the protocols later known as TCP/IP, which let different networks interconnect, and the ARPANET's switch to them in 1983 is often seen as the birth of the internet.",
+    "url": "https://en.wikipedia.org/wiki/ARPANET"
   },
   {
     "title": "The Plough",
-    "body": "The plough began as a simple scratch plough, or ard, pulled by oxen, and was in use in the Near East by about 3000 BC. It let farmers cultivate far more land than by hand and tied agriculture to animal power. The later heavy plough with a mouldboard turned over dense soils and helped open up the clay lands of northern Europe in the Middle Ages."
+    "body": "The plough began as a simple scratch plough, or ard, pulled by oxen, and was in use in the Near East by about 3000 BC. It let farmers cultivate far more land than by hand and tied agriculture to animal power. The later heavy plough with a mouldboard turned over dense soils and helped open up the clay lands of northern Europe in the Middle Ages.",
+    "url": "https://en.wikipedia.org/wiki/Plough"
   },
   {
     "title": "The Smartphone",
-    "body": "Apple's iPhone, unveiled in 2007, combined a phone, an internet browser and a music player in a device controlled by a multi-touch screen. Earlier devices had offered email and apps, but the iPhone and Google's Android, launched in 2008, made the touchscreen smartphone the standard. Smartphones put internet access, maps and cameras in billions of pockets."
+    "body": "Apple's iPhone, unveiled in 2007, combined a phone, an internet browser and a music player in a device controlled by a multi-touch screen. Earlier devices had offered email and apps, but the iPhone and Google's Android, launched in 2008, made the touchscreen smartphone the standard. Smartphones put internet access, maps and cameras in billions of pockets.",
+    "url": "https://en.wikipedia.org/wiki/Smartphone"
   },
   {
     "title": "Aztec Chinampas",
-    "body": "Chinampas were raised fields built in shallow lakes in the Valley of Mexico from layers of mud and vegetation, anchored by trees and separated by canals. Constantly fertilised by lake sediment, they could yield several crops a year. They helped feed Tenochtitlan, the Aztec capital, and some still survive at Xochimilco in Mexico City."
+    "body": "Chinampas were raised fields built in shallow lakes in the Valley of Mexico from layers of mud and vegetation, anchored by trees and separated by canals. Constantly fertilised by lake sediment, they could yield several crops a year. They helped feed Tenochtitlan, the Aztec capital, and some still survive at Xochimilco in Mexico City.",
+    "url": "https://en.wikipedia.org/wiki/Chinampa"
   }
 ]

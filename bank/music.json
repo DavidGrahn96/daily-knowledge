@@ -1,442 +1,552 @@
 [
   {
     "title": "The Well-Tempered Clavier",
-    "body": "Bach wrote two collections of preludes and fugues in all 24 major and minor keys. The work showed that a tempered tuning lets a keyboard play in every key, and it remains a cornerstone of keyboard music."
+    "body": "Bach wrote two collections of preludes and fugues in all 24 major and minor keys. The work showed that a tempered tuning lets a keyboard play in every key, and it remains a cornerstone of keyboard music.",
+    "url": "https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier"
   },
   {
     "title": "Sonata Form",
-    "body": "Sonata form has three parts: exposition, development and recapitulation. It was the central structural principle of the Classical era of Haydn, Mozart and Beethoven, and shapes the first movement of most of their symphonies and sonatas."
+    "body": "Sonata form has three parts: exposition, development and recapitulation. It was the central structural principle of the Classical era of Haydn, Mozart and Beethoven, and shapes the first movement of most of their symphonies and sonatas.",
+    "url": "https://en.wikipedia.org/wiki/Sonata_form"
   },
   {
     "title": "Beethoven's Ninth Symphony",
-    "body": "First performed in 1824, it was the first major symphony to include a choir and soloists. The finale sets Schiller's poem Ode to Joy, and its melody is today the anthem of Europe and the EU."
+    "body": "First performed in 1824, it was the first major symphony to include a choir and soloists. The finale sets Schiller's poem Ode to Joy, and its melody is today the anthem of Europe and the EU.",
+    "url": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)"
   },
   {
     "title": "The Birth of Jazz",
-    "body": "Jazz emerged in New Orleans around 1900 from African American traditions such as blues and ragtime. Improvisation and syncopated rhythm are central. Louis Armstrong became one of its first great soloists."
+    "body": "Jazz emerged in New Orleans around 1900 from African American traditions such as blues and ragtime. Improvisation and syncopated rhythm are central. Louis Armstrong became one of its first great soloists.",
+    "url": "https://en.wikipedia.org/wiki/Jazz"
   },
   {
     "title": "The Birth of Opera",
-    "body": "Opera arose in Italy around 1600 as an attempt to revive ancient Greek drama with music. Monteverdi's L'Orfeo of 1607 is considered an early masterpiece of the form."
+    "body": "Opera arose in Italy around 1600 as an attempt to revive ancient Greek drama with music. Monteverdi's L'Orfeo of 1607 is considered an early masterpiece of the form.",
+    "url": "https://en.wikipedia.org/wiki/Opera"
   },
   {
     "title": "Wolfgang Amadeus Mozart",
-    "body": "Mozart (1756–1791) wrote more than 600 works in a short life, including the operas The Marriage of Figaro and The Magic Flute. His Requiem was unfinished when he died. With Haydn and Beethoven he defines the Classical style."
+    "body": "Mozart (1756–1791) wrote more than 600 works in a short life, including the operas The Marriage of Figaro and The Magic Flute. His Requiem was unfinished when he died. With Haydn and Beethoven he defines the Classical style.",
+    "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
   },
   {
     "title": "Twelve-Tone Music",
-    "body": "In the 1920s Arnold Schoenberg developed a method in which all twelve notes of the chromatic scale are treated as equal. The technique broke with the major-minor key system and strongly influenced 20th-century classical music."
+    "body": "In the 1920s Arnold Schoenberg developed a method in which all twelve notes of the chromatic scale are treated as equal. The technique broke with the major-minor key system and strongly influenced 20th-century classical music.",
+    "url": "https://en.wikipedia.org/wiki/Twelve-tone_technique"
   },
   {
     "title": "The Four Seasons",
-    "body": "Antonio Vivaldi published these four violin concertos in 1725, each paired with a sonnet describing a season. Birdsong, storms and shivering are depicted in the music, making it an early and famous example of programme music."
+    "body": "Antonio Vivaldi published these four violin concertos in 1725, each paired with a sonnet describing a season. Birdsong, storms and shivering are depicted in the music, making it an early and famous example of programme music.",
+    "url": "https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi)"
   },
   {
     "title": "The Symphony Orchestra",
-    "body": "A modern orchestra has four sections: strings, woodwind, brass and percussion. Its core form took shape in the Classical era and grew larger through the 19th century."
+    "body": "A modern orchestra has four sections: strings, woodwind, brass and percussion. Its core form took shape in the Classical era and grew larger through the 19th century.",
+    "url": "https://en.wikipedia.org/wiki/Orchestra"
   },
   {
     "title": "Gregorian Chant",
-    "body": "Gregorian chant is the unaccompanied, single-line singing of the medieval Western Church. It is named after Pope Gregory I, although it largely developed after his time. Its notation laid the groundwork for Western musical notation."
+    "body": "Gregorian chant is the unaccompanied, single-line singing of the medieval Western Church. It is named after Pope Gregory I, although it largely developed after his time. Its notation laid the groundwork for Western musical notation.",
+    "url": "https://en.wikipedia.org/wiki/Gregorian_chant"
   },
   {
     "title": "The Blues",
-    "body": "The blues grew out of African American communities in the American South, notably the Mississippi Delta, around the turn of the 20th century. The twelve-bar form and 'blue notes' became the foundation of rhythm and blues, rock and roll and much later popular music."
+    "body": "The blues grew out of African American communities in the American South, notably the Mississippi Delta, around the turn of the 20th century. The twelve-bar form and 'blue notes' became the foundation of rhythm and blues, rock and roll and much later popular music.",
+    "url": "https://en.wikipedia.org/wiki/Blues"
   },
   {
     "title": "Handel's Messiah",
-    "body": "George Frideric Handel's oratorio was first performed in Dublin in 1742. Its Hallelujah chorus is one of the most famous pieces of choral music, and the work is still performed every Christmas and Easter around the world."
+    "body": "George Frideric Handel's oratorio was first performed in Dublin in 1742. Its Hallelujah chorus is one of the most famous pieces of choral music, and the work is still performed every Christmas and Easter around the world.",
+    "url": "https://en.wikipedia.org/wiki/Messiah_(Handel)"
   },
   {
     "title": "Wagner's Ring Cycle",
-    "body": "Der Ring des Nibelungen is four operas lasting around 15 hours in total. Richard Wagner built the music on leitmotifs, recurring themes tied to characters and ideas, and had a theatre built in Bayreuth for its first full performance in 1876."
+    "body": "Der Ring des Nibelungen is four operas lasting around 15 hours in total. Richard Wagner built the music on leitmotifs, recurring themes tied to characters and ideas, and had a theatre built in Bayreuth for its first full performance in 1876.",
+    "url": "https://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen"
   },
   {
     "title": "Guido of Arezzo",
-    "body": "The 11th-century monk Guido of Arezzo developed the use of staff lines to show pitch and named the notes of the scale with syllables (ut, re, mi, fa, sol, la). His innovations made it possible to learn music from the page rather than only by ear."
+    "body": "The 11th-century monk Guido of Arezzo developed the use of staff lines to show pitch and named the notes of the scale with syllables (ut, re, mi, fa, sol, la). His innovations made it possible to learn music from the page rather than only by ear.",
+    "url": "https://en.wikipedia.org/wiki/Guido_of_Arezzo"
   },
   {
     "title": "The Beatles",
-    "body": "Formed in Liverpool, the Beatles dominated popular music in the 1960s. With albums such as Sgt. Pepper's Lonely Hearts Club Band (1967) they used the studio itself as an instrument. The group split up in 1970."
+    "body": "Formed in Liverpool, the Beatles dominated popular music in the 1960s. With albums such as Sgt. Pepper's Lonely Hearts Club Band (1967) they used the studio itself as an instrument. The group split up in 1970.",
+    "url": "https://en.wikipedia.org/wiki/The_Beatles"
   },
   {
     "title": "The Bells of Marquis Yi",
-    "body": "The tomb of Marquis Yi of Zeng, sealed around 433 BC and excavated in Hubei in 1978, held a set of more than 60 bronze bells hung on a wooden frame. Each bell sounds two distinct pitches depending on where it is struck, and inscriptions name the notes and tuning systems. The set reveals the sophistication of music theory in early China."
+    "body": "The tomb of Marquis Yi of Zeng, sealed around 433 BC and excavated in Hubei in 1978, held a set of more than 60 bronze bells hung on a wooden frame. Each bell sounds two distinct pitches depending on where it is struck, and inscriptions name the notes and tuning systems. The set reveals the sophistication of music theory in early China.",
+    "url": "https://en.wikipedia.org/wiki/Bianzhong_of_Marquis_Yi_of_Zeng"
   },
   {
     "title": "The Tala",
-    "body": "A tala is a rhythmic cycle in Indian classical music, such as the sixteen-beat teental of the north or the eight-beat adi tala of the south. The cycle repeats throughout a performance, and musicians converge on its first beat, the sam, after complex rhythmic play. Tala is kept by drummers on the tabla or mridangam and often counted with claps and waves of the hand."
+    "body": "A tala is a rhythmic cycle in Indian classical music, such as the sixteen-beat teental of the north or the eight-beat adi tala of the south. The cycle repeats throughout a performance, and musicians converge on its first beat, the sam, after complex rhythmic play. Tala is kept by drummers on the tabla or mridangam and often counted with claps and waves of the hand.",
+    "url": "https://en.wikipedia.org/wiki/Tala_(music)"
   },
   {
     "title": "Shashmaqam",
-    "body": "Shashmaqam, meaning 'six maqams', is a classical music tradition of Central Asia whose historical centre is the city of Bukhara. Shared by Tajik, Uzbek and Bukharan Jewish musicians, it consists of long suites of song and instrumental pieces on Persian and Turkic poetry. It is played on instruments such as the long-necked tanbur and the doira frame drum."
+    "body": "Shashmaqam, meaning 'six maqams', is a classical music tradition of Central Asia whose historical centre is the city of Bukhara. Shared by Tajik, Uzbek and Bukharan Jewish musicians, it consists of long suites of song and instrumental pieces on Persian and Turkic poetry. It is played on instruments such as the long-necked tanbur and the doira frame drum.",
+    "url": "https://en.wikipedia.org/wiki/Shashmaqam"
   },
   {
     "title": "Bossa Nova",
-    "body": "Bossa nova emerged in Rio de Janeiro in the late 1950s, blending samba rhythm with cool jazz harmony and a soft, intimate singing style. João Gilberto, Antônio Carlos Jobim and Vinicius de Moraes were among its key creators. 'The Girl from Ipanema' made it an international phenomenon in the 1960s."
+    "body": "Bossa nova emerged in Rio de Janeiro in the late 1950s, blending samba rhythm with cool jazz harmony and a soft, intimate singing style. João Gilberto, Antônio Carlos Jobim and Vinicius de Moraes were among its key creators. 'The Girl from Ipanema' made it an international phenomenon in the 1960s.",
+    "url": "https://en.wikipedia.org/wiki/Bossa_nova"
   },
   {
     "title": "Giuseppe Verdi",
-    "body": "Verdi (1813–1901) dominated Italian opera for half a century with works such as Rigoletto, La traviata, Aida and Otello. His dramatic melodies made opera popular theatre. The chorus 'Va, pensiero' from Nabucco became linked with Italian national feeling, although historians debate how far his operas were political at the time."
+    "body": "Verdi (1813–1901) dominated Italian opera for half a century with works such as Rigoletto, La traviata, Aida and Otello. His dramatic melodies made opera popular theatre. The chorus 'Va, pensiero' from Nabucco became linked with Italian national feeling, although historians debate how far his operas were political at the time.",
+    "url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi"
   },
   {
     "title": "Fela Kuti and Afrobeat",
-    "body": "In Lagos in the late 1960s and 1970s, Fela Kuti, with the drummer Tony Allen, created Afrobeat, mixing highlife, jazz, funk and Yoruba rhythms. His long songs attacked corruption and Nigeria's military governments, which repeatedly persecuted him. Afrobeat became a major influence on music in Africa and beyond."
+    "body": "In Lagos in the late 1960s and 1970s, Fela Kuti, with the drummer Tony Allen, created Afrobeat, mixing highlife, jazz, funk and Yoruba rhythms. His long songs attacked corruption and Nigeria's military governments, which repeatedly persecuted him. Afrobeat became a major influence on music in Africa and beyond.",
+    "url": "https://en.wikipedia.org/wiki/Afrobeat"
   },
   {
     "title": "Major and Minor Keys",
-    "body": "During the 17th century the medieval church modes gave way to the major-minor system, in which music is centred on a home note, the tonic. Harmony creates tension that is resolved by returning to it, typically through the dominant chord. This tonal system underpinned Western music from the Baroque era onwards and still shapes most popular music."
+    "body": "During the 17th century the medieval church modes gave way to the major-minor system, in which music is centred on a home note, the tonic. Harmony creates tension that is resolved by returning to it, typically through the dominant chord. This tonal system underpinned Western music from the Baroque era onwards and still shapes most popular music.",
+    "url": "https://en.wikipedia.org/wiki/Major_and_minor"
   },
   {
     "title": "Umm Kulthum",
-    "body": "Umm Kulthum (around 1904–1975) was one of the most celebrated singers of the Arab world. Her monthly concerts in Cairo were broadcast across the region, with single songs lasting an hour or more as she varied and repeated lines to build emotion. Her funeral drew vast crowds, a measure of her place in 20th-century Arab culture."
+    "body": "Umm Kulthum (around 1904–1975) was one of the most celebrated singers of the Arab world. Her monthly concerts in Cairo were broadcast across the region, with single songs lasting an hour or more as she varied and repeated lines to build emotion. Her funeral drew vast crowds, a measure of her place in 20th-century Arab culture.",
+    "url": "https://en.wikipedia.org/wiki/Umm_Kulthum"
   },
   {
     "title": "Vedic Chant",
-    "body": "The Vedas, the oldest scriptures of Hinduism, have been passed on orally for around three thousand years through precise chanting. The Samaveda arranges hymns specifically for melodic singing, and elaborate memorisation techniques kept the texts and their pitch accents stable. Indian tradition regards the Samaveda as a root of Indian classical music."
+    "body": "The Vedas, the oldest scriptures of Hinduism, have been passed on orally for around three thousand years through precise chanting. The Samaveda arranges hymns specifically for melodic singing, and elaborate memorisation techniques kept the texts and their pitch accents stable. Indian tradition regards the Samaveda as a root of Indian classical music.",
+    "url": "https://en.wikipedia.org/wiki/Vedic_chant"
   },
   {
     "title": "Bebop",
-    "body": "Bebop developed in New York in the 1940s around Charlie Parker, Dizzy Gillespie and Thelonious Monk. With fast tempos, complex harmonies and virtuoso improvisation in small groups, it turned jazz from dance music into art music for listening. It set the foundation for modern jazz."
+    "body": "Bebop developed in New York in the 1940s around Charlie Parker, Dizzy Gillespie and Thelonious Monk. With fast tempos, complex harmonies and virtuoso improvisation in small groups, it turned jazz from dance music into art music for listening. It set the foundation for modern jazz.",
+    "url": "https://en.wikipedia.org/wiki/Bebop"
   },
   {
     "title": "The Sitar",
-    "body": "The sitar is a long-necked lute of Hindustani classical music, with a gourd resonator, movable curved frets and sympathetic strings that ring when the main strings are played. It took its form in northern India in the Mughal period, though its exact origins are debated. Its frets allow the player to pull strings to bend notes and shape the ornaments of a raga."
+    "body": "The sitar is a long-necked lute of Hindustani classical music, with a gourd resonator, movable curved frets and sympathetic strings that ring when the main strings are played. It took its form in northern India in the Mughal period, though its exact origins are debated. Its frets allow the player to pull strings to bend notes and shape the ornaments of a raga.",
+    "url": "https://en.wikipedia.org/wiki/Sitar"
   },
   {
     "title": "Arabic Maqam",
-    "body": "A maqam is a melodic mode of Arabic music, defined by its scale, typical phrases and character. Some maqams use intervals between a semitone and a whole tone, often described as quarter tones. Musicians move between maqams within a piece, and improvise on them in solo preludes called taqsim."
+    "body": "A maqam is a melodic mode of Arabic music, defined by its scale, typical phrases and character. Some maqams use intervals between a semitone and a whole tone, often described as quarter tones. Musicians move between maqams within a piece, and improvise on them in solo preludes called taqsim.",
+    "url": "https://en.wikipedia.org/wiki/Arabic_maqam"
   },
   {
     "title": "Claude Debussy",
-    "body": "Debussy (1862–1918) broke with traditional harmony in works such as Prélude à l'après-midi d'un faune and La Mer, using whole-tone and pentatonic scales and chords valued for their colour. Hearing a Javanese gamelan in Paris in 1889 influenced him. He is often called an Impressionist, a label he disliked, and his work opened the way to 20th-century music."
+    "body": "Debussy (1862–1918) broke with traditional harmony in works such as Prélude à l'après-midi d'un faune and La Mer, using whole-tone and pentatonic scales and chords valued for their colour. Hearing a Javanese gamelan in Paris in 1889 influenced him. He is often called an Impressionist, a label he disliked, and his work opened the way to 20th-century music.",
+    "url": "https://en.wikipedia.org/wiki/Claude_Debussy"
   },
   {
     "title": "K-pop",
-    "body": "K-pop is South Korean pop music produced by agencies that train singers and dancers for years before their debut. Its modern form is often traced to Seo Taiji and Boys in 1992. In the 21st century, through the internet and acts such as BTS, it became a global phenomenon and a pillar of South Korea's cultural influence."
+    "body": "K-pop is South Korean pop music produced by agencies that train singers and dancers for years before their debut. Its modern form is often traced to Seo Taiji and Boys in 1992. In the 21st century, through the internet and acts such as BTS, it became a global phenomenon and a pillar of South Korea's cultural influence.",
+    "url": "https://en.wikipedia.org/wiki/K-pop"
   },
   {
     "title": "John Cage's 4′33″",
-    "body": "In 1952 the pianist David Tudor premiered John Cage's 4′33″, in which the performer plays nothing for three movements. The piece consists of whatever sounds occur in the room. It challenged the boundary between music and noise and remains a central reference in debates about what music is."
+    "body": "In 1952 the pianist David Tudor premiered John Cage's 4′33″, in which the performer plays nothing for three movements. The piece consists of whatever sounds occur in the room. It challenged the boundary between music and noise and remains a central reference in debates about what music is.",
+    "url": "https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3"
   },
   {
     "title": "Gagaku",
-    "body": "Gagaku is the court music of Japan, built largely on music imported from China and Korea from about the 6th century and established at court by the 8th. Played by instruments such as the shō mouth organ, the hichiriki oboe, flutes, lutes, zithers and drums, it has been maintained at the imperial court for more than a thousand years. It is often described as one of the oldest orchestral traditions still performed."
+    "body": "Gagaku is the court music of Japan, built largely on music imported from China and Korea from about the 6th century and established at court by the 8th. Played by instruments such as the shō mouth organ, the hichiriki oboe, flutes, lutes, zithers and drums, it has been maintained at the imperial court for more than a thousand years. It is often described as one of the oldest orchestral traditions still performed.",
+    "url": "https://en.wikipedia.org/wiki/Gagaku"
   },
   {
     "title": "Giovanni Pierluigi da Palestrina",
-    "body": "Palestrina (around 1525–1594) spent his career in Rome writing polyphonic sacred music, including the Missa Papae Marcelli. A popular legend that this mass persuaded the Council of Trent not to ban polyphony is unfounded. His smooth, clear voice-leading became the model for teaching counterpoint for centuries."
+    "body": "Palestrina (around 1525–1594) spent his career in Rome writing polyphonic sacred music, including the Missa Papae Marcelli. A popular legend that this mass persuaded the Council of Trent not to ban polyphony is unfounded. His smooth, clear voice-leading became the model for teaching counterpoint for centuries.",
+    "url": "https://en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina"
   },
   {
     "title": "Consonance and Dissonance",
-    "body": "Consonant intervals sound stable and at rest, while dissonant ones sound tense and seem to require resolution. Intervals with simple frequency ratios tend to be heard as consonant, but the boundary is partly cultural. Medieval theorists treated thirds as imperfect, while later Western harmony was built on them."
+    "body": "Consonant intervals sound stable and at rest, while dissonant ones sound tense and seem to require resolution. Intervals with simple frequency ratios tend to be heard as consonant, but the boundary is partly cultural. Medieval theorists treated thirds as imperfect, while later Western harmony was built on them.",
+    "url": "https://en.wikipedia.org/wiki/Consonance_and_dissonance"
   },
   {
     "title": "The Notre-Dame School",
-    "body": "Around 1200, composers linked to Notre-Dame cathedral in Paris, notably Léonin and Pérotin, elaborated plainchant into organum by adding new voices above it. Pérotin wrote pieces for up to four voices. Their use of rhythmic patterns in notation was a decisive step towards the measured polyphony at the heart of later Western music."
+    "body": "Around 1200, composers linked to Notre-Dame cathedral in Paris, notably Léonin and Pérotin, elaborated plainchant into organum by adding new voices above it. Pérotin wrote pieces for up to four voices. Their use of rhythmic patterns in notation was a decisive step towards the measured polyphony at the heart of later Western music.",
+    "url": "https://en.wikipedia.org/wiki/Notre-Dame_school"
   },
   {
     "title": "Ravi Shankar",
-    "body": "Ravi Shankar (1920–2012) was a sitar virtuoso who brought Indian classical music to Western audiences. He collaborated with the violinist Yehudi Menuhin, taught George Harrison of the Beatles and played at the Monterey and Woodstock festivals. With Harrison he organised the Concert for Bangladesh in 1971."
+    "body": "Ravi Shankar (1920–2012) was a sitar virtuoso who brought Indian classical music to Western audiences. He collaborated with the violinist Yehudi Menuhin, taught George Harrison of the Beatles and played at the Monterey and Woodstock festivals. With Harrison he organised the Concert for Bangladesh in 1971.",
+    "url": "https://en.wikipedia.org/wiki/Ravi_Shankar"
   },
   {
     "title": "Reggaeton",
-    "body": "Reggaeton grew out of Puerto Rico in the 1990s, drawing on Spanish-language reggae from Panama, Jamaican dancehall and hip hop. Its signature is the dembow rhythm. Daddy Yankee's 'Gasolina' (2004) took it to a global audience, making Spanish-language pop a major force in world music in the 21st century."
+    "body": "Reggaeton grew out of Puerto Rico in the 1990s, drawing on Spanish-language reggae from Panama, Jamaican dancehall and hip hop. Its signature is the dembow rhythm. Daddy Yankee's 'Gasolina' (2004) took it to a global audience, making Spanish-language pop a major force in world music in the 21st century.",
+    "url": "https://en.wikipedia.org/wiki/Reggaeton"
   },
   {
     "title": "Peking Opera",
-    "body": "Peking opera took shape in Beijing in the 19th century, after regional troupes from Anhui arrived in the capital in 1790. It combines singing, speech, mime, acrobatics and stylised movement, with fixed role types and painted faces that signal character. The performer Mei Lanfang made it known abroad in the 20th century."
+    "body": "Peking opera took shape in Beijing in the 19th century, after regional troupes from Anhui arrived in the capital in 1790. It combines singing, speech, mime, acrobatics and stylised movement, with fixed role types and painted faces that signal character. The performer Mei Lanfang made it known abroad in the 20th century.",
+    "url": "https://en.wikipedia.org/wiki/Peking_opera"
   },
   {
     "title": "The Persian Dastgah",
-    "body": "Persian classical music is organised into a system of modal groups called dastgahs. Their melodies are preserved in the radif, a large repertoire of short pieces passed from master to pupil and memorised over many years. Performers improvise on this material on instruments such as the tar, setar, santur and kamancheh."
+    "body": "Persian classical music is organised into a system of modal groups called dastgahs. Their melodies are preserved in the radif, a large repertoire of short pieces passed from master to pupil and memorised over many years. Performers improvise on this material on instruments such as the tar, setar, santur and kamancheh.",
+    "url": "https://en.wikipedia.org/wiki/Dastgah"
   },
   {
     "title": "The Troubadours",
-    "body": "The troubadours were poet-musicians of the 12th and 13th centuries in Occitania, in what is now southern France. Singing in Occitan, they developed the ideal of courtly love, and William IX, Duke of Aquitaine, is the earliest known of them. Their art inspired the trouvères of northern France and the Minnesänger of Germany."
+    "body": "The troubadours were poet-musicians of the 12th and 13th centuries in Occitania, in what is now southern France. Singing in Occitan, they developed the ideal of courtly love, and William IX, Duke of Aquitaine, is the earliest known of them. Their art inspired the trouvères of northern France and the Minnesänger of Germany.",
+    "url": "https://en.wikipedia.org/wiki/Troubadour"
   },
   {
     "title": "The Natya Shastra",
-    "body": "This Sanskrit treatise on the performing arts, attributed to the sage Bharata, is most often dated to between about 200 BC and 200 AD, though estimates vary widely. It covers drama, dance and music, describing scales, the 22 microtonal shrutis of the octave and families of instruments. Its theory of rasa, the emotional flavour a performance evokes, still underpins Indian classical music and dance."
+    "body": "This Sanskrit treatise on the performing arts, attributed to the sage Bharata, is most often dated to between about 200 BC and 200 AD, though estimates vary widely. It covers drama, dance and music, describing scales, the 22 microtonal shrutis of the octave and families of instruments. Its theory of rasa, the emotional flavour a performance evokes, still underpins Indian classical music and dance.",
+    "url": "https://en.wikipedia.org/wiki/Natya_Shastra"
   },
   {
     "title": "Miriam Makeba",
-    "body": "Miriam Makeba (1932–2008), known as 'Mama Africa', was a South African singer who brought African music to a world audience with songs such as 'Pata Pata'. Exiled from 1960 after appearing in an anti-apartheid film, she spoke against apartheid before the United Nations. She returned home in 1990."
+    "body": "Miriam Makeba (1932–2008), known as 'Mama Africa', was a South African singer who brought African music to a world audience with songs such as 'Pata Pata'. Exiled from 1960 after appearing in an anti-apartheid film, she spoke against apartheid before the United Nations. She returned home in 1990.",
+    "url": "https://en.wikipedia.org/wiki/Miriam_Makeba"
   },
   {
     "title": "Tchaikovsky's Ballets",
-    "body": "Pyotr Ilyich Tchaikovsky wrote Swan Lake (1877), The Sleeping Beauty (1890) and The Nutcracker (1892). Before him, ballet music was often seen as mere accompaniment, but he gave it symphonic depth and memorable melody. The three works remain at the core of the classical ballet repertoire."
+    "body": "Pyotr Ilyich Tchaikovsky wrote Swan Lake (1877), The Sleeping Beauty (1890) and The Nutcracker (1892). Before him, ballet music was often seen as mere accompaniment, but he gave it symphonic depth and memorable melody. The three works remain at the core of the classical ballet repertoire.",
+    "url": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky"
   },
   {
     "title": "Pansori",
-    "body": "Pansori is Korean musical storytelling for one singer and one drummer, who keeps rhythm on a barrel drum and calls out encouragement. Emerging in south-western Korea in the 17th century, it can be performed in full over several hours. The singer moves between song, speech and gesture, with a rough, powerful voice trained through years of practice."
+    "body": "Pansori is Korean musical storytelling for one singer and one drummer, who keeps rhythm on a barrel drum and calls out encouragement. Emerging in south-western Korea in the 17th century, it can be performed in full over several hours. The singer moves between song, speech and gesture, with a rough, powerful voice trained through years of practice.",
+    "url": "https://en.wikipedia.org/wiki/Pansori"
   },
   {
     "title": "The Rite of Spring",
-    "body": "Igor Stravinsky's ballet, depicting a pagan sacrifice, was first performed by the Ballets Russes in Paris in 1913. Its pounding irregular rhythms, dissonance and Nijinsky's choreography caused an uproar in the theatre. It became one of the defining works of musical modernism."
+    "body": "Igor Stravinsky's ballet, depicting a pagan sacrifice, was first performed by the Ballets Russes in Paris in 1913. Its pounding irregular rhythms, dissonance and Nijinsky's choreography caused an uproar in the theatre. It became one of the defining works of musical modernism.",
+    "url": "https://en.wikipedia.org/wiki/The_Rite_of_Spring"
   },
   {
     "title": "The Pentatonic Scale",
-    "body": "A pentatonic scale has five notes per octave, like the black keys of a piano. It is found in traditional music around the world, from China and Japan to West Africa, Scotland and the Andes, and in the blues. Because it avoids semitones, its notes rarely clash, which makes it easy to sing and improvise in."
+    "body": "A pentatonic scale has five notes per octave, like the black keys of a piano. It is found in traditional music around the world, from China and Japan to West Africa, Scotland and the Andes, and in the blues. Because it avoids semitones, its notes rarely clash, which makes it easy to sing and improvise in.",
+    "url": "https://en.wikipedia.org/wiki/Pentatonic_scale"
   },
   {
     "title": "Kind of Blue",
-    "body": "Miles Davis recorded Kind of Blue in 1959 with John Coltrane, Cannonball Adderley and Bill Evans. Instead of rapid chord changes, the improvisations unfold over a few scales, or modes, giving the music space and calm. It is one of the most influential jazz albums and the record that popularised modal jazz."
+    "body": "Miles Davis recorded Kind of Blue in 1959 with John Coltrane, Cannonball Adderley and Bill Evans. Instead of rapid chord changes, the improvisations unfold over a few scales, or modes, giving the music space and calm. It is one of the most influential jazz albums and the record that popularised modal jazz.",
+    "url": "https://en.wikipedia.org/wiki/Kind_of_Blue"
   },
   {
     "title": "Al-Farabi's Great Book of Music",
-    "body": "The philosopher al-Farabi, who died around 950, wrote the Kitab al-Musiqa al-Kabir, a systematic treatise on music theory. Drawing on Greek theory and on the practice of his time, it analyses intervals, scales, rhythm and instruments such as the oud. It became a foundation of music theory in the Islamic world."
+    "body": "The philosopher al-Farabi, who died around 950, wrote the Kitab al-Musiqa al-Kabir, a systematic treatise on music theory. Drawing on Greek theory and on the practice of his time, it analyses intervals, scales, rhythm and instruments such as the oud. It became a foundation of music theory in the Islamic world.",
+    "url": "https://en.wikipedia.org/wiki/Al-Farabi"
   },
   {
     "title": "Basso Continuo",
-    "body": "Basso continuo is the bass line that runs through almost all Baroque music, from about 1600 to 1750. A bass instrument plays it while a harpsichord, organ or lute improvises chords from numbers written above the notes, known as figured bass. It gave music a firm harmonic foundation from Monteverdi to Bach and Handel."
+    "body": "Basso continuo is the bass line that runs through almost all Baroque music, from about 1600 to 1750. A bass instrument plays it while a harpsichord, organ or lute improvises chords from numbers written above the notes, known as figured bass. It gave music a firm harmonic foundation from Monteverdi to Bach and Handel.",
+    "url": "https://en.wikipedia.org/wiki/Figured_bass"
   },
   {
     "title": "Gamelan",
-    "body": "A gamelan is an Indonesian ensemble, especially from Java and Bali, made up mainly of bronze gongs, metallophones and drums. It uses two tuning systems, the five-note slendro and the seven-note pelog, and each set of instruments is tuned as a unique whole. Interlocking parts and layered cycles marked by gongs give the music its shimmering texture."
+    "body": "A gamelan is an Indonesian ensemble, especially from Java and Bali, made up mainly of bronze gongs, metallophones and drums. It uses two tuning systems, the five-note slendro and the seven-note pelog, and each set of instruments is tuned as a unique whole. Interlocking parts and layered cycles marked by gongs give the music its shimmering texture.",
+    "url": "https://en.wikipedia.org/wiki/Gamelan"
   },
   {
     "title": "Ludwig van Beethoven",
-    "body": "Beethoven (1770–1827) bridged the Classical and Romantic eras. He wrote nine symphonies, 32 piano sonatas and string quartets that expanded the scale and expressive range of each genre. He began losing his hearing in his late twenties and composed many of his greatest works, including the late quartets, while almost completely deaf."
+    "body": "Beethoven (1770–1827) bridged the Classical and Romantic eras. He wrote nine symphonies, 32 piano sonatas and string quartets that expanded the scale and expressive range of each genre. He began losing his hearing in his late twenties and composed many of his greatest works, including the late quartets, while almost completely deaf.",
+    "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
   },
   {
     "title": "Heitor Villa-Lobos",
-    "body": "Villa-Lobos (1887–1959) is the best-known Brazilian composer of the 20th century. He combined European forms with Brazilian folk and popular music, most famously in the Bachianas Brasileiras, which fuse Bach's style with Brazilian idioms. He also shaped music education in Brazil."
+    "body": "Villa-Lobos (1887–1959) is the best-known Brazilian composer of the 20th century. He combined European forms with Brazilian folk and popular music, most famously in the Bachianas Brasileiras, which fuse Bach's style with Brazilian idioms. He also shaped music education in Brazil.",
+    "url": "https://en.wikipedia.org/wiki/Heitor_Villa-Lobos"
   },
   {
     "title": "The Guqin",
-    "body": "The guqin is a seven-string plucked zither that has been played in China for more than two thousand years. Associated with Confucius and the ideal of the cultivated scholar, it was valued as a means of self-cultivation rather than entertainment. Its subtle sliding tones are recorded in a special tablature that records strings, finger positions and techniques but not rhythm."
+    "body": "The guqin is a seven-string plucked zither that has been played in China for more than two thousand years. Associated with Confucius and the ideal of the cultivated scholar, it was valued as a means of self-cultivation rather than entertainment. Its subtle sliding tones are recorded in a special tablature that records strings, finger positions and techniques but not rhythm.",
+    "url": "https://en.wikipedia.org/wiki/Guqin"
   },
   {
     "title": "Gospel Music",
-    "body": "Gospel music developed in African American churches in the early 20th century, combining hymns, spirituals and blues. Thomas A. Dorsey in Chicago shaped the genre from the 1930s, and Mahalia Jackson became its best-known voice. Its vocal style was the direct source of soul music, through singers such as Aretha Franklin and Sam Cooke."
+    "body": "Gospel music developed in African American churches in the early 20th century, combining hymns, spirituals and blues. Thomas A. Dorsey in Chicago shaped the genre from the 1930s, and Mahalia Jackson became its best-known voice. Its vocal style was the direct source of soul music, through singers such as Aretha Franklin and Sam Cooke.",
+    "url": "https://en.wikipedia.org/wiki/Gospel_music"
   },
   {
     "title": "The Oud",
-    "body": "The oud is a short-necked, fretless lute with a pear-shaped body, central to Arabic, Turkish and Persian music. Being fretless, it can produce the microtonal intervals of the maqam system. Its Arabic name, al-ʿud, passed through Spain into European languages as 'lute', and the European lute descends from it."
+    "body": "The oud is a short-necked, fretless lute with a pear-shaped body, central to Arabic, Turkish and Persian music. Being fretless, it can produce the microtonal intervals of the maqam system. Its Arabic name, al-ʿud, passed through Spain into European languages as 'lute', and the European lute descends from it.",
+    "url": "https://en.wikipedia.org/wiki/Oud"
   },
   {
     "title": "Metre and Time Signatures",
-    "body": "Metre is the regular grouping of beats into strong and weak, which listeners feel as the pulse of the music. In Western notation a time signature such as 3/4 (a waltz) or 4/4 states how many beats are in a bar. Many traditions use more complex patterns, such as the additive metres of Balkan dances or the rhythmic cycles of Indian music."
+    "body": "Metre is the regular grouping of beats into strong and weak, which listeners feel as the pulse of the music. In Western notation a time signature such as 3/4 (a waltz) or 4/4 states how many beats are in a bar. Many traditions use more complex patterns, such as the additive metres of Balkan dances or the rhythmic cycles of Indian music.",
+    "url": "https://en.wikipedia.org/wiki/Metre_(music)"
   },
   {
     "title": "Motown",
-    "body": "Berry Gordy founded Motown in Detroit in 1959. With artists such as the Supremes, Marvin Gaye, Stevie Wonder and the Temptations, and a house band known as the Funk Brothers, it produced a polished soul sound that topped charts across racial lines. It became one of the most successful Black-owned businesses in America in its era."
+    "body": "Berry Gordy founded Motown in Detroit in 1959. With artists such as the Supremes, Marvin Gaye, Stevie Wonder and the Temptations, and a house band known as the Funk Brothers, it produced a polished soul sound that topped charts across racial lines. It became one of the most successful Black-owned businesses in America in its era.",
+    "url": "https://en.wikipedia.org/wiki/Motown"
   },
   {
     "title": "The Shakuhachi",
-    "body": "The shakuhachi is an end-blown Japanese bamboo flute derived from Chinese models. In the Edo period it was played by monks of the Fuke sect of Zen as a form of meditation through breathing, known as suizen. Its breathy tone and bending pitches make it one of the most recognisable sounds of Japanese music."
+    "body": "The shakuhachi is an end-blown Japanese bamboo flute derived from Chinese models. In the Edo period it was played by monks of the Fuke sect of Zen as a form of meditation through breathing, known as suizen. Its breathy tone and bending pitches make it one of the most recognisable sounds of Japanese music.",
+    "url": "https://en.wikipedia.org/wiki/Shakuhachi"
   },
   {
     "title": "The Lyres of Ur",
-    "body": "In the 1920s Leonard Woolley excavated the Royal Cemetery of Ur in southern Iraq and found several lyres from around 2500 BC. Decorated with bulls' heads of gold and lapis lazuli, they are among the oldest surviving stringed instruments and show that music had a central place in Sumerian court and ritual life."
+    "body": "In the 1920s Leonard Woolley excavated the Royal Cemetery of Ur in southern Iraq and found several lyres from around 2500 BC. Decorated with bulls' heads of gold and lapis lazuli, they are among the oldest surviving stringed instruments and show that music had a central place in Sumerian court and ritual life.",
+    "url": "https://en.wikipedia.org/wiki/Lyres_of_Ur"
   },
   {
     "title": "Rock and Roll",
-    "body": "Rock and roll emerged in the United States in the mid-1950s from rhythm and blues, country and gospel. Chuck Berry, Little Richard and Elvis Presley made the electric guitar and a strong backbeat central to popular music. It became the soundtrack of a new youth culture and the basis of rock music."
+    "body": "Rock and roll emerged in the United States in the mid-1950s from rhythm and blues, country and gospel. Chuck Berry, Little Richard and Elvis Presley made the electric guitar and a strong backbeat central to popular music. It became the soundtrack of a new youth culture and the basis of rock music.",
+    "url": "https://en.wikipedia.org/wiki/Rock_and_roll"
   },
   {
     "title": "The Tango",
-    "body": "The tango arose in the late 19th century in Buenos Aires and Montevideo, among immigrants and the urban working class of the Río de la Plata. The bandoneón, a German-made concertina, gave it its sound. Carlos Gardel made the sung tango famous, and Astor Piazzolla later brought jazz and classical elements into his nuevo tango."
+    "body": "The tango arose in the late 19th century in Buenos Aires and Montevideo, among immigrants and the urban working class of the Río de la Plata. The bandoneón, a German-made concertina, gave it its sound. Carlos Gardel made the sung tango famous, and Astor Piazzolla later brought jazz and classical elements into his nuevo tango.",
+    "url": "https://en.wikipedia.org/wiki/Tango"
   },
   {
     "title": "Indian Film Song",
-    "body": "Since the arrival of sound film in India in 1931, songs have been central to Indian cinema. Playback singers such as Lata Mangeshkar, Mohammed Rafi and Kishore Kumar recorded songs mimed by actors on screen. Film song became the main popular music of South Asia, blending Indian classical and folk elements with Western instruments."
+    "body": "Since the arrival of sound film in India in 1931, songs have been central to Indian cinema. Playback singers such as Lata Mangeshkar, Mohammed Rafi and Kishore Kumar recorded songs mimed by actors on screen. Film song became the main popular music of South Asia, blending Indian classical and folk elements with Western instruments.",
+    "url": "https://en.wikipedia.org/wiki/Hindi_film_music"
   },
   {
     "title": "The Angklung",
-    "body": "The angklung is a bamboo instrument from West Java made of tubes in a frame that sound a single pitch when shaken. Since each player usually holds one or two notes, a melody can only be played by a group working together. In the 20th century it was adapted to Western scales and widely used in Indonesian schools."
+    "body": "The angklung is a bamboo instrument from West Java made of tubes in a frame that sound a single pitch when shaken. Since each player usually holds one or two notes, a melody can only be played by a group working together. In the 20th century it was adapted to Western scales and widely used in Indonesian schools.",
+    "url": "https://en.wikipedia.org/wiki/Angklung"
   },
   {
     "title": "Romanticism in Music",
-    "body": "Romantic music, roughly spanning the 19th century, put emotion, individual expression, nature and national identity at its centre. Orchestras grew, harmony became more chromatic and programme music told stories, as in Berlioz's Symphonie fantastique of 1830. Composers came to be seen as inspired artists rather than craftsmen in service."
+    "body": "Romantic music, roughly spanning the 19th century, put emotion, individual expression, nature and national identity at its centre. Orchestras grew, harmony became more chromatic and programme music told stories, as in Berlioz's Symphonie fantastique of 1830. Composers came to be seen as inspired artists rather than craftsmen in service.",
+    "url": "https://en.wikipedia.org/wiki/Romantic_music"
   },
   {
     "title": "Congolese Rumba",
-    "body": "Congolese rumba developed in Léopoldville (Kinshasa) and Brazzaville from the 1940s, inspired by Cuban son records heard on radio. Built on interlocking electric guitars, it was led by figures such as Franco and Grand Kallé, whose 'Indépendance Cha Cha' greeted Congolese independence in 1960. It became hugely popular across much of Africa."
+    "body": "Congolese rumba developed in Léopoldville (Kinshasa) and Brazzaville from the 1940s, inspired by Cuban son records heard on radio. Built on interlocking electric guitars, it was led by figures such as Franco and Grand Kallé, whose 'Indépendance Cha Cha' greeted Congolese independence in 1960. It became hugely popular across much of Africa.",
+    "url": "https://en.wikipedia.org/wiki/Congolese_rumba"
   },
   {
     "title": "Schubert and the Lied",
-    "body": "Franz Schubert (1797–1828) wrote more than 600 songs for voice and piano before dying at 31. In works such as Erlkönig and the cycle Winterreise, the piano is an equal partner that depicts scenes and moods. He made the German art song, the Lied, a major genre of the Romantic era."
+    "body": "Franz Schubert (1797–1828) wrote more than 600 songs for voice and piano before dying at 31. In works such as Erlkönig and the cycle Winterreise, the piano is an equal partner that depicts scenes and moods. He made the German art song, the Lied, a major genre of the Romantic era.",
+    "url": "https://en.wikipedia.org/wiki/Lied"
   },
   {
     "title": "Reggae and Bob Marley",
-    "body": "Reggae developed in Jamaica in the late 1960s from ska and rocksteady, with accents on the offbeat and a prominent bass line. Its lyrics often carry the spirituality and social criticism of the Rastafari movement. Bob Marley and the Wailers made it a global music in the 1970s."
+    "body": "Reggae developed in Jamaica in the late 1960s from ska and rocksteady, with accents on the offbeat and a prominent bass line. Its lyrics often carry the spirituality and social criticism of the Rastafari movement. Bob Marley and the Wailers made it a global music in the 1970s.",
+    "url": "https://en.wikipedia.org/wiki/Reggae"
   },
   {
     "title": "Ars Nova and Machaut",
-    "body": "Ars nova, 'new art', names the French music of the 14th century, after a treatise associated with Philippe de Vitry that introduced more flexible rhythmic notation. Its leading figure, the poet-composer Guillaume de Machaut, wrote the Messe de Nostre Dame, the earliest complete polyphonic setting of the Mass Ordinary by a single known composer."
+    "body": "Ars nova, 'new art', names the French music of the 14th century, after a treatise associated with Philippe de Vitry that introduced more flexible rhythmic notation. Its leading figure, the poet-composer Guillaume de Machaut, wrote the Messe de Nostre Dame, the earliest complete polyphonic setting of the Mass Ordinary by a single known composer.",
+    "url": "https://en.wikipedia.org/wiki/Ars_nova"
   },
   {
     "title": "The Didgeridoo",
-    "body": "The didgeridoo is a wind instrument of Aboriginal peoples of northern Australia, made from a branch hollowed out by termites. Players use circular breathing to sustain a continuous drone, shaping it with the voice, lips and tongue. Known among the Yolŋu as the yidaki, it accompanies song and ceremony."
+    "body": "The didgeridoo is a wind instrument of Aboriginal peoples of northern Australia, made from a branch hollowed out by termites. Players use circular breathing to sustain a continuous drone, shaping it with the voice, lips and tongue. Known among the Yolŋu as the yidaki, it accompanies song and ceremony.",
+    "url": "https://en.wikipedia.org/wiki/Didgeridoo"
   },
   {
     "title": "Cristofori's Piano",
-    "body": "Around 1700, Bartolomeo Cristofori, instrument keeper to the Medici in Florence, built a keyboard whose strings were struck by hammers instead of plucked. It could play soft or loud according to touch, hence its name, gravicembalo col piano e forte. The piano went on to become the central instrument of Western music from the late 18th century."
+    "body": "Around 1700, Bartolomeo Cristofori, instrument keeper to the Medici in Florence, built a keyboard whose strings were struck by hammers instead of plucked. It could play soft or loud according to touch, hence its name, gravicembalo col piano e forte. The piano went on to become the central instrument of Western music from the late 18th century.",
+    "url": "https://en.wikipedia.org/wiki/Bartolomeo_Cristofori"
   },
   {
     "title": "Prehistoric Bone Flutes",
-    "body": "Flutes carved from bird bone and mammoth ivory, found in caves in southern Germany, are more than 35,000 years old and are among the oldest known musical instruments. At Jiahu in China, bone flutes about 9,000 years old have been excavated, some still playable. Such finds show that music is one of the oldest human activities."
+    "body": "Flutes carved from bird bone and mammoth ivory, found in caves in southern Germany, are more than 35,000 years old and are among the oldest known musical instruments. At Jiahu in China, bone flutes about 9,000 years old have been excavated, some still playable. Such finds show that music is one of the oldest human activities.",
+    "url": "https://en.wikipedia.org/wiki/Prehistoric_music"
   },
   {
     "title": "Polyrhythm",
-    "body": "Polyrhythm is the simultaneous use of contrasting rhythms, such as three beats against two. It is central to West and Central African drumming, where interlocking parts are often anchored by a repeating bell pattern. Carried to the Americas through the slave trade, it shaped Afro-Cuban music, jazz and much modern popular music."
+    "body": "Polyrhythm is the simultaneous use of contrasting rhythms, such as three beats against two. It is central to West and Central African drumming, where interlocking parts are often anchored by a repeating bell pattern. Carried to the Americas through the slave trade, it shaped Afro-Cuban music, jazz and much modern popular music.",
+    "url": "https://en.wikipedia.org/wiki/Polyrhythm"
   },
   {
     "title": "Béla Bartók",
-    "body": "The Hungarian composer Bartók (1881–1945) collected thousands of folk songs in Hungary, Romania, Slovakia and beyond, often with Zoltán Kodály and a phonograph. He absorbed their rhythms and modes into a modern style in works such as his six string quartets and the Concerto for Orchestra. He was also a pioneer of ethnomusicology."
+    "body": "The Hungarian composer Bartók (1881–1945) collected thousands of folk songs in Hungary, Romania, Slovakia and beyond, often with Zoltán Kodály and a phonograph. He absorbed their rhythms and modes into a modern style in works such as his six string quartets and the Concerto for Orchestra. He was also a pioneer of ethnomusicology.",
+    "url": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k"
   },
   {
     "title": "The Hurrian Hymn",
-    "body": "Clay tablets from Ugarit on the Syrian coast, dating from around 1400 BC, record Hurrian hymns together with cuneiform instructions for a lyre player. The best-preserved, a hymn to the goddess Nikkal, is often called the oldest substantially surviving notated melody. Scholars still disagree on how the notation should be read, so modern performances differ widely."
+    "body": "Clay tablets from Ugarit on the Syrian coast, dating from around 1400 BC, record Hurrian hymns together with cuneiform instructions for a lyre player. The best-preserved, a hymn to the goddess Nikkal, is often called the oldest substantially surviving notated melody. Scholars still disagree on how the notation should be read, so modern performances differ widely.",
+    "url": "https://en.wikipedia.org/wiki/Hurrian_songs"
   },
   {
     "title": "Frédéric Chopin",
-    "body": "Chopin (1810–1849) was a Polish composer and pianist who lived in Paris from 1831. He wrote almost exclusively for the piano, in forms such as nocturnes, études, ballades, mazurkas and polonaises, the last two drawing on Polish dances. His lyrical style and use of rubato transformed piano writing."
+    "body": "Chopin (1810–1849) was a Polish composer and pianist who lived in Paris from 1831. He wrote almost exclusively for the piano, in forms such as nocturnes, études, ballades, mazurkas and polonaises, the last two drawing on Polish dances. His lyrical style and use of rubato transformed piano writing.",
+    "url": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
   },
   {
     "title": "The Hornbostel–Sachs Classification",
-    "body": "In 1914 Erich von Hornbostel and Curt Sachs proposed classifying instruments by how they produce sound: idiophones (the body itself vibrates), membranophones (a stretched skin), chordophones (strings) and aerophones (air). Electrophones were added later. Because it does not depend on any one culture's categories, it is the standard system used in museums and ethnomusicology."
+    "body": "In 1914 Erich von Hornbostel and Curt Sachs proposed classifying instruments by how they produce sound: idiophones (the body itself vibrates), membranophones (a stretched skin), chordophones (strings) and aerophones (air). Electrophones were added later. Because it does not depend on any one culture's categories, it is the standard system used in museums and ethnomusicology.",
+    "url": "https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs"
   },
   {
     "title": "Saint Yared",
-    "body": "Yared was a 6th-century Ethiopian musician whom tradition credits with creating the sacred chant, zema, of the Ethiopian Orthodox Church. The chant is organised in three modes, ge'ez, ezel and araray, and is written with a system of notation signs. He is venerated as a saint and remains a national cultural figure in Ethiopia."
+    "body": "Yared was a 6th-century Ethiopian musician whom tradition credits with creating the sacred chant, zema, of the Ethiopian Orthodox Church. The chant is organised in three modes, ge'ez, ezel and araray, and is written with a system of notation signs. He is venerated as a saint and remains a national cultural figure in Ethiopia.",
+    "url": "https://en.wikipedia.org/wiki/Yared"
   },
   {
     "title": "Tōru Takemitsu",
-    "body": "Takemitsu (1930–1996) was one of Japan's most internationally renowned composers. Largely self-taught, he combined Western modernism with Japanese aesthetics, as in November Steps (1967) for biwa, shakuhachi and orchestra. He also wrote many film scores, including for Akira Kurosawa's Ran."
+    "body": "Takemitsu (1930–1996) was one of Japan's most internationally renowned composers. Largely self-taught, he combined Western modernism with Japanese aesthetics, as in November Steps (1967) for biwa, shakuhachi and orchestra. He also wrote many film scores, including for Akira Kurosawa's Ran.",
+    "url": "https://en.wikipedia.org/wiki/T%C5%8Dru_Takemitsu"
   },
   {
     "title": "The Violin Makers of Cremona",
-    "body": "In the 16th century Andrea Amati of Cremona, in northern Italy, gave the violin family its classic form. In the following generations Antonio Stradivari and Giuseppe Guarneri 'del Gesù' raised violin making to a level that later makers still try to match. Their instruments remain the most prized among concert soloists."
+    "body": "In the 16th century Andrea Amati of Cremona, in northern Italy, gave the violin family its classic form. In the following generations Antonio Stradivari and Giuseppe Guarneri 'del Gesù' raised violin making to a level that later makers still try to match. Their instruments remain the most prized among concert soloists.",
+    "url": "https://en.wikipedia.org/wiki/Amati"
   },
   {
     "title": "The Mevlevi Sema",
-    "body": "The Mevlevi order, founded in Konya by followers of the poet Rumi after his death in 1273, developed the sema, a ceremony in which dervishes turn in a whirling prayer. It is accompanied by the ney reed flute, drums and voices in long compositions. The ceremony became one of the high forms of Ottoman classical music."
+    "body": "The Mevlevi order, founded in Konya by followers of the poet Rumi after his death in 1273, developed the sema, a ceremony in which dervishes turn in a whirling prayer. It is accompanied by the ney reed flute, drums and voices in long compositions. The ceremony became one of the high forms of Ottoman classical music.",
+    "url": "https://en.wikipedia.org/wiki/Sufi_whirling"
   },
   {
     "title": "Pythagoras and Musical Ratios",
-    "body": "Greek tradition credits Pythagoras, in the 6th century BC, with discovering that consonant intervals match simple ratios of string length: 2:1 for the octave, 3:2 for the fifth and 4:3 for the fourth. Pythagorean tuning, built from pure fifths, followed from this. The idea that harmony is governed by number shaped Western music theory and the ancient notion of the music of the spheres."
+    "body": "Greek tradition credits Pythagoras, in the 6th century BC, with discovering that consonant intervals match simple ratios of string length: 2:1 for the octave, 3:2 for the fifth and 4:3 for the fourth. Pythagorean tuning, built from pure fifths, followed from this. The idea that harmony is governed by number shaped Western music theory and the ancient notion of the music of the spheres.",
+    "url": "https://en.wikipedia.org/wiki/Pythagorean_tuning"
   },
   {
     "title": "The Mbira",
-    "body": "The mbira is a lamellophone of the Shona people of Zimbabwe: metal keys fixed to a wooden board, plucked with the thumbs and often placed in a gourd resonator. It is played at all-night bira ceremonies to communicate with ancestral spirits. Two players typically interlock complementary parts to create a dense, cyclical texture."
+    "body": "The mbira is a lamellophone of the Shona people of Zimbabwe: metal keys fixed to a wooden board, plucked with the thumbs and often placed in a gourd resonator. It is played at all-night bira ceremonies to communicate with ancestral spirits. Two players typically interlock complementary parts to create a dense, cyclical texture.",
+    "url": "https://en.wikipedia.org/wiki/Mbira"
   },
   {
     "title": "The Ukulele",
-    "body": "The ukulele was developed in Hawaii in the 1880s from a small guitar-like instrument, the machete, brought by immigrants from Madeira. King Kalākaua encouraged its use in Hawaiian music. It spread to mainland America in the early 20th century and became a symbol of Hawaii worldwide."
+    "body": "The ukulele was developed in Hawaii in the 1880s from a small guitar-like instrument, the machete, brought by immigrants from Madeira. King Kalākaua encouraged its use in Hawaiian music. It spread to mainland America in the early 20th century and became a symbol of Hawaii worldwide.",
+    "url": "https://en.wikipedia.org/wiki/Ukulele"
   },
   {
     "title": "Rhapsody in Blue",
-    "body": "George Gershwin's Rhapsody in Blue for piano and jazz band was premiered in New York in 1924 at a concert by Paul Whiteman's orchestra. Opening with a famous clarinet glissando, it brought jazz into the concert hall. Gershwin later wrote the opera Porgy and Bess (1935)."
+    "body": "George Gershwin's Rhapsody in Blue for piano and jazz band was premiered in New York in 1924 at a concert by Paul Whiteman's orchestra. Opening with a famous clarinet glissando, it brought jazz into the concert hall. Gershwin later wrote the opera Porgy and Bess (1935).",
+    "url": "https://en.wikipedia.org/wiki/Rhapsody_in_Blue"
   },
   {
     "title": "Aboriginal Songlines",
-    "body": "Songlines are Aboriginal Australian song cycles that follow the tracks of ancestral beings across the land. A songline names landmarks, water sources and events in sequence, so that singing it serves as a map, a body of law and a history. They show music functioning as a store of knowledge in an oral culture."
+    "body": "Songlines are Aboriginal Australian song cycles that follow the tracks of ancestral beings across the land. A songline names landmarks, water sources and events in sequence, so that singing it serves as a map, a body of law and a history. They show music functioning as a store of knowledge in an oral culture.",
+    "url": "https://en.wikipedia.org/wiki/Songline"
   },
   {
     "title": "Musique Concrète",
-    "body": "In Paris in 1948, the radio engineer Pierre Schaeffer began composing with recorded sounds, such as trains, transformed on discs and later tape. He called this musique concrète. Together with electronic music produced in Cologne by Karlheinz Stockhausen and others, it laid the foundation of electronic music and of sampling."
+    "body": "In Paris in 1948, the radio engineer Pierre Schaeffer began composing with recorded sounds, such as trains, transformed on discs and later tape. He called this musique concrète. Together with electronic music produced in Cologne by Karlheinz Stockhausen and others, it laid the foundation of electronic music and of sampling.",
+    "url": "https://en.wikipedia.org/wiki/Musique_concr%C3%A8te"
   },
   {
     "title": "The Octave",
-    "body": "An octave is the interval between a note and one with double its frequency. The two sound so alike that nearly all musical cultures treat them as the same note at a different height. Scales divide the octave into steps: Western music uses twelve semitones, while other traditions divide it differently."
+    "body": "An octave is the interval between a note and one with double its frequency. The two sound so alike that nearly all musical cultures treat them as the same note at a different height. Scales divide the octave into steps: Western music uses twelve semitones, while other traditions divide it differently.",
+    "url": "https://en.wikipedia.org/wiki/Octave"
   },
   {
     "title": "Flamenco",
-    "body": "Flamenco is the music and dance of Andalusia in southern Spain, closely associated with its Gitano (Romani) communities. It combines song (cante), guitar (toque), dance (baile) and rhythmic hand-clapping. Its precise origins are debated, but it took its recognisable form in the 19th century, partly in the cafés cantantes."
+    "body": "Flamenco is the music and dance of Andalusia in southern Spain, closely associated with its Gitano (Romani) communities. It combines song (cante), guitar (toque), dance (baile) and rhythmic hand-clapping. Its precise origins are debated, but it took its recognisable form in the 19th century, partly in the cafés cantantes.",
+    "url": "https://en.wikipedia.org/wiki/Flamenco"
   },
   {
     "title": "The Steelpan",
-    "body": "The steelpan was developed in Trinidad and Tobago in the 1930s and 1940s from discarded oil drums, hammered into surfaces with tuned areas that each produce a note. It grew out of Afro-Trinidadian percussion traditions that colonial authorities had tried to restrict. Steel bands became central to Carnival, and the pan is Trinidad and Tobago's national instrument."
+    "body": "The steelpan was developed in Trinidad and Tobago in the 1930s and 1940s from discarded oil drums, hammered into surfaces with tuned areas that each produce a note. It grew out of Afro-Trinidadian percussion traditions that colonial authorities had tried to restrict. Steel bands became central to Carnival, and the pan is Trinidad and Tobago's national instrument.",
+    "url": "https://en.wikipedia.org/wiki/Steelpan"
   },
   {
     "title": "Ziryab",
-    "body": "Ziryab was a 9th-century musician who left Baghdad for Córdoba, where he served the Umayyad emir Abd al-Rahman II. He is credited with adding a fifth string to the oud and founding a music school, and with bringing new fashions in dress and dining to al-Andalus. Many details of his life are legendary, but he symbolises the transfer of eastern Islamic culture to Spain."
+    "body": "Ziryab was a 9th-century musician who left Baghdad for Córdoba, where he served the Umayyad emir Abd al-Rahman II. He is credited with adding a fifth string to the oud and founding a music school, and with bringing new fashions in dress and dining to al-Andalus. Many details of his life are legendary, but he symbolises the transfer of eastern Islamic culture to Spain.",
+    "url": "https://en.wikipedia.org/wiki/Ziryab"
   },
   {
     "title": "Ottoman Mehter Music",
-    "body": "The mehter was the military band of the Ottoman Janissaries, with shrill zurnas, kettledrums, cymbals and a large bass drum. Its sound fascinated Europeans and inspired a 'Turkish' style, heard in Mozart's Rondo alla Turca and the march in the finale of Beethoven's Ninth. This Turkish-style music helped bring the bass drum, cymbals and triangle into Western orchestral writing."
+    "body": "The mehter was the military band of the Ottoman Janissaries, with shrill zurnas, kettledrums, cymbals and a large bass drum. Its sound fascinated Europeans and inspired a 'Turkish' style, heard in Mozart's Rondo alla Turca and the march in the finale of Beethoven's Ninth. This Turkish-style music helped bring the bass drum, cymbals and triangle into Western orchestral writing.",
+    "url": "https://en.wikipedia.org/wiki/Ottoman_military_band"
   },
   {
     "title": "Hip Hop",
-    "body": "Hip hop arose in the Bronx, New York, in the 1970s, at block parties where DJs such as Kool Herc looped the drum breaks of records. Its elements were DJing, rapping, breakdancing and graffiti. From 'Rapper's Delight' in 1979 onwards it grew into one of the most influential forms of popular music worldwide."
+    "body": "Hip hop arose in the Bronx, New York, in the 1970s, at block parties where DJs such as Kool Herc looped the drum breaks of records. Its elements were DJing, rapping, breakdancing and graffiti. From 'Rapper's Delight' in 1979 onwards it grew into one of the most influential forms of popular music worldwide.",
+    "url": "https://en.wikipedia.org/wiki/Hip-hop"
   },
   {
     "title": "Tansen",
-    "body": "Tansen was a 16th-century singer at the court of the Mughal emperor Akbar, counted among the 'nine jewels' of the court. He is one of the most celebrated figures in Hindustani music, credited with ragas and associated with the dhrupad style. Legends say his singing could light lamps or bring rain, and a music festival is held at his tomb in Gwalior."
+    "body": "Tansen was a 16th-century singer at the court of the Mughal emperor Akbar, counted among the 'nine jewels' of the court. He is one of the most celebrated figures in Hindustani music, credited with ragas and associated with the dhrupad style. Legends say his singing could light lamps or bring rain, and a music festival is held at his tomb in Gwalior.",
+    "url": "https://en.wikipedia.org/wiki/Tansen"
   },
   {
     "title": "Minimalism",
-    "body": "Minimalism emerged in the United States in the 1960s with composers such as La Monte Young, Terry Riley, Steve Reich and Philip Glass. It builds music from repetition, a steady pulse and slow, gradual change, as in Riley's In C (1964). It drew on non-Western music, from African drumming to Indian classical music, and strongly influenced later classical and popular music."
+    "body": "Minimalism emerged in the United States in the 1960s with composers such as La Monte Young, Terry Riley, Steve Reich and Philip Glass. It builds music from repetition, a steady pulse and slow, gradual change, as in Riley's In C (1964). It drew on non-Western music, from African drumming to Indian classical music, and strongly influenced later classical and popular music.",
+    "url": "https://en.wikipedia.org/wiki/Minimal_music"
   },
   {
     "title": "Afrobeats",
-    "body": "Afrobeats is a style of popular music that developed in Nigeria and Ghana in the 2000s, blending highlife, hip hop, dancehall and R&B. Not to be confused with Fela Kuti's Afrobeat, it spread across the world through artists such as Wizkid, Davido and Burna Boy. It marked the arrival of African pop as a global mainstream music."
+    "body": "Afrobeats is a style of popular music that developed in Nigeria and Ghana in the 2000s, blending highlife, hip hop, dancehall and R&B. Not to be confused with Fela Kuti's Afrobeat, it spread across the world through artists such as Wizkid, Davido and Burna Boy. It marked the arrival of African pop as a global mainstream music.",
+    "url": "https://en.wikipedia.org/wiki/Afrobeats"
   },
   {
     "title": "Hildegard of Bingen",
-    "body": "Hildegard (1098–1179) was a German abbess, mystic, writer and composer. She wrote a large body of monophonic sacred songs and the Ordo Virtutum, an early musical morality play, making her one of the earliest composers whose works survive in quantity under her name. She was declared a Doctor of the Church in 2012."
+    "body": "Hildegard (1098–1179) was a German abbess, mystic, writer and composer. She wrote a large body of monophonic sacred songs and the Ordo Virtutum, an early musical morality play, making her one of the earliest composers whose works survive in quantity under her name. She was declared a Doctor of the Church in 2012.",
+    "url": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen"
   },
   {
     "title": "Son Cubano",
-    "body": "Son developed in eastern Cuba and reached Havana in the early 20th century, combining Spanish guitar traditions with African-derived rhythms on bongos, claves and maracas. It is the foundation of much Latin dance music, including salsa. The Buena Vista Social Club recordings of 1997 brought its older masters back to world attention."
+    "body": "Son developed in eastern Cuba and reached Havana in the early 20th century, combining Spanish guitar traditions with African-derived rhythms on bongos, claves and maracas. It is the foundation of much Latin dance music, including salsa. The Buena Vista Social Club recordings of 1997 brought its older masters back to world attention.",
+    "url": "https://en.wikipedia.org/wiki/Son_cubano"
   },
   {
     "title": "African American Spirituals",
-    "body": "Spirituals are religious songs created by enslaved African Americans, combining African musical practices such as call and response with Christian texts. Songs like 'Swing Low, Sweet Chariot' often carried hopes of freedom. From 1871 the Fisk Jubilee Singers toured them widely, and they fed directly into gospel, blues and later popular music."
+    "body": "Spirituals are religious songs created by enslaved African Americans, combining African musical practices such as call and response with Christian texts. Songs like 'Swing Low, Sweet Chariot' often carried hopes of freedom. From 1871 the Fisk Jubilee Singers toured them widely, and they fed directly into gospel, blues and later popular music.",
+    "url": "https://en.wikipedia.org/wiki/Spirituals"
   },
   {
     "title": "Throat Singing",
-    "body": "Throat singing, or khöömei, is a vocal technique from Tuva and Mongolia in which one singer produces two or more pitches at once. By shaping the throat and mouth, the singer sustains a low drone while amplifying overtones into a whistling melody. It is linked to herding life and to imitating the sounds of nature."
+    "body": "Throat singing, or khöömei, is a vocal technique from Tuva and Mongolia in which one singer produces two or more pitches at once. By shaping the throat and mouth, the singer sustains a low drone while amplifying overtones into a whistling melody. It is linked to herding life and to imitating the sounds of nature.",
+    "url": "https://en.wikipedia.org/wiki/Throat_singing"
   },
   {
     "title": "Griots of West Africa",
-    "body": "Griots, or jeli, are hereditary musicians and oral historians of the Mande peoples of West Africa. They preserve genealogies and epics such as that of Sundiata, founder of the Mali Empire in the 13th century, and advise and praise patrons. Their emblematic instrument is the kora, a harp-lute with a calabash body and around 21 strings."
+    "body": "Griots, or jeli, are hereditary musicians and oral historians of the Mande peoples of West Africa. They preserve genealogies and epics such as that of Sundiata, founder of the Mali Empire in the 13th century, and advise and praise patrons. Their emblematic instrument is the kora, a harp-lute with a calabash body and around 21 strings.",
+    "url": "https://en.wikipedia.org/wiki/Griot"
   },
   {
     "title": "The Raga",
-    "body": "A raga is a melodic framework in Indian classical music: a set of notes, characteristic phrases and ascending and descending patterns, together with a mood. Many ragas are associated with a time of day or a season. A performance explores the raga through improvisation within its rules, often starting with a slow, unaccompanied introduction."
+    "body": "A raga is a melodic framework in Indian classical music: a set of notes, characteristic phrases and ascending and descending patterns, together with a mood. Many ragas are associated with a time of day or a season. A performance explores the raga through improvisation within its rules, often starting with a slow, unaccompanied introduction.",
+    "url": "https://en.wikipedia.org/wiki/Raga"
   },
   {
     "title": "Samba",
-    "body": "Samba developed in Rio de Janeiro in the early 20th century among Afro-Brazilian communities, with roots in the music of Bahia. 'Pelo Telefone', from the 1910s, is often cited as the first recorded samba. Through the samba schools of Rio's Carnival it became a symbol of Brazilian national identity."
+    "body": "Samba developed in Rio de Janeiro in the early 20th century among Afro-Brazilian communities, with roots in the music of Bahia. 'Pelo Telefone', from the 1910s, is often cited as the first recorded samba. Through the samba schools of Rio's Carnival it became a symbol of Brazilian national identity.",
+    "url": "https://en.wikipedia.org/wiki/Samba"
   },
   {
     "title": "Franz Liszt",
-    "body": "Liszt (1811–1886) was a Hungarian pianist whose virtuosity made him a celebrity across Europe. He is credited with creating the solo piano recital, in which one performer holds an entire concert, and with inventing the symphonic poem, an orchestral work in one movement based on a story or idea. His experiments with harmony anticipated later composers."
+    "body": "Liszt (1811–1886) was a Hungarian pianist whose virtuosity made him a celebrity across Europe. He is credited with creating the solo piano recital, in which one performer holds an entire concert, and with inventing the symphonic poem, an orchestral work in one movement based on a story or idea. His experiments with harmony anticipated later composers.",
+    "url": "https://en.wikipedia.org/wiki/Franz_Liszt"
   },
   {
     "title": "The Seikilos Epitaph",
-    "body": "Carved on a marble grave stele found near ancient Tralles in western Turkey, this short Greek song from the Roman period is the oldest surviving complete musical composition with its notation. Its words urge the listener to shine while alive, because life is brief. It lets us hear, if only approximately, how ancient Greek music sounded."
+    "body": "Carved on a marble grave stele found near ancient Tralles in western Turkey, this short Greek song from the Roman period is the oldest surviving complete musical composition with its notation. Its words urge the listener to shine while alive, because life is brief. It lets us hear, if only approximately, how ancient Greek music sounded.",
+    "url": "https://en.wikipedia.org/wiki/Seikilos_epitaph"
   },
   {
     "title": "Joseph Haydn",
-    "body": "Haydn (1732–1809) spent decades in the service of the Esterházy princes, where he had an orchestra at his disposal. He wrote 104 numbered symphonies and dozens of string quartets, shaping both genres so decisively that he is called the father of each. His later London symphonies brought him international fame, and he briefly taught the young Beethoven."
+    "body": "Haydn (1732–1809) spent decades in the service of the Esterházy princes, where he had an orchestra at his disposal. He wrote 104 numbered symphonies and dozens of string quartets, shaping both genres so decisively that he is called the father of each. His later London symphonies brought him international fame, and he briefly taught the young Beethoven.",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Haydn"
   },
   {
     "title": "Qawwali",
-    "body": "Qawwali is the devotional music of South Asian Sufism, traditionally traced to the poet and musician Amir Khusrau in 13th-century Delhi. Lead singers, a chorus, harmonium, tabla and hand-clapping build long songs towards spiritual ecstasy. Nusrat Fateh Ali Khan brought the form to audiences worldwide in the late 20th century."
+    "body": "Qawwali is the devotional music of South Asian Sufism, traditionally traced to the poet and musician Amir Khusrau in 13th-century Delhi. Lead singers, a chorus, harmonium, tabla and hand-clapping build long songs towards spiritual ecstasy. Nusrat Fateh Ali Khan brought the form to audiences worldwide in the late 20th century.",
+    "url": "https://en.wikipedia.org/wiki/Qawwali"
   },
   {
     "title": "Josquin des Prez",
-    "body": "Josquin (around 1450–1521) was a Franco-Flemish composer and the most celebrated musician of his age. His masses, motets and songs spread a style in which every voice shares the melodic material through imitation. He was one of the first composers to benefit from music printing, with Ottaviano Petrucci publishing a volume of his masses in 1502."
+    "body": "Josquin (around 1450–1521) was a Franco-Flemish composer and the most celebrated musician of his age. His masses, motets and songs spread a style in which every voice shares the melodic material through imitation. He was one of the first composers to benefit from music printing, with Ottaviano Petrucci publishing a volume of his masses in 1502.",
+    "url": "https://en.wikipedia.org/wiki/Josquin_des_Prez"
   },
   {
     "title": "The Harmonic Series",
-    "body": "A vibrating string or column of air sounds not only its fundamental pitch but also overtones at whole-number multiples of its frequency. The first overtones form the octave, the fifth and the fourth, which helps explain why these intervals sound consonant. The relative strength of the overtones gives each instrument its distinctive timbre."
+    "body": "A vibrating string or column of air sounds not only its fundamental pitch but also overtones at whole-number multiples of its frequency. The first overtones form the octave, the fifth and the fourth, which helps explain why these intervals sound consonant. The relative strength of the overtones gives each instrument its distinctive timbre.",
+    "url": "https://en.wikipedia.org/wiki/Harmonic_series_(music)"
   },
   {
     "title": "Duke Ellington",
-    "body": "Edward 'Duke' Ellington (1899–1974) led his orchestra for about fifty years, rising to fame at Harlem's Cotton Club from 1927. He wrote thousands of pieces, tailoring each part to the sound of individual band members, and extended jazz into long suites. He is regarded as one of the most important American composers."
+    "body": "Edward 'Duke' Ellington (1899–1974) led his orchestra for about fifty years, rising to fame at Harlem's Cotton Club from 1927. He wrote thousands of pieces, tailoring each part to the sound of individual band members, and extended jazz into long suites. He is regarded as one of the most important American composers.",
+    "url": "https://en.wikipedia.org/wiki/Duke_Ellington"
   },
   {
     "title": "Tyagaraja",
-    "body": "Tyagaraja (1767–1847) was a composer born in Tiruvarur, in Tamil Nadu, who lived mostly in Thiruvaiyaru, and one of the most revered figures in Carnatic music, the classical music of southern India. He wrote hundreds of devotional songs in Telugu, mostly addressed to the god Rama. With Muthuswami Dikshitar and Syama Sastri he is one of the 'Trinity' of Carnatic music."
+    "body": "Tyagaraja (1767–1847) was a composer born in Tiruvarur, in Tamil Nadu, who lived mostly in Thiruvaiyaru, and one of the most revered figures in Carnatic music, the classical music of southern India. He wrote hundreds of devotional songs in Telugu, mostly addressed to the god Rama. With Muthuswami Dikshitar and Syama Sastri he is one of the 'Trinity' of Carnatic music.",
+    "url": "https://en.wikipedia.org/wiki/Tyagaraja"
   },
   {
     "title": "Counterpoint",
-    "body": "Counterpoint is the art of combining independent melodic lines so that they sound good together. It reached a high point with Bach, and its rules were codified in Johann Joseph Fux's textbook Gradus ad Parnassum (1725), which shaped the teaching of composition for generations. It remains a core discipline in the training of composers."
+    "body": "Counterpoint is the art of combining independent melodic lines so that they sound good together. It reached a high point with Bach, and its rules were codified in Johann Joseph Fux's textbook Gradus ad Parnassum (1725), which shaped the teaching of composition for generations. It remains a core discipline in the training of composers.",
+    "url": "https://en.wikipedia.org/wiki/Counterpoint"
   }
 ]

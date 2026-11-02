@@ -1,442 +1,552 @@
 [
   {
     "title": "Lake Baikal",
-    "body": "Lake Baikal in Siberia is the world's deepest lake, more than 1,600 metres at its deepest, and probably the oldest. It holds more water than any other freshwater lake on Earth."
+    "body": "Lake Baikal in Siberia is the world's deepest lake, more than 1,600 metres at its deepest, and probably the oldest. It holds more water than any other freshwater lake on Earth.",
+    "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
   },
   {
     "title": "The Bosphorus",
-    "body": "This narrow strait links the Black Sea to the Sea of Marmara and divides Istanbul between Europe and Asia. Together with the Dardanelles it forms the only sea route from the Black Sea to the Mediterranean, which has made it strategically vital for millennia."
+    "body": "This narrow strait links the Black Sea to the Sea of Marmara and divides Istanbul between Europe and Asia. Together with the Dardanelles it forms the only sea route from the Black Sea to the Mediterranean, which has made it strategically vital for millennia.",
+    "url": "https://en.wikipedia.org/wiki/Bosporus"
   },
   {
     "title": "The Gulf Stream",
-    "body": "The Gulf Stream is a warm ocean current flowing from the Gulf of Mexico along North America's east coast and across the Atlantic. Its extension, the North Atlantic Current, helps give north-western Europe a milder climate than other regions at the same latitude."
+    "body": "The Gulf Stream is a warm ocean current flowing from the Gulf of Mexico along North America's east coast and across the Atlantic. Its extension, the North Atlantic Current, helps give north-western Europe a milder climate than other regions at the same latitude.",
+    "url": "https://en.wikipedia.org/wiki/Gulf_Stream"
   },
   {
     "title": "The Himalayas",
-    "body": "The range is formed by the Indian plate pushing into the Eurasian plate. The collision continues, so the mountains are still rising. It contains Mount Everest, the highest mountain above sea level."
+    "body": "The range is formed by the Indian plate pushing into the Eurasian plate. The collision continues, so the mountains are still rising. It contains Mount Everest, the highest mountain above sea level.",
+    "url": "https://en.wikipedia.org/wiki/Himalayas"
   },
   {
     "title": "The Nile",
-    "body": "The Nile flows north through north-east Africa into the Mediterranean and is usually counted, along with the Amazon, as the world's longest river. The White and Blue Nile meet at Khartoum. The river made ancient Egyptian civilisation possible."
+    "body": "The Nile flows north through north-east Africa into the Mediterranean and is usually counted, along with the Amazon, as the world's longest river. The White and Blue Nile meet at Khartoum. The river made ancient Egyptian civilisation possible.",
+    "url": "https://en.wikipedia.org/wiki/Nile"
   },
   {
     "title": "The Sahara",
-    "body": "The Sahara is the world's largest hot desert and covers much of North Africa. Its climate has changed over time: several thousand years ago it held lakes and grassland, as rock paintings of animals show."
+    "body": "The Sahara is the world's largest hot desert and covers much of North Africa. Its climate has changed over time: several thousand years ago it held lakes and grassland, as rock paintings of animals show.",
+    "url": "https://en.wikipedia.org/wiki/Sahara"
   },
   {
     "title": "The Panama Canal",
-    "body": "Opened in 1914, the canal links the Atlantic and Pacific across the Isthmus of Panama. Ships are raised by locks to a lake above sea level. The United States ran the canal until 1999, when it was handed over to Panama."
+    "body": "Opened in 1914, the canal links the Atlantic and Pacific across the Isthmus of Panama. Ships are raised by locks to a lake above sea level. The United States ran the canal until 1999, when it was handed over to Panama.",
+    "url": "https://en.wikipedia.org/wiki/Panama_Canal"
   },
   {
     "title": "The Amazon Rainforest",
-    "body": "The Amazon is the largest tropical rainforest on Earth, most of it in Brazil. It is home to an exceptional share of the world's species, and the Amazon River carries more water to the sea than any other river."
+    "body": "The Amazon is the largest tropical rainforest on Earth, most of it in Brazil. It is home to an exceptional share of the world's species, and the Amazon River carries more water to the sea than any other river.",
+    "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
   },
   {
     "title": "The Strait of Gibraltar",
-    "body": "The strait connects the Atlantic Ocean to the Mediterranean and separates Europe from Africa by only about 14 kilometres at its narrowest. In antiquity its two headlands were known as the Pillars of Hercules."
+    "body": "The strait connects the Atlantic Ocean to the Mediterranean and separates Europe from Africa by only about 14 kilometres at its narrowest. In antiquity its two headlands were known as the Pillars of Hercules.",
+    "url": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar"
   },
   {
     "title": "The Ring of Fire",
-    "body": "The Ring of Fire is a horseshoe-shaped zone around the Pacific Ocean where tectonic plates meet. Most of the world's earthquakes and many of its active volcanoes occur along it, from Chile through Japan to New Zealand."
+    "body": "The Ring of Fire is a horseshoe-shaped zone around the Pacific Ocean where tectonic plates meet. Most of the world's earthquakes and many of its active volcanoes occur along it, from Chile through Japan to New Zealand.",
+    "url": "https://en.wikipedia.org/wiki/Ring_of_Fire"
   },
   {
     "title": "The Dead Sea",
-    "body": "The shores of the Dead Sea, between Israel, the West Bank and Jordan, are the lowest land on Earth's surface. Its water is so salty that people float easily and almost nothing can live in it."
+    "body": "The shores of the Dead Sea, between Israel, the West Bank and Jordan, are the lowest land on Earth's surface. Its water is so salty that people float easily and almost nothing can live in it.",
+    "url": "https://en.wikipedia.org/wiki/Dead_Sea"
   },
   {
     "title": "The Tropics and Polar Circles",
-    "body": "The Tropics of Cancer and Capricorn, at about 23.4 degrees north and south, mark the furthest points where the Sun can be directly overhead. The Arctic and Antarctic Circles mark where it can stay above or below the horizon for a full day. Both follow from the tilt of the Earth's axis."
+    "body": "The Tropics of Cancer and Capricorn, at about 23.4 degrees north and south, mark the furthest points where the Sun can be directly overhead. The Arctic and Antarctic Circles mark where it can stay above or below the horizon for a full day. Both follow from the tilt of the Earth's axis.",
+    "url": "https://en.wikipedia.org/wiki/Circle_of_latitude"
   },
   {
     "title": "The Suez Canal",
-    "body": "Opened in 1869, the canal links the Mediterranean to the Red Sea and spares ships the voyage around Africa. Egypt's nationalisation of the canal in 1956 triggered the Suez Crisis, a turning point in the decline of British and French imperial power."
+    "body": "Opened in 1869, the canal links the Mediterranean to the Red Sea and spares ships the voyage around Africa. Egypt's nationalisation of the canal in 1956 triggered the Suez Crisis, a turning point in the decline of British and French imperial power.",
+    "url": "https://en.wikipedia.org/wiki/Suez_Canal"
   },
   {
     "title": "The Mariana Trench",
-    "body": "The Mariana Trench in the western Pacific contains the deepest known point in the oceans, the Challenger Deep, roughly 11 kilometres down. It forms where one tectonic plate dives beneath another."
+    "body": "The Mariana Trench in the western Pacific contains the deepest known point in the oceans, the Challenger Deep, roughly 11 kilometres down. It forms where one tectonic plate dives beneath another.",
+    "url": "https://en.wikipedia.org/wiki/Mariana_Trench"
   },
   {
     "title": "Greenland",
-    "body": "Greenland is the world's largest island that is not a continent. It is an autonomous territory within the Kingdom of Denmark, and its ice sheet is the second largest on Earth after Antarctica's."
+    "body": "Greenland is the world's largest island that is not a continent. It is an autonomous territory within the Kingdom of Denmark, and its ice sheet is the second largest on Earth after Antarctica's.",
+    "url": "https://en.wikipedia.org/wiki/Greenland"
   },
   {
     "title": "Tropical Cyclones",
-    "body": "Tropical cyclones are rotating storms that form over warm tropical seas and draw their energy from evaporating water. They are called hurricanes in the Atlantic and north-east Pacific, typhoons in the north-west Pacific, and cyclones in the Indian Ocean and South Pacific. Their winds, rain and storm surges make them among the deadliest natural hazards, especially on low-lying coasts."
+    "body": "Tropical cyclones are rotating storms that form over warm tropical seas and draw their energy from evaporating water. They are called hurricanes in the Atlantic and north-east Pacific, typhoons in the north-west Pacific, and cyclones in the Indian Ocean and South Pacific. Their winds, rain and storm surges make them among the deadliest natural hazards, especially on low-lying coasts.",
+    "url": "https://en.wikipedia.org/wiki/Tropical_cyclone"
   },
   {
     "title": "The Caribbean Sea",
-    "body": "The Caribbean Sea is enclosed by Central America, northern South America and the arc of islands of the Greater and Lesser Antilles. It takes its name from the Caribs, one of the peoples living there when Europeans arrived. It lies on its own tectonic plate and in the path of Atlantic hurricanes, and its islands were where Spanish colonisation of the Americas began."
+    "body": "The Caribbean Sea is enclosed by Central America, northern South America and the arc of islands of the Greater and Lesser Antilles. It takes its name from the Caribs, one of the peoples living there when Europeans arrived. It lies on its own tectonic plate and in the path of Atlantic hurricanes, and its islands were where Spanish colonisation of the Americas began.",
+    "url": "https://en.wikipedia.org/wiki/Caribbean_Sea"
   },
   {
     "title": "Von Thünen's Model of Land Use",
-    "body": "In 1826 the German landowner Johann Heinrich von Thünen published a model of how farmland is arranged around a market town. Land use forms rings according to transport costs: perishable produce such as vegetables and milk nearby, then forestry for fuel and timber, then grain, with livestock grazing furthest away. It became a founding idea of economic geography."
+    "body": "In 1826 the German landowner Johann Heinrich von Thünen published a model of how farmland is arranged around a market town. Land use forms rings according to transport costs: perishable produce such as vegetables and milk nearby, then forestry for fuel and timber, then grain, with livestock grazing furthest away. It became a founding idea of economic geography.",
+    "url": "https://en.wikipedia.org/wiki/Johann_Heinrich_von_Th%C3%BCnen"
   },
   {
     "title": "The Continental Shelf",
-    "body": "The continental shelf is the submerged edge of a continent, a relatively shallow sea floor that extends out to where it drops steeply into the deep ocean. Its sunlit waters support many of the world's richest fisheries, and its rocks hold large oil and gas reserves. During the ice ages, when sea levels were lower, much of it was dry land."
+    "body": "The continental shelf is the submerged edge of a continent, a relatively shallow sea floor that extends out to where it drops steeply into the deep ocean. Its sunlit waters support many of the world's richest fisheries, and its rocks hold large oil and gas reserves. During the ice ages, when sea levels were lower, much of it was dry land.",
+    "url": "https://en.wikipedia.org/wiki/Continental_shelf"
   },
   {
     "title": "The Tigris and Euphrates",
-    "body": "The Tigris and Euphrates rise in the mountains of eastern Turkey and flow through Syria and Iraq before joining as the Shatt al-Arab, which empties into the Persian Gulf. The land between them was called Mesopotamia, Greek for 'between the rivers'. Irrigation from these rivers supported Sumer, Babylon and Assyria, among the earliest cities and states."
+    "body": "The Tigris and Euphrates rise in the mountains of eastern Turkey and flow through Syria and Iraq before joining as the Shatt al-Arab, which empties into the Persian Gulf. The land between them was called Mesopotamia, Greek for 'between the rivers'. Irrigation from these rivers supported Sumer, Babylon and Assyria, among the earliest cities and states.",
+    "url": "https://en.wikipedia.org/wiki/Tigris%E2%80%93Euphrates_river_system"
   },
   {
     "title": "The Ganges",
-    "body": "The Ganges rises from a glacier in the Himalayas and flows across the plains of northern India to the Bay of Bengal. There it joins the Brahmaputra to form the largest river delta in the world, shared by India and Bangladesh. Hindus revere the river as the goddess Ganga, and cities such as Varanasi have grown up as pilgrimage centres on its banks."
+    "body": "The Ganges rises from a glacier in the Himalayas and flows across the plains of northern India to the Bay of Bengal. There it joins the Brahmaputra to form the largest river delta in the world, shared by India and Bangladesh. Hindus revere the river as the goddess Ganga, and cities such as Varanasi have grown up as pilgrimage centres on its banks.",
+    "url": "https://en.wikipedia.org/wiki/Ganges"
   },
   {
     "title": "Fjords",
-    "body": "A fjord is a long, narrow, steep-sided sea inlet carved by a glacier and later flooded by the sea when the ice melted. Fjords are often very deep inland but shallower at the mouth, where the glacier left a ridge of rock and debris. They are typical of formerly glaciated coasts such as Norway, Chile, New Zealand, Greenland and Alaska, and the word itself is Norwegian."
+    "body": "A fjord is a long, narrow, steep-sided sea inlet carved by a glacier and later flooded by the sea when the ice melted. Fjords are often very deep inland but shallower at the mouth, where the glacier left a ridge of rock and debris. They are typical of formerly glaciated coasts such as Norway, Chile, New Zealand, Greenland and Alaska, and the word itself is Norwegian.",
+    "url": "https://en.wikipedia.org/wiki/Fjord"
   },
   {
     "title": "The Mekong",
-    "body": "The Mekong rises on the Tibetan Plateau and flows through China, Myanmar, Laos, Thailand, Cambodia and Vietnam to the South China Sea. In the rainy season its floodwaters force the Tonlé Sap river in Cambodia to reverse direction and fill a great lake. Its fisheries and its delta, a major rice-growing region, feed tens of millions of people."
+    "body": "The Mekong rises on the Tibetan Plateau and flows through China, Myanmar, Laos, Thailand, Cambodia and Vietnam to the South China Sea. In the rainy season its floodwaters force the Tonlé Sap river in Cambodia to reverse direction and fill a great lake. Its fisheries and its delta, a major rice-growing region, feed tens of millions of people.",
+    "url": "https://en.wikipedia.org/wiki/Mekong"
   },
   {
     "title": "The Tibetan Plateau",
-    "body": "The Tibetan Plateau is the highest and largest plateau on Earth, with an average height of more than 4,500 metres. It was lifted by the same collision of India with Asia that raised the Himalayas on its southern edge. Great Asian rivers including the Yangtze, Yellow, Mekong, Indus and Brahmaputra rise there, and its ice is sometimes called the Third Pole."
+    "body": "The Tibetan Plateau is the highest and largest plateau on Earth, with an average height of more than 4,500 metres. It was lifted by the same collision of India with Asia that raised the Himalayas on its southern edge. Great Asian rivers including the Yangtze, Yellow, Mekong, Indus and Brahmaputra rise there, and its ice is sometimes called the Third Pole.",
+    "url": "https://en.wikipedia.org/wiki/Tibetan_Plateau"
   },
   {
     "title": "The Aral Sea",
-    "body": "The Aral Sea, between Kazakhstan and Uzbekistan, was once one of the largest lakes in the world. From the 1960s Soviet irrigation schemes diverted the rivers feeding it to grow cotton, and the lake shrank dramatically and split into separate parts. Its collapse, which left fishing towns stranded far from water, is one of the worst human-caused environmental disasters."
+    "body": "The Aral Sea, between Kazakhstan and Uzbekistan, was once one of the largest lakes in the world. From the 1960s Soviet irrigation schemes diverted the rivers feeding it to grow cotton, and the lake shrank dramatically and split into separate parts. Its collapse, which left fishing towns stranded far from water, is one of the worst human-caused environmental disasters.",
+    "url": "https://en.wikipedia.org/wiki/Aral_Sea"
   },
   {
     "title": "The Savanna",
-    "body": "A savanna is tropical grassland with scattered trees, shaped by a long dry season and frequent fires. The largest savannas are in Africa, home to great herds of grazing animals and the predators that follow them, as in the Serengeti. Similar landscapes cover large parts of Brazil, northern Australia and India."
+    "body": "A savanna is tropical grassland with scattered trees, shaped by a long dry season and frequent fires. The largest savannas are in Africa, home to great herds of grazing animals and the predators that follow them, as in the Serengeti. Similar landscapes cover large parts of Brazil, northern Australia and India.",
+    "url": "https://en.wikipedia.org/wiki/Savanna"
   },
   {
     "title": "The Andes",
-    "body": "The Andes run some 7,000 kilometres down the western edge of South America, making them the longest continental mountain range. They were raised by the oceanic Nazca plate sliding beneath the South American plate, which also causes frequent earthquakes and volcanoes. Aconcagua in Argentina is the highest mountain outside Asia, and the range was the heartland of the Inca state."
+    "body": "The Andes run some 7,000 kilometres down the western edge of South America, making them the longest continental mountain range. They were raised by the oceanic Nazca plate sliding beneath the South American plate, which also causes frequent earthquakes and volcanoes. Aconcagua in Argentina is the highest mountain outside Asia, and the range was the heartland of the Inca state.",
+    "url": "https://en.wikipedia.org/wiki/Andes"
   },
   {
     "title": "The Mercator Projection",
-    "body": "In 1569 the Flemish cartographer Gerardus Mercator published a world map on which lines of constant compass bearing appear as straight lines, a great help to navigators. The price is distortion of size, which grows towards the poles. Greenland looks about as large as Africa, though Africa is many times bigger."
+    "body": "In 1569 the Flemish cartographer Gerardus Mercator published a world map on which lines of constant compass bearing appear as straight lines, a great help to navigators. The price is distortion of size, which grows towards the poles. Greenland looks about as large as Africa, though Africa is many times bigger.",
+    "url": "https://en.wikipedia.org/wiki/Mercator_projection"
   },
   {
     "title": "The Rocky Mountains",
-    "body": "The Rockies stretch roughly 4,800 kilometres from western Canada to New Mexico in the United States. Along them runs the Continental Divide, which separates rivers draining to the Pacific from those draining to the Atlantic, the Gulf of Mexico and the Arctic. The range was a formidable barrier to westward travel in the 19th century."
+    "body": "The Rockies stretch roughly 4,800 kilometres from western Canada to New Mexico in the United States. Along them runs the Continental Divide, which separates rivers draining to the Pacific from those draining to the Atlantic, the Gulf of Mexico and the Arctic. The range was a formidable barrier to westward travel in the 19th century.",
+    "url": "https://en.wikipedia.org/wiki/Rocky_Mountains"
   },
   {
     "title": "The Southern Alps",
-    "body": "The Southern Alps run along most of the length of New Zealand's South Island. They are being pushed up along the Alpine Fault, where the Pacific and Australian plates meet, and Aoraki/Mount Cook is their highest peak. Westerly winds drop heavy rain and snow on the western side, feeding glaciers and rainforest, while the plains to the east lie in a much drier rain shadow."
+    "body": "The Southern Alps run along most of the length of New Zealand's South Island. They are being pushed up along the Alpine Fault, where the Pacific and Australian plates meet, and Aoraki/Mount Cook is their highest peak. Westerly winds drop heavy rain and snow on the western side, feeding glaciers and rainforest, while the plains to the east lie in a much drier rain shadow.",
+    "url": "https://en.wikipedia.org/wiki/Southern_Alps"
   },
   {
     "title": "The Anthropocene",
-    "body": "The Anthropocene is a proposed new epoch of Earth's history in which human activity has become a dominant influence on climate, landscapes and ecosystems. The term was popularised around 2000 by the atmospheric chemist Paul Crutzen. In 2024 the relevant geological body voted not to adopt it as a formal unit of the geological time scale, but it remains widely used informally."
+    "body": "The Anthropocene is a proposed new epoch of Earth's history in which human activity has become a dominant influence on climate, landscapes and ecosystems. The term was popularised around 2000 by the atmospheric chemist Paul Crutzen. In 2024 the relevant geological body voted not to adopt it as a formal unit of the geological time scale, but it remains widely used informally.",
+    "url": "https://en.wikipedia.org/wiki/Anthropocene"
   },
   {
     "title": "The Congo River",
-    "body": "The Congo carries more water to the sea than any other river except the Amazon. It flows in a great arc through central Africa, crossing the equator twice, and parts of it are among the deepest river channels known. Its basin holds the world's second-largest tropical rainforest."
+    "body": "The Congo carries more water to the sea than any other river except the Amazon. It flows in a great arc through central Africa, crossing the equator twice, and parts of it are among the deepest river channels known. Its basin holds the world's second-largest tropical rainforest.",
+    "url": "https://en.wikipedia.org/wiki/Congo_River"
   },
   {
     "title": "Yellowstone",
-    "body": "Yellowstone, mostly in Wyoming, was established in 1872 and is widely regarded as the world's first national park. It sits on a volcanic hotspot that has produced enormous eruptions in the distant past, and its heat drives famous geysers such as Old Faithful and hot springs. The park's creation set a model for protected areas around the world."
+    "body": "Yellowstone, mostly in Wyoming, was established in 1872 and is widely regarded as the world's first national park. It sits on a volcanic hotspot that has produced enormous eruptions in the distant past, and its heat drives famous geysers such as Old Faithful and hot springs. The park's creation set a model for protected areas around the world.",
+    "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park"
   },
   {
     "title": "The Tundra",
-    "body": "Tundra is a treeless landscape of mosses, lichens, grasses and low shrubs, found around the Arctic and above the tree line on high mountains. The growing season is short, and in the Arctic the subsoil stays permanently frozen as permafrost. Thawing permafrost releases stored carbon, which is why the tundra matters for climate change."
+    "body": "Tundra is a treeless landscape of mosses, lichens, grasses and low shrubs, found around the Arctic and above the tree line on high mountains. The growing season is short, and in the Arctic the subsoil stays permanently frozen as permafrost. Thawing permafrost releases stored carbon, which is why the tundra matters for climate change.",
+    "url": "https://en.wikipedia.org/wiki/Tundra"
   },
   {
     "title": "The Great Trigonometrical Survey",
-    "body": "Begun in 1802, the Great Trigonometrical Survey measured the Indian subcontinent with great precision using chains of triangles across the land. It took decades and was one of the most ambitious scientific projects of its time. In the 1850s its calculations showed that Peak XV in the Himalayas was the highest in the world, and it was named after the former Surveyor General, George Everest."
+    "body": "Begun in 1802, the Great Trigonometrical Survey measured the Indian subcontinent with great precision using chains of triangles across the land. It took decades and was one of the most ambitious scientific projects of its time. In the 1850s its calculations showed that Peak XV in the Himalayas was the highest in the world, and it was named after the former Surveyor General, George Everest.",
+    "url": "https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey"
   },
   {
     "title": "The Niger River",
-    "body": "The Niger rises in the highlands of Guinea, not far from the Atlantic, but flows inland, north-east towards the Sahara. After forming a vast inland delta in Mali and bending past Timbuktu, it turns south-east through Niger and Nigeria to the Gulf of Guinea. Its unusual course puzzled European geographers until the early 19th century, and its waters have long supported trade and farming in West Africa."
+    "body": "The Niger rises in the highlands of Guinea, not far from the Atlantic, but flows inland, north-east towards the Sahara. After forming a vast inland delta in Mali and bending past Timbuktu, it turns south-east through Niger and Nigeria to the Gulf of Guinea. Its unusual course puzzled European geographers until the early 19th century, and its waters have long supported trade and farming in West Africa.",
+    "url": "https://en.wikipedia.org/wiki/Niger_River"
   },
   {
     "title": "The Great Lakes",
-    "body": "Superior, Michigan, Huron, Erie and Ontario together hold roughly a fifth of the fresh surface water on Earth. They were carved out by ice sheets and filled as the ice melted at the end of the last ice age. Linked to the Atlantic by the St Lawrence River, they made cities such as Chicago, Detroit and Toronto major industrial ports."
+    "body": "Superior, Michigan, Huron, Erie and Ontario together hold roughly a fifth of the fresh surface water on Earth. They were carved out by ice sheets and filled as the ice melted at the end of the last ice age. Linked to the Atlantic by the St Lawrence River, they made cities such as Chicago, Detroit and Toronto major industrial ports.",
+    "url": "https://en.wikipedia.org/wiki/Great_Lakes"
   },
   {
     "title": "The Strait of Malacca",
-    "body": "The Strait of Malacca runs between the Malay Peninsula and the Indonesian island of Sumatra. It is the shortest sea route between the Indian Ocean and the Pacific, and has been one of the world's great shipping lanes for centuries. Control of it made the fortunes of Malacca in the 15th century and of Singapore, at its southern end, in modern times."
+    "body": "The Strait of Malacca runs between the Malay Peninsula and the Indonesian island of Sumatra. It is the shortest sea route between the Indian Ocean and the Pacific, and has been one of the world's great shipping lanes for centuries. Control of it made the fortunes of Malacca in the 15th century and of Singapore, at its southern end, in modern times.",
+    "url": "https://en.wikipedia.org/wiki/Strait_of_Malacca"
   },
   {
     "title": "The Indian Ocean",
-    "body": "The Indian Ocean is bounded by Africa, Asia and Australia, and is the third-largest of the oceans. Its regular monsoon winds, blowing one way in summer and the other in winter, allowed sailors to cross it long before the age of European exploration. Arab, Persian, Indian, Swahili and Chinese traders built a network across it that carried spices, textiles, ideas and religions."
+    "body": "The Indian Ocean is bounded by Africa, Asia and Australia, and is the third-largest of the oceans. Its regular monsoon winds, blowing one way in summer and the other in winter, allowed sailors to cross it long before the age of European exploration. Arab, Persian, Indian, Swahili and Chinese traders built a network across it that carried spices, textiles, ideas and religions.",
+    "url": "https://en.wikipedia.org/wiki/Indian_Ocean"
   },
   {
     "title": "Central Place Theory",
-    "body": "In 1933 the German geographer Walter Christaller proposed that towns and cities form a hierarchy according to the goods and services they provide to the surrounding area. Many small places offer everyday services, while fewer large cities offer specialised ones, and in an ideal flat landscape their market areas form hexagons. The theory has shaped regional planning and the study of settlement patterns."
+    "body": "In 1933 the German geographer Walter Christaller proposed that towns and cities form a hierarchy according to the goods and services they provide to the surrounding area. Many small places offer everyday services, while fewer large cities offer specialised ones, and in an ideal flat landscape their market areas form hexagons. The theory has shaped regional planning and the study of settlement patterns.",
+    "url": "https://en.wikipedia.org/wiki/Central_place_theory"
   },
   {
     "title": "The Deccan Plateau",
-    "body": "The Deccan is the great plateau that covers most of southern India, between the Western and Eastern Ghats. Its north-western part is built of thick layers of lava, the Deccan Traps, from huge eruptions around the time the dinosaurs died out. The plateau tilts eastward, so its major rivers, such as the Godavari and Krishna, flow to the Bay of Bengal."
+    "body": "The Deccan is the great plateau that covers most of southern India, between the Western and Eastern Ghats. Its north-western part is built of thick layers of lava, the Deccan Traps, from huge eruptions around the time the dinosaurs died out. The plateau tilts eastward, so its major rivers, such as the Godavari and Krishna, flow to the Bay of Bengal.",
+    "url": "https://en.wikipedia.org/wiki/Deccan_Plateau"
   },
   {
     "title": "The Atacama Desert",
-    "body": "The Atacama, in northern Chile between the Andes and the Pacific, is the driest non-polar desert on Earth, and some places in it have gone years without measurable rain. It is dry because it lies in the rain shadow of the Andes and beside a cold ocean current. Its clear skies have made it a centre for astronomical observatories, and its nitrate and copper deposits shaped Chile's economy."
+    "body": "The Atacama, in northern Chile between the Andes and the Pacific, is the driest non-polar desert on Earth, and some places in it have gone years without measurable rain. It is dry because it lies in the rain shadow of the Andes and beside a cold ocean current. Its clear skies have made it a centre for astronomical observatories, and its nitrate and copper deposits shaped Chile's economy.",
+    "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
   },
   {
     "title": "El Niño",
-    "body": "El Niño is an irregular warming of the surface waters of the central and eastern tropical Pacific, occurring every few years. Peruvian fishermen named it after the Christ child because it tends to appear around Christmas. Together with its cold counterpart La Niña, it shifts rainfall around the world, bringing floods to some regions and drought to others."
+    "body": "El Niño is an irregular warming of the surface waters of the central and eastern tropical Pacific, occurring every few years. Peruvian fishermen named it after the Christ child because it tends to appear around Christmas. Together with its cold counterpart La Niña, it shifts rainfall around the world, bringing floods to some regions and drought to others.",
+    "url": "https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation"
   },
   {
     "title": "Victoria Falls",
-    "body": "Victoria Falls is where the Zambezi River drops into a narrow gorge on the border between Zambia and Zimbabwe. Its local name, Mosi-oa-Tunya, means 'the smoke that thunders', after the column of spray visible from far away. The Scottish missionary David Livingstone named it after Queen Victoria in 1855, and it is one of the widest curtains of falling water in the world."
+    "body": "Victoria Falls is where the Zambezi River drops into a narrow gorge on the border between Zambia and Zimbabwe. Its local name, Mosi-oa-Tunya, means 'the smoke that thunders', after the column of spray visible from far away. The Scottish missionary David Livingstone named it after Queen Victoria in 1855, and it is one of the widest curtains of falling water in the world.",
+    "url": "https://en.wikipedia.org/wiki/Victoria_Falls"
   },
   {
     "title": "The Gobi Desert",
-    "body": "The Gobi covers much of southern Mongolia and northern China. It is a cold desert, with harsh winters, and much of it is bare rock and gravel rather than sand dunes. It lies in the rain shadow of the Tibetan Plateau and the Himalayas, and expeditions there in the 1920s made famous finds of dinosaur fossils and eggs."
+    "body": "The Gobi covers much of southern Mongolia and northern China. It is a cold desert, with harsh winters, and much of it is bare rock and gravel rather than sand dunes. It lies in the rain shadow of the Tibetan Plateau and the Himalayas, and expeditions there in the 1920s made famous finds of dinosaur fossils and eggs.",
+    "url": "https://en.wikipedia.org/wiki/Gobi_Desert"
   },
   {
     "title": "The Coriolis Effect",
-    "body": "Because the Earth rotates, winds and ocean currents moving over its surface are deflected to the right in the Northern Hemisphere and to the left in the Southern. Named after the French scientist Gaspard-Gustave de Coriolis, the effect explains why large storms spin in opposite directions in the two hemispheres. It is far too weak to decide which way water drains from a sink."
+    "body": "Because the Earth rotates, winds and ocean currents moving over its surface are deflected to the right in the Northern Hemisphere and to the left in the Southern. Named after the French scientist Gaspard-Gustave de Coriolis, the effect explains why large storms spin in opposite directions in the two hemispheres. It is far too weak to decide which way water drains from a sink.",
+    "url": "https://en.wikipedia.org/wiki/Coriolis_force"
   },
   {
     "title": "The Hawaiian Islands",
-    "body": "The Hawaiian Islands formed as the Pacific plate moved north-west over a fixed hotspot of rising magma. Each island was built by volcanoes and then carried away from the hotspot, so the islands grow older and more eroded to the north-west. The youngest, the island of Hawai'i, still has highly active volcanoes such as Kīlauea and Mauna Loa."
+    "body": "The Hawaiian Islands formed as the Pacific plate moved north-west over a fixed hotspot of rising magma. Each island was built by volcanoes and then carried away from the hotspot, so the islands grow older and more eroded to the north-west. The youngest, the island of Hawai'i, still has highly active volcanoes such as Kīlauea and Mauna Loa.",
+    "url": "https://en.wikipedia.org/wiki/Hawaiian_Islands"
   },
   {
     "title": "The Strait of Hormuz",
-    "body": "The Strait of Hormuz is the narrow channel between Iran and Oman that links the Persian Gulf with the Gulf of Oman and the open ocean. It is the only sea outlet for most of the Gulf's oil and gas exporters. This makes it one of the most strategically important waterways in the world."
+    "body": "The Strait of Hormuz is the narrow channel between Iran and Oman that links the Persian Gulf with the Gulf of Oman and the open ocean. It is the only sea outlet for most of the Gulf's oil and gas exporters. This makes it one of the most strategically important waterways in the world.",
+    "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
   },
   {
     "title": "The Atlas Mountains",
-    "body": "The Atlas Mountains stretch some 2,500 kilometres across Morocco, Algeria and Tunisia, separating the Mediterranean and Atlantic coasts from the Sahara. They were raised mainly by the collision of the African and Eurasian plates, and Toubkal in Morocco is their highest peak. Their rain and snow feed the farms and cities of the Maghreb, and they have long been a homeland of the Amazigh, or Berber, peoples."
+    "body": "The Atlas Mountains stretch some 2,500 kilometres across Morocco, Algeria and Tunisia, separating the Mediterranean and Atlantic coasts from the Sahara. They were raised mainly by the collision of the African and Eurasian plates, and Toubkal in Morocco is their highest peak. Their rain and snow feed the farms and cities of the Maghreb, and they have long been a homeland of the Amazigh, or Berber, peoples.",
+    "url": "https://en.wikipedia.org/wiki/Atlas_Mountains"
   },
   {
     "title": "River Deltas",
-    "body": "A delta forms where a river slows on entering a sea or lake and drops its load of sediment. Ancient Greeks named the Nile delta after their triangular letter delta, a usage recorded by Herodotus. Deltas such as those of the Nile, Ganges and Mekong have very fertile soils and dense populations, but they are low-lying and vulnerable to flooding and sea-level rise."
+    "body": "A delta forms where a river slows on entering a sea or lake and drops its load of sediment. Ancient Greeks named the Nile delta after their triangular letter delta, a usage recorded by Herodotus. Deltas such as those of the Nile, Ganges and Mekong have very fertile soils and dense populations, but they are low-lying and vulnerable to flooding and sea-level rise.",
+    "url": "https://en.wikipedia.org/wiki/River_delta"
   },
   {
     "title": "The Eurasian Steppe",
-    "body": "The Eurasian Steppe is a vast belt of grassland stretching from Hungary and Ukraine across Central Asia to Mongolia and northern China. Too dry for forest and often for farming, it was the home of horse-riding pastoral nomads. Peoples such as the Scythians, Huns and Mongols used it as a highway that linked, and repeatedly threatened, the settled civilisations around it."
+    "body": "The Eurasian Steppe is a vast belt of grassland stretching from Hungary and Ukraine across Central Asia to Mongolia and northern China. Too dry for forest and often for farming, it was the home of horse-riding pastoral nomads. Peoples such as the Scythians, Huns and Mongols used it as a highway that linked, and repeatedly threatened, the settled civilisations around it.",
+    "url": "https://en.wikipedia.org/wiki/Eurasian_Steppe"
   },
   {
     "title": "Waldseemüller's Map",
-    "body": "In 1507 the German cartographer Martin Waldseemüller published a world map that was the first to use the name 'America'. He named the new continent after the Italian navigator Amerigo Vespucci, who had argued that the lands found across the Atlantic were a new world rather than part of Asia. The name stuck, although Waldseemüller later dropped it from his own maps."
+    "body": "In 1507 the German cartographer Martin Waldseemüller published a world map that was the first to use the name 'America'. He named the new continent after the Italian navigator Amerigo Vespucci, who had argued that the lands found across the Atlantic were a new world rather than part of Asia. The name stuck, although Waldseemüller later dropped it from his own maps.",
+    "url": "https://en.wikipedia.org/wiki/Waldseem%C3%BCller_map"
   },
   {
     "title": "The Valley of Mexico",
-    "body": "The Valley of Mexico is a high basin in central Mexico, more than 2,000 metres above sea level, that once held a system of lakes. The Aztecs built their capital, Tenochtitlan, on an island in Lake Texcoco, and Mexico City grew on its ruins. Draining the lakes left the city on soft clay, which amplifies earthquakes and makes the ground sink as groundwater is pumped out."
+    "body": "The Valley of Mexico is a high basin in central Mexico, more than 2,000 metres above sea level, that once held a system of lakes. The Aztecs built their capital, Tenochtitlan, on an island in Lake Texcoco, and Mexico City grew on its ruins. Draining the lakes left the city on soft clay, which amplifies earthquakes and makes the ground sink as groundwater is pumped out.",
+    "url": "https://en.wikipedia.org/wiki/Valley_of_Mexico"
   },
   {
     "title": "The Wallace Line",
-    "body": "The Wallace Line is a boundary running between Bali and Lombok and between Borneo and Sulawesi. The naturalist Alfred Russel Wallace noticed that animals to the west of it are mainly Asian, while those to the east include Australian types such as marsupials. Deep water there was never bridged by land, even when ice-age sea levels were low."
+    "body": "The Wallace Line is a boundary running between Bali and Lombok and between Borneo and Sulawesi. The naturalist Alfred Russel Wallace noticed that animals to the west of it are mainly Asian, while those to the east include Australian types such as marsupials. Deep water there was never bridged by land, even when ice-age sea levels were low.",
+    "url": "https://en.wikipedia.org/wiki/Wallace_Line"
   },
   {
     "title": "Drainage Basins and Watersheds",
-    "body": "A drainage basin is all the land whose rainfall drains into a particular river and its tributaries. Basins are separated by high ground called divides or watersheds; in North America 'watershed' often means the basin itself. Because whatever happens upstream affects everyone downstream, river basins are a natural unit for managing water."
+    "body": "A drainage basin is all the land whose rainfall drains into a particular river and its tributaries. Basins are separated by high ground called divides or watersheds; in North America 'watershed' often means the basin itself. Because whatever happens upstream affects everyone downstream, river basins are a natural unit for managing water.",
+    "url": "https://en.wikipedia.org/wiki/Drainage_basin"
   },
   {
     "title": "Ptolemy's Geography",
-    "body": "Around 150 AD, Claudius Ptolemy of Alexandria compiled the Geography, a guide to mapping the known world that listed thousands of places by latitude and longitude. It set out how to project the curved Earth onto a flat map. Rediscovered in western Europe around 1400, it shaped Renaissance mapmaking, including its underestimate of the Earth's size."
+    "body": "Around 150 AD, Claudius Ptolemy of Alexandria compiled the Geography, a guide to mapping the known world that listed thousands of places by latitude and longitude. It set out how to project the curved Earth onto a flat map. Rediscovered in western Europe around 1400, it shaped Renaissance mapmaking, including its underestimate of the Earth's size.",
+    "url": "https://en.wikipedia.org/wiki/Geography_(Ptolemy)"
   },
   {
     "title": "Mount Fuji",
-    "body": "Mount Fuji, at about 3,776 metres, is the highest mountain in Japan and a nearly symmetrical active volcano that last erupted in 1707. It has long been a sacred site for pilgrims and a central symbol of Japan in art, notably in Hokusai's prints. It was listed as a World Heritage Site in 2013 as a cultural landscape."
+    "body": "Mount Fuji, at about 3,776 metres, is the highest mountain in Japan and a nearly symmetrical active volcano that last erupted in 1707. It has long been a sacred site for pilgrims and a central symbol of Japan in art, notably in Hokusai's prints. It was listed as a World Heritage Site in 2013 as a cultural landscape.",
+    "url": "https://en.wikipedia.org/wiki/Mount_Fuji"
   },
   {
     "title": "The Alps",
-    "body": "The Alps form an arc of about 1,200 kilometres across France, Switzerland, Italy, Germany, Austria and Slovenia. They were raised by the collision of the African and Eurasian plates, and Mont Blanc is their highest peak. Rivers such as the Rhine, the Rhône and the Po rise in them, which is why they are often called the water tower of Europe."
+    "body": "The Alps form an arc of about 1,200 kilometres across France, Switzerland, Italy, Germany, Austria and Slovenia. They were raised by the collision of the African and Eurasian plates, and Mont Blanc is their highest peak. Rivers such as the Rhine, the Rhône and the Po rise in them, which is why they are often called the water tower of Europe.",
+    "url": "https://en.wikipedia.org/wiki/Alps"
   },
   {
     "title": "The Canadian Shield",
-    "body": "The Canadian Shield is a vast area of ancient bedrock curving around Hudson Bay and covering much of Canada. It contains some of the oldest rocks on Earth. Scraped bare by ice-age glaciers, it has thin soils and countless lakes, and it is rich in minerals such as nickel, gold and iron."
+    "body": "The Canadian Shield is a vast area of ancient bedrock curving around Hudson Bay and covering much of Canada. It contains some of the oldest rocks on Earth. Scraped bare by ice-age glaciers, it has thin soils and countless lakes, and it is rich in minerals such as nickel, gold and iron.",
+    "url": "https://en.wikipedia.org/wiki/Canadian_Shield"
   },
   {
     "title": "The Pacific Ocean",
-    "body": "The Pacific is the largest and deepest of the oceans, covering about a third of the Earth's surface, more than all the land put together. Ferdinand Magellan named it 'peaceful' after the calm waters he met on entering it in 1520. Its rim is lined by the volcanoes and earthquake zones of the Ring of Fire."
+    "body": "The Pacific is the largest and deepest of the oceans, covering about a third of the Earth's surface, more than all the land put together. Ferdinand Magellan named it 'peaceful' after the calm waters he met on entering it in 1520. Its rim is lined by the volcanoes and earthquake zones of the Ring of Fire.",
+    "url": "https://en.wikipedia.org/wiki/Pacific_Ocean"
   },
   {
     "title": "The Caspian Sea",
-    "body": "The Caspian is the largest enclosed inland body of water on Earth, bordered by Russia, Azerbaijan, Iran, Turkmenistan and Kazakhstan. Its surface lies below sea level, and its water is mildly salty. Whether it counts legally as a sea or a lake has long been disputed, because the answer affects how its oil, gas and fisheries are divided."
+    "body": "The Caspian is the largest enclosed inland body of water on Earth, bordered by Russia, Azerbaijan, Iran, Turkmenistan and Kazakhstan. Its surface lies below sea level, and its water is mildly salty. Whether it counts legally as a sea or a lake has long been disputed, because the answer affects how its oil, gas and fisheries are divided.",
+    "url": "https://en.wikipedia.org/wiki/Caspian_Sea"
   },
   {
     "title": "The Sahel",
-    "body": "The Sahel is a semi-arid belt of grassland and scrub stretching across Africa from the Atlantic to the Red Sea, between the Sahara to the north and the wetter savanna to the south. Its name comes from the Arabic for 'shore', as in the edge of the desert. Its rainfall varies greatly from year to year, and severe droughts in the 1970s and 1980s caused devastating famines."
+    "body": "The Sahel is a semi-arid belt of grassland and scrub stretching across Africa from the Atlantic to the Red Sea, between the Sahara to the north and the wetter savanna to the south. Its name comes from the Arabic for 'shore', as in the edge of the desert. Its rainfall varies greatly from year to year, and severe droughts in the 1970s and 1980s caused devastating famines.",
+    "url": "https://en.wikipedia.org/wiki/Sahel"
   },
   {
     "title": "The Indus River",
-    "body": "The Indus rises in Tibet and flows through Ladakh and the length of Pakistan to the Arabian Sea. Its valley was home to the Bronze Age Indus Valley Civilisation, with planned cities such as Harappa and Mohenjo-daro. The river gave its name, through Persian and Greek, to India and to Hinduism."
+    "body": "The Indus rises in Tibet and flows through Ladakh and the length of Pakistan to the Arabian Sea. Its valley was home to the Bronze Age Indus Valley Civilisation, with planned cities such as Harappa and Mohenjo-daro. The river gave its name, through Persian and Greek, to India and to Hinduism.",
+    "url": "https://en.wikipedia.org/wiki/Indus_River"
   },
   {
     "title": "The Prime Meridian",
-    "body": "The Prime Meridian is the line of 0 degrees longitude from which east and west are measured. At the International Meridian Conference in Washington in 1884, most nations agreed to place it through the Royal Observatory at Greenwich in London. It also became the basis of Greenwich Mean Time, the reference for the world's time zones."
+    "body": "The Prime Meridian is the line of 0 degrees longitude from which east and west are measured. At the International Meridian Conference in Washington in 1884, most nations agreed to place it through the Royal Observatory at Greenwich in London. It also became the basis of Greenwich Mean Time, the reference for the world's time zones.",
+    "url": "https://en.wikipedia.org/wiki/Prime_meridian"
   },
   {
     "title": "The Grand Canal of China",
-    "body": "The Grand Canal links the Yangtze and Yellow rivers and runs north as far as Beijing. Earlier sections were joined into a single system under the Sui dynasty around 600 AD and extended under later dynasties. For more than a thousand years it carried grain from the fertile south to feed the northern capitals."
+    "body": "The Grand Canal links the Yangtze and Yellow rivers and runs north as far as Beijing. Earlier sections were joined into a single system under the Sui dynasty around 600 AD and extended under later dynasties. For more than a thousand years it carried grain from the fertile south to feed the northern capitals.",
+    "url": "https://en.wikipedia.org/wiki/Grand_Canal_(China)"
   },
   {
     "title": "Iceland",
-    "body": "Iceland sits on the Mid-Atlantic Ridge, where the North American and Eurasian plates pull apart, and also above a volcanic hotspot. As a result it has frequent eruptions, hot springs and geysers, and the word 'geyser' comes from Icelandic. Geothermal energy heats most of its homes, and large ice caps cover its highlands."
+    "body": "Iceland sits on the Mid-Atlantic Ridge, where the North American and Eurasian plates pull apart, and also above a volcanic hotspot. As a result it has frequent eruptions, hot springs and geysers, and the word 'geyser' comes from Icelandic. Geothermal energy heats most of its homes, and large ice caps cover its highlands.",
+    "url": "https://en.wikipedia.org/wiki/Iceland"
   },
   {
     "title": "Latitude and Longitude",
-    "body": "Latitude measures how far a place is north or south of the equator, from 0 to 90 degrees; longitude measures how far it is east or west of the Prime Meridian, from 0 to 180 degrees. Together they give every point on Earth a unique address. Latitude could be found from the Sun or stars, but longitude at sea required accurate timekeeping, a problem solved only by marine chronometers in the 18th century."
+    "body": "Latitude measures how far a place is north or south of the equator, from 0 to 90 degrees; longitude measures how far it is east or west of the Prime Meridian, from 0 to 180 degrees. Together they give every point on Earth a unique address. Latitude could be found from the Sun or stars, but longitude at sea required accurate timekeeping, a problem solved only by marine chronometers in the 18th century.",
+    "url": "https://en.wikipedia.org/wiki/Geographic_coordinate_system"
   },
   {
     "title": "The Megalopolis",
-    "body": "In 1961 the French geographer Jean Gottmann used the term megalopolis for the almost continuous chain of cities on the north-east coast of the United States, from Boston to Washington. He argued that this urban region worked as a single interconnected system. The idea has since been applied to other city regions, such as the Tokyo–Osaka corridor in Japan."
+    "body": "In 1961 the French geographer Jean Gottmann used the term megalopolis for the almost continuous chain of cities on the north-east coast of the United States, from Boston to Washington. He argued that this urban region worked as a single interconnected system. The idea has since been applied to other city regions, such as the Tokyo–Osaka corridor in Japan.",
+    "url": "https://en.wikipedia.org/wiki/Megalopolis"
   },
   {
     "title": "Uluru",
-    "body": "Uluru is a great sandstone monolith in the desert of central Australia, famous for glowing red at sunrise and sunset. It is sacred to the Anangu, its Aboriginal traditional owners, to whom ownership was formally returned in 1985. Long known to outsiders as Ayers Rock, it is now generally called by its Aboriginal name, and climbing it was banned in 2019."
+    "body": "Uluru is a great sandstone monolith in the desert of central Australia, famous for glowing red at sunrise and sunset. It is sacred to the Anangu, its Aboriginal traditional owners, to whom ownership was formally returned in 1985. Long known to outsiders as Ayers Rock, it is now generally called by its Aboriginal name, and climbing it was banned in 2019.",
+    "url": "https://en.wikipedia.org/wiki/Uluru"
   },
   {
     "title": "Patagonia",
-    "body": "Patagonia is the southern end of South America, shared by Argentina and Chile. Its Andean side has great ice fields, glaciers and wet forests, while the plains to the east are dry, windswept steppe in the rain shadow of the mountains. The name dates from Magellan's voyage in 1520, whose crew called the local people Patagones."
+    "body": "Patagonia is the southern end of South America, shared by Argentina and Chile. Its Andean side has great ice fields, glaciers and wet forests, while the plains to the east are dry, windswept steppe in the rain shadow of the mountains. The name dates from Magellan's voyage in 1520, whose crew called the local people Patagones.",
+    "url": "https://en.wikipedia.org/wiki/Patagonia"
   },
   {
     "title": "The Red Sea",
-    "body": "The Red Sea separates Africa from the Arabian Peninsula. It is a young ocean in the making, formed as the Arabian plate pulls away from Africa, and it is one of the saltiest and warmest seas, with rich coral reefs. Linked to the Mediterranean by the Suez Canal and to the Indian Ocean through the Bab-el-Mandeb strait, it is a vital shipping route."
+    "body": "The Red Sea separates Africa from the Arabian Peninsula. It is a young ocean in the making, formed as the Arabian plate pulls away from Africa, and it is one of the saltiest and warmest seas, with rich coral reefs. Linked to the Mediterranean by the Suez Canal and to the Indian Ocean through the Bab-el-Mandeb strait, it is a vital shipping route.",
+    "url": "https://en.wikipedia.org/wiki/Red_Sea"
   },
   {
     "title": "The Taiga",
-    "body": "The taiga, or boreal forest, is a belt of mainly coniferous forest across northern Russia, Scandinavia, Canada and Alaska, between the tundra and the temperate zones. It is one of the largest land biomes on Earth, dominated by spruce, pine, fir and larch adapted to long, cold winters. Its trees and soils store vast amounts of carbon."
+    "body": "The taiga, or boreal forest, is a belt of mainly coniferous forest across northern Russia, Scandinavia, Canada and Alaska, between the tundra and the temperate zones. It is one of the largest land biomes on Earth, dominated by spruce, pine, fir and larch adapted to long, cold winters. Its trees and soils store vast amounts of carbon.",
+    "url": "https://en.wikipedia.org/wiki/Taiga"
   },
   {
     "title": "The Khyber Pass",
-    "body": "The Khyber Pass crosses the mountains between Afghanistan and Pakistan. For thousands of years it has been one of the main gateways between Central Asia and the Indian subcontinent, used by traders, pilgrims and invading armies. Its strategic value made it a focus of rivalry in the 19th century."
+    "body": "The Khyber Pass crosses the mountains between Afghanistan and Pakistan. For thousands of years it has been one of the main gateways between Central Asia and the Indian subcontinent, used by traders, pilgrims and invading armies. Its strategic value made it a focus of rivalry in the 19th century.",
+    "url": "https://en.wikipedia.org/wiki/Khyber_Pass"
   },
   {
     "title": "Al-Idrisi's World Map",
-    "body": "In 1154 the Arab geographer al-Idrisi completed a great description of the known world for King Roger II of Sicily, with an accompanying world map. It drew on Greek, Arab and travellers' knowledge and, as was common in Islamic maps, placed south at the top. It was one of the most accurate world maps of the Middle Ages."
+    "body": "In 1154 the Arab geographer al-Idrisi completed a great description of the known world for King Roger II of Sicily, with an accompanying world map. It drew on Greek, Arab and travellers' knowledge and, as was common in Islamic maps, placed south at the top. It was one of the most accurate world maps of the Middle Ages.",
+    "url": "https://en.wikipedia.org/wiki/Tabula_Rogeriana"
   },
   {
     "title": "The Rain Shadow",
-    "body": "When moist wind meets a mountain range, the air rises, cools and drops its rain on the windward side. Having lost its moisture, it descends the far side as dry air, creating a rain shadow. This is why lush forests and deserts can lie only a short distance apart on opposite sides of the same mountains."
+    "body": "When moist wind meets a mountain range, the air rises, cools and drops its rain on the windward side. Having lost its moisture, it descends the far side as dry air, creating a rain shadow. This is why lush forests and deserts can lie only a short distance apart on opposite sides of the same mountains.",
+    "url": "https://en.wikipedia.org/wiki/Rain_shadow"
   },
   {
     "title": "The San Andreas Fault",
-    "body": "The San Andreas Fault runs for more than 1,000 kilometres through California, where the Pacific plate slides north-west past the North American plate. Movement along it caused the earthquake that devastated San Francisco in 1906. It is one of the most closely studied faults in the world because of the risk it poses to major cities."
+    "body": "The San Andreas Fault runs for more than 1,000 kilometres through California, where the Pacific plate slides north-west past the North American plate. Movement along it caused the earthquake that devastated San Francisco in 1906. It is one of the most closely studied faults in the world because of the risk it poses to major cities.",
+    "url": "https://en.wikipedia.org/wiki/San_Andreas_Fault"
   },
   {
     "title": "The Köppen Climate Classification",
-    "body": "Developed by the climatologist Wladimir Köppen between the 1880s and the 1930s, this is the most widely used system for classifying the world's climates. It divides them into five main groups, labelled A to E, from tropical to polar, using temperature, rainfall and their seasons. Köppen drew his boundaries largely from the distribution of natural vegetation."
+    "body": "Developed by the climatologist Wladimir Köppen between the 1880s and the 1930s, this is the most widely used system for classifying the world's climates. It divides them into five main groups, labelled A to E, from tropical to polar, using temperature, rainfall and their seasons. Köppen drew his boundaries largely from the distribution of natural vegetation.",
+    "url": "https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification"
   },
   {
     "title": "The Australian Outback",
-    "body": "The Outback is the vast, dry and thinly populated interior of Australia. Most of the continent is arid or semi-arid, so most Australians live near the coasts, especially in the south-east. Much of the interior relies on water drawn from the Great Artesian Basin, one of the largest underground water reserves in the world."
+    "body": "The Outback is the vast, dry and thinly populated interior of Australia. Most of the continent is arid or semi-arid, so most Australians live near the coasts, especially in the south-east. Much of the interior relies on water drawn from the Great Artesian Basin, one of the largest underground water reserves in the world.",
+    "url": "https://en.wikipedia.org/wiki/Outback"
   },
   {
     "title": "The Arctic Ocean",
-    "body": "The Arctic Ocean, around the North Pole, is the smallest and shallowest of the world's oceans. Much of it is covered by floating sea ice, so the North Pole itself lies on drifting ice rather than land. The ice cover has been shrinking markedly since satellite records began in the late 1970s, a clear sign of a warming climate."
+    "body": "The Arctic Ocean, around the North Pole, is the smallest and shallowest of the world's oceans. Much of it is covered by floating sea ice, so the North Pole itself lies on drifting ice rather than land. The ice cover has been shrinking markedly since satellite records began in the late 1970s, a clear sign of a warming climate.",
+    "url": "https://en.wikipedia.org/wiki/Arctic_Ocean"
   },
   {
     "title": "The Okavango Delta",
-    "body": "The Okavango River flows from the highlands of Angola into Botswana and never reaches the sea. Instead it spreads into a vast inland delta of channels, lagoons and islands at the edge of the Kalahari Desert. The seasonal flood arrives during the dry season, drawing huge numbers of animals to one of Africa's richest wildlife areas."
+    "body": "The Okavango River flows from the highlands of Angola into Botswana and never reaches the sea. Instead it spreads into a vast inland delta of channels, lagoons and islands at the edge of the Kalahari Desert. The seasonal flood arrives during the dry season, drawing huge numbers of animals to one of Africa's richest wildlife areas.",
+    "url": "https://en.wikipedia.org/wiki/Okavango_Delta"
   },
   {
     "title": "The Fertile Crescent",
-    "body": "The Fertile Crescent is the arc of land running from the Persian Gulf through Mesopotamia to the eastern Mediterranean coast. Around 11,000 years ago people there were among the first to farm, domesticating wheat, barley, sheep and goats. The name was coined by the American archaeologist James Henry Breasted in the early 20th century."
+    "body": "The Fertile Crescent is the arc of land running from the Persian Gulf through Mesopotamia to the eastern Mediterranean coast. Around 11,000 years ago people there were among the first to farm, domesticating wheat, barley, sheep and goats. The name was coined by the American archaeologist James Henry Breasted in the early 20th century.",
+    "url": "https://en.wikipedia.org/wiki/Fertile_Crescent"
   },
   {
     "title": "How Many Continents There Are",
-    "body": "There is no single agreed number of continents. English-speaking countries usually count seven, while many Spanish- and Portuguese-speaking countries treat the Americas as one continent, and some count Europe and Asia as one landmass, Eurasia. The division between Europe and Asia in particular is a cultural convention rather than a clear physical boundary."
+    "body": "There is no single agreed number of continents. English-speaking countries usually count seven, while many Spanish- and Portuguese-speaking countries treat the Americas as one continent, and some count Europe and Asia as one landmass, Eurasia. The division between Europe and Asia in particular is a cultural convention rather than a clear physical boundary.",
+    "url": "https://en.wikipedia.org/wiki/Continent"
   },
   {
     "title": "Cape Horn and the Drake Passage",
-    "body": "Cape Horn, on a Chilean island at the southern tip of South America, was named by Dutch sailors in 1616 after the town of Hoorn. South of it, the Drake Passage separates the continent from Antarctica and carries strong winds and some of the roughest seas on Earth. Before the Panama Canal opened, ships sailing between the Atlantic and Pacific had to face it."
+    "body": "Cape Horn, on a Chilean island at the southern tip of South America, was named by Dutch sailors in 1616 after the town of Hoorn. South of it, the Drake Passage separates the continent from Antarctica and carries strong winds and some of the roughest seas on Earth. Before the Panama Canal opened, ships sailing between the Atlantic and Pacific had to face it.",
+    "url": "https://en.wikipedia.org/wiki/Cape_Horn"
   },
   {
     "title": "The Mississippi River",
-    "body": "Together with its great tributary the Missouri, the Mississippi drains most of the United States between the Rocky Mountains and the Appalachians. It flows south to the Gulf of Mexico, ending in a large delta below New Orleans. For centuries it has been the main inland waterway of North America, and its name comes from an Ojibwe word meaning 'great river'."
+    "body": "Together with its great tributary the Missouri, the Mississippi drains most of the United States between the Rocky Mountains and the Appalachians. It flows south to the Gulf of Mexico, ending in a large delta below New Orleans. For centuries it has been the main inland waterway of North America, and its name comes from an Ojibwe word meaning 'great river'.",
+    "url": "https://en.wikipedia.org/wiki/Mississippi_River"
   },
   {
     "title": "Glaciers",
-    "body": "A glacier is a mass of ice, formed from compacted snow over many years, that moves slowly downhill under its own weight. As they flow, glaciers grind out U-shaped valleys and bowl-shaped hollows called cirques, and leave ridges of debris called moraines. Most of the world's glacial ice is in Antarctica and Greenland, and mountain glaciers worldwide have been retreating as the climate warms."
+    "body": "A glacier is a mass of ice, formed from compacted snow over many years, that moves slowly downhill under its own weight. As they flow, glaciers grind out U-shaped valleys and bowl-shaped hollows called cirques, and leave ridges of debris called moraines. Most of the world's glacial ice is in Antarctica and Greenland, and mountain glaciers worldwide have been retreating as the climate warms.",
+    "url": "https://en.wikipedia.org/wiki/Glacier"
   },
   {
     "title": "The Danube",
-    "body": "The Danube rises in Germany's Black Forest and flows east to a delta on the Black Sea in Romania and Ukraine. It passes through or along ten countries, more than any other river, and through four capitals: Vienna, Bratislava, Budapest and Belgrade. It is the second-longest river in Europe after the Volga and has long been a major trade route and frontier."
+    "body": "The Danube rises in Germany's Black Forest and flows east to a delta on the Black Sea in Romania and Ukraine. It passes through or along ten countries, more than any other river, and through four capitals: Vienna, Bratislava, Budapest and Belgrade. It is the second-longest river in Europe after the Volga and has long been a major trade route and frontier.",
+    "url": "https://en.wikipedia.org/wiki/Danube"
   },
   {
     "title": "The Great Rift Valley",
-    "body": "The East African Rift is a long system of valleys where the African continent is slowly being pulled apart along diverging tectonic plates. It holds deep lakes such as Tanganyika and Malawi and volcanoes such as Kilimanjaro. Many of the most important early human fossils have been found along it, which makes it central to the study of human origins."
+    "body": "The East African Rift is a long system of valleys where the African continent is slowly being pulled apart along diverging tectonic plates. It holds deep lakes such as Tanganyika and Malawi and volcanoes such as Kilimanjaro. Many of the most important early human fossils have been found along it, which makes it central to the study of human origins.",
+    "url": "https://en.wikipedia.org/wiki/East_African_Rift"
   },
   {
     "title": "The Trade Winds",
-    "body": "The trade winds are steady easterly winds blowing towards the equator across the tropics, from the north-east in the Northern Hemisphere and the south-east in the Southern. They meet near the equator in a zone of rising air, rain and calms that sailors called the doldrums. Sailing ships relied on them to cross the Atlantic from Europe to the Americas."
+    "body": "The trade winds are steady easterly winds blowing towards the equator across the tropics, from the north-east in the Northern Hemisphere and the south-east in the Southern. They meet near the equator in a zone of rising air, rain and calms that sailors called the doldrums. Sailing ships relied on them to cross the Atlantic from Europe to the Americas.",
+    "url": "https://en.wikipedia.org/wiki/Trade_winds"
   },
   {
     "title": "The Galápagos Islands",
-    "body": "The Galápagos are volcanic islands in the Pacific nearly 1,000 kilometres west of Ecuador, to which they belong. Their isolation produced unique wildlife such as giant tortoises, marine iguanas and many species of finch. Charles Darwin's visit in 1835 helped shape his later theory of evolution by natural selection."
+    "body": "The Galápagos are volcanic islands in the Pacific nearly 1,000 kilometres west of Ecuador, to which they belong. Their isolation produced unique wildlife such as giant tortoises, marine iguanas and many species of finch. Charles Darwin's visit in 1835 helped shape his later theory of evolution by natural selection.",
+    "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_Islands"
   },
   {
     "title": "The Yangtze River",
-    "body": "The Yangtze is the longest river in Asia, flowing from the Tibetan Plateau across China to the East China Sea at Shanghai. Its basin holds a large share of China's people and much of its rice farming. The river has long served as the traditional dividing line between northern and southern China."
+    "body": "The Yangtze is the longest river in Asia, flowing from the Tibetan Plateau across China to the East China Sea at Shanghai. Its basin holds a large share of China's people and much of its rice farming. The river has long served as the traditional dividing line between northern and southern China.",
+    "url": "https://en.wikipedia.org/wiki/Yangtze"
   },
   {
     "title": "The Demographic Transition",
-    "body": "The demographic transition is the model, developed by social scientists in the mid-20th century, of how populations change as societies modernise. First death rates fall thanks to better food, sanitation and medicine, and the population grows rapidly; later birth rates also fall, and growth slows. It describes the experience of Europe and many other regions, though not every country follows the same path."
+    "body": "The demographic transition is the model, developed by social scientists in the mid-20th century, of how populations change as societies modernise. First death rates fall thanks to better food, sanitation and medicine, and the population grows rapidly; later birth rates also fall, and growth slows. It describes the experience of Europe and many other regions, though not every country follows the same path.",
+    "url": "https://en.wikipedia.org/wiki/Demographic_transition"
   },
   {
     "title": "The Monsoon",
-    "body": "A monsoon is a seasonal reversal of the prevailing winds. In South Asia, the land heats up faster than the Indian Ocean in summer, drawing in moist sea air that brings most of the year's rain between about June and September. Hundreds of millions of farmers depend on its timing, and the word comes from the Arabic for 'season'."
+    "body": "A monsoon is a seasonal reversal of the prevailing winds. In South Asia, the land heats up faster than the Indian Ocean in summer, drawing in moist sea air that brings most of the year's rain between about June and September. Hundreds of millions of farmers depend on its timing, and the word comes from the Arabic for 'season'.",
+    "url": "https://en.wikipedia.org/wiki/Monsoon"
   },
   {
     "title": "The Empty Quarter",
-    "body": "The Rub' al Khali, or Empty Quarter, covers much of the southern Arabian Peninsula across Saudi Arabia, Oman, the United Arab Emirates and Yemen. It is one of the largest continuous areas of sand on Earth, with dunes rising to hundreds of metres. Its extreme heat and lack of water made it one of the last regions of the world to be crossed and mapped by outsiders."
+    "body": "The Rub' al Khali, or Empty Quarter, covers much of the southern Arabian Peninsula across Saudi Arabia, Oman, the United Arab Emirates and Yemen. It is one of the largest continuous areas of sand on Earth, with dunes rising to hundreds of metres. Its extreme heat and lack of water made it one of the last regions of the world to be crossed and mapped by outsiders.",
+    "url": "https://en.wikipedia.org/wiki/Rub'_al_Khali"
   },
   {
     "title": "The Grand Canyon",
-    "body": "The Grand Canyon in Arizona has been cut by the Colorado River over millions of years and is more than a kilometre and a half deep in places. Its walls expose layers of rock spanning close to two billion years of Earth's history. It is one of the clearest natural records of how rock forms and erodes over time."
+    "body": "The Grand Canyon in Arizona has been cut by the Colorado River over millions of years and is more than a kilometre and a half deep in places. Its walls expose layers of rock spanning close to two billion years of Earth's history. It is one of the clearest natural records of how rock forms and erodes over time.",
+    "url": "https://en.wikipedia.org/wiki/Grand_Canyon"
   },
   {
     "title": "The Mediterranean Climate",
-    "body": "A Mediterranean climate has hot, dry summers and mild, wet winters. Besides the lands around the Mediterranean Sea, it occurs on the west sides of continents in the mid-latitudes: California, central Chile, the Cape region of South Africa and south-western Australia. These regions share drought-tolerant vegetation, a farming tradition of olives, vines and wheat, and a high risk of summer wildfires."
+    "body": "A Mediterranean climate has hot, dry summers and mild, wet winters. Besides the lands around the Mediterranean Sea, it occurs on the west sides of continents in the mid-latitudes: California, central Chile, the Cape region of South Africa and south-western Australia. These regions share drought-tolerant vegetation, a farming tradition of olives, vines and wheat, and a high risk of summer wildfires.",
+    "url": "https://en.wikipedia.org/wiki/Mediterranean_climate"
   },
   {
     "title": "The Ural Mountains",
-    "body": "The Urals run some 2,500 kilometres north to south through western Russia, from the Arctic coast to the steppes of Kazakhstan. They are by convention part of the boundary between Europe and Asia. Being very old and heavily eroded, they are relatively low, but they are rich in minerals and became a major industrial region."
+    "body": "The Urals run some 2,500 kilometres north to south through western Russia, from the Arctic coast to the steppes of Kazakhstan. They are by convention part of the boundary between Europe and Asia. Being very old and heavily eroded, they are relatively low, but they are rich in minerals and became a major industrial region.",
+    "url": "https://en.wikipedia.org/wiki/Ural_Mountains"
   },
   {
     "title": "The Three Gorges Dam",
-    "body": "The Three Gorges Dam spans the Yangtze River in central China and was built in stages, with its main structure finished in 2006. It is one of the largest hydroelectric power stations ever built and also helps control floods and improve navigation upstream. Its reservoir displaced more than a million people and flooded towns and historic sites, making it one of the most debated engineering projects of its time."
+    "body": "The Three Gorges Dam spans the Yangtze River in central China and was built in stages, with its main structure finished in 2006. It is one of the largest hydroelectric power stations ever built and also helps control floods and improve navigation upstream. Its reservoir displaced more than a million people and flooded towns and historic sites, making it one of the most debated engineering projects of its time.",
+    "url": "https://en.wikipedia.org/wiki/Three_Gorges_Dam"
   },
   {
     "title": "Antarctica",
-    "body": "Antarctica is the coldest, driest and windiest continent, almost entirely buried under an ice sheet that is several kilometres thick in places. That ice holds most of the world's fresh water. The continent has no permanent population, and under the Antarctic Treaty of 1959 it is reserved for peaceful scientific use."
+    "body": "Antarctica is the coldest, driest and windiest continent, almost entirely buried under an ice sheet that is several kilometres thick in places. That ice holds most of the world's fresh water. The continent has no permanent population, and under the Antarctic Treaty of 1959 it is reserved for peaceful scientific use.",
+    "url": "https://en.wikipedia.org/wiki/Antarctica"
   },
   {
     "title": "Lake Titicaca",
-    "body": "Lake Titicaca lies on the high Andean plateau on the border between Peru and Bolivia, at about 3,800 metres above sea level. It is the largest lake in South America by volume and is often described as the highest navigable lake in the world. In some Inca origin stories, the first Incas emerged from its waters."
+    "body": "Lake Titicaca lies on the high Andean plateau on the border between Peru and Bolivia, at about 3,800 metres above sea level. It is the largest lake in South America by volume and is often described as the highest navigable lake in the world. In some Inca origin stories, the first Incas emerged from its waters.",
+    "url": "https://en.wikipedia.org/wiki/Lake_Titicaca"
   },
   {
     "title": "The Jet Stream",
-    "body": "Jet streams are narrow bands of very fast westerly wind about ten kilometres up, near the top of the lower atmosphere. They form along the boundaries between cold polar and warmer air and steer weather systems across the mid-latitudes. Airlines use them to shorten eastbound flights, and big loops in the jet stream can lock weather patterns in place for weeks."
+    "body": "Jet streams are narrow bands of very fast westerly wind about ten kilometres up, near the top of the lower atmosphere. They form along the boundaries between cold polar and warmer air and steer weather systems across the mid-latitudes. Airlines use them to shorten eastbound flights, and big loops in the jet stream can lock weather patterns in place for weeks.",
+    "url": "https://en.wikipedia.org/wiki/Jet_stream"
   },
   {
     "title": "Beringia",
-    "body": "During the ice ages, when sea levels were more than 100 metres lower, a broad stretch of land called Beringia joined Siberia and Alaska where the Bering Strait is now. People from Asia crossed it into the Americas, though exactly when, and by which routes, is still debated. Rising seas flooded the land bridge as the last ice age ended."
+    "body": "During the ice ages, when sea levels were more than 100 metres lower, a broad stretch of land called Beringia joined Siberia and Alaska where the Bering Strait is now. People from Asia crossed it into the Americas, though exactly when, and by which routes, is still debated. Rising seas flooded the land bridge as the last ice age ended.",
+    "url": "https://en.wikipedia.org/wiki/Beringia"
   },
   {
     "title": "The Great Barrier Reef",
-    "body": "Stretching for more than 2,000 kilometres off the coast of Queensland, Australia, the Great Barrier Reef is the largest coral reef system on Earth. It is made of thousands of separate reefs built over millennia by tiny coral animals. Warmer seas have caused repeated mass coral bleaching, making the reef a prominent symbol of the effects of climate change."
+    "body": "Stretching for more than 2,000 kilometres off the coast of Queensland, Australia, the Great Barrier Reef is the largest coral reef system on Earth. It is made of thousands of separate reefs built over millennia by tiny coral animals. Warmer seas have caused repeated mass coral bleaching, making the reef a prominent symbol of the effects of climate change.",
+    "url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef"
   },
   {
     "title": "Karst Landscapes",
-    "body": "Karst forms where rainwater, made slightly acidic by carbon dioxide, slowly dissolves limestone. The result is a landscape of caves, sinkholes, underground rivers and, in places, steep towers of rock, as around Guilin in China and Ha Long Bay in Vietnam. The name comes from the Kras plateau on the border of Slovenia and Italy."
+    "body": "Karst forms where rainwater, made slightly acidic by carbon dioxide, slowly dissolves limestone. The result is a landscape of caves, sinkholes, underground rivers and, in places, steep towers of rock, as around Guilin in China and Ha Long Bay in Vietnam. The name comes from the Kras plateau on the border of Slovenia and Italy.",
+    "url": "https://en.wikipedia.org/wiki/Karst"
   },
   {
     "title": "Madagascar",
-    "body": "Madagascar, off the south-east coast of Africa, broke away from the African mainland and then from India tens of millions of years ago. Its plants and animals evolved in isolation, so most of its species, including all its lemurs, are found nowhere else. It is one of the world's most important and most threatened areas of biodiversity."
+    "body": "Madagascar, off the south-east coast of Africa, broke away from the African mainland and then from India tens of millions of years ago. Its plants and animals evolved in isolation, so most of its species, including all its lemurs, are found nowhere else. It is one of the world's most important and most threatened areas of biodiversity.",
+    "url": "https://en.wikipedia.org/wiki/Madagascar"
   },
   {
     "title": "The Sundarbans",
-    "body": "The Sundarbans is the largest mangrove forest in the world, spread across the Ganges–Brahmaputra delta in Bangladesh and India. Its maze of tidal channels and islands is home to the Bengal tiger. The mangroves also shield the densely populated coast from cyclones and storm surges."
+    "body": "The Sundarbans is the largest mangrove forest in the world, spread across the Ganges–Brahmaputra delta in Bangladesh and India. Its maze of tidal channels and islands is home to the Bengal tiger. The mangroves also shield the densely populated coast from cyclones and storm surges.",
+    "url": "https://en.wikipedia.org/wiki/Sundarbans"
   },
   {
     "title": "Thermohaline Circulation",
-    "body": "Thermohaline circulation is the slow, global movement of deep ocean water driven by differences in temperature and saltiness. Cold, salty water sinks in the North Atlantic and around Antarctica and spreads through the deep oceans, rising elsewhere, in a cycle that takes centuries. This 'conveyor belt' redistributes heat around the planet, and scientists study whether climate change could weaken it."
+    "body": "Thermohaline circulation is the slow, global movement of deep ocean water driven by differences in temperature and saltiness. Cold, salty water sinks in the North Atlantic and around Antarctica and spreads through the deep oceans, rising elsewhere, in a cycle that takes centuries. This 'conveyor belt' redistributes heat around the planet, and scientists study whether climate change could weaken it.",
+    "url": "https://en.wikipedia.org/wiki/Thermohaline_circulation"
   },
   {
     "title": "Dutch Polders",
-    "body": "A polder is low-lying land reclaimed from the sea, a lake or a marsh and protected by dykes. The Dutch began building them in the Middle Ages, draining them with windmills and later with steam and electric pumps. A large part of the Netherlands lies below sea level, and 20th-century projects enclosed the Zuiderzee and created whole new provinces."
+    "body": "A polder is low-lying land reclaimed from the sea, a lake or a marsh and protected by dykes. The Dutch began building them in the Middle Ages, draining them with windmills and later with steam and electric pumps. A large part of the Netherlands lies below sea level, and 20th-century projects enclosed the Zuiderzee and created whole new provinces.",
+    "url": "https://en.wikipedia.org/wiki/Polder"
   },
   {
     "title": "The Yellow River",
-    "body": "The Yellow River, or Huang He, takes its colour from the fine yellow soil it picks up as it crosses the Loess Plateau in northern China. Its plain was a cradle of Chinese civilisation. The silt raises its bed above the surrounding land, so floods and changes of course have been catastrophic, earning it the name 'China's Sorrow'."
+    "body": "The Yellow River, or Huang He, takes its colour from the fine yellow soil it picks up as it crosses the Loess Plateau in northern China. Its plain was a cradle of Chinese civilisation. The silt raises its bed above the surrounding land, so floods and changes of course have been catastrophic, earning it the name 'China's Sorrow'.",
+    "url": "https://en.wikipedia.org/wiki/Yellow_River"
   },
   {
     "title": "Mount Kilimanjaro",
-    "body": "Kilimanjaro in northern Tanzania is the highest mountain in Africa, at nearly 5,900 metres. It is a dormant volcano that rises alone from the surrounding plains rather than as part of a range. Its summit glaciers, only a few hundred kilometres from the equator, have shrunk sharply over the past century."
+    "body": "Kilimanjaro in northern Tanzania is the highest mountain in Africa, at nearly 5,900 metres. It is a dormant volcano that rises alone from the surrounding plains rather than as part of a range. Its summit glaciers, only a few hundred kilometres from the equator, have shrunk sharply over the past century.",
+    "url": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
   },
   {
     "title": "The International Date Line",
-    "body": "The International Date Line runs roughly along 180 degrees longitude through the Pacific, halfway round the world from Greenwich. Crossing it westward moves the calendar forward a day, and crossing it eastward moves it back. It is not fixed by any treaty and zigzags to keep island groups on the same date. Magellan's surviving crew found they had 'lost' a day when they returned in 1522."
+    "body": "The International Date Line runs roughly along 180 degrees longitude through the Pacific, halfway round the world from Greenwich. Crossing it westward moves the calendar forward a day, and crossing it eastward moves it back. It is not fixed by any treaty and zigzags to keep island groups on the same date. Magellan's surviving crew found they had 'lost' a day when they returned in 1522.",
+    "url": "https://en.wikipedia.org/wiki/International_Date_Line"
   }
 ]

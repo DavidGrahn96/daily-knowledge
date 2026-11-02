@@ -1,442 +1,552 @@
 [
   {
     "title": "Occam's Razor",
-    "body": "The principle is attributed to the 14th-century philosopher William of Ockham: do not assume more entities than necessary. It is still used as a rule of thumb for choosing the simplest explanation that fits the facts."
+    "body": "The principle is attributed to the 14th-century philosopher William of Ockham: do not assume more entities than necessary. It is still used as a rule of thumb for choosing the simplest explanation that fits the facts.",
+    "url": "https://en.wikipedia.org/wiki/Occam's_razor"
   },
   {
     "title": "The Categorical Imperative",
-    "body": "In 1785 Immanuel Kant set out a moral rule that holds regardless of one's goals: act only on a principle you could will to become a universal law. It is the cornerstone of duty-based, or deontological, ethics."
+    "body": "In 1785 Immanuel Kant set out a moral rule that holds regardless of one's goals: act only on a principle you could will to become a universal law. It is the cornerstone of duty-based, or deontological, ethics.",
+    "url": "https://en.wikipedia.org/wiki/Categorical_imperative"
   },
   {
     "title": "The Four Noble Truths",
-    "body": "The core of Buddhism: life involves suffering, suffering arises from craving, suffering can end, and the way to end it is the Noble Eightfold Path. The teaching is attributed to the Buddha's first sermon."
+    "body": "The core of Buddhism: life involves suffering, suffering arises from craving, suffering can end, and the way to end it is the Noble Eightfold Path. The teaching is attributed to the Buddha's first sermon.",
+    "url": "https://en.wikipedia.org/wiki/Four_Noble_Truths"
   },
   {
     "title": "I Think, Therefore I Am",
-    "body": "René Descartes sought knowledge that could not be doubted and concluded that the act of doubting proves one's own existence. The argument appears in his Discourse on the Method of 1637 and became a foundation of rationalist philosophy."
+    "body": "René Descartes sought knowledge that could not be doubted and concluded that the act of doubting proves one's own existence. The argument appears in his Discourse on the Method of 1637 and became a foundation of rationalist philosophy.",
+    "url": "https://en.wikipedia.org/wiki/Cogito,_ergo_sum"
   },
   {
     "title": "Socrates",
-    "body": "Socrates wrote nothing himself; we know him mainly through Plato's dialogues. He questioned people to expose contradictions in their beliefs. In 399 BC he was sentenced to death in Athens for corrupting the young and impiety."
+    "body": "Socrates wrote nothing himself; we know him mainly through Plato's dialogues. He questioned people to expose contradictions in their beliefs. In 399 BC he was sentenced to death in Athens for corrupting the young and impiety.",
+    "url": "https://en.wikipedia.org/wiki/Socrates"
   },
   {
     "title": "The Five Pillars of Islam",
-    "body": "The five basic duties of Islam are the declaration of faith, the daily prayers, almsgiving (zakat), fasting during Ramadan, and the pilgrimage to Mecca for those able to make it."
+    "body": "The five basic duties of Islam are the declaration of faith, the daily prayers, almsgiving (zakat), fasting during Ramadan, and the pilgrimage to Mecca for those able to make it.",
+    "url": "https://en.wikipedia.org/wiki/Five_Pillars_of_Islam"
   },
   {
     "title": "Confucianism",
-    "body": "Confucius lived in China in the 6th and 5th centuries BC. His teaching stresses moral cultivation, respect within family and social relationships, and the ruler's duty to lead by example. It shaped Chinese government and culture for over two thousand years."
+    "body": "Confucius lived in China in the 6th and 5th centuries BC. His teaching stresses moral cultivation, respect within family and social relationships, and the ruler's duty to lead by example. It shaped Chinese government and culture for over two thousand years.",
+    "url": "https://en.wikipedia.org/wiki/Confucianism"
   },
   {
     "title": "Plato's Allegory of the Cave",
-    "body": "In the Republic, Plato describes prisoners who see only shadows on a cave wall and take them for reality. The allegory illustrates his view that the senses show us mere appearances, while true knowledge concerns unchanging Forms."
+    "body": "In the Republic, Plato describes prisoners who see only shadows on a cave wall and take them for reality. The allegory illustrates his view that the senses show us mere appearances, while true knowledge concerns unchanging Forms.",
+    "url": "https://en.wikipedia.org/wiki/Allegory_of_the_cave"
   },
   {
     "title": "Utilitarianism",
-    "body": "Jeremy Bentham and John Stuart Mill argued that the right action is the one that produces the greatest happiness for the greatest number. Utilitarianism is the best-known form of consequentialism, which judges actions by their outcomes."
+    "body": "Jeremy Bentham and John Stuart Mill argued that the right action is the one that produces the greatest happiness for the greatest number. Utilitarianism is the best-known form of consequentialism, which judges actions by their outcomes.",
+    "url": "https://en.wikipedia.org/wiki/Utilitarianism"
   },
   {
     "title": "The Social Contract",
-    "body": "Thomas Hobbes (Leviathan, 1651), John Locke and Jean-Jacques Rousseau (The Social Contract, 1762) explained political authority as an agreement among individuals. They disagreed on what people give up and what they keep, but the idea underpins modern theories of legitimate government."
+    "body": "Thomas Hobbes (Leviathan, 1651), John Locke and Jean-Jacques Rousseau (The Social Contract, 1762) explained political authority as an agreement among individuals. They disagreed on what people give up and what they keep, but the idea underpins modern theories of legitimate government.",
+    "url": "https://en.wikipedia.org/wiki/Social_contract"
   },
   {
     "title": "Stoicism",
-    "body": "Founded by Zeno of Citium in Athens around 300 BC, Stoicism teaches that virtue is the only true good and that we should focus on what is within our control. Epictetus, Seneca and the emperor Marcus Aurelius are its best-known Roman voices."
+    "body": "Founded by Zeno of Citium in Athens around 300 BC, Stoicism teaches that virtue is the only true good and that we should focus on what is within our control. Epictetus, Seneca and the emperor Marcus Aurelius are its best-known Roman voices.",
+    "url": "https://en.wikipedia.org/wiki/Stoicism"
   },
   {
     "title": "Existentialism",
-    "body": "Jean-Paul Sartre summed up existentialism as 'existence precedes essence': humans are not born with a fixed nature but define themselves through their choices. Søren Kierkegaard in the 19th century is often seen as its forerunner."
+    "body": "Jean-Paul Sartre summed up existentialism as 'existence precedes essence': humans are not born with a fixed nature but define themselves through their choices. Søren Kierkegaard in the 19th century is often seen as its forerunner.",
+    "url": "https://en.wikipedia.org/wiki/Existentialism"
   },
   {
     "title": "Karma and Samsara",
-    "body": "In Hinduism, the soul passes through a cycle of rebirth, samsara, shaped by karma, the moral consequences of actions. The ultimate goal is moksha, liberation from the cycle. Key texts include the Vedas, the Upanishads and the Bhagavad Gita."
+    "body": "In Hinduism, the soul passes through a cycle of rebirth, samsara, shaped by karma, the moral consequences of actions. The ultimate goal is moksha, liberation from the cycle. Key texts include the Vedas, the Upanishads and the Bhagavad Gita.",
+    "url": "https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra"
   },
   {
     "title": "The Great Schism of 1054",
-    "body": "In 1054 mutual excommunications marked the split between the Church of Rome and the Church of Constantinople. The division into the Roman Catholic and Eastern Orthodox churches, rooted in disputes over authority and doctrine, persists today."
+    "body": "In 1054 mutual excommunications marked the split between the Church of Rome and the Church of Constantinople. The division into the Roman Catholic and Eastern Orthodox churches, rooted in disputes over authority and doctrine, persists today.",
+    "url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism"
   },
   {
     "title": "Aristotle's Golden Mean",
-    "body": "In the Nicomachean Ethics, Aristotle argued that virtue lies between two extremes: courage, for example, between cowardice and recklessness. His virtue ethics focuses on character rather than rules or consequences."
+    "body": "In the Nicomachean Ethics, Aristotle argued that virtue lies between two extremes: courage, for example, between cowardice and recklessness. His virtue ethics focuses on character rather than rules or consequences.",
+    "url": "https://en.wikipedia.org/wiki/Golden_mean_(philosophy)"
   },
   {
     "title": "Brahman and Atman in the Upanishads",
-    "body": "The Upanishads, philosophical texts of ancient India whose earliest parts date from the first millennium BC, explore the nature of reality and the self. Their central insight is that atman, the innermost self, is identical with Brahman, the ultimate reality underlying the universe, an idea expressed in the phrase 'tat tvam asi', 'that thou art'. Realising this identity is seen as the path to liberation."
+    "body": "The Upanishads, philosophical texts of ancient India whose earliest parts date from the first millennium BC, explore the nature of reality and the self. Their central insight is that atman, the innermost self, is identical with Brahman, the ultimate reality underlying the universe, an idea expressed in the phrase 'tat tvam asi', 'that thou art'. Realising this identity is seen as the path to liberation.",
+    "url": "https://en.wikipedia.org/wiki/Upanishads"
   },
   {
     "title": "Calvinism",
-    "body": "John Calvin (1509–1564), a French theologian who led the Reformation in Geneva, set out his theology in the Institutes of the Christian Religion. He stressed God's absolute sovereignty and predestination, the belief that God has chosen in advance who will be saved. Calvinism spread to the Netherlands, Scotland, France and New England, shaping the Reformed and Presbyterian churches; Max Weber later linked its ethic to the rise of capitalism."
+    "body": "John Calvin (1509–1564), a French theologian who led the Reformation in Geneva, set out his theology in the Institutes of the Christian Religion. He stressed God's absolute sovereignty and predestination, the belief that God has chosen in advance who will be saved. Calvinism spread to the Netherlands, Scotland, France and New England, shaping the Reformed and Presbyterian churches; Max Weber later linked its ethic to the rise of capitalism.",
+    "url": "https://en.wikipedia.org/wiki/Reformed_Christianity"
   },
   {
     "title": "Laozi and the Daodejing",
-    "body": "The Daodejing, traditionally attributed to the sage Laozi, is the founding text of Daoism. It teaches that the Dao, the 'Way' underlying all things, cannot be fully put into words, and that wisdom lies in simplicity and wu wei, effortless action in harmony with nature. Whether Laozi was a historical person is uncertain, and the text probably took shape over several centuries BC."
+    "body": "The Daodejing, traditionally attributed to the sage Laozi, is the founding text of Daoism. It teaches that the Dao, the 'Way' underlying all things, cannot be fully put into words, and that wisdom lies in simplicity and wu wei, effortless action in harmony with nature. Whether Laozi was a historical person is uncertain, and the text probably took shape over several centuries BC.",
+    "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching"
   },
   {
     "title": "Nietzsche and the Death of God",
-    "body": "Friedrich Nietzsche (1844–1900) declared that 'God is dead': belief in God had lost its hold on modern Europe, undermining the values built upon it. He attacked Christian morality as a 'slave morality' born of resentment and called for a revaluation of all values, embodied in the figure of the Übermensch. After his death his sister promoted a distorted, nationalist reading of his work."
+    "body": "Friedrich Nietzsche (1844–1900) declared that 'God is dead': belief in God had lost its hold on modern Europe, undermining the values built upon it. He attacked Christian morality as a 'slave morality' born of resentment and called for a revaluation of all values, embodied in the figure of the Übermensch. After his death his sister promoted a distorted, nationalist reading of his work.",
+    "url": "https://en.wikipedia.org/wiki/God_is_dead"
   },
   {
     "title": "Maimonides",
-    "body": "Moses Maimonides (1138–1204), born in Córdoba, became the leading Jewish thinker of the Middle Ages and a court physician in Cairo. His Mishneh Torah systematically codified Jewish law, and his Guide for the Perplexed sought to reconcile Jewish faith with Aristotelian philosophy. His thirteen principles of faith became a standard summary of Jewish belief, and he influenced Christian scholars including Thomas Aquinas."
+    "body": "Moses Maimonides (1138–1204), born in Córdoba, became the leading Jewish thinker of the Middle Ages and a court physician in Cairo. His Mishneh Torah systematically codified Jewish law, and his Guide for the Perplexed sought to reconcile Jewish faith with Aristotelian philosophy. His thirteen principles of faith became a standard summary of Jewish belief, and he influenced Christian scholars including Thomas Aquinas.",
+    "url": "https://en.wikipedia.org/wiki/Maimonides"
   },
   {
     "title": "Simone de Beauvoir's The Second Sex",
-    "body": "In The Second Sex (1949), Simone de Beauvoir argued that woman has been defined as the 'Other' in relation to man, and that 'one is not born, but rather becomes, a woman'. Applying existentialist ideas to women's situation, she showed how femininity is shaped by society rather than nature. The book became a founding text of modern feminism."
+    "body": "In The Second Sex (1949), Simone de Beauvoir argued that woman has been defined as the 'Other' in relation to man, and that 'one is not born, but rather becomes, a woman'. Applying existentialist ideas to women's situation, she showed how femininity is shaped by society rather than nature. The book became a founding text of modern feminism.",
+    "url": "https://en.wikipedia.org/wiki/The_Second_Sex"
   },
   {
     "title": "Inca Religion",
-    "body": "Inca religion honoured Inti, the sun god, from whom the Sapa Inca, the emperor, claimed descent, alongside the creator god Viracocha and Pachamama, the earth mother. The Coricancha temple in Cusco, adorned with gold, was its centre. Sacred places and objects called huacas, from mountains to the mummies of ancestors, were venerated across the empire, and Andean beliefs survived the Spanish conquest blended with Catholicism."
+    "body": "Inca religion honoured Inti, the sun god, from whom the Sapa Inca, the emperor, claimed descent, alongside the creator god Viracocha and Pachamama, the earth mother. The Coricancha temple in Cusco, adorned with gold, was its centre. Sacred places and objects called huacas, from mountains to the mummies of ancestors, were venerated across the empire, and Andean beliefs survived the Spanish conquest blended with Catholicism.",
+    "url": "https://en.wikipedia.org/wiki/Inca_mythology"
   },
   {
     "title": "Mencius and Human Goodness",
-    "body": "Mencius, a Confucian thinker of the 4th century BC, argued that human nature is fundamentally good. Everyone, he said, has 'sprouts' of virtue, such as the instinctive alarm at seeing a child about to fall into a well, which must be cultivated. His later rival Xunzi held the opposite view, but Chinese tradition came to rank Mencius second only to Confucius."
+    "body": "Mencius, a Confucian thinker of the 4th century BC, argued that human nature is fundamentally good. Everyone, he said, has 'sprouts' of virtue, such as the instinctive alarm at seeing a child about to fall into a well, which must be cultivated. His later rival Xunzi held the opposite view, but Chinese tradition came to rank Mencius second only to Confucius.",
+    "url": "https://en.wikipedia.org/wiki/Mencius"
   },
   {
     "title": "Mana and Tapu in Polynesia",
-    "body": "Mana and tapu are key concepts across Polynesian cultures. Mana is spiritual power, authority and prestige, which can be inherited, gained or lost; tapu marks people, places and things as sacred or set apart, and breaking it brought danger. The English word 'taboo' entered the language after Captain James Cook recorded it in Tonga in 1777."
+    "body": "Mana and tapu are key concepts across Polynesian cultures. Mana is spiritual power, authority and prestige, which can be inherited, gained or lost; tapu marks people, places and things as sacred or set apart, and breaking it brought danger. The English word 'taboo' entered the language after Captain James Cook recorded it in Tonga in 1777.",
+    "url": "https://en.wikipedia.org/wiki/Mana_(Oceanic_cultures)"
   },
   {
     "title": "Abraham and the Abrahamic Religions",
-    "body": "Abraham is revered as a founding patriarch by Judaism, Christianity and Islam, which are therefore called the Abrahamic religions. In Genesis, God calls him to leave Mesopotamia for Canaan and makes a covenant promising him countless descendants. In Islam he is Ibrahim, a prophet who with his son Ismail built the Kaaba in Mecca. Historians cannot confirm that he existed."
+    "body": "Abraham is revered as a founding patriarch by Judaism, Christianity and Islam, which are therefore called the Abrahamic religions. In Genesis, God calls him to leave Mesopotamia for Canaan and makes a covenant promising him countless descendants. In Islam he is Ibrahim, a prophet who with his son Ismail built the Kaaba in Mecca. Historians cannot confirm that he existed.",
+    "url": "https://en.wikipedia.org/wiki/Abrahamic_religions"
   },
   {
     "title": "Erasmus and Christian Humanism",
-    "body": "Desiderius Erasmus of Rotterdam (died 1536) was the leading figure of northern Renaissance humanism, which sought to renew learning and Christian life by returning to classical and biblical sources. He published an edition of the Greek New Testament in 1516 and mocked the abuses of the clergy in The Praise of Folly. Though he criticised the Church, he refused to join Luther's break with Rome."
+    "body": "Desiderius Erasmus of Rotterdam (died 1536) was the leading figure of northern Renaissance humanism, which sought to renew learning and Christian life by returning to classical and biblical sources. He published an edition of the Greek New Testament in 1516 and mocked the abuses of the clergy in The Praise of Folly. Though he criticised the Church, he refused to join Luther's break with Rome.",
+    "url": "https://en.wikipedia.org/wiki/Erasmus"
   },
   {
     "title": "Ma'at in Ancient Egypt",
-    "body": "In ancient Egyptian religion, Ma'at was both a goddess and the principle of truth, justice and cosmic order. The pharaoh's central duty was to uphold ma'at against chaos. In the judgement of the dead, as depicted in the Book of the Dead, a person's heart was weighed against the feather of Ma'at, and only a heart in balance could pass into the afterlife."
+    "body": "In ancient Egyptian religion, Ma'at was both a goddess and the principle of truth, justice and cosmic order. The pharaoh's central duty was to uphold ma'at against chaos. In the judgement of the dead, as depicted in the Book of the Dead, a person's heart was weighed against the feather of Ma'at, and only a heart in balance could pass into the afterlife.",
+    "url": "https://en.wikipedia.org/wiki/Maat"
   },
   {
     "title": "Aquinas's Five Ways",
-    "body": "Thomas Aquinas (around 1225–1274), a Dominican friar, combined Aristotle's philosophy with Christian theology in his unfinished Summa Theologiae. In it he offered five ways of showing that God exists, arguing from motion, causation, contingency, degrees of perfection and the order of nature. He held that reason and faith cannot truly conflict, and his synthesis became central to Catholic teaching."
+    "body": "Thomas Aquinas (around 1225–1274), a Dominican friar, combined Aristotle's philosophy with Christian theology in his unfinished Summa Theologiae. In it he offered five ways of showing that God exists, arguing from motion, causation, contingency, degrees of perfection and the order of nature. He held that reason and faith cannot truly conflict, and his synthesis became central to Catholic teaching.",
+    "url": "https://en.wikipedia.org/wiki/Five_Ways_(Aquinas)"
   },
   {
     "title": "Nagarjuna and Emptiness",
-    "body": "Nagarjuna, an Indian monk who probably lived in the 2nd century AD, founded the Madhyamaka, or 'Middle Way', school of Mahayana Buddhism. He argued that all things are empty (shunyata) of independent, inherent existence, because everything arises in dependence on other things. He is often considered the most important Buddhist philosopher after the Buddha himself."
+    "body": "Nagarjuna, an Indian monk who probably lived in the 2nd century AD, founded the Madhyamaka, or 'Middle Way', school of Mahayana Buddhism. He argued that all things are empty (shunyata) of independent, inherent existence, because everything arises in dependence on other things. He is often considered the most important Buddhist philosopher after the Buddha himself.",
+    "url": "https://en.wikipedia.org/wiki/Nagarjuna"
   },
   {
     "title": "The Aztec Fifth Sun",
-    "body": "The Aztecs believed the world had been created and destroyed four times and that they lived in the age of the Fifth Sun, which would also end in catastrophe. The gods had sacrificed themselves to set the sun in motion, so humans owed them a debt to be repaid in blood. This belief underpinned the human sacrifices at the Templo Mayor of Tenochtitlan, dedicated to the war god Huitzilopochtli and the rain god Tlaloc."
+    "body": "The Aztecs believed the world had been created and destroyed four times and that they lived in the age of the Fifth Sun, which would also end in catastrophe. The gods had sacrificed themselves to set the sun in motion, so humans owed them a debt to be repaid in blood. This belief underpinned the human sacrifices at the Templo Mayor of Tenochtitlan, dedicated to the war god Huitzilopochtli and the rain god Tlaloc.",
+    "url": "https://en.wikipedia.org/wiki/Five_Suns"
   },
   {
     "title": "Heraclitus and Flux",
-    "body": "Heraclitus of Ephesus, active around 500 BC, taught that everything is in flux, an idea summed up in the saying attributed to him that you cannot step into the same river twice. He held that the world is a unity of opposites in constant tension, ordered by the logos, a rational principle. His near-contemporary Parmenides argued that change is an illusion, and their clash shaped Greek metaphysics."
+    "body": "Heraclitus of Ephesus, active around 500 BC, taught that everything is in flux, an idea summed up in the saying attributed to him that you cannot step into the same river twice. He held that the world is a unity of opposites in constant tension, ordered by the logos, a rational principle. His near-contemporary Parmenides argued that change is an illusion, and their clash shaped Greek metaphysics.",
+    "url": "https://en.wikipedia.org/wiki/Heraclitus"
   },
   {
     "title": "The Four Aims of Hindu Life",
-    "body": "Classical Hindu thought names four legitimate goals of human life, the purusharthas: dharma (duty and righteousness), artha (wealth and power), kama (pleasure and love) and moksha (liberation from rebirth). The first three are to be pursued in balance, with dharma guiding the others, while moksha is the highest goal. The scheme frames classical Indian works from the Arthashastra on statecraft to the Kamasutra."
+    "body": "Classical Hindu thought names four legitimate goals of human life, the purusharthas: dharma (duty and righteousness), artha (wealth and power), kama (pleasure and love) and moksha (liberation from rebirth). The first three are to be pursued in balance, with dharma guiding the others, while moksha is the highest goal. The scheme frames classical Indian works from the Arthashastra on statecraft to the Kamasutra.",
+    "url": "https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha"
   },
   {
     "title": "The Trolley Problem",
-    "body": "In 1967 the British philosopher Philippa Foot posed a dilemma: a runaway tram will kill five people unless it is diverted onto a track where it will kill one. Most people think diverting it is permissible, yet few approve of pushing someone into its path to save five, though the numbers are the same. Developed further by Judith Jarvis Thomson, the 'trolley problem' probes the moral difference between killing and letting die, or intending and foreseeing harm."
+    "body": "In 1967 the British philosopher Philippa Foot posed a dilemma: a runaway tram will kill five people unless it is diverted onto a track where it will kill one. Most people think diverting it is permissible, yet few approve of pushing someone into its path to save five, though the numbers are the same. Developed further by Judith Jarvis Thomson, the 'trolley problem' probes the moral difference between killing and letting die, or intending and foreseeing harm.",
+    "url": "https://en.wikipedia.org/wiki/Trolley_problem"
   },
   {
     "title": "Shinto",
-    "body": "Shinto is the indigenous religion of Japan, centred on the worship of kami, spirits present in nature, places, ancestors and outstanding people. It has no founder or single scripture and focuses on ritual purity, shrines and festivals. For centuries it coexisted and blended with Buddhism, and from the Meiji period until 1945 a state form of Shinto was promoted to support the cult of the emperor."
+    "body": "Shinto is the indigenous religion of Japan, centred on the worship of kami, spirits present in nature, places, ancestors and outstanding people. It has no founder or single scripture and focuses on ritual purity, shrines and festivals. For centuries it coexisted and blended with Buddhism, and from the Meiji period until 1945 a state form of Shinto was promoted to support the cult of the emperor.",
+    "url": "https://en.wikipedia.org/wiki/Shinto"
   },
   {
     "title": "Popper and Falsifiability",
-    "body": "Karl Popper (1902–1994) argued that what distinguishes science from non-science is not that its theories can be proved but that they can be falsified: a scientific theory makes predictions that could turn out wrong. No number of white swans proves that all swans are white, but one black swan disproves it. On this basis he criticised Marxism and psychoanalysis as unfalsifiable."
+    "body": "Karl Popper (1902–1994) argued that what distinguishes science from non-science is not that its theories can be proved but that they can be falsified: a scientific theory makes predictions that could turn out wrong. No number of white swans proves that all swans are white, but one black swan disproves it. On this basis he criticised Marxism and psychoanalysis as unfalsifiable.",
+    "url": "https://en.wikipedia.org/wiki/Falsifiability"
   },
   {
     "title": "The Prophet Muhammad and the Hijra",
-    "body": "Muhammad (around 570–632), born in Mecca, is regarded by Muslims as the final prophet of God. From around 610 he reported revelations that were later collected as the Quran. Facing hostility in Mecca, he and his followers migrated to Medina in 622, the Hijra, which marks year one of the Islamic calendar. By his death he had united much of Arabia under Islam."
+    "body": "Muhammad (around 570–632), born in Mecca, is regarded by Muslims as the final prophet of God. From around 610 he reported revelations that were later collected as the Quran. Facing hostility in Mecca, he and his followers migrated to Medina in 622, the Hijra, which marks year one of the Islamic calendar. By his death he had united much of Arabia under Islam.",
+    "url": "https://en.wikipedia.org/wiki/Hijrah"
   },
   {
     "title": "Augustine of Hippo",
-    "body": "Augustine (354–430), born in Roman North Africa, became bishop of Hippo, in present-day Algeria, and the most influential theologian of the Latin West. His Confessions, an account of his restless path to Christianity, is often called the first Western autobiography. In The City of God, written after the sack of Rome in 410, he contrasted the earthly city with the heavenly one, and his teaching on original sin and grace shaped both Catholic and Protestant thought."
+    "body": "Augustine (354–430), born in Roman North Africa, became bishop of Hippo, in present-day Algeria, and the most influential theologian of the Latin West. His Confessions, an account of his restless path to Christianity, is often called the first Western autobiography. In The City of God, written after the sack of Rome in 410, he contrasted the earthly city with the heavenly one, and his teaching on original sin and grace shaped both Catholic and Protestant thought.",
+    "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
   },
   {
     "title": "The Golden Rule",
-    "body": "The Golden Rule, treating others as one would wish to be treated, appears in many traditions. Confucius stated it in negative form ('Do not impose on others what you do not wish for yourself'), as did the Jewish sage Hillel, while Jesus put it positively in the Sermon on the Mount. Its recurrence across cultures makes it a common reference point in ethics, though philosophers note that people's wishes differ."
+    "body": "The Golden Rule, treating others as one would wish to be treated, appears in many traditions. Confucius stated it in negative form ('Do not impose on others what you do not wish for yourself'), as did the Jewish sage Hillel, while Jesus put it positively in the Sermon on the Mount. Its recurrence across cultures makes it a common reference point in ethics, though philosophers note that people's wishes differ.",
+    "url": "https://en.wikipedia.org/wiki/Golden_Rule"
   },
   {
     "title": "Kuhn's Paradigm Shifts",
-    "body": "In The Structure of Scientific Revolutions (1962), Thomas Kuhn argued that science does not progress by steady accumulation. Periods of 'normal science' work within a paradigm, a shared framework of theories and methods, until anomalies pile up and a revolution replaces it, as when Copernican astronomy displaced the Ptolemaic system. The term 'paradigm shift' passed into everyday language."
+    "body": "In The Structure of Scientific Revolutions (1962), Thomas Kuhn argued that science does not progress by steady accumulation. Periods of 'normal science' work within a paradigm, a shared framework of theories and methods, until anomalies pile up and a revolution replaces it, as when Copernican astronomy displaced the Ptolemaic system. The term 'paradigm shift' passed into everyday language.",
+    "url": "https://en.wikipedia.org/wiki/Paradigm_shift"
   },
   {
     "title": "Paul the Apostle",
-    "body": "Paul of Tarsus, a Jewish Pharisee who had persecuted Jesus's followers, became Christianity's most influential missionary after a vision of the risen Christ. In the AD 40s and 50s he travelled through Asia Minor and Greece, founding communities that welcomed non-Jews without requiring them to follow Jewish law. His letters are the earliest surviving Christian writings and form a large part of the New Testament."
+    "body": "Paul of Tarsus, a Jewish Pharisee who had persecuted Jesus's followers, became Christianity's most influential missionary after a vision of the risen Christ. In the AD 40s and 50s he travelled through Asia Minor and Greece, founding communities that welcomed non-Jews without requiring them to follow Jewish law. His letters are the earliest surviving Christian writings and form a large part of the New Testament.",
+    "url": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
   },
   {
     "title": "Guru Nanak and Sikhism",
-    "body": "Sikhism was founded in the Punjab by Guru Nanak (1469–1539), who taught devotion to one formless God, the equality of all people regardless of caste, and honest work and service to others. He was followed by nine human gurus; the tenth, Gobind Singh, declared that the scripture, the Guru Granth Sahib, would be the eternal Guru. The Golden Temple at Amritsar is the faith's holiest shrine."
+    "body": "Sikhism was founded in the Punjab by Guru Nanak (1469–1539), who taught devotion to one formless God, the equality of all people regardless of caste, and honest work and service to others. He was followed by nine human gurus; the tenth, Gobind Singh, declared that the scripture, the Guru Granth Sahib, would be the eternal Guru. The Golden Temple at Amritsar is the faith's holiest shrine.",
+    "url": "https://en.wikipedia.org/wiki/Guru_Nanak"
   },
   {
     "title": "Pyrrho and Ancient Scepticism",
-    "body": "Pyrrho of Elis, who travelled with Alexander the Great as far as India, is regarded as the founder of Greek scepticism. Pyrrhonists argued that for every claim an equally strong counter-argument can be found, so one should suspend judgement, which they believed brings tranquillity. Preserved in the writings of Sextus Empiricus, these arguments were rediscovered in the Renaissance and influenced Montaigne and Descartes."
+    "body": "Pyrrho of Elis, who travelled with Alexander the Great as far as India, is regarded as the founder of Greek scepticism. Pyrrhonists argued that for every claim an equally strong counter-argument can be found, so one should suspend judgement, which they believed brings tranquillity. Preserved in the writings of Sextus Empiricus, these arguments were rediscovered in the Renaissance and influenced Montaigne and Descartes.",
+    "url": "https://en.wikipedia.org/wiki/Pyrrho"
   },
   {
     "title": "Zen Buddhism",
-    "body": "Zen, known in China as Chan, is a school of Mahayana Buddhism that stresses meditation and direct insight over the study of scriptures. It took shape in China in the 6th to 8th centuries and spread to Korea, Vietnam and Japan, where it flourished from the late 12th century. Its teachers used paradoxical riddles called koans to break habitual thinking, and it deeply influenced East Asian painting, poetry and gardens."
+    "body": "Zen, known in China as Chan, is a school of Mahayana Buddhism that stresses meditation and direct insight over the study of scriptures. It took shape in China in the 6th to 8th centuries and spread to Korea, Vietnam and Japan, where it flourished from the late 12th century. Its teachers used paradoxical riddles called koans to break habitual thinking, and it deeply influenced East Asian painting, poetry and gardens.",
+    "url": "https://en.wikipedia.org/wiki/Zen"
   },
   {
     "title": "Historical Materialism",
-    "body": "Karl Marx and Friedrich Engels argued that history is driven by material and economic conditions rather than by ideas. Each society's forces and relations of production, its economic 'base', shape its laws, politics and beliefs, the 'superstructure'. Conflict between classes, they held, moves history through stages from slavery and feudalism to capitalism and, they predicted, communism."
+    "body": "Karl Marx and Friedrich Engels argued that history is driven by material and economic conditions rather than by ideas. Each society's forces and relations of production, its economic 'base', shape its laws, politics and beliefs, the 'superstructure'. Conflict between classes, they held, moves history through stages from slavery and feudalism to capitalism and, they predicted, communism.",
+    "url": "https://en.wikipedia.org/wiki/Historical_materialism"
   },
   {
     "title": "The I Ching",
-    "body": "The I Ching, or Book of Changes, is one of the oldest Chinese classics. Its core is a system of 64 hexagrams, figures of six broken or unbroken lines, used for divination, to which philosophical commentaries were later added. It became one of the Confucian classics, and it later fascinated Western thinkers such as Leibniz and Carl Jung."
+    "body": "The I Ching, or Book of Changes, is one of the oldest Chinese classics. Its core is a system of 64 hexagrams, figures of six broken or unbroken lines, used for divination, to which philosophical commentaries were later added. It became one of the Confucian classics, and it later fascinated Western thinkers such as Leibniz and Carl Jung.",
+    "url": "https://en.wikipedia.org/wiki/I_Ching"
   },
   {
     "title": "The Rule of St Benedict",
-    "body": "In the 6th century Benedict of Nursia wrote a rule for his monastery at Monte Cassino, in Italy, organising monks' days around communal prayer, manual work and reading under the authority of an abbot. Moderate rather than extreme in its demands, it became the basis of monastic life in the Latin West. Benedictine monasteries preserved learning and copied classical texts through the early Middle Ages."
+    "body": "In the 6th century Benedict of Nursia wrote a rule for his monastery at Monte Cassino, in Italy, organising monks' days around communal prayer, manual work and reading under the authority of an abbot. Moderate rather than extreme in its demands, it became the basis of monastic life in the Latin West. Benedictine monasteries preserved learning and copied classical texts through the early Middle Ages.",
+    "url": "https://en.wikipedia.org/wiki/Rule_of_Saint_Benedict"
   },
   {
     "title": "Mahayana Buddhism and the Bodhisattva",
-    "body": "Mahayana, the 'Great Vehicle', emerged in India around the beginning of the common era and became the main form of Buddhism in China, Korea, Japan, Vietnam and Tibet. Its ideal is the bodhisattva, who seeks enlightenment out of compassion and vows to help all beings reach liberation, not only themselves. Mahayana also introduced new scriptures, such as the Lotus Sutra and the Heart Sutra."
+    "body": "Mahayana, the 'Great Vehicle', emerged in India around the beginning of the common era and became the main form of Buddhism in China, Korea, Japan, Vietnam and Tibet. Its ideal is the bodhisattva, who seeks enlightenment out of compassion and vows to help all beings reach liberation, not only themselves. Mahayana also introduced new scriptures, such as the Lotus Sutra and the Heart Sutra.",
+    "url": "https://en.wikipedia.org/wiki/Mahayana"
   },
   {
     "title": "Islam in Southeast Asia",
-    "body": "Islam spread to Southeast Asia mainly through trade rather than conquest, carried by Muslim merchants from Arabia, India and elsewhere along Indian Ocean routes. From the late 13th century rulers in northern Sumatra, and later the port city of Malacca, adopted Islam, and it spread across the Malay world and Java. Southeast Asian Islam was often shaped by Sufism and blended with local traditions."
+    "body": "Islam spread to Southeast Asia mainly through trade rather than conquest, carried by Muslim merchants from Arabia, India and elsewhere along Indian Ocean routes. From the late 13th century rulers in northern Sumatra, and later the port city of Malacca, adopted Islam, and it spread across the Malay world and Java. Southeast Asian Islam was often shaped by Sufism and blended with local traditions.",
+    "url": "https://en.wikipedia.org/wiki/Islam_in_Southeast_Asia"
   },
   {
     "title": "The Bhagavad Gita",
-    "body": "The Bhagavad Gita, 'Song of the Lord', is a 700-verse dialogue within the Indian epic the Mahabharata. On the eve of battle the warrior Arjuna hesitates to fight his kinsmen, and his charioteer Krishna, revealed as a form of the god Vishnu, teaches him to do his duty without attachment to its results. It presents paths to liberation through action, knowledge and devotion, and is one of Hinduism's most widely read scriptures."
+    "body": "The Bhagavad Gita, 'Song of the Lord', is a 700-verse dialogue within the Indian epic the Mahabharata. On the eve of battle the warrior Arjuna hesitates to fight his kinsmen, and his charioteer Krishna, revealed as a form of the god Vishnu, teaches him to do his duty without attachment to its results. It presents paths to liberation through action, knowledge and devotion, and is one of Hinduism's most widely read scriptures.",
+    "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
   },
   {
     "title": "Pascal's Wager",
-    "body": "Blaise Pascal, the 17th-century French mathematician, argued in his Pensées that belief in God is a rational bet. If God exists, the believer gains infinite happiness; if not, little is lost, whereas the unbeliever risks infinite loss. Critics object that one cannot simply choose to believe and that the wager ignores the many possible gods, but it was an early use of the reasoning of decision theory."
+    "body": "Blaise Pascal, the 17th-century French mathematician, argued in his Pensées that belief in God is a rational bet. If God exists, the believer gains infinite happiness; if not, little is lost, whereas the unbeliever risks infinite loss. Critics object that one cannot simply choose to believe and that the wager ignores the many possible gods, but it was an early use of the reasoning of decision theory.",
+    "url": "https://en.wikipedia.org/wiki/Pascal's_wager"
   },
   {
     "title": "The Hebrew Bible",
-    "body": "The Hebrew Bible, or Tanakh, is the scripture of Judaism and, as the Old Testament, part of the Christian Bible. Its name comes from its three parts: Torah (the five books of Moses), Nevi'im (Prophets) and Ketuvim (Writings). Composed and edited over many centuries, largely in the first millennium BC, it tells of creation, God's covenant with Israel, the Exodus and the history of the kingdoms of Israel and Judah."
+    "body": "The Hebrew Bible, or Tanakh, is the scripture of Judaism and, as the Old Testament, part of the Christian Bible. Its name comes from its three parts: Torah (the five books of Moses), Nevi'im (Prophets) and Ketuvim (Writings). Composed and edited over many centuries, largely in the first millennium BC, it tells of creation, God's covenant with Israel, the Exodus and the history of the kingdoms of Israel and Judah.",
+    "url": "https://en.wikipedia.org/wiki/Hebrew_Bible"
   },
   {
     "title": "The Aboriginal Dreaming",
-    "body": "For Aboriginal Australians, the Dreaming (an English term; each language has its own word) is the creative era when ancestral beings shaped the land, created life and laid down law, and also their continuing presence. Dreaming stories, songs and ceremonies bind people to particular places and govern kinship, conduct and responsibilities for land. The ancestral tracks across the country, often called songlines, also serve as maps."
+    "body": "For Aboriginal Australians, the Dreaming (an English term; each language has its own word) is the creative era when ancestral beings shaped the land, created life and laid down law, and also their continuing presence. Dreaming stories, songs and ceremonies bind people to particular places and govern kinship, conduct and responsibilities for land. The ancestral tracks across the country, often called songlines, also serve as maps.",
+    "url": "https://en.wikipedia.org/wiki/The_Dreaming"
   },
   {
     "title": "Democritus and Atomism",
-    "body": "In the 5th century BC Leucippus and his pupil Democritus proposed that everything consists of tiny, indivisible particles called atoms, from the Greek for 'uncuttable', moving in empty space. Differences between things arise from the shapes, sizes and arrangements of their atoms. Taken up by Epicurus and the Roman poet Lucretius, the theory was speculative rather than experimental, but it anticipated modern atomic theory."
+    "body": "In the 5th century BC Leucippus and his pupil Democritus proposed that everything consists of tiny, indivisible particles called atoms, from the Greek for 'uncuttable', moving in empty space. Differences between things arise from the shapes, sizes and arrangements of their atoms. Taken up by Epicurus and the Roman poet Lucretius, the theory was speculative rather than experimental, but it anticipated modern atomic theory.",
+    "url": "https://en.wikipedia.org/wiki/Atomism"
   },
   {
     "title": "The Bahá'í Faith",
-    "body": "The Bahá'í Faith arose in 19th-century Iran. Its founder, Bahá'u'lláh (1817–1892), proclaimed himself the messenger foretold by an earlier prophet, the Báb, and spent decades in exile, dying near Acre in Ottoman Palestine. Bahá'ís teach the unity of God, of religion and of humanity, seeing figures such as Abraham, Moses, the Buddha, Jesus and Muhammad as successive messengers of one God."
+    "body": "The Bahá'í Faith arose in 19th-century Iran. Its founder, Bahá'u'lláh (1817–1892), proclaimed himself the messenger foretold by an earlier prophet, the Báb, and spent decades in exile, dying near Acre in Ottoman Palestine. Bahá'ís teach the unity of God, of religion and of humanity, seeing figures such as Abraham, Moses, the Buddha, Jesus and Muhammad as successive messengers of one God.",
+    "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith"
   },
   {
     "title": "Jainism and Ahimsa",
-    "body": "Jainism is an ancient Indian religion whose last great teacher, Mahavira, was a contemporary of the Buddha. Its central principle is ahimsa, non-violence towards all living beings, which leads devout Jains to strict vegetarianism and great care not to harm even insects. Jains also teach anekantavada, the view that truth has many sides that no single viewpoint fully grasps, and their ideal of non-violence influenced Gandhi."
+    "body": "Jainism is an ancient Indian religion whose last great teacher, Mahavira, was a contemporary of the Buddha. Its central principle is ahimsa, non-violence towards all living beings, which leads devout Jains to strict vegetarianism and great care not to harm even insects. Jains also teach anekantavada, the view that truth has many sides that no single viewpoint fully grasps, and their ideal of non-violence influenced Gandhi.",
+    "url": "https://en.wikipedia.org/wiki/Jainism"
   },
   {
     "title": "Pragmatism",
-    "body": "Pragmatism, often seen as America's most distinctive philosophical movement, was developed from the 1870s by Charles Sanders Peirce, William James and John Dewey. It holds that the meaning and truth of an idea lie in its practical consequences: an idea is true insofar as it works in experience. Dewey applied it to education and democracy, influencing progressive schooling."
+    "body": "Pragmatism, often seen as America's most distinctive philosophical movement, was developed from the 1870s by Charles Sanders Peirce, William James and John Dewey. It holds that the meaning and truth of an idea lie in its practical consequences: an idea is true insofar as it works in experience. Dewey applied it to education and democracy, influencing progressive schooling.",
+    "url": "https://en.wikipedia.org/wiki/Pragmatism"
   },
   {
     "title": "The Problem of Evil",
-    "body": "If God is all-powerful, all-knowing and wholly good, why does evil exist? This question, often attributed to Epicurus, is a central challenge to belief in God, and the biblical Book of Job wrestles with it. Responses, called theodicies, include the argument that free will requires the possibility of evil and that suffering can build character."
+    "body": "If God is all-powerful, all-knowing and wholly good, why does evil exist? This question, often attributed to Epicurus, is a central challenge to belief in God, and the biblical Book of Job wrestles with it. Responses, called theodicies, include the argument that free will requires the possibility of evil and that suffering can build character.",
+    "url": "https://en.wikipedia.org/wiki/Problem_of_evil"
   },
   {
     "title": "Our Lady of Guadalupe",
-    "body": "According to Catholic tradition, in 1531 the Virgin Mary appeared to Juan Diego, an Indigenous convert, on the hill of Tepeyac near Mexico City, leaving her image on his cloak. The dark-skinned Virgin of Guadalupe became a powerful symbol uniting Indigenous and Spanish identities and later of Mexican nationhood, carried on banners in the war of independence. Juan Diego was canonised in 2002."
+    "body": "According to Catholic tradition, in 1531 the Virgin Mary appeared to Juan Diego, an Indigenous convert, on the hill of Tepeyac near Mexico City, leaving her image on his cloak. The dark-skinned Virgin of Guadalupe became a powerful symbol uniting Indigenous and Spanish identities and later of Mexican nationhood, carried on banners in the war of independence. Juan Diego was canonised in 2002.",
+    "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe"
   },
   {
     "title": "Francis of Assisi",
-    "body": "Francis of Assisi (around 1181–1226) gave up his wealth as a merchant's son to live in radical poverty, preaching and caring for the poor and sick. The Franciscan order he founded, along with the Dominicans, created a new kind of religious life: friars who lived and preached among people in towns rather than in secluded monasteries. His love of creation, expressed in his Canticle of the Sun, made him a patron saint of ecology."
+    "body": "Francis of Assisi (around 1181–1226) gave up his wealth as a merchant's son to live in radical poverty, preaching and caring for the poor and sick. The Franciscan order he founded, along with the Dominicans, created a new kind of religious life: friars who lived and preached among people in towns rather than in secluded monasteries. His love of creation, expressed in his Canticle of the Sun, made him a patron saint of ecology.",
+    "url": "https://en.wikipedia.org/wiki/Francis_of_Assisi"
   },
   {
     "title": "Anatta, the Doctrine of No-Self",
-    "body": "One of Buddhism's most distinctive teachings is anatta, or 'no-self': there is no permanent, unchanging soul. A person is instead a shifting combination of five aggregates: form, feeling, perception, mental formations and consciousness. This sets Buddhism apart from Hindu teachings of an eternal atman, and clinging to the illusion of a fixed self is seen as a root of suffering."
+    "body": "One of Buddhism's most distinctive teachings is anatta, or 'no-self': there is no permanent, unchanging soul. A person is instead a shifting combination of five aggregates: form, feeling, perception, mental formations and consciousness. This sets Buddhism apart from Hindu teachings of an eternal atman, and clinging to the illusion of a fixed self is seen as a root of suffering.",
+    "url": "https://en.wikipedia.org/wiki/Anatt%C4%81"
   },
   {
     "title": "The Quran",
-    "body": "Muslims believe the Quran is the word of God, revealed to Muhammad through the angel Gabriel over about 23 years. It consists of 114 chapters, or suras, in Arabic, and its standard written text was compiled under the third caliph, Uthman. Recited in prayer and memorised by many believers, it is the supreme source of Islamic law and theology and the model of classical Arabic."
+    "body": "Muslims believe the Quran is the word of God, revealed to Muhammad through the angel Gabriel over about 23 years. It consists of 114 chapters, or suras, in Arabic, and its standard written text was compiled under the third caliph, Uthman. Recited in prayer and memorised by many believers, it is the supreme source of Islamic law and theology and the model of classical Arabic.",
+    "url": "https://en.wikipedia.org/wiki/Quran"
   },
   {
     "title": "The Desert Fathers",
-    "body": "Christian monasticism began in the deserts of Egypt in the late 3rd and 4th centuries. Anthony the Great withdrew into solitude and became a model for hermits, while Pachomius organised the first communities of monks living together under a common rule. The sayings and ascetic practices of these Desert Fathers spread across the Christian world and inspired monastic life in both East and West."
+    "body": "Christian monasticism began in the deserts of Egypt in the late 3rd and 4th centuries. Anthony the Great withdrew into solitude and became a model for hermits, while Pachomius organised the first communities of monks living together under a common rule. The sayings and ascetic practices of these Desert Fathers spread across the Christian world and inspired monastic life in both East and West.",
+    "url": "https://en.wikipedia.org/wiki/Desert_Fathers"
   },
   {
     "title": "Wittgenstein's Language Games",
-    "body": "Ludwig Wittgenstein (1889–1951), an Austrian-born philosopher who worked at Cambridge, wrote two influential and opposing works. The Tractatus Logico-Philosophicus (1921) held that language pictures facts and ends: 'Whereof one cannot speak, thereof one must be silent.' The posthumous Philosophical Investigations (1953) argued instead that the meaning of a word lies in its use within 'language games'."
+    "body": "Ludwig Wittgenstein (1889–1951), an Austrian-born philosopher who worked at Cambridge, wrote two influential and opposing works. The Tractatus Logico-Philosophicus (1921) held that language pictures facts and ends: 'Whereof one cannot speak, thereof one must be silent.' The posthumous Philosophical Investigations (1953) argued instead that the meaning of a word lies in its use within 'language games'.",
+    "url": "https://en.wikipedia.org/wiki/Language_game_(philosophy)"
   },
   {
     "title": "The Bhakti Movement",
-    "body": "Bhakti, loving devotion to a personal god, grew into a powerful movement in Hinduism, beginning with Tamil poet-saints in southern India between roughly the 6th and 9th centuries and later spreading north. Its poets, such as Kabir and Mirabai, often wrote in local languages rather than Sanskrit and challenged caste barriers and priestly ritual. Bhakti remains central to popular Hindu worship."
+    "body": "Bhakti, loving devotion to a personal god, grew into a powerful movement in Hinduism, beginning with Tamil poet-saints in southern India between roughly the 6th and 9th centuries and later spreading north. Its poets, such as Kabir and Mirabai, often wrote in local languages rather than Sanskrit and challenged caste barriers and priestly ritual. Bhakti remains central to popular Hindu worship.",
+    "url": "https://en.wikipedia.org/wiki/Bhakti_movement"
   },
   {
     "title": "Aristotle's Logic and the Syllogism",
-    "body": "Aristotle created the first formal system of logic. Its core is the syllogism, an argument in which a conclusion follows necessarily from two premises: all humans are mortal; Socrates is a human; therefore Socrates is mortal. His logical works, later grouped as the Organon, or 'instrument', dominated logic until new systems were developed in the 19th century."
+    "body": "Aristotle created the first formal system of logic. Its core is the syllogism, an argument in which a conclusion follows necessarily from two premises: all humans are mortal; Socrates is a human; therefore Socrates is mortal. His logical works, later grouped as the Organon, or 'instrument', dominated logic until new systems were developed in the 19th century.",
+    "url": "https://en.wikipedia.org/wiki/Syllogism"
   },
   {
     "title": "Zhu Xi and Neo-Confucianism",
-    "body": "Neo-Confucianism revived Confucian thought in Song-dynasty China, partly in answer to Buddhism and Daoism, by adding a metaphysics of li (principle) and qi (vital energy). Its great synthesiser, Zhu Xi (1130–1200), made the Four Books the core of the Confucian canon. His commentaries became the basis of the imperial civil-service examinations from the 14th century until 1905, and his school shaped thought in Korea and Japan."
+    "body": "Neo-Confucianism revived Confucian thought in Song-dynasty China, partly in answer to Buddhism and Daoism, by adding a metaphysics of li (principle) and qi (vital energy). Its great synthesiser, Zhu Xi (1130–1200), made the Four Books the core of the Confucian canon. His commentaries became the basis of the imperial civil-service examinations from the 14th century until 1905, and his school shaped thought in Korea and Japan.",
+    "url": "https://en.wikipedia.org/wiki/Neo-Confucianism"
   },
   {
     "title": "Zoroastrianism",
-    "body": "Zoroastrianism, founded by the Iranian prophet Zarathustra (Zoroaster), whose dates are much debated, teaches a cosmic struggle between Ahura Mazda, the wise creator, and the destructive spirit Angra Mainyu. Humans must choose the good through good thoughts, good words and good deeds. It was the state religion of Sasanian Persia until the Islamic conquest, and many scholars think its ideas of final judgement, heaven and hell influenced Judaism, Christianity and Islam."
+    "body": "Zoroastrianism, founded by the Iranian prophet Zarathustra (Zoroaster), whose dates are much debated, teaches a cosmic struggle between Ahura Mazda, the wise creator, and the destructive spirit Angra Mainyu. Humans must choose the good through good thoughts, good words and good deeds. It was the state religion of Sasanian Persia until the Islamic conquest, and many scholars think its ideas of final judgement, heaven and hell influenced Judaism, Christianity and Islam.",
+    "url": "https://en.wikipedia.org/wiki/Zoroastrianism"
   },
   {
     "title": "Spinoza's God or Nature",
-    "body": "Baruch Spinoza (1632–1677), a Dutch philosopher of Portuguese-Jewish descent, was expelled from Amsterdam's Jewish community in 1656 for his views. In his Ethics, set out like a geometry textbook, he argued that there is only one substance, 'God or Nature', of which mind and matter are two aspects. His denial of a personal God and his defence of freedom of thought made him a key figure of the radical Enlightenment."
+    "body": "Baruch Spinoza (1632–1677), a Dutch philosopher of Portuguese-Jewish descent, was expelled from Amsterdam's Jewish community in 1656 for his views. In his Ethics, set out like a geometry textbook, he argued that there is only one substance, 'God or Nature', of which mind and matter are two aspects. His denial of a personal God and his defence of freedom of thought made him a key figure of the radical Enlightenment.",
+    "url": "https://en.wikipedia.org/wiki/Baruch_Spinoza"
   },
   {
     "title": "Zhuangzi's Butterfly Dream",
-    "body": "The Daoist book Zhuangzi, named after a thinker of the 4th century BC, is famous for its playful stories. In one, Zhuangzi dreams he is a butterfly and on waking cannot tell whether he is a man who dreamt of being a butterfly or a butterfly dreaming of being a man. The tale expresses Daoist doubt about fixed distinctions and celebrates the constant transformation of things."
+    "body": "The Daoist book Zhuangzi, named after a thinker of the 4th century BC, is famous for its playful stories. In one, Zhuangzi dreams he is a butterfly and on waking cannot tell whether he is a man who dreamt of being a butterfly or a butterfly dreaming of being a man. The tale expresses Daoist doubt about fixed distinctions and celebrates the constant transformation of things.",
+    "url": "https://en.wikipedia.org/wiki/Zhuangzi_(book)"
   },
   {
     "title": "Rawls's Veil of Ignorance",
-    "body": "In A Theory of Justice (1971), John Rawls asked what principles people would choose for society if they stood behind a 'veil of ignorance', not knowing their own class, talents or position. He argued they would choose equal basic liberties for all and allow inequalities only if they benefit the least advantaged. The book revived political philosophy in the English-speaking world."
+    "body": "In A Theory of Justice (1971), John Rawls asked what principles people would choose for society if they stood behind a 'veil of ignorance', not knowing their own class, talents or position. He argued they would choose equal basic liberties for all and allow inequalities only if they benefit the least advantaged. The book revived political philosophy in the English-speaking world.",
+    "url": "https://en.wikipedia.org/wiki/Original_position"
   },
   {
     "title": "Yin and Yang",
-    "body": "In Chinese thought, yin and yang are complementary forces whose interplay produces all change: yin is associated with darkness, cold, rest and the feminine, yang with light, heat, activity and the masculine. Neither is good or bad, and each contains the seed of the other, as the familiar taijitu symbol shows. The idea underlies traditional Chinese medicine and cosmology and runs through both Daoism and Confucianism."
+    "body": "In Chinese thought, yin and yang are complementary forces whose interplay produces all change: yin is associated with darkness, cold, rest and the feminine, yang with light, heat, activity and the masculine. Neither is good or bad, and each contains the seed of the other, as the familiar taijitu symbol shows. The idea underlies traditional Chinese medicine and cosmology and runs through both Daoism and Confucianism.",
+    "url": "https://en.wikipedia.org/wiki/Yin_and_yang"
   },
   {
     "title": "Zeno's Paradoxes",
-    "body": "Zeno of Elea, a follower of Parmenides in the 5th century BC, devised paradoxes, traditionally read as defending his teacher's view that motion is an illusion. In the most famous, swift Achilles can never overtake a tortoise with a head start, because whenever he reaches where it was, it has moved further on. The paradoxes puzzled thinkers for two millennia; the standard modern answer, though not accepted by everyone, is that an infinite series can have a finite sum."
+    "body": "Zeno of Elea, a follower of Parmenides in the 5th century BC, devised paradoxes, traditionally read as defending his teacher's view that motion is an illusion. In the most famous, swift Achilles can never overtake a tortoise with a head start, because whenever he reaches where it was, it has moved further on. The paradoxes puzzled thinkers for two millennia; the standard modern answer, though not accepted by everyone, is that an infinite series can have a finite sum.",
+    "url": "https://en.wikipedia.org/wiki/Zeno's_paradoxes"
   },
   {
     "title": "The Mind–Body Problem",
-    "body": "The mind–body problem asks how mental states, such as thoughts and sensations, relate to the physical body and brain. René Descartes's dualism held that mind and matter are different substances, raising the puzzle of how they interact. Materialists hold that the mind is ultimately physical, yet how brain processes give rise to conscious experience, sometimes called the 'hard problem', remains unexplained."
+    "body": "The mind–body problem asks how mental states, such as thoughts and sensations, relate to the physical body and brain. René Descartes's dualism held that mind and matter are different substances, raising the puzzle of how they interact. Materialists hold that the mind is ultimately physical, yet how brain processes give rise to conscious experience, sometimes called the 'hard problem', remains unexplained.",
+    "url": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem"
   },
   {
     "title": "Leibniz and the Best of All Possible Worlds",
-    "body": "Gottfried Wilhelm Leibniz (1646–1716), who developed calculus independently of Newton, argued that the world is made of simple, mind-like substances he called monads. To reconcile God's goodness with the existence of evil, he claimed that this is the best of all possible worlds, a view Voltaire ridiculed in Candide. He also formulated the principle of sufficient reason: nothing happens without a reason why it is so rather than otherwise."
+    "body": "Gottfried Wilhelm Leibniz (1646–1716), who developed calculus independently of Newton, argued that the world is made of simple, mind-like substances he called monads. To reconcile God's goodness with the existence of evil, he claimed that this is the best of all possible worlds, a view Voltaire ridiculed in Candide. He also formulated the principle of sufficient reason: nothing happens without a reason why it is so rather than otherwise.",
+    "url": "https://en.wikipedia.org/wiki/Best_of_all_possible_worlds"
   },
   {
     "title": "Sunni and Shia Islam",
-    "body": "Islam's main division began in disputes over who should lead the community after Muhammad's death in 632. Sunnis accepted the caliphs chosen by the community, beginning with Abu Bakr, while the Shia held that leadership belonged to Muhammad's cousin and son-in-law Ali and his descendants, the imams. The killing of Ali's son Husayn at Karbala in 680, mourned by Shia Muslims at Ashura, deepened the split."
+    "body": "Islam's main division began in disputes over who should lead the community after Muhammad's death in 632. Sunnis accepted the caliphs chosen by the community, beginning with Abu Bakr, while the Shia held that leadership belonged to Muhammad's cousin and son-in-law Ali and his descendants, the imams. The killing of Ali's son Husayn at Karbala in 680, mourned by Shia Muslims at Ashura, deepened the split.",
+    "url": "https://en.wikipedia.org/wiki/Shia%E2%80%93Sunni_relations"
   },
   {
     "title": "The Ethiopian Orthodox Church",
-    "body": "Christianity became the religion of the kingdom of Aksum, in present-day Ethiopia and Eritrea, under King Ezana in the 4th century, making it one of the earliest Christian states. The Ethiopian Orthodox Tewahedo Church developed largely apart from the rest of Christendom, keeping its liturgy in the ancient Ge'ez language and a broader biblical canon that includes the Book of Enoch."
+    "body": "Christianity became the religion of the kingdom of Aksum, in present-day Ethiopia and Eritrea, under King Ezana in the 4th century, making it one of the earliest Christian states. The Ethiopian Orthodox Tewahedo Church developed largely apart from the rest of Christendom, keeping its liturgy in the ancient Ge'ez language and a broader biblical canon that includes the Book of Enoch.",
+    "url": "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church"
   },
   {
     "title": "Arendt and the Banality of Evil",
-    "body": "Reporting on the 1961 trial of the Nazi official Adolf Eichmann in Jerusalem, the philosopher Hannah Arendt was struck that he seemed not a monster but an ordinary, thoughtless bureaucrat. She called this 'the banality of evil': great crimes can be committed by people who simply fail to think about what they are doing. The idea, set out in Eichmann in Jerusalem (1963), was controversial but has remained influential."
+    "body": "Reporting on the 1961 trial of the Nazi official Adolf Eichmann in Jerusalem, the philosopher Hannah Arendt was struck that he seemed not a monster but an ordinary, thoughtless bureaucrat. She called this 'the banality of evil': great crimes can be committed by people who simply fail to think about what they are doing. The idea, set out in Eichmann in Jerusalem (1963), was controversial but has remained influential.",
+    "url": "https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem"
   },
   {
     "title": "Haitian Vodou",
-    "body": "Haitian Vodou took shape in the 18th century among enslaved Africans in the French colony of Saint-Domingue, blending religions of West and Central Africa, including those of the Fon and Kongo peoples, with elements of Catholicism. Believers serve a distant creator, Bondye, through many spirits called lwa, who are honoured with drumming, dance and offerings and may possess worshippers during ceremonies. Long suppressed and caricatured abroad as 'voodoo', it is central to Haitian culture."
+    "body": "Haitian Vodou took shape in the 18th century among enslaved Africans in the French colony of Saint-Domingue, blending religions of West and Central Africa, including those of the Fon and Kongo peoples, with elements of Catholicism. Believers serve a distant creator, Bondye, through many spirits called lwa, who are honoured with drumming, dance and offerings and may possess worshippers during ceremonies. Long suppressed and caricatured abroad as 'voodoo', it is central to Haitian culture.",
+    "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
   },
   {
     "title": "Averroes",
-    "body": "Ibn Rushd, known in Latin as Averroes (1126–1198), was a judge, physician and philosopher in Córdoba in Muslim Spain. He wrote extensive commentaries on Aristotle and in The Incoherence of the Incoherence defended philosophy against al-Ghazali. Translated into Latin, his commentaries earned him the title 'the Commentator' among medieval scholars and inspired the controversial Latin Averroist movement in Paris."
+    "body": "Ibn Rushd, known in Latin as Averroes (1126–1198), was a judge, physician and philosopher in Córdoba in Muslim Spain. He wrote extensive commentaries on Aristotle and in The Incoherence of the Incoherence defended philosophy against al-Ghazali. Translated into Latin, his commentaries earned him the title 'the Commentator' among medieval scholars and inspired the controversial Latin Averroist movement in Paris.",
+    "url": "https://en.wikipedia.org/wiki/Averroes"
   },
   {
     "title": "Jesus of Nazareth",
-    "body": "Jesus was a Jewish preacher from Galilee who was crucified on the orders of the Roman governor Pontius Pilate in Jerusalem, probably around AD 30. The Gospels describe his healings and his teaching of the Kingdom of God, love of neighbour and forgiveness, often through parables. Christians believe he rose from the dead and is the Son of God; in Islam he is honoured as the prophet Isa. Almost all historians accept that he existed."
+    "body": "Jesus was a Jewish preacher from Galilee who was crucified on the orders of the Roman governor Pontius Pilate in Jerusalem, probably around AD 30. The Gospels describe his healings and his teaching of the Kingdom of God, love of neighbour and forgiveness, often through parables. Christians believe he rose from the dead and is the Son of God; in Islam he is honoured as the prophet Isa. Almost all historians accept that he existed.",
+    "url": "https://en.wikipedia.org/wiki/Jesus"
   },
   {
     "title": "Shankara and Advaita Vedanta",
-    "body": "Advaita, or 'non-dual', Vedanta is the school of Hindu philosophy most closely associated with Adi Shankara, traditionally dated to the 8th century AD. It holds that only Brahman is ultimately real and that the world of separate things is maya, an appearance rather than final reality. Liberation comes through the knowledge that one's own self is identical with Brahman, and the school became one of the most influential in Hindu thought."
+    "body": "Advaita, or 'non-dual', Vedanta is the school of Hindu philosophy most closely associated with Adi Shankara, traditionally dated to the 8th century AD. It holds that only Brahman is ultimately real and that the world of separate things is maya, an appearance rather than final reality. Liberation comes through the knowledge that one's own self is identical with Brahman, and the school became one of the most influential in Hindu thought.",
+    "url": "https://en.wikipedia.org/wiki/Advaita_Vedanta"
   },
   {
     "title": "Han Feizi and Legalism",
-    "body": "Legalism was a school of Chinese political thought that rejected Confucian moral persuasion in favour of strict laws, harsh punishments and generous rewards. Its leading theorist, Han Feizi, died in 233 BC; Legalist ideas guided the state of Qin, which unified China in 221 BC. Later dynasties officially honoured Confucianism but kept many Legalist methods of government."
+    "body": "Legalism was a school of Chinese political thought that rejected Confucian moral persuasion in favour of strict laws, harsh punishments and generous rewards. Its leading theorist, Han Feizi, died in 233 BC; Legalist ideas guided the state of Qin, which unified China in 221 BC. Later dynasties officially honoured Confucianism but kept many Legalist methods of government.",
+    "url": "https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy)"
   },
   {
     "title": "What Is Enlightenment?",
-    "body": "In a 1784 essay, Immanuel Kant defined Enlightenment as humanity's emergence from its self-imposed immaturity, the inability to use one's own understanding without another's guidance. Its motto, he wrote, is 'Sapere aude!': dare to know. The essay became a classic statement of the Enlightenment ideals of reason, free public debate and intellectual independence."
+    "body": "In a 1784 essay, Immanuel Kant defined Enlightenment as humanity's emergence from its self-imposed immaturity, the inability to use one's own understanding without another's guidance. Its motto, he wrote, is 'Sapere aude!': dare to know. The essay became a classic statement of the Enlightenment ideals of reason, free public debate and intellectual independence.",
+    "url": "https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F"
   },
   {
     "title": "Siddhartha Gautama, the Buddha",
-    "body": "Siddhartha Gautama, the Buddha or 'Awakened One', was born at Lumbini in what is now Nepal, probably in the 6th or 5th century BC; scholars disagree on the exact dates. According to tradition he left a princely life, tried extreme asceticism, and then attained enlightenment through meditation at Bodh Gaya. He taught a 'Middle Way' between indulgence and self-denial and spent decades teaching across northern India."
+    "body": "Siddhartha Gautama, the Buddha or 'Awakened One', was born at Lumbini in what is now Nepal, probably in the 6th or 5th century BC; scholars disagree on the exact dates. According to tradition he left a princely life, tried extreme asceticism, and then attained enlightenment through meditation at Bodh Gaya. He taught a 'Middle Way' between indulgence and self-denial and spent decades teaching across northern India.",
+    "url": "https://en.wikipedia.org/wiki/The_Buddha"
   },
   {
     "title": "Shamanism",
-    "body": "Shamanism is a set of religious practices in which a specialist, the shaman, is believed to enter a trance and travel to the spirit world to heal, divine or guide the souls of the dead. The word comes, via Russian, from a Tungusic language of Siberia, probably Evenki, and such practices were central to the religions of many Siberian and Central Asian peoples, including the Mongols and Turks. Scholars debate how far the term can be applied to similar practices elsewhere."
+    "body": "Shamanism is a set of religious practices in which a specialist, the shaman, is believed to enter a trance and travel to the spirit world to heal, divine or guide the souls of the dead. The word comes, via Russian, from a Tungusic language of Siberia, probably Evenki, and such practices were central to the religions of many Siberian and Central Asian peoples, including the Mongols and Turks. Scholars debate how far the term can be applied to similar practices elsewhere.",
+    "url": "https://en.wikipedia.org/wiki/Shamanism"
   },
   {
     "title": "The Yoga Sutras of Patanjali",
-    "body": "The Yoga Sutras, attributed to Patanjali and probably compiled in the early centuries AD (their dating is debated), are the foundational text of the Yoga school of Hindu philosophy. They define yoga as the stilling of the fluctuations of the mind and set out an eight-limbed path, from ethical restraints and postures to breath control, meditation and absorption. Physical postures, central to modern yoga, play only a small part in the text."
+    "body": "The Yoga Sutras, attributed to Patanjali and probably compiled in the early centuries AD (their dating is debated), are the foundational text of the Yoga school of Hindu philosophy. They define yoga as the stilling of the fluctuations of the mind and set out an eight-limbed path, from ethical restraints and postures to breath control, meditation and absorption. Physical postures, central to modern yoga, play only a small part in the text.",
+    "url": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali"
   },
   {
     "title": "Tibetan Buddhism",
-    "body": "Buddhism reached Tibet from India from the 7th and 8th centuries and developed into a distinctive form of Vajrayana, or tantric, Buddhism with elaborate ritual, meditation and a large monastic culture. Its schools include the Gelug, whose leading teachers are the Dalai Lamas, believed to be successive reincarnations of the bodhisattva of compassion. The tradition spread to Mongolia and, after 1959, to the wider world through Tibetan exiles."
+    "body": "Buddhism reached Tibet from India from the 7th and 8th centuries and developed into a distinctive form of Vajrayana, or tantric, Buddhism with elaborate ritual, meditation and a large monastic culture. Its schools include the Gelug, whose leading teachers are the Dalai Lamas, believed to be successive reincarnations of the bodhisattva of compassion. The tradition spread to Mongolia and, after 1959, to the wider world through Tibetan exiles.",
+    "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism"
   },
   {
     "title": "Plotinus and Neoplatonism",
-    "body": "Plotinus (around 204–270), a Greek-speaking philosopher from Egypt who taught in Rome, founded Neoplatonism. He held that all reality flows from a single, transcendent source, the One, through Intellect and Soul down to the material world, and that the soul can return to the One through contemplation. His writings, the Enneads, edited by his pupil Porphyry, influenced Christian, Jewish and Islamic thought."
+    "body": "Plotinus (around 204–270), a Greek-speaking philosopher from Egypt who taught in Rome, founded Neoplatonism. He held that all reality flows from a single, transcendent source, the One, through Intellect and Soul down to the material world, and that the soul can return to the One through contemplation. His writings, the Enneads, edited by his pupil Porphyry, influenced Christian, Jewish and Islamic thought.",
+    "url": "https://en.wikipedia.org/wiki/Neoplatonism"
   },
   {
     "title": "The Kyoto School",
-    "body": "The Kyoto School was a group of 20th-century Japanese philosophers centred on Nishida Kitarō at Kyoto University. They sought to combine Western philosophy, especially German thought, with Zen Buddhist ideas, notably the concept of 'absolute nothingness'. It is regarded as the first major movement to bring Japanese philosophy into dialogue with the West, though the wartime nationalism of some members remains controversial."
+    "body": "The Kyoto School was a group of 20th-century Japanese philosophers centred on Nishida Kitarō at Kyoto University. They sought to combine Western philosophy, especially German thought, with Zen Buddhist ideas, notably the concept of 'absolute nothingness'. It is regarded as the first major movement to bring Japanese philosophy into dialogue with the West, though the wartime nationalism of some members remains controversial.",
+    "url": "https://en.wikipedia.org/wiki/Kyoto_School"
   },
   {
     "title": "Hegel's Dialectic",
-    "body": "Georg Wilhelm Friedrich Hegel (1770–1831) saw history as the progressive self-realisation of Spirit (Geist) towards freedom. His dialectic describes how ideas and societies develop through contradictions that are overcome yet preserved in a higher stage. The formula 'thesis, antithesis, synthesis' is often attached to him, though he did not use it to describe his method. His thought shaped Marx and much of later European philosophy."
+    "body": "Georg Wilhelm Friedrich Hegel (1770–1831) saw history as the progressive self-realisation of Spirit (Geist) towards freedom. His dialectic describes how ideas and societies develop through contradictions that are overcome yet preserved in a higher stage. The formula 'thesis, antithesis, synthesis' is often attached to him, though he did not use it to describe his method. His thought shaped Marx and much of later European philosophy.",
+    "url": "https://en.wikipedia.org/wiki/Dialectic"
   },
   {
     "title": "Ambedkar and Navayana Buddhism",
-    "body": "Bhimrao Ambedkar, the Dalit leader and jurist born into an 'untouchable' caste, concluded that Hinduism could not be reformed to end caste discrimination. In 1956 in Nagpur he converted to Buddhism together with hundreds of thousands of his followers, weeks before his death. His rationalist, socially engaged reading of Buddhism, set out in The Buddha and His Dhamma, inspired a movement among Dalits often called Navayana or Ambedkarite Buddhism."
+    "body": "Bhimrao Ambedkar, the Dalit leader and jurist born into an 'untouchable' caste, concluded that Hinduism could not be reformed to end caste discrimination. In 1956 in Nagpur he converted to Buddhism together with hundreds of thousands of his followers, weeks before his death. His rationalist, socially engaged reading of Buddhism, set out in The Buddha and His Dhamma, inspired a movement among Dalits often called Navayana or Ambedkarite Buddhism.",
+    "url": "https://en.wikipedia.org/wiki/Navayana"
   },
   {
     "title": "The Council of Nicaea",
-    "body": "In 325 the emperor Constantine summoned bishops to Nicaea, in present-day Turkey, for the first ecumenical council of the Christian Church. It rejected the teaching of Arius that Christ was created by and subordinate to God the Father, declaring the Son 'of one substance' with the Father. The Nicene Creed, in a version expanded in 381, became the shared statement of faith of most Christian churches."
+    "body": "In 325 the emperor Constantine summoned bishops to Nicaea, in present-day Turkey, for the first ecumenical council of the Christian Church. It rejected the teaching of Arius that Christ was created by and subordinate to God the Father, declaring the Son 'of one substance' with the Father. The Nicene Creed, in a version expanded in 381, became the shared statement of faith of most Christian churches.",
+    "url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea"
   },
   {
     "title": "Wang Yangming's Unity of Knowing and Acting",
-    "body": "Wang Yangming (1472–1529), a Ming-dynasty scholar, official and general, challenged Zhu Xi's method of seeking principle by investigating external things. He taught that principle is found in one's own mind and that knowledge and action are inseparable: to know the good and fail to do it is not yet truly to know it. His School of Mind was influential in China and especially in Japan."
+    "body": "Wang Yangming (1472–1529), a Ming-dynasty scholar, official and general, challenged Zhu Xi's method of seeking principle by investigating external things. He taught that principle is found in one's own mind and that knowledge and action are inseparable: to know the good and fail to do it is not yet truly to know it. His School of Mind was influential in China and especially in Japan.",
+    "url": "https://en.wikipedia.org/wiki/Wang_Yangming"
   },
   {
     "title": "The Dead Sea Scrolls",
-    "body": "From 1947 onwards, fragments of hundreds of ancient manuscripts were found in caves at Qumran and nearby sites by the Dead Sea. Dating mostly from the last three centuries BC and the 1st century AD, they include the oldest known copies of books of the Hebrew Bible, about a thousand years older than those previously known. They transformed the study of ancient Judaism and of the world in which Christianity arose."
+    "body": "From 1947 onwards, fragments of hundreds of ancient manuscripts were found in caves at Qumran and nearby sites by the Dead Sea. Dating mostly from the last three centuries BC and the 1st century AD, they include the oldest known copies of books of the Hebrew Bible, about a thousand years older than those previously known. They transformed the study of ancient Judaism and of the world in which Christianity arose.",
+    "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls"
   },
   {
     "title": "Anselm's Ontological Argument",
-    "body": "Anselm of Canterbury (1033–1109) defined God as 'that than which nothing greater can be conceived'. Since something that exists in reality is greater than something that exists only in the mind, he reasoned, God must exist. The ontological argument has been debated ever since: Aquinas rejected it, Descartes revived a version of it, and Kant objected that existence is not a property."
+    "body": "Anselm of Canterbury (1033–1109) defined God as 'that than which nothing greater can be conceived'. Since something that exists in reality is greater than something that exists only in the mind, he reasoned, God must exist. The ontological argument has been debated ever since: Aquinas rejected it, Descartes revived a version of it, and Kant objected that existence is not a property.",
+    "url": "https://en.wikipedia.org/wiki/Ontological_argument"
   },
   {
     "title": "Liberation Theology",
-    "body": "Liberation theology arose among Latin American Catholics in the late 1960s, holding that the Church must take a 'preferential option for the poor' and work against social and economic injustice. The Peruvian priest Gustavo Gutiérrez gave the movement its name in A Theology of Liberation (1971). Its use of Marxist analysis drew criticism from the Vatican in the 1980s, but it inspired grassroots Christian communities across the region."
+    "body": "Liberation theology arose among Latin American Catholics in the late 1960s, holding that the Church must take a 'preferential option for the poor' and work against social and economic injustice. The Peruvian priest Gustavo Gutiérrez gave the movement its name in A Theology of Liberation (1971). Its use of Marxist analysis drew criticism from the Vatican in the 1980s, but it inspired grassroots Christian communities across the region.",
+    "url": "https://en.wikipedia.org/wiki/Liberation_theology"
   },
   {
     "title": "Diogenes and the Cynics",
-    "body": "The Cynics held that virtue is the only good and that happiness comes from living simply in accordance with nature, rejecting wealth, status and social convention. Diogenes of Sinope, in the 4th century BC, lived in a large storage jar in Athens and was said to search in daylight with a lamp for an honest man. Their name comes from the Greek for 'dog-like', and their ideas influenced the Stoics."
+    "body": "The Cynics held that virtue is the only good and that happiness comes from living simply in accordance with nature, rejecting wealth, status and social convention. Diogenes of Sinope, in the 4th century BC, lived in a large storage jar in Athens and was said to search in daylight with a lamp for an honest man. Their name comes from the Greek for 'dog-like', and their ideas influenced the Stoics.",
+    "url": "https://en.wikipedia.org/wiki/Cynicism_(philosophy)"
   },
   {
     "title": "The Church of the East",
-    "body": "The Church of the East, often called Nestorian by its opponents, was a Syriac-speaking Christian church centred in Mesopotamia under Persian rule. From the 6th to the 14th centuries its missionaries carried Christianity along the Silk Roads across Central Asia to Mongolia and China, where a stele erected at Chang'an (Xi'an) in 781 records the church's arrival in the 7th century. It declined after the Mongol era, surviving in small communities such as the Assyrian Church of the East."
+    "body": "The Church of the East, often called Nestorian by its opponents, was a Syriac-speaking Christian church centred in Mesopotamia under Persian rule. From the 6th to the 14th centuries its missionaries carried Christianity along the Silk Roads across Central Asia to Mongolia and China, where a stele erected at Chang'an (Xi'an) in 781 records the church's arrival in the 7th century. It declined after the Mongol era, surviving in small communities such as the Assyrian Church of the East.",
+    "url": "https://en.wikipedia.org/wiki/Church_of_the_East"
   },
   {
     "title": "Yoruba Religion and the Orishas",
-    "body": "The traditional religion of the Yoruba of south-western Nigeria and neighbouring lands centres on a supreme god, Olodumare, and many orishas, divine beings such as Shango, god of thunder, and Ogun, god of iron. Ifa divination, drawing on a vast body of sacred verses, guides believers' decisions. Through the Atlantic slave trade, Yoruba beliefs shaped religions of the Americas, including Santería in Cuba and Candomblé in Brazil."
+    "body": "The traditional religion of the Yoruba of south-western Nigeria and neighbouring lands centres on a supreme god, Olodumare, and many orishas, divine beings such as Shango, god of thunder, and Ogun, god of iron. Ifa divination, drawing on a vast body of sacred verses, guides believers' decisions. Through the Atlantic slave trade, Yoruba beliefs shaped religions of the Americas, including Santería in Cuba and Candomblé in Brazil.",
+    "url": "https://en.wikipedia.org/wiki/Yoruba_religion"
   },
   {
     "title": "Thales and the First Philosophers",
-    "body": "Thales of Miletus, active in the early 6th century BC, is traditionally called the first Greek philosopher. He sought natural rather than mythological explanations of the world, proposing that everything comes from water. With his fellow Milesians Anaximander and Anaximenes, he began the tradition of rational inquiry into nature that runs through Western philosophy and science."
+    "body": "Thales of Miletus, active in the early 6th century BC, is traditionally called the first Greek philosopher. He sought natural rather than mythological explanations of the world, proposing that everything comes from water. With his fellow Milesians Anaximander and Anaximenes, he began the tradition of rational inquiry into nature that runs through Western philosophy and science.",
+    "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus"
   },
   {
     "title": "Las Casas and the Valladolid Debate",
-    "body": "Bartolomé de las Casas (died 1566), a Spanish colonist who became a Dominican friar, denounced the brutal treatment of Indigenous peoples in the Americas. In the Valladolid debate of 1550–51 he opposed Juan Ginés de Sepúlveda, who used Aristotle's idea of 'natural slaves' to justify conquest. His defence of the full humanity and rights of Indigenous peoples made him a forerunner of human rights thought, though he had earlier proposed using African slaves instead, which he later regretted."
+    "body": "Bartolomé de las Casas (died 1566), a Spanish colonist who became a Dominican friar, denounced the brutal treatment of Indigenous peoples in the Americas. In the Valladolid debate of 1550–51 he opposed Juan Ginés de Sepúlveda, who used Aristotle's idea of 'natural slaves' to justify conquest. His defence of the full humanity and rights of Indigenous peoples made him a forerunner of human rights thought, though he had earlier proposed using African slaves instead, which he later regretted.",
+    "url": "https://en.wikipedia.org/wiki/Valladolid_debate"
   },
   {
     "title": "Theravada Buddhism",
-    "body": "Theravada, 'the teaching of the elders', is the oldest surviving school of Buddhism and the main form in Sri Lanka, Myanmar, Thailand, Laos and Cambodia. It bases its teaching on the Pali Canon, written down in Sri Lanka around the 1st century BC, and holds up the ideal of the arhat, who attains nirvana through their own discipline and insight. Monastic communities supported by lay offerings are central to its societies."
+    "body": "Theravada, 'the teaching of the elders', is the oldest surviving school of Buddhism and the main form in Sri Lanka, Myanmar, Thailand, Laos and Cambodia. It bases its teaching on the Pali Canon, written down in Sri Lanka around the 1st century BC, and holds up the ideal of the arhat, who attains nirvana through their own discipline and insight. Monastic communities supported by lay offerings are central to its societies.",
+    "url": "https://en.wikipedia.org/wiki/Theravada"
   },
   {
     "title": "Swami Vivekananda",
-    "body": "Vivekananda (1863–1902), a disciple of the mystic Ramakrishna, introduced Hindu philosophy, especially Vedanta and yoga, to Western audiences. His address to the World's Parliament of Religions in Chicago in 1893, opening with 'Sisters and brothers of America', made him famous. In India he promoted social service and a renewed Hindu self-confidence that fed into the national movement."
+    "body": "Vivekananda (1863–1902), a disciple of the mystic Ramakrishna, introduced Hindu philosophy, especially Vedanta and yoga, to Western audiences. His address to the World's Parliament of Religions in Chicago in 1893, opening with 'Sisters and brothers of America', made him famous. In India he promoted social service and a renewed Hindu self-confidence that fed into the national movement.",
+    "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda"
   },
   {
     "title": "Hume's Problem of Induction",
-    "body": "David Hume (1711–1776) observed that we expect the future to resemble the past, the sun to rise tomorrow because it always has, but that this cannot be proved: any argument for it already assumes it. Causation itself, he argued, is never observed, only one event regularly following another, and our belief in it rests on habit. The problem of induction remains a central puzzle in the philosophy of science."
+    "body": "David Hume (1711–1776) observed that we expect the future to resemble the past, the sun to rise tomorrow because it always has, but that this cannot be proved: any argument for it already assumes it. Causation itself, he argued, is never observed, only one event regularly following another, and our belief in it rests on habit. The problem of induction remains a central puzzle in the philosophy of science.",
+    "url": "https://en.wikipedia.org/wiki/Problem_of_induction"
   },
   {
     "title": "Ubuntu",
-    "body": "Ubuntu is a southern African philosophy of shared humanity, often summed up in the Nguni saying 'a person is a person through other persons'. It holds that identity and dignity arise from relationships and community, and it emphasises compassion, reciprocity and reconciliation. Desmond Tutu and Nelson Mandela drew on it, and it shaped the spirit of South Africa's Truth and Reconciliation Commission."
+    "body": "Ubuntu is a southern African philosophy of shared humanity, often summed up in the Nguni saying 'a person is a person through other persons'. It holds that identity and dignity arise from relationships and community, and it emphasises compassion, reciprocity and reconciliation. Desmond Tutu and Nelson Mandela drew on it, and it shaped the spirit of South Africa's Truth and Reconciliation Commission.",
+    "url": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
   },
   {
     "title": "Al-Ghazali",
-    "body": "Al-Ghazali (around 1058–1111), a Persian theologian, is among the most influential thinkers in Islam. In The Incoherence of the Philosophers he attacked Aristotelian philosophers such as Avicenna, arguing among other things that causes produce their effects only through God's will. After a personal crisis he turned to Sufism, and his Revival of the Religious Sciences helped bring mysticism into mainstream Sunni Islam."
+    "body": "Al-Ghazali (around 1058–1111), a Persian theologian, is among the most influential thinkers in Islam. In The Incoherence of the Philosophers he attacked Aristotelian philosophers such as Avicenna, arguing among other things that causes produce their effects only through God's will. After a personal crisis he turned to Sufism, and his Revival of the Religious Sciences helped bring mysticism into mainstream Sunni Islam.",
+    "url": "https://en.wikipedia.org/wiki/Al-Ghazali"
   },
   {
     "title": "Free Will and Determinism",
-    "body": "If every event is caused by earlier events according to natural laws, can our choices be free? Hard determinists say no; libertarians, in the philosophical sense, say free will requires that some choices are not determined; compatibilists such as David Hume argue that freedom means acting on one's own desires without coercion, which is consistent with determinism. The debate bears directly on moral responsibility and punishment."
+    "body": "If every event is caused by earlier events according to natural laws, can our choices be free? Hard determinists say no; libertarians, in the philosophical sense, say free will requires that some choices are not determined; compatibilists such as David Hume argue that freedom means acting on one's own desires without coercion, which is consistent with determinism. The debate bears directly on moral responsibility and punishment.",
+    "url": "https://en.wikipedia.org/wiki/Free_will"
   },
   {
     "title": "Epicureanism",
-    "body": "Epicurus (341–270 BC) founded a school in Athens known as the Garden. He taught that pleasure is the goal of life, but understood it as the absence of pain and mental disturbance, best achieved through simple living, friendship and philosophy rather than indulgence. Since death is the end of all sensation, he argued, it is nothing to fear. His ideas reached Rome through Lucretius's poem On the Nature of Things."
+    "body": "Epicurus (341–270 BC) founded a school in Athens known as the Garden. He taught that pleasure is the goal of life, but understood it as the absence of pain and mental disturbance, best achieved through simple living, friendship and philosophy rather than indulgence. Since death is the end of all sensation, he argued, it is nothing to fear. His ideas reached Rome through Lucretius's poem On the Nature of Things.",
+    "url": "https://en.wikipedia.org/wiki/Epicureanism"
   },
   {
     "title": "Sufism and Rumi",
-    "body": "Sufism is the mystical tradition of Islam, seeking direct, loving experience of God through practices such as dhikr (remembrance of God), music and guidance by a spiritual master. Its best-known poet, Jalal al-Din Rumi (1207–1273), was born in Central Asia and settled in Konya, in Anatolia. His Persian poem the Masnavi is among the great works of mystical literature, and his followers founded the Mevlevi order, known for its whirling dervishes."
+    "body": "Sufism is the mystical tradition of Islam, seeking direct, loving experience of God through practices such as dhikr (remembrance of God), music and guidance by a spiritual master. Its best-known poet, Jalal al-Din Rumi (1207–1273), was born in Central Asia and settled in Konya, in Anatolia. His Persian poem the Masnavi is among the great works of mystical literature, and his followers founded the Mevlevi order, known for its whirling dervishes.",
+    "url": "https://en.wikipedia.org/wiki/Sufism"
   },
   {
     "title": "Locke's Blank Slate",
-    "body": "In his Essay Concerning Human Understanding, published around 1690, John Locke argued that the mind at birth is like 'white paper', a blank slate often called a tabula rasa, and that all ideas come from experience, through sensation and reflection. He rejected the rationalist view that some ideas are innate. With George Berkeley and David Hume, he is counted among the British empiricists."
+    "body": "In his Essay Concerning Human Understanding, published around 1690, John Locke argued that the mind at birth is like 'white paper', a blank slate often called a tabula rasa, and that all ideas come from experience, through sensation and reflection. He rejected the rationalist view that some ideas are innate. With George Berkeley and David Hume, he is counted among the British empiricists.",
+    "url": "https://en.wikipedia.org/wiki/Tabula_rasa"
   }
 ]

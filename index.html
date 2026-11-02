@@ -4,145 +4,126 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Daily Knowledge</title>
-<meta name="description" content="A fun fact and three things worth knowing every day, rotating through ten areas.">
+<meta name="description" content="Every day: what happened on this date, a fun fact, and three things worth knowing.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="Daily Knowledge">
-<meta name="theme-color" content="#EEF1EE" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#141A21" media="(prefers-color-scheme: dark)">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;900&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap" rel="stylesheet">
+<meta name="theme-color" content="#FAFAF7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#111417" media="(prefers-color-scheme: dark)">
 <style>
 :root{
-  --paper:#EEF1EE; --sheet:#FBFCFA; --ink:#1B2430; --muted:#5A6573; --rule:#D3D9D4;
-  --red:#B5162B; --redInk:#FFFFFF; --focus:#2457A6;
-  --catL:38%; --catS:48%;
+  --bg:#FAFAF7; --card:#FFFFFF; --ink:#1F2328; --muted:#5F6670; --rule:#E2E2DC;
+  --accent:#2F5D8A; --tint:#F1F4F7; --focus:#2F5D8A;
+  --catL:36%; --catS:45%;
   box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
 }
 @media (prefers-color-scheme:dark){
   :root:not([data-theme="light"]){
     color-scheme:dark;
-    --paper:#141A21; --sheet:#1C232C; --ink:#E7ECEF; --muted:#9AA6B2; --rule:#303A45;
-    --red:#E0485B; --redInk:#14181E; --focus:#8DB4F2; --catL:70%; --catS:45%;
+    --bg:#111417; --card:#181C21; --ink:#E6E8EA; --muted:#9AA3AD; --rule:#2B3239;
+    --accent:#8DB4E2; --tint:#1A2028; --focus:#8DB4E2; --catL:72%; --catS:40%;
   }
 }
 :root[data-theme="dark"]{
   color-scheme:dark;
-  --paper:#141A21; --sheet:#1C232C; --ink:#E7ECEF; --muted:#9AA6B2; --rule:#303A45;
-  --red:#E0485B; --redInk:#14181E; --focus:#8DB4F2; --catL:70%; --catS:45%;
+  --bg:#111417; --card:#181C21; --ink:#E6E8EA; --muted:#9AA3AD; --rule:#2B3239;
+  --accent:#8DB4E2; --tint:#1A2028; --focus:#8DB4E2; --catL:72%; --catS:40%;
 }
 *,*::before,*::after{box-sizing:inherit}
-html{scroll-padding-top:env(safe-area-inset-top,0px);-webkit-text-size-adjust:100%;text-size-adjust:100%}
-body{margin:0;background:var(--paper);color:var(--ink);
-  font-family:"Literata",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.6;
-  -webkit-font-smoothing:antialiased}
+html{scroll-padding-top:calc(60px + env(safe-area-inset-top,0px));-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased}
 button,select{font:inherit;color:inherit}
+a{color:var(--accent)}
 :focus-visible{outline:2px solid var(--focus);outline-offset:2px}
-.wrap{max-width:1080px;margin:0 auto;padding:32px 20px 64px;
-  display:grid;grid-template-columns:260px minmax(0,1fr);gap:48px;align-items:start}
-@media (max-width:820px){.wrap{grid-template-columns:1fr;gap:24px;padding-top:20px}}
+.wrap{max-width:720px;margin:0 auto;padding:28px max(20px,env(safe-area-inset-right,0px)) 56px max(20px,env(safe-area-inset-left,0px))}
 
-/* Tear-off calendar block */
-aside{position:sticky;top:calc(24px + env(safe-area-inset-top,0px))}
-@media (max-width:820px){aside{position:static}}
-.cal{background:var(--sheet);border-radius:6px;overflow:hidden;
-  box-shadow:0 1px 0 var(--rule),0 6px 0 -3px var(--sheet),0 6px 0 -2px var(--rule),0 11px 0 -6px var(--sheet),0 11px 0 -5px var(--rule)}
-.cal-top{background:var(--red);color:var(--redInk);display:flex;justify-content:space-between;
-  padding:10px 16px;font-family:"Big Shoulders Display","Arial Narrow",sans-serif;font-weight:700;
-  font-size:20px;letter-spacing:.02em}
-.cal-body{text-align:center;padding:4px 16px 18px}
-.cal-day{font-family:"Big Shoulders Display","Arial Narrow",Impact,sans-serif;font-weight:900;
-  font-size:148px;line-height:1;margin:6px 0 0}
-.cal-day.sunday{color:var(--red)}
-.cal-wd{font-size:20px;margin:0}
-.cal-week{color:var(--muted);font-size:14px;margin:2px 0 0}
-@media (max-width:820px){
-  .cal{display:grid;grid-template-columns:auto 1fr;align-items:center}
-  .cal-top{grid-column:1/-1}
-  .cal-day{font-size:88px;padding:0 18px 8px 4px;margin:0}
-  .cal-body{display:contents}
-  .cal-meta{text-align:left}
-}
-.nav{display:flex;gap:8px;margin-top:20px}
-.nav button,.bar button{flex:1;background:transparent;border:1px solid var(--rule);border-radius:4px;
-  min-height:44px;padding:8px 6px;cursor:pointer;font-size:15px}
+/* Masthead and date */
+.mast{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:8px}
+.mast h1{font-size:15px;letter-spacing:.12em;text-transform:uppercase;font-weight:700;margin:0}
+.mast .tag{color:var(--muted);font-size:14px;margin:0;text-align:right}
+.dateline{font-size:28px;font-weight:700;line-height:1.2;margin:18px 0 2px;letter-spacing:-.01em}
+.dateline .wk{display:block;font-size:14px;font-weight:400;color:var(--muted);letter-spacing:0;margin-top:4px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
+.nav{display:flex;gap:8px;flex:1 1 280px}
+.nav button,.bar button{flex:1;background:var(--card);border:1px solid var(--rule);border-radius:6px;
+  min-height:44px;padding:8px 10px;cursor:pointer;font-size:15px}
 .nav button:hover:not(:disabled),.bar button:hover:not(:disabled){border-color:var(--ink)}
 .nav button:disabled,.bar button:disabled{opacity:.4;cursor:default}
-.archive{display:block;margin-top:14px;font-size:15px;color:var(--muted)}
+.archive{display:flex;align-items:center;gap:8px;flex:1 1 220px;font-size:15px;color:var(--muted)}
 .archive[hidden]{display:none}
-.archive select{display:block;width:100%;margin-top:4px;min-height:44px;padding:8px;border:1px solid var(--rule);
-  border-radius:4px;background:var(--sheet);font-size:16px}
+.archive select{flex:1;min-width:0;min-height:44px;padding:8px;border:1px solid var(--rule);border-radius:6px;background:var(--card);font-size:16px}
 
 /* Slim sticky date bar, narrow screens only */
 .bar{display:none}
 @media (max-width:820px){
   .bar{display:flex;align-items:center;gap:8px;position:sticky;top:env(safe-area-inset-top,0px);z-index:5;
-    background:var(--paper);border-bottom:1px solid var(--rule);
+    background:var(--bg);border-bottom:1px solid var(--rule);
     padding:6px max(12px,env(safe-area-inset-right,0px)) 6px max(12px,env(safe-area-inset-left,0px))}
   .bar button{flex:0 0 44px;width:44px;padding:0;font-size:20px;line-height:1}
   .bar-date{flex:1;text-align:center;font-weight:600;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   .nav #prevBtn,.nav #nextBtn{display:none}
 }
 @media (max-width:600px){
-  .wrap{padding:12px 16px 48px;gap:16px}
-  .cal-top{padding:6px 14px;font-size:17px}
-  .cal-day{font-size:56px;padding:0 14px 6px 4px}
-  .cal-wd{font-size:17px}
-  .nav{margin-top:10px}
-  .archive{margin-top:8px}
-  header h1{font-size:24px}
-  header p{font-size:15px;line-height:1.45}
-  .tabs{margin-top:12px}
+  .wrap{padding-top:14px}
+  .mast .tag{display:none}
+  .dateline{font-size:22px;margin-top:12px}
+  .controls{margin-top:10px}
+  .nav{flex:0 0 auto}
+  .nav button{padding:8px 14px}
 }
 
-/* Main column */
-header h1{font-weight:600;font-size:30px;line-height:1.2;margin:0}
-header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
-.tabs{display:flex;gap:4px;margin:22px 0 4px;border-bottom:1px solid var(--rule)}
+/* Name days */
+.dateline{cursor:pointer}
+.namedays{margin-top:6px}
+#ndBtn{display:flex;flex-wrap:wrap;align-items:center;gap:4px 8px;width:100%;min-height:44px;padding:6px 0;background:none;border:none;
+  border-bottom:1px dashed var(--rule);text-align:left;cursor:pointer;font-size:15px;color:var(--ink)}
+.nd-label{font-size:12px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--muted)}
+.nd-more{margin-left:auto;color:var(--accent);font-weight:600;font-size:14px}
+#ndPanel{background:var(--tint);border-radius:8px;padding:10px 14px;margin-top:8px}
+#ndPanel[hidden]{display:none}
+#ndList{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:4px 14px;margin:0;font-size:15px}
+#ndList dt{color:var(--muted)}
+#ndList dd{margin:0;overflow-wrap:anywhere}
+.nd-src{color:var(--muted);font-size:13px;margin:8px 0 0}
+
+/* Tabs and status */
+.tabs{display:flex;gap:4px;margin:20px 0 0;border-bottom:1px solid var(--rule)}
 .tabs button{background:none;border:none;border-bottom:2px solid transparent;padding:8px 2px;min-height:44px;min-width:44px;
   margin-right:18px;cursor:pointer;color:var(--muted);font-size:16px}
-.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink)}
-.status{margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--red);background:var(--sheet);
-  border-radius:0 4px 4px 0;font-size:16px}
+.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink);font-weight:600}
+.status{margin:16px 0 0;padding:12px 14px;border-left:3px solid var(--accent);background:var(--tint);
+  border-radius:0 6px 6px 0;font-size:15px}
 .status[hidden]{display:none}
-.status button{margin-top:10px;background:var(--ink);color:var(--paper);border:none;border-radius:4px;
-  min-height:44px;padding:7px 14px;cursor:pointer;font-size:15px}
+
+/* Facts */
 .facts{list-style:none;margin:0;padding:0}
-.fact{padding:26px 0 24px;border-bottom:1px solid var(--rule);
-  display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:16px}
-.fact .cat{grid-column:1/-1;display:flex;align-items:center;gap:8px;font-size:14px;
-  color:hsl(var(--h) var(--catS) var(--catL));font-weight:600;margin-bottom:4px}
-.fact .cat::before{content:"";width:9px;height:9px;border-radius:50%;background:currentColor}
-.fact h2{font-size:22px;line-height:1.3;font-weight:600;margin:0 0 6px}
-.hero{padding:30px 0 34px;border-bottom:1px solid var(--rule);display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:16px}
-.hero .cat{grid-column:1/-1;display:flex;align-items:center;gap:8px;font-size:15px;color:hsl(var(--h) var(--catS) var(--catL));font-weight:600;margin-bottom:8px}
-.hero .cat::before{content:"";width:10px;height:10px;border-radius:50%;background:currentColor}
-.hero h2{font-size:clamp(28px,4.4vw,40px);line-height:1.15;font-weight:600;margin:0 0 14px;letter-spacing:-.01em}
-.hero p{margin:0;max-width:62ch;font-size:19px;line-height:1.7}
-.recent{margin-top:30px}
-.recent h3{font-size:16px;font-weight:600;color:var(--muted);margin:0 0 6px}
+.fact{padding:22px 0 20px;border-bottom:1px solid var(--rule);
+  display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:14px}
+.fact .cat{grid-column:1/-1;font-size:12px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;
+  color:hsl(var(--h) var(--catS) var(--catL));margin-bottom:6px}
+.fact h2{font-size:21px;line-height:1.3;font-weight:700;margin:0 0 6px;overflow-wrap:break-word}
+.fact p{margin:0;max-width:64ch}
+.fact .date{font-size:14px;color:var(--muted);margin-top:8px}
+.fact.special{background:var(--tint);border:none;border-radius:8px;padding:16px 16px 14px;margin-top:14px}
+.fact.special h2{font-size:18px}
+.fact.special + .fact:not(.special){margin-top:6px}
+.more{display:inline-flex;align-items:center;min-height:44px;min-width:44px;font-size:15px;text-decoration:none;font-weight:600}
+.more:hover,.more:focus-visible{text-decoration:underline}
+.star{align-self:start;background:none;border:1px solid var(--rule);border-radius:50%;
+  width:44px;height:44px;cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
+.star[aria-pressed="true"]{color:var(--accent);border-color:var(--accent)}
+.empty{color:var(--muted);padding:28px 0}
+.recent{margin-top:28px}
+.recent h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--muted);margin:0 0 4px}
 .recent ul{list-style:none;margin:0;padding:0}
 .recent a{display:flex;align-items:center;min-height:44px;border-bottom:1px solid var(--rule);padding:8px 0;
   color:inherit;text-decoration:none;font-size:16px}
 .recent a:hover,.recent a:focus-visible{text-decoration:underline}
-.fact h2{overflow-wrap:break-word}
-.fact p{margin:0;max-width:66ch;line-height:1.68}
-.fact.fun{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:18px 18px 18px;margin-top:18px}
-.fact.fun h2{font-size:19px}
-.fact .date{font-size:14px;color:var(--muted);margin-top:8px}
-.star{align-self:start;background:none;border:1px solid var(--rule);border-radius:50%;
-  width:44px;height:44px;cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
-.star[aria-pressed="true"]{color:var(--red);border-color:var(--red)}
-.empty{color:var(--muted);padding:28px 0}
-.foot{color:var(--muted);font-size:14px;margin-top:28px;max-width:66ch}
-.loading .fact{opacity:.35}
-@media (prefers-reduced-motion:no-preference){
-  .facts.fresh .fact{animation:drop .5s ease-out both}
-  .facts.fresh .fact:nth-child(n){animation-delay:calc(var(--i) * 40ms)}
-  @keyframes drop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-}
+.foot{color:var(--muted);font-size:14px;margin-top:28px}
+.foot a{color:inherit;display:inline-flex;align-items:center;min-height:44px;min-width:44px}
 </style>
 </head>
 <body>
@@ -152,36 +133,33 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
   <button id="barNext" type="button" aria-label="Next day">›</button>
 </div>
 <div class="wrap">
-  <aside>
-    <div class="cal">
-      <div class="cal-top"><span id="calMonth">–</span><span id="calYear">–</span></div>
-      <div class="cal-day" id="calDay">–</div>
-      <div class="cal-body"><div class="cal-meta">
-        <p class="cal-wd" id="calWd">–</p>
-        <p class="cal-week" id="calWeek">–</p>
-      </div></div>
-    </div>
+  <header class="mast">
+    <h1>Daily Knowledge</h1>
+    <p class="tag">On this day, a fun fact and three things worth knowing</p>
+  </header>
+  <p class="dateline" id="dateline"><span id="calWd">–</span> <span id="calDay">–</span> <span id="calMonth">–</span> <span id="calYear">–</span><span class="wk" id="calWeek">–</span></p>
+  <div class="namedays">
+    <button id="ndBtn" type="button" aria-expanded="false" aria-controls="ndPanel"><span class="nd-label">Name day</span> <span id="ndShort">–</span> <span class="nd-more">All countries ▾</span></button>
+    <div id="ndPanel" hidden><dl id="ndList"></dl><p class="nd-src">Name days from the national name-day calendars as listed on Wikipedia. The US and the UK have no name-day tradition.</p></div>
+  </div>
+  <div class="controls">
     <div class="nav">
       <button id="prevBtn" type="button">‹ Previous</button>
       <button id="todayBtn" type="button">Today</button>
       <button id="nextBtn" type="button">Next ›</button>
     </div>
-    <label class="archive" id="archiveWrap" hidden>Go to a day
-      <select id="archiveSel"></select>
+    <label class="archive" id="archiveWrap" hidden>Go to
+      <select id="archiveSel" aria-label="Go to a day"></select>
     </label>
-  </aside>
+  </div>
   <main>
-    <header>
-      <h1>Daily Knowledge</h1>
-      <p>A fun fact and three things worth knowing every day, rotating through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology.</p>
-    </header>
     <div class="tabs" role="tablist">
-      <button role="tab" id="tabDay" aria-selected="true" type="button">Facts of the day</button>
+      <button role="tab" id="tabDay" aria-selected="true" type="button">Today's page</button>
       <button role="tab" id="tabSaved" aria-selected="false" type="button">Saved</button>
     </div>
     <div class="status" id="status" hidden><span id="statusText"></span></div>
     <div id="main" aria-live="polite"></div>
-    <p class="foot">Written with the help of an AI and not individually fact-checked. Verify before you quote.</p>
+    <p class="foot">Every day: one event from this date in history, a fun fact, and three facts that rotate through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology. Links go to Wikipedia. Spotted a mistake? <a href="https://github.com/DavidGrahn96/daily-knowledge/issues">Let us know</a>.</p>
   </main>
 </div>
 <script>
@@ -189,7 +167,8 @@ header p{color:var(--muted);margin:6px 0 0;max-width:60ch}
 "use strict";
 const CATS={history:["History",20],science:["Science",160],geography:["Geography",195],arts:["Art and literature",340],
   music:["Music",260],philosophy:["Philosophy and religion",45],economics:["Economics",110],politics:["Politics and society",220],
-  language:["Language",300],technology:["Technology",0],fun:["Fun fact",35]};
+  language:["Language",300],technology:["Technology",0],fun:["Fun fact",35],onthisday:["On this day",205]};
+const SPECIAL={fun:1,onthisday:1};
 const MONTHS=["January","February","March","April","May","June","July","August","September","October","November","December"];
 const WDAYS=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 const $=id=>document.getElementById(id);
@@ -223,6 +202,7 @@ function renderCal(){
   $("calMonth").textContent=MONTHS[d.getMonth()];$("calYear").textContent=d.getFullYear();
   $("calDay").textContent=d.getDate();$("calDay").classList.toggle("sunday",d.getDay()===0);
   $("calWd").textContent=WDAYS[d.getDay()];$("calWeek").textContent="Week "+isoWeek(d);
+  renderNamedays(k.slice(5));
   const v=visible(),i=v.indexOf(S.cur);
   $("prevBtn").disabled=$("barPrev").disabled=i<=0;$("nextBtn").disabled=$("barNext").disabled=i<0||i>=v.length-1;
   $("todayBtn").disabled=!v.length||S.cur===latest();
@@ -238,6 +218,25 @@ function starBtn(f){
   b.title=on?"Remove from saved":"Save";b.onclick=()=>{toggleSave(f);render();};return b;
 }
 
+let ND=null;
+const ndText=v=>v&&v.length?v.join(", "):"–";
+function renderNamedays(md){
+  if(!ND){$("ndShort").textContent="–";return;}
+  const day=ND.days[md]||{},C=ND.countries;
+  $("ndShort").textContent=["FR","SE"].filter(c=>C[c]).map(c=>C[c].name+": "+ndText(day[c])).join(" · ");
+  const dl=$("ndList");dl.textContent="";
+  Object.keys(C).forEach(c=>{dl.append(el("dt",null,C[c].name),el("dd",null,ndText(day[c])));});
+}
+function toggleNd(){const p=$("ndPanel"),open=p.hidden;p.hidden=!open;$("ndBtn").setAttribute("aria-expanded",open);
+  $("ndBtn").querySelector(".nd-more").textContent=open?"Hide ▴":"All countries ▾";}
+const label=f=>(CATS[f.category]?CATS[f.category][0]:f.category)+(f.year!=null?" · "+(f.year<0?(-f.year)+" BC":f.year):"");
+function card(f,showDate){
+  const li=el("li",SPECIAL[f.category]?"fact special":"fact");hue(f.category,li);
+  const t=el("div");t.append(el("h2",null,f.title),el("p",null,f.body));
+  if(f.url){const a=el("a","more","Want to know more? Wikipedia ↗");a.href=f.url;a.target="_blank";a.rel="noopener";t.append(a);}
+  if(showDate)t.append(el("div","date",longDate(f.date)));
+  li.append(el("div","cat",label(f)),t,starBtn(f));return li;
+}
 function render(){
   renderCal();
   const m=$("main");m.textContent="";
@@ -246,10 +245,7 @@ function render(){
     setStatus("");
     const ol=el("ol","facts");m.append(ol);
     if(!saved.length){ol.append(el("li","empty","Nothing saved yet. Tap the star next to a fact to keep it here."));return;}
-    saved.slice().sort((a,b)=>a.date<b.date?1:-1).forEach(f=>{
-      const li=el("li","fact");hue(f.category,li);
-      const t=el("div");t.append(el("h2",null,f.title),el("p",null,f.body),el("div","date",longDate(f.date)));
-      li.append(el("div","cat",(CATS[f.category]||[f.category])[0]),t,starBtn(f));ol.append(li);});
+    saved.slice().sort((a,b)=>a.date<b.date?1:-1).forEach(f=>ol.append(card(f,true)));
     return;
   }
   if(S.error){setStatus(S.error);return;}
@@ -257,10 +253,7 @@ function render(){
   if(!day){setStatus("Loading…");return;}
   setStatus(S.cur===latest()&&S.cur!==todayKey()?"There are no new facts for today yet. Showing the latest day, "+longDate(S.cur)+".":"");
   const ol=el("ol","facts");ol.setAttribute("aria-label","Facts for "+longDate(S.cur));
-  day.forEach(f=>{
-    const li=el("li",f.category==="fun"?"fact fun":"fact");hue(f.category,li);
-    const t=el("div");t.append(el("h2",null,f.title),el("p",null,f.body));
-    li.append(el("div","cat",CATS[f.category]?CATS[f.category][0]:f.category),t,starBtn(f));ol.append(li);});
+  day.forEach(f=>ol.append(card(f,false)));
   m.append(ol);
   const v=visible(),i=v.indexOf(S.cur),prev=v.slice(Math.max(0,i-6),i).reverse();
   if(prev.length){
@@ -282,6 +275,7 @@ function step(n){const v=visible(),i=v.indexOf(S.cur);if(v[i+n])go(v[i+n]);}
 $("prevBtn").onclick=$("barPrev").onclick=()=>step(-1);$("nextBtn").onclick=$("barNext").onclick=()=>step(1);
 $("todayBtn").onclick=()=>{if(latest())go(latest());};
 $("archiveSel").onchange=e=>{if(e.target.value)go(e.target.value);};
+$("ndBtn").onclick=toggleNd;$("dateline").onclick=toggleNd;
 $("tabDay").onclick=()=>{S.view="day";render();};$("tabSaved").onclick=()=>{S.view="saved";render();};
 const fromHash=()=>{const m=/^#d(\d{4}-\d{2}-\d{2})$/.exec(location.hash);return m?m[1]:null;};
 window.addEventListener("hashchange",()=>{const k=fromHash()||latest();if(k&&k!==S.cur&&visible().includes(k))go(k);});
@@ -294,17 +288,22 @@ render();
     const names=cfg.order.concat(cfg.fun?[cfg.fun]:[]);
     const banks=await Promise.all(names.map(c=>get("bank/"+c+".json")));
     const bank=Object.fromEntries(names.map((c,i)=>[c,banks[i]]));
+    const otd=cfg.onthisday?await get("bank/"+cfg.onthisday+".json"):null;  // keyed by "MM-DD"
+    if(cfg.namedays)ND=await get("bank/"+cfg.namedays+".json");               // keyed by "MM-DD", shown by calendar day
+    const pick=(c,f)=>{const o={category:c,title:f.title.trim(),body:f.body.trim()};if(f.url)o.url=f.url;if(f.year!=null)o.year=f.year;return o;};
     // Same rule as scripts/build.py: number all facts k = 0, 1, 2, ...; fact k is area order[k % len]
     // and entry floor(k / len) of that area's bank. Day n shows k = per*n ... per*n + per-1.
     // The schedule ends at the first day for which any of its facts is missing.
     const start=parseKey(cfg.start),per=cfg.per_day,L=cfg.order.length;
-    const fact=k=>{const c=cfg.order[k%L],f=bank[c][Math.floor(k/L)];return f?{category:c,title:f.title.trim(),body:f.body.trim()}:null;};
+    const fact=k=>{const c=cfg.order[k%L],f=bank[c][Math.floor(k/L)];return f?pick(c,f):null;};
     for(let n=0;;n++){
       const fs=[];for(let j=0;j<per;j++){const f=fact(per*n+j);if(!f)break;fs.push(f);}
       if(fs.length<per)break;
       // Fun fact: day n also shows entry n of the fun bank, first; the schedule ends when it runs out.
-      if(cfg.fun){const f=bank[cfg.fun][n];if(!f)break;fs.unshift({category:cfg.fun,title:f.title.trim(),body:f.body.trim()});}
+      if(cfg.fun){const f=bank[cfg.fun][n];if(!f)break;fs.unshift(pick(cfg.fun,f));}
       const d=new Date(start);d.setDate(d.getDate()+n);const k=keyOf(d);
+      // On this day: an event from this calendar date (bank keyed by "MM-DD"), shown first.
+      if(otd){const o=otd[k.slice(5)];if(o)fs.unshift(pick("onthisday",o));}
       S.byDate[k]=fs.map(f=>({date:k,...f}));
     }
     S.dates=Object.keys(S.byDate).sort();

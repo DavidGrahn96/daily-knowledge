@@ -7,9 +7,10 @@ OUT.mkdir(parents=True, exist_ok=True)
 PORT = 8765 if ENGINE == "chromium" else 8766
 LABEL = {"history":"History","science":"Science","geography":"Geography","arts":"Art and literature","music":"Music",
          "philosophy":"Philosophy and religion","economics":"Economics","politics":"Politics and society",
-         "language":"Language","technology":"Technology","fun":"Fun fact"}
+         "language":"Language","technology":"Technology","fun":"Fun fact","onthisday":"On this day"}
 PROBE = (Path(__file__).parent / "probe.js").read_text()
 data = json.loads((REPO / "data/facts.json").read_text(encoding="utf-8"))
+ND = json.loads((REPO / "bank/namedays.json").read_text(encoding="utf-8"))
 by = {}
 for f in data["facts"]: by.setdefault(f["date"], []).append(f)
 dates = sorted(by)
@@ -64,7 +65,12 @@ def probe(pg): return pg.js(PROBE)
 pg = Page(393, 852)
 for i, d in enumerate(dates):
     pg.open(d); r = probe(pg)
-    exp = [{"label": LABEL[f["category"]], "title": f["title"], "body": f["body"]} for f in by[d]]
+    exp = [{"label": LABEL[f["category"]] + (f" · {-f['year']} BC" if f.get("year") is not None and f["year"] < 0 else f" · {f['year']}" if f.get("year") is not None else ""),
+            "title": f["title"], "body": f["body"], "url": f.get("url")} for f in by[d]]
+    md = d[5:]; dayn = ND["days"][md]
+    check(r["ndShort"] == " · ".join(f"{ND['countries'][c]['name']}: {', '.join(dayn[c]) or '–'}" for c in ("FR", "SE")),
+          f"{d}: name days differ: {r['ndShort']!r}")
+    check(r["ndRows"] == len(ND["countries"]), f"{d}: name-day panel rows {r['ndRows']}")
     check(r["facts"] == exp, f"{d}: rendered facts differ from facts.json")
     check(r["options"] == list(reversed(dates[:i + 1])) or (i == 0 and r["archiveHidden"]), f"{d}: archive options wrong")
     check(r["recent"] == ["#d" + x for x in reversed(dates[max(0, i - 6):i])], f"{d}: 'days before' wrong {r['recent']}")
@@ -90,6 +96,9 @@ saved = json.loads(pg.js("localStorage.getItem('dk:saved')") or "[]")
 check([s.get("id") for s in saved] == [f"{d0}|{by[d0][1]['category']}"], f"save id wrong: {saved}")
 pg.js("document.getElementById('tabSaved').click()")
 check(pg.js("document.querySelectorAll('#main li.fact').length") == 1, "Saved tab does not list the saved fact")
+pg.js("document.getElementById('tabDay').click()")
+pg.js("document.getElementById('ndBtn').click()")
+check(pg.js("!document.getElementById('ndPanel').hidden") is True, "name-day panel does not open")
 pg.js("localStorage.clear()"); pg.close()
 
 # ---- C. iPhone layout checks and screenshots --------------------------------

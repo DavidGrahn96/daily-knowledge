@@ -16,6 +16,15 @@ How the schedule works (identical rule in index.html)
   dated today or earlier (compared per date and category) unless you pass
   --allow-past-changes.
 
+  On this day: if schedule.json names an "onthisday" bank, each date also shows
+  the entry for its calendar day ("MM-DD", 366 keys), first. It never runs out.
+  Every entry may carry a "url" (an English Wikipedia article) and On this day
+  entries carry the "year" of the event.
+
+  Name days: if schedule.json names a "namedays" file, it is validated here
+  (366 day keys, a list per country per day) and shown by the page by
+  calendar day; it is not part of data/facts.json.
+
   Fun fact: if schedule.json names a "fun" bank (bank/fun.json), day n also
   shows entry n of that file, above the area facts. The schedule then also
   ends when the fun bank runs out. In data/facts.json it is the first entry of
@@ -64,6 +73,8 @@ def load_bank(bank_dir: Path, order: list[str]) -> dict[str, list[dict]]:
                 raise BuildError(f"{where}: empty title or body")
             if len(title) > MAX_TITLE or len(body) > MAX_BODY:
                 raise BuildError(f"{where}: title or body too long ({len(title)}/{len(body)} chars)")
+            if f.get("url") and not str(f["url"]).startswith("https://en.wikipedia.org/wiki/"):
+                raise BuildError(f"{where}: url must be an English Wikipedia article")
             key = title.casefold()
             if key in seen:
                 raise BuildError(f"{where}: duplicate title {title!r} (also {seen[key]})")
@@ -78,8 +89,55 @@ def fact_at(bank: dict[str, list[dict]], order: list[str], k: int) -> tuple[str,
     return (cat, idx) if idx < len(bank[cat]) else None
 
 
+def entry(d: str, cat: str, f: dict) -> dict:
+    e = {"date": d, "category": cat, "title": f["title"].strip(), "body": f["body"].strip()}
+    if f.get("year") is not None:
+        e["year"] = f["year"]
+    if f.get("url"):
+        e["url"] = f["url"]
+    return e
+
+
+def load_onthisday(path: Path, seen_titles: set[str]) -> dict[str, dict]:
+    """bank/onthisday.json: {"MM-DD": {"year", "title", "body", "url"}} for all 366 calendar days."""
+    otd = read_json(path)
+    want = {(date(2024, 1, 1) + timedelta(days=i)).strftime("%m-%d") for i in range(366)}
+    if set(otd) != want:
+        raise BuildError(f"{path.name}: needs exactly the 366 keys MM-DD; missing {sorted(want - set(otd))[:5]}, "
+                         f"extra {sorted(set(otd) - want)[:5]}")
+    for k, f in otd.items():
+        title, body = str(f.get("title", "")).strip(), str(f.get("body", "")).strip()
+        if not title or not body or not isinstance(f.get("year"), int):
+            raise BuildError(f"{path.name} {k}: needs title, body and an integer year")
+        if len(title) > MAX_TITLE or len(body) > MAX_BODY:
+            raise BuildError(f"{path.name} {k}: title or body too long")
+        if title.casefold() in seen_titles:
+            raise BuildError(f"{path.name} {k}: duplicate title {title!r}")
+        seen_titles.add(title.casefold())
+        if f.get("url") and not str(f["url"]).startswith("https://en.wikipedia.org/wiki/"):
+            raise BuildError(f"{path.name} {k}: url must be an English Wikipedia article")
+    return otd
+
+
+def check_namedays(path: Path) -> None:
+    """bank/namedays.json: {"countries": {code: {name, source}}, "days": {"MM-DD": {code: [names]}}}."""
+    nd = read_json(path)
+    codes = set(nd["countries"])
+    want = {(date(2024, 1, 1) + timedelta(days=i)).strftime("%m-%d") for i in range(366)}
+    if set(nd["days"]) != want:
+        raise BuildError(f"{path.name}: needs exactly the 366 day keys MM-DD")
+    for k, day in nd["days"].items():
+        if set(day) != codes or not all(isinstance(v, list) and all(isinstance(n, str) and n.strip() for n in v)
+                                        for v in day.values()):
+            raise BuildError(f"{path.name} {k}: every country needs a list of names (may be empty)")
+    for c in codes:
+        filled = sum(1 for day in nd["days"].values() if day[c])
+        if filled < 340:
+            raise BuildError(f"{path.name}: {c} has names on only {filled} days")
+
+
 def schedule(bank: dict[str, list[dict]], order: list[str], start: date, per_day: int,
-             fun: str | None = None) -> list[dict]:
+             fun: str | None = None, otd: dict[str, dict] | None = None) -> list[dict]:
     """Dated facts. With a fun bank, each day starts with fun fact n, and the schedule also ends
     when the fun bank runs out."""
     out, n = [], 0
@@ -88,9 +146,10 @@ def schedule(bank: dict[str, list[dict]], order: list[str], start: date, per_day
         if None in slots or (fun and n >= len(bank[fun])):
             return out  # an area (or the fun bank) has run out: the schedule ends before this day
         d = (start + timedelta(days=n)).isoformat()
+        if otd:
+            out.append(entry(d, "onthisday", otd[d[5:]]))
         for cat, idx in ([(fun, n)] if fun else []) + slots:
-            f = bank[cat][idx]
-            out.append({"date": d, "category": cat, "title": f["title"].strip(), "body": f["body"].strip()})
+            out.append(entry(d, cat, bank[cat][idx]))
         n += 1
 
 
@@ -109,13 +168,19 @@ def main(argv: list[str] | None = None) -> int:
         if per_day < 1 or len(set(order)) != len(order) or fun in order:
             raise BuildError("schedule.json: per_day must be >= 1 and areas (and the fun bank) must be unique")
         bank = load_bank(args.root / "bank", order + ([fun] if fun else []))
-        all_facts = schedule(bank, order, start, per_day, fun)
+        seen = {f["title"].strip().casefold() for c in bank for f in bank[c]}
+        otd = load_onthisday(args.root / "bank" / f"{cfg['onthisday']}.json", seen) if cfg.get("onthisday") else None
+        if cfg.get("namedays"):
+            check_namedays(args.root / "bank" / f"{cfg['namedays']}.json")
+        all_facts = schedule(bank, order, start, per_day, fun, otd)
         if not all_facts:
             raise BuildError("Schedule is empty")
 
         # Reconciliation: exactly per_day area facts (plus one fun fact) per date, consecutive dates
         # from the start, fact number k equals the bank entry k points to, and day n's fun fact is fun[n].
-        facts = [f for f in all_facts if f["category"] != fun]
+        facts = [f for f in all_facts if f["category"] not in (fun, "onthisday")]
+        if otd and [f["date"] for f in all_facts if f["category"] == "onthisday"] != sorted({f["date"] for f in all_facts}):
+            raise BuildError("Reconciliation failed: not exactly one On this day entry per date")
         dates = sorted({f["date"] for f in all_facts})
         if len(facts) != len(dates) * per_day or dates[0] != start.isoformat() or \
            dates[-1] != (start + timedelta(days=len(dates) - 1)).isoformat():
@@ -128,7 +193,7 @@ def main(argv: list[str] | None = None) -> int:
         for k, f in enumerate(facts):
             cat, idx = order[k % len(order)], k // len(order)
             b = bank[cat][idx]
-            if (f["category"], f["title"], f["body"]) != (cat, b["title"].strip(), b["body"].strip()):
+            if (f["category"], f["title"], f["body"], f.get("url")) != (cat, b["title"].strip(), b["body"].strip(), b.get("url") or None):
                 raise BuildError(f"Reconciliation failed at fact {k} ({f['date']} {f['category']})")
         per_cat = {c: sum(1 for f in facts if f["category"] == c) for c in order}
         unused = {c: len(bank[c]) - per_cat[c] for c in order if len(bank[c]) > per_cat[c]}
@@ -158,7 +223,8 @@ def main(argv: list[str] | None = None) -> int:
             return 0
         out_path.parent.mkdir(parents=True, exist_ok=True)
         with out_path.open("w", encoding="utf-8", newline="\n") as fh:
-            json.dump({"start": start.isoformat(), "per_day": per_day, "order": order, "fun": fun, "facts": facts}, fh,
+            json.dump({"start": start.isoformat(), "per_day": per_day, "order": order, "fun": fun,
+                       "onthisday": cfg.get("onthisday"), "facts": facts}, fh,
                       ensure_ascii=False, indent=1)
             fh.write("\n")
         log.info("Wrote %s", out_path)

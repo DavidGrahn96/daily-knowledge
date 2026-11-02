@@ -1,442 +1,552 @@
 [
   {
     "title": "The Second Law of Thermodynamics",
-    "body": "In an isolated system, entropy never decreases. This explains why heat flows on its own from hot to cold, and why no engine can turn heat entirely into work."
+    "body": "In an isolated system, entropy never decreases. This explains why heat flows on its own from hot to cold, and why no engine can turn heat entirely into work.",
+    "url": "https://en.wikipedia.org/wiki/Second_law_of_thermodynamics"
   },
   {
     "title": "Evolution by Natural Selection",
-    "body": "Charles Darwin set out the theory in On the Origin of Species in 1859; Alfred Russel Wallace reached the same idea independently. Individuals with inherited traits that improve survival and reproduction pass them on, and over long periods species change."
+    "body": "Charles Darwin set out the theory in On the Origin of Species in 1859; Alfred Russel Wallace reached the same idea independently. Individuals with inherited traits that improve survival and reproduction pass them on, and over long periods species change.",
+    "url": "https://en.wikipedia.org/wiki/Natural_selection"
   },
   {
     "title": "The Periodic Table",
-    "body": "In 1869 Dmitri Mendeleev arranged the elements by atomic weight and chemical properties. He left gaps for elements not yet known and predicted their properties, which was confirmed when gallium and germanium were discovered."
+    "body": "In 1869 Dmitri Mendeleev arranged the elements by atomic weight and chemical properties. He left gaps for elements not yet known and predicted their properties, which was confirmed when gallium and germanium were discovered.",
+    "url": "https://en.wikipedia.org/wiki/Periodic_table"
   },
   {
     "title": "The DNA Double Helix",
-    "body": "In 1953 James Watson and Francis Crick described the structure of DNA as a double helix, drawing heavily on Rosalind Franklin's X-ray images. The structure showed how genetic information can be copied."
+    "body": "In 1953 James Watson and Francis Crick described the structure of DNA as a double helix, drawing heavily on Rosalind Franklin's X-ray images. The structure showed how genetic information can be copied.",
+    "url": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix"
   },
   {
     "title": "Relativity",
-    "body": "Einstein's special relativity of 1905 showed that measurements of time and space depend on the observer's motion, and gave the equation E = mc². General relativity, from 1915, describes gravity as the curvature of spacetime."
+    "body": "Einstein's special relativity of 1905 showed that measurements of time and space depend on the observer's motion, and gave the equation E = mc². General relativity, from 1915, describes gravity as the curvature of spacetime.",
+    "url": "https://en.wikipedia.org/wiki/Theory_of_relativity"
   },
   {
     "title": "Photosynthesis",
-    "body": "Plants, algae and cyanobacteria use light energy to turn carbon dioxide and water into sugar and oxygen. Almost all life on Earth depends on this process, and it is the source of the oxygen in the atmosphere."
+    "body": "Plants, algae and cyanobacteria use light energy to turn carbon dioxide and water into sugar and oxygen. Almost all life on Earth depends on this process, and it is the source of the oxygen in the atmosphere.",
+    "url": "https://en.wikipedia.org/wiki/Photosynthesis"
   },
   {
     "title": "Newton's Laws of Motion",
-    "body": "In the Principia of 1687 Isaac Newton set out three laws of motion and the law of universal gravitation. They explained falling objects and planetary orbits with the same principles and underpinned physics for two centuries."
+    "body": "In the Principia of 1687 Isaac Newton set out three laws of motion and the law of universal gravitation. They explained falling objects and planetary orbits with the same principles and underpinned physics for two centuries.",
+    "url": "https://en.wikipedia.org/wiki/Newton's_laws_of_motion"
   },
   {
     "title": "Heliocentrism",
-    "body": "In 1543 Nicolaus Copernicus argued that the Earth and planets orbit the Sun. Kepler later showed that the orbits are ellipses, and Galileo's telescope observations supported the model, overturning the Earth-centred view of the cosmos."
+    "body": "In 1543 Nicolaus Copernicus argued that the Earth and planets orbit the Sun. Kepler later showed that the orbits are ellipses, and Galileo's telescope observations supported the model, overturning the Earth-centred view of the cosmos.",
+    "url": "https://en.wikipedia.org/wiki/Heliocentrism"
   },
   {
     "title": "Germ Theory of Disease",
-    "body": "In the 19th century Louis Pasteur and Robert Koch showed that many diseases are caused by microorganisms. The theory transformed medicine, leading to antiseptic surgery, vaccines and modern public health."
+    "body": "In the 19th century Louis Pasteur and Robert Koch showed that many diseases are caused by microorganisms. The theory transformed medicine, leading to antiseptic surgery, vaccines and modern public health.",
+    "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease"
   },
   {
     "title": "Plate Tectonics",
-    "body": "The Earth's outer shell is divided into plates that move slowly over the mantle. Alfred Wegener proposed continental drift in 1912, but the theory was only accepted in the 1960s. It explains earthquakes, volcanoes and the formation of mountain ranges."
+    "body": "The Earth's outer shell is divided into plates that move slowly over the mantle. Alfred Wegener proposed continental drift in 1912, but the theory was only accepted in the 1960s. It explains earthquakes, volcanoes and the formation of mountain ranges.",
+    "url": "https://en.wikipedia.org/wiki/Plate_tectonics"
   },
   {
     "title": "Penicillin",
-    "body": "Alexander Fleming noticed in 1928 that a mould killed bacteria in his culture dish. Howard Florey and Ernst Chain later turned penicillin into a usable drug, mass-produced during the Second World War, and the three shared the 1945 Nobel Prize."
+    "body": "Alexander Fleming noticed in 1928 that a mould killed bacteria in his culture dish. Howard Florey and Ernst Chain later turned penicillin into a usable drug, mass-produced during the Second World War, and the three shared the 1945 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Penicillin"
   },
   {
     "title": "The Big Bang",
-    "body": "The universe has been expanding from an extremely hot, dense state for about 13.8 billion years. Edwin Hubble's observations in 1929 showed galaxies receding from us, and the discovery of the cosmic microwave background in 1965 strongly supported the theory."
+    "body": "The universe has been expanding from an extremely hot, dense state for about 13.8 billion years. Edwin Hubble's observations in 1929 showed galaxies receding from us, and the discovery of the cosmic microwave background in 1965 strongly supported the theory.",
+    "url": "https://en.wikipedia.org/wiki/Big_Bang"
   },
   {
     "title": "The Speed of Light",
-    "body": "Light travels through a vacuum at 299,792,458 metres per second. Since 1983 this value has been exact by definition, because the metre is defined from it. According to relativity, nothing with mass can reach this speed."
+    "body": "Light travels through a vacuum at 299,792,458 metres per second. Since 1983 this value has been exact by definition, because the metre is defined from it. According to relativity, nothing with mass can reach this speed.",
+    "url": "https://en.wikipedia.org/wiki/Speed_of_light"
   },
   {
     "title": "Cell Theory",
-    "body": "In 1838–1839 Matthias Schleiden and Theodor Schwann proposed that all living things are made of cells, and Rudolf Virchow later added that every cell comes from another cell. Cell theory is one of the foundations of biology."
+    "body": "In 1838–1839 Matthias Schleiden and Theodor Schwann proposed that all living things are made of cells, and Rudolf Virchow later added that every cell comes from another cell. Cell theory is one of the foundations of biology.",
+    "url": "https://en.wikipedia.org/wiki/Cell_theory"
   },
   {
     "title": "Quantum Mechanics",
-    "body": "In 1900 Max Planck proposed that energy is emitted in discrete packets, or quanta. Quantum mechanics grew from this idea to describe atoms and particles, and includes Heisenberg's uncertainty principle of 1927: position and momentum cannot both be known exactly."
+    "body": "In 1900 Max Planck proposed that energy is emitted in discrete packets, or quanta. Quantum mechanics grew from this idea to describe atoms and particles, and includes Heisenberg's uncertainty principle of 1927: position and momentum cannot both be known exactly.",
+    "url": "https://en.wikipedia.org/wiki/Quantum_mechanics"
   },
   {
     "title": "Oral Rehydration Therapy",
-    "body": "Cholera and other diarrhoeal diseases kill mainly through dehydration. In the 1960s researchers in Dhaka and Calcutta showed that glucose helps the gut absorb salt and water, so a simple drink of water, salt and sugar can replace lost fluids. Used on a large scale in refugee camps during the 1971 Bangladesh war, it greatly reduced deaths and has since saved millions of lives, especially among children."
+    "body": "Cholera and other diarrhoeal diseases kill mainly through dehydration. In the 1960s researchers in Dhaka and Calcutta showed that glucose helps the gut absorb salt and water, so a simple drink of water, salt and sugar can replace lost fluids. Used on a large scale in refugee camps during the 1971 Bangladesh war, it greatly reduced deaths and has since saved millions of lives, especially among children.",
+    "url": "https://en.wikipedia.org/wiki/Oral_rehydration_therapy"
   },
   {
     "title": "Newton's Prism and the Colours of Light",
-    "body": "In the 1660s Isaac Newton passed sunlight through a glass prism and showed that white light is a mixture of all the colours of the spectrum. A second prism could bend a single colour but not change it, showing that the colours were not created by the glass. He published his findings in 1672 and more fully in Opticks in 1704."
+    "body": "In the 1660s Isaac Newton passed sunlight through a glass prism and showed that white light is a mixture of all the colours of the spectrum. A second prism could bend a single colour but not change it, showing that the colours were not created by the glass. He published his findings in 1672 and more fully in Opticks in 1704.",
+    "url": "https://en.wikipedia.org/wiki/Opticks"
   },
   {
     "title": "CRISPR Gene Editing",
-    "body": "CRISPR is a defence system that bacteria use to cut the DNA of invading viruses. In 2012 Jennifer Doudna and Emmanuelle Charpentier showed that it can be programmed to cut DNA at a chosen site, making it far easier to edit genes. The technique transformed biology and medicine and raised ethical debates about altering human embryos; the two received the 2020 Nobel Prize in Chemistry."
+    "body": "CRISPR is a defence system that bacteria use to cut the DNA of invading viruses. In 2012 Jennifer Doudna and Emmanuelle Charpentier showed that it can be programmed to cut DNA at a chosen site, making it far easier to edit genes. The technique transformed biology and medicine and raised ethical debates about altering human embryos; the two received the 2020 Nobel Prize in Chemistry.",
+    "url": "https://en.wikipedia.org/wiki/CRISPR_gene_editing"
   },
   {
     "title": "Al-Tusi and the Maragha Observatory",
-    "body": "In 1259 the Persian scholar Nasir al-Din al-Tusi founded an observatory at Maragha, in north-western Iran, under Mongol patronage. Astronomers there sought alternatives to Ptolemy's planetary models, and al-Tusi devised the 'Tusi couple', which produces straight-line motion from two circles. A similar device appears in Copernicus's work; whether he learned of it from Islamic sources is debated."
+    "body": "In 1259 the Persian scholar Nasir al-Din al-Tusi founded an observatory at Maragha, in north-western Iran, under Mongol patronage. Astronomers there sought alternatives to Ptolemy's planetary models, and al-Tusi devised the 'Tusi couple', which produces straight-line motion from two circles. A similar device appears in Copernicus's work; whether he learned of it from Islamic sources is debated.",
+    "url": "https://en.wikipedia.org/wiki/Maragheh_observatory"
   },
   {
     "title": "The Discovery of X-Rays",
-    "body": "In 1895 Wilhelm Röntgen, experimenting with cathode-ray tubes in Würzburg, discovered invisible rays that could pass through flesh but not bone. Within months doctors were using them to examine fractures and locate bullets. Röntgen received the first Nobel Prize in Physics in 1901, and X-rays later revealed the structure of crystals and molecules, including DNA."
+    "body": "In 1895 Wilhelm Röntgen, experimenting with cathode-ray tubes in Würzburg, discovered invisible rays that could pass through flesh but not bone. Within months doctors were using them to examine fractures and locate bullets. Röntgen received the first Nobel Prize in Physics in 1901, and X-rays later revealed the structure of crystals and molecules, including DNA.",
+    "url": "https://en.wikipedia.org/wiki/X-ray"
   },
   {
     "title": "Radiocarbon Dating",
-    "body": "In the late 1940s Willard Libby developed a method of dating once-living material by measuring its carbon-14. Living things absorb this radioactive form of carbon, and after death it decays at a known rate, halving roughly every 5,700 years. The method transformed archaeology by giving reliable ages for remains up to about 50,000 years old, and Libby received the 1960 Nobel Prize in Chemistry."
+    "body": "In the late 1940s Willard Libby developed a method of dating once-living material by measuring its carbon-14. Living things absorb this radioactive form of carbon, and after death it decays at a known rate, halving roughly every 5,700 years. The method transformed archaeology by giving reliable ages for remains up to about 50,000 years old, and Libby received the 1960 Nobel Prize in Chemistry.",
+    "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating"
   },
   {
     "title": "The Eruption of Krakatoa",
-    "body": "In August 1883 the volcanic island of Krakatoa, between Java and Sumatra, was destroyed in one of the most violent eruptions in recorded history, and the tsunamis it caused killed more than 30,000 people. Its explosions were heard thousands of kilometres away, and barometers around the world recorded its pressure wave. Ash and sulphur gases thrown into the upper atmosphere caused vivid sunsets worldwide and cooled the global climate for a time; in 1888 a Royal Society report gathered observations of its effects from around the world."
+    "body": "In August 1883 the volcanic island of Krakatoa, between Java and Sumatra, was destroyed in one of the most violent eruptions in recorded history, and the tsunamis it caused killed more than 30,000 people. Its explosions were heard thousands of kilometres away, and barometers around the world recorded its pressure wave. Ash and sulphur gases thrown into the upper atmosphere caused vivid sunsets worldwide and cooled the global climate for a time; in 1888 a Royal Society report gathered observations of its effects from around the world.",
+    "url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa"
   },
   {
     "title": "Hutton and Deep Time",
-    "body": "The Scottish geologist James Hutton argued in the 1780s that the Earth was shaped by slow processes still at work, such as erosion, deposition and uplift, acting over immense periods. Rock formations such as the tilted layers at Siccar Point convinced him that the Earth is vastly older than a few thousand years. His idea of deep time, developed by Charles Lyell, influenced Darwin."
+    "body": "The Scottish geologist James Hutton argued in the 1780s that the Earth was shaped by slow processes still at work, such as erosion, deposition and uplift, acting over immense periods. Rock formations such as the tilted layers at Siccar Point convinced him that the Earth is vastly older than a few thousand years. His idea of deep time, developed by Charles Lyell, influenced Darwin.",
+    "url": "https://en.wikipedia.org/wiki/Deep_time"
   },
   {
     "title": "Carlos Finlay and Yellow Fever",
-    "body": "In 1881 the Cuban physician Carlos Finlay proposed that yellow fever is spread by a mosquito, now known as Aedes aegypti. His idea was largely ignored until 1900, when a US Army commission led by Walter Reed confirmed it in Cuba. Mosquito control then sharply reduced yellow fever, notably in Havana and during the building of the Panama Canal."
+    "body": "In 1881 the Cuban physician Carlos Finlay proposed that yellow fever is spread by a mosquito, now known as Aedes aegypti. His idea was largely ignored until 1900, when a US Army commission led by Walter Reed confirmed it in Cuba. Mosquito control then sharply reduced yellow fever, notably in Havana and during the building of the Panama Canal.",
+    "url": "https://en.wikipedia.org/wiki/Carlos_Finlay"
   },
   {
     "title": "The Raman Effect",
-    "body": "In 1928 Chandrasekhara Venkata Raman and his colleague Kariamanikkam Srinivasa Krishnan, working in Calcutta, found that when light is scattered by molecules a tiny fraction changes wavelength, revealing the molecules' vibrations. Raman spectroscopy became a standard way to identify substances. Raman received the 1930 Nobel Prize in Physics, and India marks the discovery each year on National Science Day."
+    "body": "In 1928 Chandrasekhara Venkata Raman and his colleague Kariamanikkam Srinivasa Krishnan, working in Calcutta, found that when light is scattered by molecules a tiny fraction changes wavelength, revealing the molecules' vibrations. Raman spectroscopy became a standard way to identify substances. Raman received the 1930 Nobel Prize in Physics, and India marks the discovery each year on National Science Day.",
+    "url": "https://en.wikipedia.org/wiki/Raman_scattering"
   },
   {
     "title": "Catalysts and Enzymes",
-    "body": "A catalyst speeds up a chemical reaction without being used up, by offering a pathway that needs less energy. Jöns Jacob Berzelius coined the term catalysis in 1835. Enzymes, mostly proteins, are the catalysts of living things, making possible the reactions of digestion, metabolism and DNA copying at body temperature."
+    "body": "A catalyst speeds up a chemical reaction without being used up, by offering a pathway that needs less energy. Jöns Jacob Berzelius coined the term catalysis in 1835. Enzymes, mostly proteins, are the catalysts of living things, making possible the reactions of digestion, metabolism and DNA copying at body temperature.",
+    "url": "https://en.wikipedia.org/wiki/Catalysis"
   },
   {
     "title": "Leeuwenhoek's Animalcules",
-    "body": "Antonie van Leeuwenhoek, a draper in Delft, made tiny single-lens microscopes of remarkable power. From the 1670s he reported to the Royal Society in London that drops of water and scrapings from teeth teemed with minute creatures he called animalcules. He was the first to observe bacteria and single-celled organisms, revealing a world of life invisible to the naked eye."
+    "body": "Antonie van Leeuwenhoek, a draper in Delft, made tiny single-lens microscopes of remarkable power. From the 1670s he reported to the Royal Society in London that drops of water and scrapings from teeth teemed with minute creatures he called animalcules. He was the first to observe bacteria and single-celled organisms, revealing a world of life invisible to the naked eye.",
+    "url": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek"
   },
   {
     "title": "Babylonian Astronomy",
-    "body": "For centuries Babylonian scribes recorded the movements of the Moon and planets on clay tablets. In the 1st millennium BC they developed arithmetical methods to predict lunar phenomena, including eclipses, among the first mathematical astronomy anywhere. Their base-60 number system survives in the 60 minutes of an hour and the 360 degrees of a circle."
+    "body": "For centuries Babylonian scribes recorded the movements of the Moon and planets on clay tablets. In the 1st millennium BC they developed arithmetical methods to predict lunar phenomena, including eclipses, among the first mathematical astronomy anywhere. Their base-60 number system survives in the 60 minutes of an hour and the 360 degrees of a circle.",
+    "url": "https://en.wikipedia.org/wiki/Babylonian_astronomy"
   },
   {
     "title": "The Genetic Code",
-    "body": "In 1961 Marshall Nirenberg and Heinrich Matthaei took the first step in cracking the genetic code, showing that RNA made only of the base U produces a chain of the amino acid phenylalanine. By the mid-1960s it was known that each sequence of three bases, a codon, specifies one of 20 amino acids or a stop signal. The code is almost the same in all living things, strong evidence of their common ancestry."
+    "body": "In 1961 Marshall Nirenberg and Heinrich Matthaei took the first step in cracking the genetic code, showing that RNA made only of the base U produces a chain of the amino acid phenylalanine. By the mid-1960s it was known that each sequence of three bases, a codon, specifies one of 20 amino acids or a stop signal. The code is almost the same in all living things, strong evidence of their common ancestry.",
+    "url": "https://en.wikipedia.org/wiki/Genetic_code"
   },
   {
     "title": "John Snow and Cholera",
-    "body": "During a cholera outbreak in London's Soho in 1854, the physician John Snow mapped the deaths and found them clustered around a water pump on Broad Street. He persuaded the authorities to remove the pump's handle, arguing that cholera spread through contaminated water rather than bad air. His work is a founding example of epidemiology."
+    "body": "During a cholera outbreak in London's Soho in 1854, the physician John Snow mapped the deaths and found them clustered around a water pump on Broad Street. He persuaded the authorities to remove the pump's handle, arguing that cholera spread through contaminated water rather than bad air. His work is a founding example of epidemiology.",
+    "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
   },
   {
     "title": "The Discovery of Insulin",
-    "body": "In 1921 and 1922 Frederick Banting and Charles Best, in John Macleod's laboratory in Toronto and with the chemist James Collip, isolated insulin from the pancreas. Injected into a diabetic boy in January 1922, it brought his blood sugar under control. Insulin turned type 1 diabetes from a fatal disease into a manageable one, and Banting and Macleod received the 1923 Nobel Prize."
+    "body": "In 1921 and 1922 Frederick Banting and Charles Best, in John Macleod's laboratory in Toronto and with the chemist James Collip, isolated insulin from the pancreas. Injected into a diabetic boy in January 1922, it brought his blood sugar under control. Insulin turned type 1 diabetes from a fatal disease into a manageable one, and Banting and Macleod received the 1923 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Insulin"
   },
   {
     "title": "Archimedes' Principle",
-    "body": "In the 3rd century BC Archimedes of Syracuse showed that a body immersed in a fluid is pushed upwards by a force equal to the weight of the fluid it displaces. The principle explains why ships float and balloons rise. The famous story of his discovery in the bath comes from a later Roman writer and may be legend."
+    "body": "In the 3rd century BC Archimedes of Syracuse showed that a body immersed in a fluid is pushed upwards by a force equal to the weight of the fluid it displaces. The principle explains why ships float and balloons rise. The famous story of his discovery in the bath comes from a later Roman writer and may be legend.",
+    "url": "https://en.wikipedia.org/wiki/Archimedes'_principle"
   },
   {
     "title": "Yukawa and the Strong Force",
-    "body": "In 1935 the Japanese physicist Hideki Yukawa proposed that protons and neutrons are held together in the nucleus by a force carried by a new particle, later called the meson. He predicted its mass from the short range of the force. A particle matching his prediction, the pion, was found in 1947, and in 1949 Yukawa became the first Japanese Nobel laureate."
+    "body": "In 1935 the Japanese physicist Hideki Yukawa proposed that protons and neutrons are held together in the nucleus by a force carried by a new particle, later called the meson. He predicted its mass from the short range of the force. A particle matching his prediction, the pion, was found in 1947, and in 1949 Yukawa became the first Japanese Nobel laureate.",
+    "url": "https://en.wikipedia.org/wiki/Hideki_Yukawa"
   },
   {
     "title": "Hippocratic Medicine",
-    "body": "Hippocrates of Kos, who lived in the 5th and 4th centuries BC, is regarded as the father of Western medicine. The writings attributed to him, in fact by many authors, treat illness as having natural rather than divine causes and stress careful observation of patients. The Hippocratic Oath, a pledge of medical ethics, is named after him."
+    "body": "Hippocrates of Kos, who lived in the 5th and 4th centuries BC, is regarded as the father of Western medicine. The writings attributed to him, in fact by many authors, treat illness as having natural rather than divine causes and stress careful observation of patients. The Hippocratic Oath, a pledge of medical ethics, is named after him.",
+    "url": "https://en.wikipedia.org/wiki/Hippocrates"
   },
   {
     "title": "Bose–Einstein Statistics",
-    "body": "In 1924 the Indian physicist Satyendra Nath Bose derived Planck's law of radiation by a new way of counting identical particles of light. He sent his paper to Einstein, who had it published and extended the method to atoms. Particles that follow these statistics are called bosons in his honour, and the theory predicted the Bose–Einstein condensate, first created in a laboratory in 1995."
+    "body": "In 1924 the Indian physicist Satyendra Nath Bose derived Planck's law of radiation by a new way of counting identical particles of light. He sent his paper to Einstein, who had it published and extended the method to atoms. Particles that follow these statistics are called bosons in his honour, and the theory predicted the Bose–Einstein condensate, first created in a laboratory in 1995.",
+    "url": "https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_statistics"
   },
   {
     "title": "Ibn Sina's Canon of Medicine",
-    "body": "Ibn Sina, known in Europe as Avicenna, was born near Bukhara in 980 and completed the Canon of Medicine in the early 11th century. It combined Greek medicine, especially Galen's, with the knowledge of physicians of the Islamic world in one systematic encyclopaedia. Translated into Latin in the 12th century, it served as a standard textbook in European universities for centuries."
+    "body": "Ibn Sina, known in Europe as Avicenna, was born near Bukhara in 980 and completed the Canon of Medicine in the early 11th century. It combined Greek medicine, especially Galen's, with the knowledge of physicians of the Islamic world in one systematic encyclopaedia. Translated into Latin in the 12th century, it served as a standard textbook in European universities for centuries.",
+    "url": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine"
   },
   {
     "title": "The First Image of a Black Hole",
-    "body": "Black holes, regions where gravity is so strong that not even light escapes, follow from Einstein's general relativity. In 2019 the Event Horizon Telescope, a network of radio observatories around the world acting as one Earth-sized dish, released the first image of one: a dark shadow ringed by glowing gas at the centre of the galaxy M87. In 2022 it imaged Sagittarius A*, the black hole at the heart of the Milky Way."
+    "body": "Black holes, regions where gravity is so strong that not even light escapes, follow from Einstein's general relativity. In 2019 the Event Horizon Telescope, a network of radio observatories around the world acting as one Earth-sized dish, released the first image of one: a dark shadow ringed by glowing gas at the centre of the galaxy M87. In 2022 it imaged Sagittarius A*, the black hole at the heart of the Milky Way.",
+    "url": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope"
   },
   {
     "title": "Air Pressure and the Vacuum",
-    "body": "In the 1640s Evangelista Torricelli filled a glass tube with mercury and upended it in a dish: the column fell to a fixed height, leaving an empty space above. He concluded that the weight of the air holds the column up, and Blaise Pascal confirmed this by having the experiment repeated on a mountain, where the column was shorter. The experiments gave rise to the barometer and showed, against Aristotle, that a vacuum can exist."
+    "body": "In the 1640s Evangelista Torricelli filled a glass tube with mercury and upended it in a dish: the column fell to a fixed height, leaving an empty space above. He concluded that the weight of the air holds the column up, and Blaise Pascal confirmed this by having the experiment repeated on a mountain, where the column was shorter. The experiments gave rise to the barometer and showed, against Aristotle, that a vacuum can exist.",
+    "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
   },
   {
     "title": "The Asteroid That Ended the Dinosaurs",
-    "body": "In 1980 a team led by Luis and Walter Alvarez reported a worldwide clay layer rich in iridium, rare on Earth but common in asteroids, at the boundary marking the dinosaurs' extinction about 66 million years ago. They proposed that a large asteroid had struck the Earth. The Chicxulub crater beneath Mexico's Yucatán Peninsula was identified as the impact site around 1990, though the role of huge volcanic eruptions is still debated."
+    "body": "In 1980 a team led by Luis and Walter Alvarez reported a worldwide clay layer rich in iridium, rare on Earth but common in asteroids, at the boundary marking the dinosaurs' extinction about 66 million years ago. They proposed that a large asteroid had struck the Earth. The Chicxulub crater beneath Mexico's Yucatán Peninsula was identified as the impact site around 1990, though the role of huge volcanic eruptions is still debated.",
+    "url": "https://en.wikipedia.org/wiki/Alvarez_hypothesis"
   },
   {
     "title": "The Edwin Smith Papyrus",
-    "body": "This Egyptian medical text, written around 1600 BC and probably copied from older material, describes how to examine, diagnose and treat injuries such as wounds and fractures. Unlike most ancient medical writing, it relies mainly on practical treatment rather than magic. It contains some of the earliest known written descriptions of the brain."
+    "body": "This Egyptian medical text, written around 1600 BC and probably copied from older material, describes how to examine, diagnose and treat injuries such as wounds and fractures. Unlike most ancient medical writing, it relies mainly on practical treatment rather than magic. It contains some of the earliest known written descriptions of the brain.",
+    "url": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus"
   },
   {
     "title": "The Neanderthal Genome",
-    "body": "In 2010 a team led by Svante Pääbo in Leipzig published a draft genome of Neanderthals, sequenced from ancient bones. It showed that people whose ancestry lies outside Africa carry a small share, around 1 to 2%, of Neanderthal DNA, proof of interbreeding. The same year DNA from a finger bone in Siberia revealed another extinct group, the Denisovans, and Pääbo received the 2022 Nobel Prize."
+    "body": "In 2010 a team led by Svante Pääbo in Leipzig published a draft genome of Neanderthals, sequenced from ancient bones. It showed that people whose ancestry lies outside Africa carry a small share, around 1 to 2%, of Neanderthal DNA, proof of interbreeding. The same year DNA from a finger bone in Siberia revealed another extinct group, the Denisovans, and Pääbo received the 2022 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Neanderthal_genome_project"
   },
   {
     "title": "Absolute Zero",
-    "body": "Absolute zero, 0 kelvin or −273.15 °C, is the lowest possible temperature, at which a system has the least energy it can have. In 1848 William Thomson, later Lord Kelvin, proposed a temperature scale starting from this point. The laws of thermodynamics imply that it can be approached ever more closely but never actually reached."
+    "body": "Absolute zero, 0 kelvin or −273.15 °C, is the lowest possible temperature, at which a system has the least energy it can have. In 1848 William Thomson, later Lord Kelvin, proposed a temperature scale starting from this point. The laws of thermodynamics imply that it can be approached ever more closely but never actually reached.",
+    "url": "https://en.wikipedia.org/wiki/Absolute_zero"
   },
   {
     "title": "Maxwell's Equations",
-    "body": "In the 1860s James Clerk Maxwell united electricity and magnetism in a single set of equations. They predicted electromagnetic waves travelling at the speed of light, leading Maxwell to conclude that light itself is such a wave. Heinrich Hertz produced radio waves in the late 1880s, confirming the theory that underlies radio, radar and much of modern physics."
+    "body": "In the 1860s James Clerk Maxwell united electricity and magnetism in a single set of equations. They predicted electromagnetic waves travelling at the speed of light, leading Maxwell to conclude that light itself is such a wave. Heinrich Hertz produced radio waves in the late 1880s, confirming the theory that underlies radio, radar and much of modern physics.",
+    "url": "https://en.wikipedia.org/wiki/Maxwell's_equations"
   },
   {
     "title": "Neutrino Oscillation",
-    "body": "Neutrinos, ghostly particles proposed by Wolfgang Pauli in 1930, pass through matter almost without trace. In 1998 the Super-Kamiokande detector in Japan showed that neutrinos change from one type to another as they travel, which is possible only if they have mass. The Standard Model of particle physics had treated them as massless, and Takaaki Kajita and Arthur McDonald shared the 2015 Nobel Prize."
+    "body": "Neutrinos, ghostly particles proposed by Wolfgang Pauli in 1930, pass through matter almost without trace. In 1998 the Super-Kamiokande detector in Japan showed that neutrinos change from one type to another as they travel, which is possible only if they have mass. The Standard Model of particle physics had treated them as massless, and Takaaki Kajita and Arthur McDonald shared the 2015 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Neutrino_oscillation"
   },
   {
     "title": "The Discovery of the Electron",
-    "body": "In 1897 Joseph John Thomson showed that cathode rays consist of negatively charged particles with a mass far smaller than that of the lightest atom. The electron was the first subatomic particle to be discovered, proving that atoms are not indivisible. Thomson pictured the atom as a positive sphere studded with electrons, a model soon replaced by Rutherford's."
+    "body": "In 1897 Joseph John Thomson showed that cathode rays consist of negatively charged particles with a mass far smaller than that of the lightest atom. The electron was the first subatomic particle to be discovered, proving that atoms are not indivisible. Thomson pictured the atom as a positive sphere studded with electrons, a model soon replaced by Rutherford's.",
+    "url": "https://en.wikipedia.org/wiki/Electron"
   },
   {
     "title": "Leavitt's Law and Cosmic Distances",
-    "body": "Working at Harvard College Observatory, Henrietta Swan Leavitt found in 1912 that Cepheid variable stars that pulse more slowly are intrinsically brighter. Comparing a Cepheid's true brightness with how bright it appears gives its distance. Edwin Hubble used Cepheids in the 1920s to show that the Andromeda nebula lies far beyond the Milky Way, proving that other galaxies exist."
+    "body": "Working at Harvard College Observatory, Henrietta Swan Leavitt found in 1912 that Cepheid variable stars that pulse more slowly are intrinsically brighter. Comparing a Cepheid's true brightness with how bright it appears gives its distance. Edwin Hubble used Cepheids in the 1920s to show that the Andromeda nebula lies far beyond the Milky Way, proving that other galaxies exist.",
+    "url": "https://en.wikipedia.org/wiki/Period%E2%80%93luminosity_relation"
   },
   {
     "title": "Galen's Medicine",
-    "body": "Galen, a Greek physician of the 2nd century AD who worked in Rome, built a system of anatomy and physiology largely from dissections of animals such as apes and pigs. His writings dominated medicine in Europe and the Islamic world for well over a thousand years. Some of his errors, carried over from animal anatomy, were only corrected by Vesalius and Harvey in the 16th and 17th centuries."
+    "body": "Galen, a Greek physician of the 2nd century AD who worked in Rome, built a system of anatomy and physiology largely from dissections of animals such as apes and pigs. His writings dominated medicine in Europe and the Islamic world for well over a thousand years. Some of his errors, carried over from animal anatomy, were only corrected by Vesalius and Harvey in the 16th and 17th centuries.",
+    "url": "https://en.wikipedia.org/wiki/Galen"
   },
   {
     "title": "Smallpox Inoculation",
-    "body": "Long before vaccines, people in China, India, Africa and the Ottoman Empire protected themselves against smallpox by deliberately infecting healthy people with material from smallpox sores. This 'variolation' usually caused a milder illness followed by lifelong immunity, though it carried some risk. Lady Mary Wortley Montagu saw it in Constantinople and promoted it in Britain from 1721, the year it was also used in Boston on the advice of an enslaved African man, Onesimus."
+    "body": "Long before vaccines, people in China, India, Africa and the Ottoman Empire protected themselves against smallpox by deliberately infecting healthy people with material from smallpox sores. This 'variolation' usually caused a milder illness followed by lifelong immunity, though it carried some risk. Lady Mary Wortley Montagu saw it in Constantinople and promoted it in Britain from 1721, the year it was also used in Boston on the advice of an enslaved African man, Onesimus.",
+    "url": "https://en.wikipedia.org/wiki/Variolation"
   },
   {
     "title": "Java Man",
-    "body": "In 1891 the Dutch doctor Eugène Dubois, searching deliberately for a 'missing link', found a skullcap on the banks of the Solo River in Java, and a thigh bone the next year. They were the first known remains of the species now called Homo erectus, an early human that walked upright. It was among the first major fossil evidence for human evolution, and later finds showed that Homo erectus lived across Africa and Asia."
+    "body": "In 1891 the Dutch doctor Eugène Dubois, searching deliberately for a 'missing link', found a skullcap on the banks of the Solo River in Java, and a thigh bone the next year. They were the first known remains of the species now called Homo erectus, an early human that walked upright. It was among the first major fossil evidence for human evolution, and later finds showed that Homo erectus lived across Africa and Asia.",
+    "url": "https://en.wikipedia.org/wiki/Java_Man"
   },
   {
     "title": "Shen Kuo's Dream Pool Essays",
-    "body": "Shen Kuo, an official and scholar of China's Song dynasty, recorded a wide range of observations in his Dream Pool Essays, completed around 1088. They contain the earliest clear description of a magnetic needle compass and note that it does not point exactly south, an early recognition of magnetic declination. He also argued from fossils and silt deposits that land is formed slowly over time."
+    "body": "Shen Kuo, an official and scholar of China's Song dynasty, recorded a wide range of observations in his Dream Pool Essays, completed around 1088. They contain the earliest clear description of a magnetic needle compass and note that it does not point exactly south, an early recognition of magnetic declination. He also argued from fossils and silt deposits that land is formed slowly over time.",
+    "url": "https://en.wikipedia.org/wiki/Dream_Pool_Essays"
   },
   {
     "title": "Harvey and the Circulation of the Blood",
-    "body": "In 1628 the English physician William Harvey showed that the heart pumps blood around the body in a continuous circuit. Through experiments and a simple calculation, he showed that the heart pumps far more blood than the body could make from food, so the same blood must circulate. The tiny capillaries linking arteries and veins, which he could not see, were observed by Marcello Malpighi in 1661."
+    "body": "In 1628 the English physician William Harvey showed that the heart pumps blood around the body in a continuous circuit. Through experiments and a simple calculation, he showed that the heart pumps far more blood than the body could make from food, so the same blood must circulate. The tiny capillaries linking arteries and veins, which he could not see, were observed by Marcello Malpighi in 1661.",
+    "url": "https://en.wikipedia.org/wiki/William_Harvey"
   },
   {
     "title": "Humboldt's Journey Through the Americas",
-    "body": "From 1799 to 1804 Alexander von Humboldt and Aimé Bonpland travelled through Spanish America, measuring and collecting as they went. On the volcano Chimborazo, Humboldt observed how vegetation changes in bands with altitude, mirroring the change from the equator to the poles. His view of nature as an interconnected whole shaped biogeography and ecology and inspired Darwin."
+    "body": "From 1799 to 1804 Alexander von Humboldt and Aimé Bonpland travelled through Spanish America, measuring and collecting as they went. On the volcano Chimborazo, Humboldt observed how vegetation changes in bands with altitude, mirroring the change from the equator to the poles. His view of nature as an interconnected whole shaped biogeography and ecology and inspired Darwin.",
+    "url": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt"
   },
   {
     "title": "The Discovery of HIV",
-    "body": "AIDS was first recognised in 1981, when doctors in the United States reported rare infections in previously healthy young men. In 1983 Françoise Barré-Sinoussi and Luc Montagnier at the Pasteur Institute in Paris isolated the virus responsible, later named HIV. The discovery made blood tests and antiviral drugs possible, and the two shared the 2008 Nobel Prize."
+    "body": "AIDS was first recognised in 1981, when doctors in the United States reported rare infections in previously healthy young men. In 1983 Françoise Barré-Sinoussi and Luc Montagnier at the Pasteur Institute in Paris isolated the virus responsible, later named HIV. The discovery made blood tests and antiviral drugs possible, and the two shared the 2008 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/HIV"
   },
   {
     "title": "Franklin and the Electricity of Lightning",
-    "body": "In the 1740s and 1750s Benjamin Franklin experimented with electricity in Philadelphia and proposed that lightning is an electrical discharge. In 1752 experimenters in France confirmed this with a tall iron rod as he had suggested, and later that year Franklin published an account of a kite experiment, which he is said to have carried out himself. The work led to the lightning rod, and Franklin introduced the terms positive and negative charge."
+    "body": "In the 1740s and 1750s Benjamin Franklin experimented with electricity in Philadelphia and proposed that lightning is an electrical discharge. In 1752 experimenters in France confirmed this with a tall iron rod as he had suggested, and later that year Franklin published an account of a kite experiment, which he is said to have carried out himself. The work led to the lightning rod, and Franklin introduced the terms positive and negative charge.",
+    "url": "https://en.wikipedia.org/wiki/Kite_experiment"
   },
   {
     "title": "Faraday and Electromagnetic Induction",
-    "body": "In 1820 Hans Christian Ørsted found that an electric current deflects a compass needle. In 1831 Michael Faraday discovered the reverse effect: a changing magnetic field produces an electric current in a wire. Electromagnetic induction is the principle behind electric generators and transformers, and Faraday's idea of fields of force became central to physics."
+    "body": "In 1820 Hans Christian Ørsted found that an electric current deflects a compass needle. In 1831 Michael Faraday discovered the reverse effect: a changing magnetic field produces an electric current in a wire. Electromagnetic induction is the principle behind electric generators and transformers, and Faraday's idea of fields of force became central to physics.",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_induction"
   },
   {
     "title": "Helicobacter pylori and Stomach Ulcers",
-    "body": "In the early 1980s the Australian doctors Robin Warren and Barry Marshall, working in Perth, found that a bacterium, Helicobacter pylori, is a major cause of stomach ulcers. Ulcers had been blamed on stress and acid, and the idea met strong scepticism until Marshall drank a culture of the bacterium and developed gastritis. Ulcers became curable with antibiotics, and the two shared the 2005 Nobel Prize."
+    "body": "In the early 1980s the Australian doctors Robin Warren and Barry Marshall, working in Perth, found that a bacterium, Helicobacter pylori, is a major cause of stomach ulcers. Ulcers had been blamed on stress and acid, and the idea met strong scepticism until Marshall drank a culture of the bacterium and developed gastritis. Ulcers became curable with antibiotics, and the two shared the 2005 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Helicobacter_pylori"
   },
   {
     "title": "The Human Genome Project",
-    "body": "Launched in 1990 as an international effort, the Human Genome Project set out to read the roughly three billion DNA letters of the human genome. A draft was announced in 2000 and the project was declared complete in 2003, though the last gaps were filled only in 2022 and 2023. It showed that humans have far fewer protein-coding genes than expected, now estimated at about 20,000, and transformed medical research."
+    "body": "Launched in 1990 as an international effort, the Human Genome Project set out to read the roughly three billion DNA letters of the human genome. A draft was announced in 2000 and the project was declared complete in 2003, though the last gaps were filled only in 2022 and 2023. It showed that humans have far fewer protein-coding genes than expected, now estimated at about 20,000, and transformed medical research.",
+    "url": "https://en.wikipedia.org/wiki/Human_Genome_Project"
   },
   {
     "title": "Vesalius and Human Anatomy",
-    "body": "In 1543, the same year Copernicus published his account of heliocentrism, Andreas Vesalius published On the Fabric of the Human Body. Based on his own dissections of human corpses at Padua, it corrected many of Galen's errors and was illustrated with detailed woodcuts. It grounded anatomy in direct observation and is a founding work of modern medicine."
+    "body": "In 1543, the same year Copernicus published his account of heliocentrism, Andreas Vesalius published On the Fabric of the Human Body. Based on his own dissections of human corpses at Padua, it corrected many of Galen's errors and was illustrated with detailed woodcuts. It grounded anatomy in direct observation and is a founding work of modern medicine.",
+    "url": "https://en.wikipedia.org/wiki/Andreas_Vesalius"
   },
   {
     "title": "Induced Pluripotent Stem Cells",
-    "body": "In 2006 Shinya Yamanaka in Kyoto showed that adult mouse cells could be turned back into stem cells able to become any cell type by switching on just four genes; human cells followed in 2007. The discovery showed that cell specialisation is reversible and offered stem cells without using embryos. Yamanaka shared the 2012 Nobel Prize with John Gurdon, who had cloned frogs from specialised cells."
+    "body": "In 2006 Shinya Yamanaka in Kyoto showed that adult mouse cells could be turned back into stem cells able to become any cell type by switching on just four genes; human cells followed in 2007. The discovery showed that cell specialisation is reversible and offered stem cells without using embryos. Yamanaka shared the 2012 Nobel Prize with John Gurdon, who had cloned frogs from specialised cells.",
+    "url": "https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell"
   },
   {
     "title": "The Electromagnetic Spectrum",
-    "body": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays are all the same phenomenon, electromagnetic radiation, differing only in wavelength. Visible light is a narrow band in the middle. William Herschel discovered infrared in 1800 when a thermometer warmed beyond the red end of a spectrum, and Johann Ritter found ultraviolet the following year."
+    "body": "Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays are all the same phenomenon, electromagnetic radiation, differing only in wavelength. Visible light is a narrow band in the middle. William Herschel discovered infrared in 1800 when a thermometer warmed beyond the red end of a spectrum, and Johann Ritter found ultraviolet the following year.",
+    "url": "https://en.wikipedia.org/wiki/Electromagnetic_spectrum"
   },
   {
     "title": "Blood Groups",
-    "body": "In 1901 the Austrian scientist Karl Landsteiner showed that human blood falls into distinct groups, the basis of the ABO system, and that mixing incompatible groups makes red cells clump. This explained why many early blood transfusions had been fatal. Blood typing made transfusion safe, and Landsteiner received the Nobel Prize in 1930."
+    "body": "In 1901 the Austrian scientist Karl Landsteiner showed that human blood falls into distinct groups, the basis of the ABO system, and that mixing incompatible groups makes red cells clump. This explained why many early blood transfusions had been fatal. Blood typing made transfusion safe, and Landsteiner received the Nobel Prize in 1930.",
+    "url": "https://en.wikipedia.org/wiki/Blood_type"
   },
   {
     "title": "Al-Razi on Smallpox and Measles",
-    "body": "The Persian physician Abu Bakr al-Razi, known in Europe as Rhazes, worked in Rayy and Baghdad around 900. His treatise on smallpox and measles was the first to distinguish clearly between the two diseases by their symptoms. He also compiled a vast medical encyclopaedia and valued clinical observation over reliance on authority."
+    "body": "The Persian physician Abu Bakr al-Razi, known in Europe as Rhazes, worked in Rayy and Baghdad around 900. His treatise on smallpox and measles was the first to distinguish clearly between the two diseases by their symptoms. He also compiled a vast medical encyclopaedia and valued clinical observation over reliance on authority.",
+    "url": "https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi"
   },
   {
     "title": "Malaria and the Mosquito",
-    "body": "In 1880 the French army doctor Alphonse Laveran, working in Algeria, saw the malaria parasite in a patient's blood. In 1897 Ronald Ross, a British doctor in India, found the parasite in Anopheles mosquitoes that had fed on a malaria patient, and went on to show that mosquitoes transmit the disease. Ross received the Nobel Prize in 1902 and Laveran in 1907, and mosquito control became central to fighting malaria."
+    "body": "In 1880 the French army doctor Alphonse Laveran, working in Algeria, saw the malaria parasite in a patient's blood. In 1897 Ronald Ross, a British doctor in India, found the parasite in Anopheles mosquitoes that had fed on a malaria patient, and went on to show that mosquitoes transmit the disease. Ross received the Nobel Prize in 1902 and Laveran in 1907, and mosquito control became central to fighting malaria.",
+    "url": "https://en.wikipedia.org/wiki/History_of_malaria"
   },
   {
     "title": "The Maya Venus Table",
-    "body": "The Dresden Codex, one of the few Maya books to survive the Spanish conquest, contains tables tracking the planet Venus. The Maya knew that Venus returns to the same position relative to the Sun about every 584 days, and that five such cycles equal almost exactly eight years. The tables show the precision of Maya astronomy and its close link to their calendar and ritual."
+    "body": "The Dresden Codex, one of the few Maya books to survive the Spanish conquest, contains tables tracking the planet Venus. The Maya knew that Venus returns to the same position relative to the Sun about every 584 days, and that five such cycles equal almost exactly eight years. The tables show the precision of Maya astronomy and its close link to their calendar and ritual.",
+    "url": "https://en.wikipedia.org/wiki/Dresden_Codex"
   },
   {
     "title": "Radioactivity and the Curies",
-    "body": "In 1896 Henri Becquerel found that uranium salts give off penetrating radiation without any outside source of energy. Marie and Pierre Curie then discovered two new radioactive elements, polonium and radium, and Marie Curie coined the word radioactivity. She was the first person to receive two Nobel Prizes, in physics in 1903 and in chemistry in 1911."
+    "body": "In 1896 Henri Becquerel found that uranium salts give off penetrating radiation without any outside source of energy. Marie and Pierre Curie then discovered two new radioactive elements, polonium and radium, and Marie Curie coined the word radioactivity. She was the first person to receive two Nobel Prizes, in physics in 1903 and in chemistry in 1911.",
+    "url": "https://en.wikipedia.org/wiki/Radioactive_decay"
   },
   {
     "title": "The First Heart Transplant",
-    "body": "On 3 December 1967 the surgeon Christiaan Barnard performed the first human-to-human heart transplant at Groote Schuur Hospital in Cape Town. The patient, Louis Washkansky, died 18 days later of pneumonia, his immune system weakened by drugs given to prevent rejection. Survival improved greatly after immunosuppressant drugs such as ciclosporin came into use in the early 1980s."
+    "body": "On 3 December 1967 the surgeon Christiaan Barnard performed the first human-to-human heart transplant at Groote Schuur Hospital in Cape Town. The patient, Louis Washkansky, died 18 days later of pneumonia, his immune system weakened by drugs given to prevent rejection. Survival improved greatly after immunosuppressant drugs such as ciclosporin came into use in the early 1980s.",
+    "url": "https://en.wikipedia.org/wiki/Christiaan_Barnard"
   },
   {
     "title": "The Discovery of Ice Ages",
-    "body": "In 1837 the Swiss-born naturalist Louis Agassiz argued that great ice sheets had once covered much of northern Europe, and later North America. Scratched bedrock, U-shaped valleys and boulders far from their source were evidence of former glaciers. In the 20th century Milutin Milanković linked the repeated advance and retreat of the ice to cyclical changes in the Earth's orbit and tilt."
+    "body": "In 1837 the Swiss-born naturalist Louis Agassiz argued that great ice sheets had once covered much of northern Europe, and later North America. Scratched bedrock, U-shaped valleys and boulders far from their source were evidence of former glaciers. In the 20th century Milutin Milanković linked the repeated advance and retreat of the ice to cyclical changes in the Earth's orbit and tilt.",
+    "url": "https://en.wikipedia.org/wiki/Ice_age"
   },
   {
     "title": "Endosymbiotic Theory",
-    "body": "In 1967 the American biologist Lynn Margulis argued that mitochondria and chloroplasts, the energy-producing structures in complex cells, descend from free-living bacteria engulfed by other cells long ago. Both have their own DNA and double membranes, like bacteria. At first widely rejected, the theory came to be accepted as a key step in the evolution of complex life."
+    "body": "In 1967 the American biologist Lynn Margulis argued that mitochondria and chloroplasts, the energy-producing structures in complex cells, descend from free-living bacteria engulfed by other cells long ago. Both have their own DNA and double membranes, like bacteria. At first widely rejected, the theory came to be accepted as a key step in the evolution of complex life.",
+    "url": "https://en.wikipedia.org/wiki/Symbiogenesis"
   },
   {
     "title": "The Sushruta Samhita",
-    "body": "This Sanskrit treatise on medicine and surgery is attributed to Sushruta; its date is uncertain, but its core is usually placed in the first millennium BC. It describes a wide range of surgical instruments and operations, including cataract surgery and the rebuilding of a nose with the patient's own skin. It is a founding text of Indian medicine and of plastic surgery."
+    "body": "This Sanskrit treatise on medicine and surgery is attributed to Sushruta; its date is uncertain, but its core is usually placed in the first millennium BC. It describes a wide range of surgical instruments and operations, including cataract surgery and the rebuilding of a nose with the patient's own skin. It is a founding text of Indian medicine and of plastic surgery.",
+    "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
   },
   {
     "title": "Galileo and Falling Bodies",
-    "body": "Using balls rolled down inclined planes, Galileo Galilei showed that falling objects accelerate at a steady rate and that, without air resistance, heavy and light bodies fall equally fast. This contradicted Aristotle, whose physics had been taught for some two thousand years. Galileo published his results in Two New Sciences in 1638; the story that he dropped balls from the Leaning Tower of Pisa may be a legend."
+    "body": "Using balls rolled down inclined planes, Galileo Galilei showed that falling objects accelerate at a steady rate and that, without air resistance, heavy and light bodies fall equally fast. This contradicted Aristotle, whose physics had been taught for some two thousand years. Galileo published his results in Two New Sciences in 1638; the story that he dropped balls from the Leaning Tower of Pisa may be a legend.",
+    "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
   },
   {
     "title": "Human Origins in Africa",
-    "body": "Fossil and genetic evidence shows that modern humans, Homo sapiens, evolved in Africa; fossils from Jebel Irhoud in Morocco, about 300,000 years old, are among the earliest. Africa was also home to earlier human relatives, such as the 3.2-million-year-old skeleton known as Lucy, found in Ethiopia in 1974. Modern humans later spread from Africa to the rest of the world."
+    "body": "Fossil and genetic evidence shows that modern humans, Homo sapiens, evolved in Africa; fossils from Jebel Irhoud in Morocco, about 300,000 years old, are among the earliest. Africa was also home to earlier human relatives, such as the 3.2-million-year-old skeleton known as Lucy, found in Ethiopia in 1974. Modern humans later spread from Africa to the rest of the world.",
+    "url": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans"
   },
   {
     "title": "Rutherford's Nuclear Atom",
-    "body": "In experiments at Manchester, Hans Geiger and Ernest Marsden fired alpha particles at thin gold foil and found that a few bounced almost straight back. In 1911 Ernest Rutherford explained this by proposing that an atom's positive charge and nearly all its mass are concentrated in a tiny central nucleus, with electrons around it. The nuclear model is the basis of all later atomic physics."
+    "body": "In experiments at Manchester, Hans Geiger and Ernest Marsden fired alpha particles at thin gold foil and found that a few bounced almost straight back. In 1911 Ernest Rutherford explained this by proposing that an atom's positive charge and nearly all its mass are concentrated in a tiny central nucleus, with electrons around it. The nuclear model is the basis of all later atomic physics.",
+    "url": "https://en.wikipedia.org/wiki/Rutherford_model"
   },
   {
     "title": "The Four Fundamental Forces",
-    "body": "Physics recognises four fundamental forces: gravity, electromagnetism, and the strong and weak nuclear forces. The strong force binds atomic nuclei, the weak force drives some radioactive decay, and electromagnetism governs light and chemistry. Gravity is by far the weakest yet dominates on cosmic scales, while electromagnetism and the weak force were unified in theory in the 1960s and 1970s."
+    "body": "Physics recognises four fundamental forces: gravity, electromagnetism, and the strong and weak nuclear forces. The strong force binds atomic nuclei, the weak force drives some radioactive decay, and electromagnetism governs light and chemistry. Gravity is by far the weakest yet dominates on cosmic scales, while electromagnetism and the weak force were unified in theory in the 1960s and 1970s.",
+    "url": "https://en.wikipedia.org/wiki/Fundamental_interaction"
   },
   {
     "title": "The Photoelectric Effect",
-    "body": "When light strikes a metal it can knock out electrons, but whether it does depends on the light's colour, not its brightness. In 1905 Albert Einstein explained this by proposing that light consists of packets of energy, later called photons. The idea helped found quantum theory, and it was for this, not relativity, that Einstein received the Nobel Prize."
+    "body": "When light strikes a metal it can knock out electrons, but whether it does depends on the light's colour, not its brightness. In 1905 Albert Einstein explained this by proposing that light consists of packets of energy, later called photons. The idea helped found quantum theory, and it was for this, not relativity, that Einstein received the Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Photoelectric_effect"
   },
   {
     "title": "The Greenhouse Effect",
-    "body": "In the 1820s Joseph Fourier suggested that the atmosphere keeps the Earth warmer than it would otherwise be. In 1859 John Tyndall measured how gases such as water vapour and carbon dioxide absorb heat radiation, and in 1896 Svante Arrhenius calculated that adding carbon dioxide would warm the planet. Without the natural greenhouse effect the Earth would be far colder, but its strengthening by human emissions drives climate change."
+    "body": "In the 1820s Joseph Fourier suggested that the atmosphere keeps the Earth warmer than it would otherwise be. In 1859 John Tyndall measured how gases such as water vapour and carbon dioxide absorb heat radiation, and in 1896 Svante Arrhenius calculated that adding carbon dioxide would warm the planet. Without the natural greenhouse effect the Earth would be far colder, but its strengthening by human emissions drives climate change.",
+    "url": "https://en.wikipedia.org/wiki/Greenhouse_effect"
   },
   {
     "title": "Linnaean Classification",
-    "body": "The Swedish botanist Carl Linnaeus created a system for naming and classifying living things, first set out in Systema Naturae in 1735. He gave every species a two-part Latin name, genus followed by species, as in Homo sapiens. His binomial names, applied systematically to plants in 1753 and to animals in 1758, became the international basis for naming species."
+    "body": "The Swedish botanist Carl Linnaeus created a system for naming and classifying living things, first set out in Systema Naturae in 1735. He gave every species a two-part Latin name, genus followed by species, as in Homo sapiens. His binomial names, applied systematically to plants in 1753 and to animals in 1758, became the international basis for naming species.",
+    "url": "https://en.wikipedia.org/wiki/Linnaean_taxonomy"
   },
   {
     "title": "The Plague Bacterium",
-    "body": "During an outbreak of plague in Hong Kong in 1894, Alexandre Yersin and Kitasato Shibasaburō independently searched for its cause, and the bacterium is now named Yersinia pestis after Yersin. In 1898 Paul-Louis Simond showed that fleas carried by rats transmit the disease. Ancient DNA has since confirmed the same bacterium as the cause of the Black Death."
+    "body": "During an outbreak of plague in Hong Kong in 1894, Alexandre Yersin and Kitasato Shibasaburō independently searched for its cause, and the bacterium is now named Yersinia pestis after Yersin. In 1898 Paul-Louis Simond showed that fleas carried by rats transmit the disease. Ancient DNA has since confirmed the same bacterium as the cause of the Black Death.",
+    "url": "https://en.wikipedia.org/wiki/Yersinia_pestis"
   },
   {
     "title": "Ptolemy's Almagest",
-    "body": "Claudius Ptolemy, working in Alexandria in the 2nd century AD, set out in the Almagest a mathematical model of the heavens with the Earth at the centre. By combining circles upon circles, called epicycles, it predicted the positions of the planets with useful accuracy. Preserved and refined by Arabic-language astronomers, it remained the standard work of astronomy until Copernicus."
+    "body": "Claudius Ptolemy, working in Alexandria in the 2nd century AD, set out in the Almagest a mathematical model of the heavens with the Earth at the centre. By combining circles upon circles, called epicycles, it predicted the positions of the planets with useful accuracy. Preserved and refined by Arabic-language astronomers, it remained the standard work of astronomy until Copernicus.",
+    "url": "https://en.wikipedia.org/wiki/Almagest"
   },
   {
     "title": "Ibn al-Haytham's Book of Optics",
-    "body": "Ibn al-Haytham, born in Basra around 965 and active in Cairo, wrote the Book of Optics in the early 11th century. He argued that we see because light travels from objects into the eye, not from the eye outwards, and tested his ideas with systematic experiments. Translated into Latin, the book shaped European optics up to Kepler."
+    "body": "Ibn al-Haytham, born in Basra around 965 and active in Cairo, wrote the Book of Optics in the early 11th century. He argued that we see because light travels from objects into the eye, not from the eye outwards, and tested his ideas with systematic experiments. Translated into Latin, the book shaped European optics up to Kepler.",
+    "url": "https://en.wikipedia.org/wiki/Book_of_Optics"
   },
   {
     "title": "Lind's Scurvy Trial",
-    "body": "In 1747 the Scottish naval surgeon James Lind divided twelve sailors with scurvy into pairs and gave each pair a different remedy. The two given oranges and lemons recovered quickly, while the others did not. It is one of the earliest controlled clinical trials, although the Royal Navy only issued lemon juice to its sailors decades later."
+    "body": "In 1747 the Scottish naval surgeon James Lind divided twelve sailors with scurvy into pairs and gave each pair a different remedy. The two given oranges and lemons recovered quickly, while the others did not. It is one of the earliest controlled clinical trials, although the Royal Navy only issued lemon juice to its sailors decades later.",
+    "url": "https://en.wikipedia.org/wiki/James_Lind"
   },
   {
     "title": "Chagas Disease",
-    "body": "In 1909 the Brazilian physician Carlos Chagas described a new disease, identified the parasite that causes it, Trypanosoma cruzi, and showed that it is carried by blood-sucking insects. It is a rare case of one researcher working out the pathogen, the carrier and the illness. Chagas disease, which can damage the heart decades after infection, has long been a major health burden in Latin America."
+    "body": "In 1909 the Brazilian physician Carlos Chagas described a new disease, identified the parasite that causes it, Trypanosoma cruzi, and showed that it is carried by blood-sucking insects. It is a rare case of one researcher working out the pathogen, the carrier and the illness. Chagas disease, which can damage the heart decades after infection, has long been a major health burden in Latin America.",
+    "url": "https://en.wikipedia.org/wiki/Chagas_disease"
   },
   {
     "title": "Jenner's Smallpox Vaccine",
-    "body": "In 1796 the English doctor Edward Jenner inoculated a boy with material from a cowpox sore on a milkmaid's hand, and then showed that the boy did not catch smallpox. Cowpox is mild and gave protection against the deadly disease. The word vaccine comes from the Latin vacca, cow, and Jenner's method became the model for immunisation against many diseases."
+    "body": "In 1796 the English doctor Edward Jenner inoculated a boy with material from a cowpox sore on a milkmaid's hand, and then showed that the boy did not catch smallpox. Cowpox is mild and gave protection against the deadly disease. The word vaccine comes from the Latin vacca, cow, and Jenner's method became the model for immunisation against many diseases.",
+    "url": "https://en.wikipedia.org/wiki/Smallpox_vaccine"
   },
   {
     "title": "Chromosomes and Heredity",
-    "body": "From 1910 Thomas Hunt Morgan and his students at Columbia University bred fruit flies and traced mutations such as white eyes through generations. They showed that genes lie in a line along chromosomes, and Alfred Sturtevant produced the first genetic map in 1913. Morgan received the Nobel Prize in 1933, and the fruit fly became a standard organism of genetics."
+    "body": "From 1910 Thomas Hunt Morgan and his students at Columbia University bred fruit flies and traced mutations such as white eyes through generations. They showed that genes lie in a line along chromosomes, and Alfred Sturtevant produced the first genetic map in 1913. Morgan received the Nobel Prize in 1933, and the fruit fly became a standard organism of genetics.",
+    "url": "https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan"
   },
   {
     "title": "Ulugh Beg's Samarkand Observatory",
-    "body": "Ulugh Beg, a grandson of Timur and ruler of Samarkand, built a great observatory there in the 1420s, with a huge curved instrument set along the meridian. His astronomers produced a catalogue of around a thousand stars based on fresh, highly accurate observations. He was killed in 1449, and the observatory soon fell into ruin."
+    "body": "Ulugh Beg, a grandson of Timur and ruler of Samarkand, built a great observatory there in the 1420s, with a huge curved instrument set along the meridian. His astronomers produced a catalogue of around a thousand stars based on fresh, highly accurate observations. He was killed in 1449, and the observatory soon fell into ruin.",
+    "url": "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory"
   },
   {
     "title": "Smoking and Lung Cancer",
-    "body": "In 1950 Richard Doll and Austin Bradford Hill in Britain, and Ernst Wynder and Evarts Graham in the United States, published studies showing that lung cancer patients were far more likely to be smokers. Doll and Hill's long-running study of British doctors, begun in 1951, confirmed the link. The findings helped found modern chronic-disease epidemiology and led to anti-smoking campaigns worldwide."
+    "body": "In 1950 Richard Doll and Austin Bradford Hill in Britain, and Ernst Wynder and Evarts Graham in the United States, published studies showing that lung cancer patients were far more likely to be smokers. Doll and Hill's long-running study of British doctors, begun in 1951, confirmed the link. The findings helped found modern chronic-disease epidemiology and led to anti-smoking campaigns worldwide.",
+    "url": "https://en.wikipedia.org/wiki/British_Doctors_Study"
   },
   {
     "title": "Homeostasis",
-    "body": "Living bodies keep internal conditions such as temperature, blood sugar and water balance within narrow limits despite changes outside. In the 19th century Claude Bernard described this stable 'internal environment', and in the 1920s Walter Cannon named it homeostasis. It works mainly through negative feedback: a change triggers responses that reverse it, as when sweating cools an overheated body."
+    "body": "Living bodies keep internal conditions such as temperature, blood sugar and water balance within narrow limits despite changes outside. In the 19th century Claude Bernard described this stable 'internal environment', and in the 1920s Walter Cannon named it homeostasis. It works mainly through negative feedback: a change triggers responses that reverse it, as when sweating cools an overheated body.",
+    "url": "https://en.wikipedia.org/wiki/Homeostasis"
   },
   {
     "title": "Dalton's Atomic Theory",
-    "body": "In 1808 the English chemist John Dalton proposed that each element is made of identical atoms with a characteristic weight, and that compounds form when atoms combine in simple whole-number ratios. He drew up the first table of relative atomic weights. His theory turned the ancient idea of atoms into a working basis for chemistry."
+    "body": "In 1808 the English chemist John Dalton proposed that each element is made of identical atoms with a characteristic weight, and that compounds form when atoms combine in simple whole-number ratios. He drew up the first table of relative atomic weights. His theory turned the ancient idea of atoms into a working basis for chemistry.",
+    "url": "https://en.wikipedia.org/wiki/History_of_atomic_theory"
   },
   {
     "title": "Clonal Selection Theory",
-    "body": "In 1957 the Australian virologist Frank Macfarlane Burnet proposed that each immune cell carries receptors for just one specific target. When a cell meets its matching invader it multiplies into a large clone, which explains how the body fights infection and remembers past ones. The theory became a foundation of modern immunology, and Burnet shared the 1960 Nobel Prize for related work on immune tolerance."
+    "body": "In 1957 the Australian virologist Frank Macfarlane Burnet proposed that each immune cell carries receptors for just one specific target. When a cell meets its matching invader it multiplies into a large clone, which explains how the body fights infection and remembers past ones. The theory became a foundation of modern immunology, and Burnet shared the 1960 Nobel Prize for related work on immune tolerance.",
+    "url": "https://en.wikipedia.org/wiki/Clonal_selection"
   },
   {
     "title": "Gravitational Waves",
-    "body": "Einstein's general relativity predicted that accelerating masses send ripples through spacetime. On 14 September 2015 the two LIGO detectors in the United States recorded such waves for the first time, from two black holes merging more than a billion light-years away. The discovery opened a new way of observing the universe, and Rainer Weiss, Barry Barish and Kip Thorne received the 2017 Nobel Prize."
+    "body": "Einstein's general relativity predicted that accelerating masses send ripples through spacetime. On 14 September 2015 the two LIGO detectors in the United States recorded such waves for the first time, from two black holes merging more than a billion light-years away. The discovery opened a new way of observing the universe, and Rainer Weiss, Barry Barish and Kip Thorne received the 2017 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Gravitational_wave"
   },
   {
     "title": "Hipparchus and the Precession of the Equinoxes",
-    "body": "In the 2nd century BC the Greek astronomer Hipparchus, working mainly on Rhodes, compiled one of the first star catalogues, recording the positions and brightness of hundreds of stars. Comparing his measurements with older observations, he found that the equinox points drift slowly against the stars, a motion now known to be caused by a slow wobble of the Earth's axis. He also developed early trigonometry, and his work underpinned Ptolemy's Almagest."
+    "body": "In the 2nd century BC the Greek astronomer Hipparchus, working mainly on Rhodes, compiled one of the first star catalogues, recording the positions and brightness of hundreds of stars. Comparing his measurements with older observations, he found that the equinox points drift slowly against the stars, a motion now known to be caused by a slow wobble of the Earth's axis. He also developed early trigonometry, and his work underpinned Ptolemy's Almagest.",
+    "url": "https://en.wikipedia.org/wiki/Axial_precession"
   },
   {
     "title": "Hanaoka Seishū and General Anaesthesia",
-    "body": "In 1804 the Japanese surgeon Hanaoka Seishū removed a breast tumour from a patient under general anaesthesia, using a herbal drink he had developed. This was decades before ether anaesthesia was publicly demonstrated in Boston in 1846. Because Japan was largely closed to the outside world, his work had little influence abroad, while ether and chloroform soon transformed surgery in the West."
+    "body": "In 1804 the Japanese surgeon Hanaoka Seishū removed a breast tumour from a patient under general anaesthesia, using a herbal drink he had developed. This was decades before ether anaesthesia was publicly demonstrated in Boston in 1846. Because Japan was largely closed to the outside world, his work had little influence abroad, while ether and chloroform soon transformed surgery in the West.",
+    "url": "https://en.wikipedia.org/wiki/Hanaoka_Seish%C5%AB"
   },
   {
     "title": "What Makes the Stars Shine",
-    "body": "In 1920 Arthur Eddington suggested that stars are powered by fusing hydrogen into helium, releasing energy as a little mass is converted according to E = mc². In 1938 and 1939 Hans Bethe worked out the nuclear reactions involved. Later work showed that heavier elements, including the carbon and oxygen in our bodies, were forged in stars and stellar explosions."
+    "body": "In 1920 Arthur Eddington suggested that stars are powered by fusing hydrogen into helium, releasing energy as a little mass is converted according to E = mc². In 1938 and 1939 Hans Bethe worked out the nuclear reactions involved. Later work showed that heavier elements, including the carbon and oxygen in our bodies, were forged in stars and stellar explosions.",
+    "url": "https://en.wikipedia.org/wiki/Stellar_nucleosynthesis"
   },
   {
     "title": "Cuvier and Extinction",
-    "body": "In 1796 the French naturalist Georges Cuvier showed that fossil mammoths differed from living elephants and must belong to species that no longer exist. This established extinction as a fact, against the common belief that no species could disappear. Cuvier founded comparative anatomy and palaeontology, though he rejected evolution and attributed extinctions to catastrophes."
+    "body": "In 1796 the French naturalist Georges Cuvier showed that fossil mammoths differed from living elephants and must belong to species that no longer exist. This established extinction as a fact, against the common belief that no species could disappear. Cuvier founded comparative anatomy and palaeontology, though he rejected evolution and attributed extinctions to catastrophes.",
+    "url": "https://en.wikipedia.org/wiki/Georges_Cuvier"
   },
   {
     "title": "The Ozone Hole",
-    "body": "In 1974 Mario Molina and Sherwood Rowland warned that chlorofluorocarbons (CFCs), used in aerosols and refrigerators, could destroy the ozone layer that shields the Earth from ultraviolet light. In 1985 British Antarctic Survey scientists reported a deep seasonal loss of ozone over Antarctica. The Montreal Protocol of 1987 phased out CFCs, and Molina, Rowland and Paul Crutzen shared the 1995 Nobel Prize in Chemistry."
+    "body": "In 1974 Mario Molina and Sherwood Rowland warned that chlorofluorocarbons (CFCs), used in aerosols and refrigerators, could destroy the ozone layer that shields the Earth from ultraviolet light. In 1985 British Antarctic Survey scientists reported a deep seasonal loss of ozone over Antarctica. The Montreal Protocol of 1987 phased out CFCs, and Molina, Rowland and Paul Crutzen shared the 1995 Nobel Prize in Chemistry.",
+    "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
   },
   {
     "title": "Young's Double-Slit Experiment",
-    "body": "In the early 1800s Thomas Young shone light through two narrow slits and saw a pattern of bright and dark bands on a screen. The bands arise from interference, where waves reinforce or cancel each other, so the experiment showed that light behaves as a wave. It challenged Newton's view of light as particles and later became central to quantum mechanics."
+    "body": "In the early 1800s Thomas Young shone light through two narrow slits and saw a pattern of bright and dark bands on a screen. The bands arise from interference, where waves reinforce or cancel each other, so the experiment showed that light behaves as a wave. It challenged Newton's view of light as particles and later became central to quantum mechanics.",
+    "url": "https://en.wikipedia.org/wiki/Double-slit_experiment"
   },
   {
     "title": "Tu Youyou and Artemisinin",
-    "body": "In 1969 the Chinese scientist Tu Youyou joined a secret military project to find a new malaria drug. Inspired by a 4th-century text describing sweet wormwood soaked in cold water, she extracted the active compound with a low-temperature method in the early 1970s. Artemisinin-based drugs became a mainstay of malaria treatment, and Tu shared the 2015 Nobel Prize in Physiology or Medicine."
+    "body": "In 1969 the Chinese scientist Tu Youyou joined a secret military project to find a new malaria drug. Inspired by a 4th-century text describing sweet wormwood soaked in cold water, she extracted the active compound with a low-temperature method in the early 1970s. Artemisinin-based drugs became a mainstay of malaria treatment, and Tu shared the 2015 Nobel Prize in Physiology or Medicine.",
+    "url": "https://en.wikipedia.org/wiki/Tu_Youyou"
   },
   {
     "title": "Antibiotic Resistance",
-    "body": "Bacteria exposed to antibiotics evolve: those with mutations or genes that let them survive multiply and pass the trait on, sometimes even to other species. Alexander Fleming warned of the danger in his Nobel lecture in 1945. Overuse and misuse of antibiotics in medicine and farming speed the process, making some infections hard to treat; it is natural selection observed in real time."
+    "body": "Bacteria exposed to antibiotics evolve: those with mutations or genes that let them survive multiply and pass the trait on, sometimes even to other species. Alexander Fleming warned of the danger in his Nobel lecture in 1945. Overuse and misuse of antibiotics in medicine and farming speed the process, making some infections hard to treat; it is natural selection observed in real time.",
+    "url": "https://en.wikipedia.org/wiki/Antimicrobial_resistance"
   },
   {
     "title": "Lavoisier and the Chemical Revolution",
-    "body": "In the 1770s and 1780s Antoine Lavoisier showed that burning is a combination with oxygen, overthrowing the old theory of phlogiston. By weighing substances carefully before and after reactions, he established that matter is neither created nor destroyed in chemical change. He named oxygen and hydrogen and helped create modern chemical nomenclature, before being guillotined in 1794."
+    "body": "In the 1770s and 1780s Antoine Lavoisier showed that burning is a combination with oxygen, overthrowing the old theory of phlogiston. By weighing substances carefully before and after reactions, he established that matter is neither created nor destroyed in chemical change. He named oxygen and hydrogen and helped create modern chemical nomenclature, before being guillotined in 1794.",
+    "url": "https://en.wikipedia.org/wiki/Chemical_revolution"
   },
   {
     "title": "The Eradication of Smallpox",
-    "body": "In 1967 the World Health Organization launched an intensified campaign against smallpox, tracing outbreaks and vaccinating everyone around each case. The last naturally occurring case was in Somalia in 1977, and in 1980 the WHO declared the disease eradicated. Smallpox was the first human disease to be wiped out by deliberate effort."
+    "body": "In 1967 the World Health Organization launched an intensified campaign against smallpox, tracing outbreaks and vaccinating everyone around each case. The last naturally occurring case was in Somalia in 1977, and in 1980 the WHO declared the disease eradicated. Smallpox was the first human disease to be wiped out by deliberate effort.",
+    "url": "https://en.wikipedia.org/wiki/Smallpox"
   },
   {
     "title": "The Neuron Doctrine",
-    "body": "Using a silver staining method invented by Camillo Golgi, the Spanish scientist Santiago Ramón y Cajal showed in the late 1880s that the nervous system is made of separate cells, neurons, rather than a continuous network. Neurons communicate across tiny gaps later named synapses. Golgi and Cajal shared the Nobel Prize in 1906, although Golgi still rejected Cajal's view."
+    "body": "Using a silver staining method invented by Camillo Golgi, the Spanish scientist Santiago Ramón y Cajal showed in the late 1880s that the nervous system is made of separate cells, neurons, rather than a continuous network. Neurons communicate across tiny gaps later named synapses. Golgi and Cajal shared the Nobel Prize in 1906, although Golgi still rejected Cajal's view.",
+    "url": "https://en.wikipedia.org/wiki/Neuron_doctrine"
   },
   {
     "title": "Eratosthenes Measures the Earth",
-    "body": "In the 3rd century BC Eratosthenes, head of the library at Alexandria, estimated the Earth's circumference. He compared the angle of the Sun's rays at noon in Alexandria with Syene to the south, where the midsummer Sun stood directly overhead, and scaled up the distance between the two cities. How close he came depends on the uncertain length of the unit he used, but his method was sound."
+    "body": "In the 3rd century BC Eratosthenes, head of the library at Alexandria, estimated the Earth's circumference. He compared the angle of the Sun's rays at noon in Alexandria with Syene to the south, where the midsummer Sun stood directly overhead, and scaled up the distance between the two cities. How close he came depends on the uncertain length of the unit he used, but his method was sound.",
+    "url": "https://en.wikipedia.org/wiki/Eratosthenes"
   },
   {
     "title": "Eijkman and the Discovery of Vitamins",
-    "body": "In the 1890s the Dutch doctor Christiaan Eijkman, working in Java, noticed that chickens fed polished white rice developed a paralysis like the human disease beriberi, while those fed unpolished rice recovered. It was later understood that rice husks contain an essential nutrient, now known as thiamine or vitamin B1. The work led to the concept of vitamins and earned Eijkman a share of the 1929 Nobel Prize."
+    "body": "In the 1890s the Dutch doctor Christiaan Eijkman, working in Java, noticed that chickens fed polished white rice developed a paralysis like the human disease beriberi, while those fed unpolished rice recovered. It was later understood that rice husks contain an essential nutrient, now known as thiamine or vitamin B1. The work led to the concept of vitamins and earned Eijkman a share of the 1929 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Christiaan_Eijkman"
   },
   {
     "title": "Aryabhata and the Rotating Earth",
-    "body": "In 499 AD the Indian astronomer Aryabhata completed the Aryabhatiya, a concise treatise on mathematics and astronomy. He proposed that the daily motion of the stars is caused by the Earth turning on its axis, and explained eclipses by the shadows of the Earth and Moon. He also gave an accurate value for pi, and India's first satellite was named after him."
+    "body": "In 499 AD the Indian astronomer Aryabhata completed the Aryabhatiya, a concise treatise on mathematics and astronomy. He proposed that the daily motion of the stars is caused by the Earth turning on its axis, and explained eclipses by the shadows of the Earth and Moon. He also gave an accurate value for pi, and India's first satellite was named after him.",
+    "url": "https://en.wikipedia.org/wiki/Aryabhata"
   },
   {
     "title": "Mendel's Laws of Inheritance",
-    "body": "Gregor Mendel, a monk in Brno, crossed thousands of pea plants and published his results in 1866. He showed that traits are inherited as discrete units, now called genes, that come in pairs, separate in reproduction and can be dominant or recessive. Ignored in his lifetime, his work was rediscovered in 1900 and became the foundation of genetics."
+    "body": "Gregor Mendel, a monk in Brno, crossed thousands of pea plants and published his results in 1866. He showed that traits are inherited as discrete units, now called genes, that come in pairs, separate in reproduction and can be dominant or recessive. Ignored in his lifetime, his work was rediscovered in 1900 and became the foundation of genetics.",
+    "url": "https://en.wikipedia.org/wiki/Mendelian_inheritance"
   },
   {
     "title": "Ibn al-Nafis and the Pulmonary Circulation",
-    "body": "In the 13th century the physician Ibn al-Nafis, working in Damascus and Cairo, rejected Galen's view that blood passes through invisible pores in the wall of the heart. He argued instead that blood travels from the right side of the heart through the lungs, where it mixes with air, to the left side. European anatomists described this circuit only in the 16th century, and his work was rediscovered in the 20th."
+    "body": "In the 13th century the physician Ibn al-Nafis, working in Damascus and Cairo, rejected Galen's view that blood passes through invisible pores in the wall of the heart. He argued instead that blood travels from the right side of the heart through the lungs, where it mixes with air, to the left side. European anatomists described this circuit only in the 16th century, and his work was rediscovered in the 20th.",
+    "url": "https://en.wikipedia.org/wiki/Ibn_al-Nafis"
   },
   {
     "title": "Conservation of Energy",
-    "body": "In the 1840s Julius Robert Mayer, James Joule and Hermann von Helmholtz established that energy cannot be created or destroyed, only converted from one form to another. Joule measured how much mechanical work produces a given amount of heat, and the unit of energy is named after him. The principle became the first law of thermodynamics."
+    "body": "In the 1840s Julius Robert Mayer, James Joule and Hermann von Helmholtz established that energy cannot be created or destroyed, only converted from one form to another. Joule measured how much mechanical work produces a given amount of heat, and the unit of energy is named after him. The principle became the first law of thermodynamics.",
+    "url": "https://en.wikipedia.org/wiki/Conservation_of_energy"
   },
   {
     "title": "Circadian Rhythms",
-    "body": "Most living things have an internal clock that runs on a cycle of roughly 24 hours, governing sleep, hormones and body temperature. In 1729 the French astronomer Jean-Jacques d'Ortous de Mairan noticed that a mimosa plant kept opening and closing its leaves even in constant darkness. The molecular mechanism was worked out in fruit flies, earning Jeffrey Hall, Michael Rosbash and Michael Young the 2017 Nobel Prize."
+    "body": "Most living things have an internal clock that runs on a cycle of roughly 24 hours, governing sleep, hormones and body temperature. In 1729 the French astronomer Jean-Jacques d'Ortous de Mairan noticed that a mimosa plant kept opening and closing its leaves even in constant darkness. The molecular mechanism was worked out in fruit flies, earning Jeffrey Hall, Michael Rosbash and Michael Young the 2017 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Circadian_rhythm"
   },
   {
     "title": "Dark Matter",
-    "body": "In 1933 Fritz Zwicky found that galaxies in the Coma Cluster move too fast to be held together by their visible matter alone. In the 1970s Vera Rubin and Kent Ford showed that stars in the outer parts of spiral galaxies orbit unexpectedly fast. Most astronomers conclude that galaxies are embedded in large amounts of invisible 'dark matter', which reveals itself through its gravity."
+    "body": "In 1933 Fritz Zwicky found that galaxies in the Coma Cluster move too fast to be held together by their visible matter alone. In the 1970s Vera Rubin and Kent Ford showed that stars in the outer parts of spiral galaxies orbit unexpectedly fast. Most astronomers conclude that galaxies are embedded in large amounts of invisible 'dark matter', which reveals itself through its gravity.",
+    "url": "https://en.wikipedia.org/wiki/Dark_matter"
   },
   {
     "title": "The Higgs Boson",
-    "body": "In 2012 scientists at CERN's Large Hadron Collider near Geneva announced the discovery of the Higgs boson, predicted in 1964 by Peter Higgs, François Englert, Robert Brout and others. The particle is evidence for the Higgs field, which gives elementary particles their mass. It was the last missing piece of the Standard Model, and Higgs and Englert received the 2013 Nobel Prize."
+    "body": "In 2012 scientists at CERN's Large Hadron Collider near Geneva announced the discovery of the Higgs boson, predicted in 1964 by Peter Higgs, François Englert, Robert Brout and others. The particle is evidence for the Higgs field, which gives elementary particles their mass. It was the last missing piece of the Standard Model, and Higgs and Englert received the 2013 Nobel Prize.",
+    "url": "https://en.wikipedia.org/wiki/Higgs_boson"
   },
   {
     "title": "The Supernova of 1054",
-    "body": "In 1054 Chinese astronomers recorded a 'guest star' in the constellation Taurus that was bright enough to be seen in daylight for weeks. In the 20th century astronomers showed that the Crab Nebula is the expanding remnant of this exploding star. At its centre is a pulsar, a rapidly spinning neutron star, making the Crab one of the best-studied objects in the sky."
+    "body": "In 1054 Chinese astronomers recorded a 'guest star' in the constellation Taurus that was bright enough to be seen in daylight for weeks. In the 20th century astronomers showed that the Crab Nebula is the expanding remnant of this exploding star. At its centre is a pulsar, a rapidly spinning neutron star, making the Crab one of the best-studied objects in the sky.",
+    "url": "https://en.wikipedia.org/wiki/SN_1054"
   }
 ]

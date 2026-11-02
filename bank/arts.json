@@ -1,442 +1,552 @@
 [
   {
     "title": "Don Quixote",
-    "body": "Cervantes published his novel in two parts, in 1605 and 1615. The story of a man who has read too many tales of chivalry and sets out as a knight is often called the first modern novel."
+    "body": "Cervantes published his novel in two parts, in 1605 and 1615. The story of a man who has read too many tales of chivalry and sets out as a knight is often called the first modern novel.",
+    "url": "https://en.wikipedia.org/wiki/Don_Quixote"
   },
   {
     "title": "The Divine Comedy",
-    "body": "Dante Alighieri wrote the poem in the early 14th century. It follows a journey through Hell, Purgatory and Paradise. Written in Tuscan rather than Latin, it did much to shape the Italian literary language."
+    "body": "Dante Alighieri wrote the poem in the early 14th century. It follows a journey through Hell, Purgatory and Paradise. Written in Tuscan rather than Latin, it did much to shape the Italian literary language.",
+    "url": "https://en.wikipedia.org/wiki/Divine_Comedy"
   },
   {
     "title": "Impressionism",
-    "body": "The movement took its name from Claude Monet's painting Impression, Sunrise, shown at an exhibition in Paris in 1874; a critic used the word mockingly. The Impressionists painted light and passing moments with visible brushstrokes, often outdoors."
+    "body": "The movement took its name from Claude Monet's painting Impression, Sunrise, shown at an exhibition in Paris in 1874; a critic used the word mockingly. The Impressionists painted light and passing moments with visible brushstrokes, often outdoors.",
+    "url": "https://en.wikipedia.org/wiki/Impressionism"
   },
   {
     "title": "War and Peace",
-    "body": "Leo Tolstoy's novel, published in full in 1869, follows Russian aristocratic families through Napoleon's invasion of Russia. It mixes fiction with long reflections on history and is often counted among the greatest novels ever written."
+    "body": "Leo Tolstoy's novel, published in full in 1869, follows Russian aristocratic families through Napoleon's invasion of Russia. It mixes fiction with long reflections on history and is often counted among the greatest novels ever written.",
+    "url": "https://en.wikipedia.org/wiki/War_and_Peace"
   },
   {
     "title": "The Sistine Chapel Ceiling",
-    "body": "Michelangelo painted the ceiling of the Sistine Chapel in the Vatican between 1508 and 1512, including The Creation of Adam. The Last Judgment on the altar wall came later. The work is a high point of the High Renaissance."
+    "body": "Michelangelo painted the ceiling of the Sistine Chapel in the Vatican between 1508 and 1512, including The Creation of Adam. The Last Judgment on the altar wall came later. The work is a high point of the High Renaissance.",
+    "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
   },
   {
     "title": "Hamlet",
-    "body": "Written around 1600, Hamlet is Shakespeare's longest play. The drama of the Danish prince who hesitates to avenge his father is among the most performed and analysed works in world literature."
+    "body": "Written around 1600, Hamlet is Shakespeare's longest play. The drama of the Danish prince who hesitates to avenge his father is among the most performed and analysed works in world literature.",
+    "url": "https://en.wikipedia.org/wiki/Hamlet"
   },
   {
     "title": "The Iliad and the Odyssey",
-    "body": "The two epic poems attributed to Homer date from around the 8th century BC. The Iliad tells of the Trojan War, the Odyssey of Odysseus' long journey home. They are the foundation of Western literature."
+    "body": "The two epic poems attributed to Homer date from around the 8th century BC. The Iliad tells of the Trojan War, the Odyssey of Odysseus' long journey home. They are the foundation of Western literature.",
+    "url": "https://en.wikipedia.org/wiki/Homer"
   },
   {
     "title": "The Mona Lisa",
-    "body": "Leonardo da Vinci worked on the portrait from about 1503 and kept it with him for years. Its soft transitions of light and shadow, known as sfumato, are much admired. It hangs in the Louvre and became world-famous partly after being stolen in 1911."
+    "body": "Leonardo da Vinci worked on the portrait from about 1503 and kept it with him for years. Its soft transitions of light and shadow, known as sfumato, are much admired. It hangs in the Louvre and became world-famous partly after being stolen in 1911.",
+    "url": "https://en.wikipedia.org/wiki/Mona_Lisa"
   },
   {
     "title": "Guernica",
-    "body": "Pablo Picasso painted Guernica in 1937 in response to the bombing of the Basque town during the Spanish Civil War. The huge black, white and grey canvas has become one of the best-known images against war. It hangs in the Museo Reina Sofía in Madrid."
+    "body": "Pablo Picasso painted Guernica in 1937 in response to the bombing of the Basque town during the Spanish Civil War. The huge black, white and grey canvas has become one of the best-known images against war. It hangs in the Museo Reina Sofía in Madrid.",
+    "url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)"
   },
   {
     "title": "Pride and Prejudice",
-    "body": "Jane Austen's novel of 1813 follows Elizabeth Bennet and Mr Darcy. Its ironic portrait of marriage, money and class in English gentry society made it one of the most widely read novels in English."
+    "body": "Jane Austen's novel of 1813 follows Elizabeth Bennet and Mr Darcy. Its ironic portrait of marriage, money and class in English gentry society made it one of the most widely read novels in English.",
+    "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
   },
   {
     "title": "Gothic Architecture",
-    "body": "Gothic architecture emerged in France in the 12th century. Pointed arches, ribbed vaults and flying buttresses allowed taller buildings with large stained-glass windows, as in the cathedrals of Chartres and Notre-Dame de Paris."
+    "body": "Gothic architecture emerged in France in the 12th century. Pointed arches, ribbed vaults and flying buttresses allowed taller buildings with large stained-glass windows, as in the cathedrals of Chartres and Notre-Dame de Paris.",
+    "url": "https://en.wikipedia.org/wiki/Gothic_architecture"
   },
   {
     "title": "The Night Watch",
-    "body": "Rembrandt painted this group portrait of an Amsterdam militia company in 1642. Instead of a static row of figures he showed them in motion, with dramatic light. It is among the most famous works of the Dutch Golden Age and hangs in the Rijksmuseum."
+    "body": "Rembrandt painted this group portrait of an Amsterdam militia company in 1642. Instead of a static row of figures he showed them in motion, with dramatic light. It is among the most famous works of the Dutch Golden Age and hangs in the Rijksmuseum.",
+    "url": "https://en.wikipedia.org/wiki/The_Night_Watch"
   },
   {
     "title": "Franz Kafka",
-    "body": "In The Metamorphosis (1915) a man wakes up transformed into a giant insect. Kafka's stories of powerless individuals facing absurd systems gave rise to the word Kafkaesque. Much of his work was published after his death by his friend Max Brod, against his wishes."
+    "body": "In The Metamorphosis (1915) a man wakes up transformed into a giant insect. Kafka's stories of powerless individuals facing absurd systems gave rise to the word Kafkaesque. Much of his work was published after his death by his friend Max Brod, against his wishes.",
+    "url": "https://en.wikipedia.org/wiki/Franz_Kafka"
   },
   {
     "title": "A Doll's House",
-    "body": "Henrik Ibsen's play of 1879 ends with Nora leaving her husband and children to find herself. The ending caused a scandal, and the play is a landmark of modern realist drama and of debates about women's place in marriage."
+    "body": "Henrik Ibsen's play of 1879 ends with Nora leaving her husband and children to find herself. The ending caused a scandal, and the play is a landmark of modern realist drama and of debates about women's place in marriage.",
+    "url": "https://en.wikipedia.org/wiki/A_Doll's_House"
   },
   {
     "title": "Cubism",
-    "body": "Pablo Picasso and Georges Braque developed Cubism around 1907–1914. Instead of a single viewpoint, they broke objects into geometric shapes seen from several angles at once. It was one of the most influential movements in modern art."
+    "body": "Pablo Picasso and Georges Braque developed Cubism around 1907–1914. Instead of a single viewpoint, they broke objects into geometric shapes seen from several angles at once. It was one of the most influential movements in modern art.",
+    "url": "https://en.wikipedia.org/wiki/Cubism"
   },
   {
     "title": "The Popol Vuh",
-    "body": "The Popol Vuh is the sacred narrative of the K'iche' Maya of Guatemala, written down in the Latin alphabet in the mid-16th century. It tells of the creation of the world, the adventures of the Hero Twins in the underworld and the history of K'iche' rulers. It survives through a copy made by the friar Francisco Ximénez around 1700 and is the most important work of Maya literature."
+    "body": "The Popol Vuh is the sacred narrative of the K'iche' Maya of Guatemala, written down in the Latin alphabet in the mid-16th century. It tells of the creation of the world, the adventures of the Hero Twins in the underworld and the history of K'iche' rulers. It survives through a copy made by the friar Francisco Ximénez around 1700 and is the most important work of Maya literature.",
+    "url": "https://en.wikipedia.org/wiki/Popol_Vuh"
   },
   {
     "title": "Romanticism in Art and Literature",
-    "body": "Romanticism was a movement in art and literature from the late 18th to the mid-19th century that valued emotion, imagination and nature over the reason of the Enlightenment. It includes the poetry of Wordsworth, Byron and Shelley and the paintings of Caspar David Friedrich, Turner and Delacroix. Its fascination with the sublime, the individual and the national past shaped modern culture."
+    "body": "Romanticism was a movement in art and literature from the late 18th to the mid-19th century that valued emotion, imagination and nature over the reason of the Enlightenment. It includes the poetry of Wordsworth, Byron and Shelley and the paintings of Caspar David Friedrich, Turner and Delacroix. Its fascination with the sublime, the individual and the national past shaped modern culture.",
+    "url": "https://en.wikipedia.org/wiki/Romanticism"
   },
   {
     "title": "Abstract Expressionism",
-    "body": "Abstract Expressionism arose in New York in the 1940s and 1950s, the first American art movement to gain major influence abroad. Jackson Pollock dripped and poured paint onto canvases laid on the floor, while Mark Rothko painted large, glowing fields of colour. Its success helped shift the centre of the Western art world from Paris to New York."
+    "body": "Abstract Expressionism arose in New York in the 1940s and 1950s, the first American art movement to gain major influence abroad. Jackson Pollock dripped and poured paint onto canvases laid on the floor, while Mark Rothko painted large, glowing fields of colour. Its success helped shift the centre of the Western art world from Paris to New York.",
+    "url": "https://en.wikipedia.org/wiki/Abstract_expressionism"
   },
   {
     "title": "Mimar Sinan",
-    "body": "Mimar Sinan was chief architect of the Ottoman Empire for about 50 years in the 16th century, serving Suleiman the Magnificent and his successors. He designed hundreds of buildings, including the Süleymaniye Mosque in Istanbul and the Selimiye Mosque in Edirne, which he regarded as his masterpiece. His great domed mosques defined classical Ottoman architecture."
+    "body": "Mimar Sinan was chief architect of the Ottoman Empire for about 50 years in the 16th century, serving Suleiman the Magnificent and his successors. He designed hundreds of buildings, including the Süleymaniye Mosque in Istanbul and the Selimiye Mosque in Edirne, which he regarded as his masterpiece. His great domed mosques defined classical Ottoman architecture.",
+    "url": "https://en.wikipedia.org/wiki/Mimar_Sinan"
   },
   {
     "title": "Ovid's Metamorphoses",
-    "body": "Ovid completed his long Latin poem around AD 8, the year the emperor Augustus exiled him to the Black Sea. Linking over 200 myths by the theme of transformation, it retells stories such as Apollo and Daphne, Narcissus, and Pyramus and Thisbe. It became the main source through which later European writers and painters knew classical mythology."
+    "body": "Ovid completed his long Latin poem around AD 8, the year the emperor Augustus exiled him to the Black Sea. Linking over 200 myths by the theme of transformation, it retells stories such as Apollo and Daphne, Narcissus, and Pyramus and Thisbe. It became the main source through which later European writers and painters knew classical mythology.",
+    "url": "https://en.wikipedia.org/wiki/Metamorphoses"
   },
   {
     "title": "Half of a Yellow Sun",
-    "body": "Chimamanda Ngozi Adichie's novel of 2006 is set during the Nigerian Civil War of 1967 to 1970, when the breakaway state of Biafra fought for independence. Told through characters of different backgrounds, it shows the war's human cost, including famine. It won the Orange Prize for Fiction and brought the war to a new generation of readers."
+    "body": "Chimamanda Ngozi Adichie's novel of 2006 is set during the Nigerian Civil War of 1967 to 1970, when the breakaway state of Biafra fought for independence. Told through characters of different backgrounds, it shows the war's human cost, including famine. It won the Orange Prize for Fiction and brought the war to a new generation of readers.",
+    "url": "https://en.wikipedia.org/wiki/Half_of_a_Yellow_Sun"
   },
   {
     "title": "Citizen Kane",
-    "body": "Orson Welles co-wrote, directed and starred in Citizen Kane, released in 1941 when he was in his mid-twenties. Tracing the life of a newspaper tycoon through the memories of different witnesses, it used deep-focus photography, low camera angles and inventive sound. It is widely regarded as one of the most innovative films ever made."
+    "body": "Orson Welles co-wrote, directed and starred in Citizen Kane, released in 1941 when he was in his mid-twenties. Tracing the life of a newspaper tycoon through the memories of different witnesses, it used deep-focus photography, low camera angles and inventive sound. It is widely regarded as one of the most innovative films ever made.",
+    "url": "https://en.wikipedia.org/wiki/Citizen_Kane"
   },
   {
     "title": "The Shahnameh",
-    "body": "The Persian poet Ferdowsi completed the Shahnameh, or Book of Kings, around 1010 after some three decades of work. In about 50,000 couplets it tells the history of Iran from mythical times to the Arab conquest, including the deeds of the hero Rostam. Written in a Persian with few Arabic words, it helped preserve the language and is Iran's national epic."
+    "body": "The Persian poet Ferdowsi completed the Shahnameh, or Book of Kings, around 1010 after some three decades of work. In about 50,000 couplets it tells the history of Iran from mythical times to the Arab conquest, including the deeds of the hero Rostam. Written in a Persian with few Arabic words, it helped preserve the language and is Iran's national epic.",
+    "url": "https://en.wikipedia.org/wiki/Shahnameh"
   },
   {
     "title": "Chingiz Aitmatov",
-    "body": "Chingiz Aitmatov, from Soviet Kyrgyzstan, was the best-known Central Asian writer of the 20th century. His novella Jamilia of 1958, a love story set in a wartime village, was translated into French by the poet Louis Aragon, who praised it highly. Novels such as The Day Lasts More Than a Hundred Years combined Kyrgyz legend with reflection on Soviet life."
+    "body": "Chingiz Aitmatov, from Soviet Kyrgyzstan, was the best-known Central Asian writer of the 20th century. His novella Jamilia of 1958, a love story set in a wartime village, was translated into French by the poet Louis Aragon, who praised it highly. Novels such as The Day Lasts More Than a Hundred Years combined Kyrgyz legend with reflection on Soviet life.",
+    "url": "https://en.wikipedia.org/wiki/Chinghiz_Aitmatov"
   },
   {
     "title": "The Canterbury Tales",
-    "body": "Geoffrey Chaucer wrote The Canterbury Tales in the late 14th century and left it unfinished at his death in 1400. A group of pilgrims travelling to Canterbury tell each other stories, from the courtly Knight to the bawdy Miller and the Wife of Bath. Written in English rather than French or Latin, it helped establish English as a literary language."
+    "body": "Geoffrey Chaucer wrote The Canterbury Tales in the late 14th century and left it unfinished at his death in 1400. A group of pilgrims travelling to Canterbury tell each other stories, from the courtly Knight to the bawdy Miller and the Wife of Bath. Written in English rather than French or Latin, it helped establish English as a literary language.",
+    "url": "https://en.wikipedia.org/wiki/The_Canterbury_Tales"
   },
   {
     "title": "The Ramayana",
-    "body": "The Ramayana, attributed to the sage Valmiki, is a Sanskrit epic about Prince Rama, whose wife Sita is abducted by Ravana, the demon king of Lanka. With the help of the monkey hero Hanuman, Rama rescues her. Retold in many languages and art forms, from Tulsidas's Hindi version to Thai and Javanese dance, it is one of the most influential stories in Asia."
+    "body": "The Ramayana, attributed to the sage Valmiki, is a Sanskrit epic about Prince Rama, whose wife Sita is abducted by Ravana, the demon king of Lanka. With the help of the monkey hero Hanuman, Rama rescues her. Retold in many languages and art forms, from Tulsidas's Hindi version to Thai and Javanese dance, it is one of the most influential stories in Asia.",
+    "url": "https://en.wikipedia.org/wiki/Ramayana"
   },
   {
     "title": "Madame Bovary",
-    "body": "Gustave Flaubert's novel, serialised in 1856 and published as a book in 1857, tells of Emma Bovary, a doctor's wife in provincial Normandy whose romantic dreams lead to adultery, debt and suicide. Flaubert was prosecuted for offending public morals and acquitted. His precise, impersonal style made the book a model of literary realism."
+    "body": "Gustave Flaubert's novel, serialised in 1856 and published as a book in 1857, tells of Emma Bovary, a doctor's wife in provincial Normandy whose romantic dreams lead to adultery, debt and suicide. Flaubert was prosecuted for offending public morals and acquitted. His precise, impersonal style made the book a model of literary realism.",
+    "url": "https://en.wikipedia.org/wiki/Madame_Bovary"
   },
   {
     "title": "Satyajit Ray's Apu Trilogy",
-    "body": "The Bengali director Satyajit Ray released Pather Panchali in 1955, the first film of a trilogy following Apu from a village childhood to adulthood in Calcutta. Shot on a tiny budget with largely non-professional actors, it brought Indian cinema to international attention. Ray received an honorary Academy Award shortly before his death in 1992."
+    "body": "The Bengali director Satyajit Ray released Pather Panchali in 1955, the first film of a trilogy following Apu from a village childhood to adulthood in Calcutta. Shot on a tiny budget with largely non-professional actors, it brought Indian cinema to international attention. Ray received an honorary Academy Award shortly before his death in 1992.",
+    "url": "https://en.wikipedia.org/wiki/The_Apu_Trilogy"
   },
   {
     "title": "The Bust of Nefertiti",
-    "body": "This painted limestone bust of Queen Nefertiti, wife of the pharaoh Akhenaten, was made in the 14th century BC and found in 1912 in the workshop of the sculptor Thutmose at Amarna. With its elegant long neck and tall crown, it is one of the most famous images from ancient Egypt. It is kept in Berlin, and Egypt has long called for its return."
+    "body": "This painted limestone bust of Queen Nefertiti, wife of the pharaoh Akhenaten, was made in the 14th century BC and found in 1912 in the workshop of the sculptor Thutmose at Amarna. With its elegant long neck and tall crown, it is one of the most famous images from ancient Egypt. It is kept in Berlin, and Egypt has long called for its return.",
+    "url": "https://en.wikipedia.org/wiki/Nefertiti_Bust"
   },
   {
     "title": "Bernini",
-    "body": "Gian Lorenzo Bernini was the leading sculptor and architect of Baroque Rome in the 17th century. Marble works such as Apollo and Daphne and The Ecstasy of Saint Teresa capture moments of intense movement and emotion. He also designed the colonnade of St Peter's Square, which embraces visitors like a pair of arms."
+    "body": "Gian Lorenzo Bernini was the leading sculptor and architect of Baroque Rome in the 17th century. Marble works such as Apollo and Daphne and The Ecstasy of Saint Teresa capture moments of intense movement and emotion. He also designed the colonnade of St Peter's Square, which embraces visitors like a pair of arms.",
+    "url": "https://en.wikipedia.org/wiki/Gian_Lorenzo_Bernini"
   },
   {
     "title": "The Epic of Sundiata",
-    "body": "The Epic of Sundiata tells of the founder of the Mali Empire in the 13th century, a boy unable to walk who grows into a hero and defeats the sorcerer-king Sumanguru. It has been passed down orally for centuries by griots, the hereditary bards of West Africa who are also historians and genealogists. It is one of the great epics of African oral literature."
+    "body": "The Epic of Sundiata tells of the founder of the Mali Empire in the 13th century, a boy unable to walk who grows into a hero and defeats the sorcerer-king Sumanguru. It has been passed down orally for centuries by griots, the hereditary bards of West Africa who are also historians and genealogists. It is one of the great epics of African oral literature.",
+    "url": "https://en.wikipedia.org/wiki/Epic_of_Sundiata"
   },
   {
     "title": "The Parthenon",
-    "body": "The Parthenon was built on the Acropolis of Athens between 447 and 432 BC as a temple to the goddess Athena. Designed by Ictinus and Callicrates, with sculpture overseen by Phidias, it is the supreme example of the Doric order. Many of its surviving sculptures, the Elgin Marbles, are in the British Museum, and Greece has long sought their return."
+    "body": "The Parthenon was built on the Acropolis of Athens between 447 and 432 BC as a temple to the goddess Athena. Designed by Ictinus and Callicrates, with sculpture overseen by Phidias, it is the supreme example of the Doric order. Many of its surviving sculptures, the Elgin Marbles, are in the British Museum, and Greece has long sought their return.",
+    "url": "https://en.wikipedia.org/wiki/Parthenon"
   },
   {
     "title": "Wole Soyinka",
-    "body": "The Nigerian playwright and poet Wole Soyinka became the first Black African to receive the Nobel Prize in Literature, in 1986. Plays such as Death and the King's Horseman blend Yoruba myth and ritual with European dramatic forms. He was imprisoned during the Nigerian Civil War and became an outspoken critic of military dictatorship."
+    "body": "The Nigerian playwright and poet Wole Soyinka became the first Black African to receive the Nobel Prize in Literature, in 1986. Plays such as Death and the King's Horseman blend Yoruba myth and ritual with European dramatic forms. He was imprisoned during the Nigerian Civil War and became an outspoken critic of military dictatorship.",
+    "url": "https://en.wikipedia.org/wiki/Wole_Soyinka"
   },
   {
     "title": "The Moai of Rapa Nui",
-    "body": "The people of Rapa Nui, or Easter Island, carved nearly a thousand monumental stone figures known as moai, most of them between roughly the 13th and 16th centuries. Thought to represent deified ancestors, many stood on stone platforms facing inland, watching over the communities. How they were moved is debated, though many researchers think they were 'walked' upright with ropes."
+    "body": "The people of Rapa Nui, or Easter Island, carved nearly a thousand monumental stone figures known as moai, most of them between roughly the 13th and 16th centuries. Thought to represent deified ancestors, many stood on stone platforms facing inland, watching over the communities. How they were moved is debated, though many researchers think they were 'walked' upright with ropes.",
+    "url": "https://en.wikipedia.org/wiki/Moai"
   },
   {
     "title": "Han Kang",
-    "body": "The South Korean writer Han Kang won the Nobel Prize in Literature in 2024, the first Korean author to do so. Her novel The Vegetarian, about a woman whose refusal to eat meat provokes her family's violence, won the International Booker Prize in English translation in 2016. Works such as Human Acts confront historical trauma, including the Gwangju massacre of 1980."
+    "body": "The South Korean writer Han Kang won the Nobel Prize in Literature in 2024, the first Korean author to do so. Her novel The Vegetarian, about a woman whose refusal to eat meat provokes her family's violence, won the International Booker Prize in English translation in 2016. Works such as Human Acts confront historical trauma, including the Gwangju massacre of 1980.",
+    "url": "https://en.wikipedia.org/wiki/Han_Kang"
   },
   {
     "title": "The Rock-Hewn Churches of Lalibela",
-    "body": "In the highlands of Ethiopia, eleven churches were carved directly out of solid rock, traditionally under King Lalibela around 1200. Hewn downwards from the surface and linked by trenches and tunnels, they were conceived, according to tradition, as a New Jerusalem. They remain a major place of Ethiopian Orthodox pilgrimage."
+    "body": "In the highlands of Ethiopia, eleven churches were carved directly out of solid rock, traditionally under King Lalibela around 1200. Hewn downwards from the surface and linked by trenches and tunnels, they were conceived, according to tradition, as a New Jerusalem. They remain a major place of Ethiopian Orthodox pilgrimage.",
+    "url": "https://en.wikipedia.org/wiki/Rock-Hewn_Churches,_Lalibela"
   },
   {
     "title": "Caravaggio",
-    "body": "Michelangelo Merisi da Caravaggio, working in Rome around 1600, painted religious scenes using ordinary people as models and dramatic contrasts of light and darkness. Works such as The Calling of Saint Matthew struck contemporaries with their raw realism. His style, known as tenebrism, spread across Europe and shaped Baroque painting."
+    "body": "Michelangelo Merisi da Caravaggio, working in Rome around 1600, painted religious scenes using ordinary people as models and dramatic contrasts of light and darkness. Works such as The Calling of Saint Matthew struck contemporaries with their raw realism. His style, known as tenebrism, spread across Europe and shaped Baroque painting.",
+    "url": "https://en.wikipedia.org/wiki/Caravaggio"
   },
   {
     "title": "The Terracotta Army",
-    "body": "Thousands of life-size terracotta soldiers were buried near the tomb of Qin Shi Huang, the first emperor of a unified China, who died in 210 BC. Farmers digging a well discovered them in 1974. The figures were assembled from moulded parts but finished individually, with varied faces, and were originally brightly painted."
+    "body": "Thousands of life-size terracotta soldiers were buried near the tomb of Qin Shi Huang, the first emperor of a unified China, who died in 210 BC. Farmers digging a well discovered them in 1974. The figures were assembled from moulded parts but finished individually, with varied faces, and were originally brightly painted.",
+    "url": "https://en.wikipedia.org/wiki/Terracotta_Army"
   },
   {
     "title": "Rabindranath Tagore",
-    "body": "The Bengali poet, novelist and painter Rabindranath Tagore became the first non-European to win the Nobel Prize in Literature, in 1913, largely for his collection Gitanjali. He reshaped Bengali literature and founded a university at Santiniketan. He also wrote the songs that became the national anthems of India and Bangladesh."
+    "body": "The Bengali poet, novelist and painter Rabindranath Tagore became the first non-European to win the Nobel Prize in Literature, in 1913, largely for his collection Gitanjali. He reshaped Bengali literature and founded a university at Santiniketan. He also wrote the songs that became the national anthems of India and Bangladesh.",
+    "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
   },
   {
     "title": "Greek Tragedy",
-    "body": "Tragedy developed in Athens in the 5th century BC, performed at festivals in honour of the god Dionysus. Its three great masters were Aeschylus, Sophocles and Euripides, whose surviving plays include the Oresteia, Oedipus the King and Medea. Aristotle later analysed the form in his Poetics, and it remains a root of Western drama."
+    "body": "Tragedy developed in Athens in the 5th century BC, performed at festivals in honour of the god Dionysus. Its three great masters were Aeschylus, Sophocles and Euripides, whose surviving plays include the Oresteia, Oedipus the King and Medea. Aristotle later analysed the form in his Poetics, and it remains a root of Western drama.",
+    "url": "https://en.wikipedia.org/wiki/Greek_tragedy"
   },
   {
     "title": "Duchamp's Fountain",
-    "body": "In 1917 Marcel Duchamp submitted a mass-produced porcelain urinal, signed with a false name, to an exhibition in New York, where it was not displayed. By presenting an everyday object, or readymade, as art, he suggested that art is defined by the artist's choice and ideas rather than by craft. The original is lost, but Fountain became one of the most influential works of 20th-century art."
+    "body": "In 1917 Marcel Duchamp submitted a mass-produced porcelain urinal, signed with a false name, to an exhibition in New York, where it was not displayed. By presenting an everyday object, or readymade, as art, he suggested that art is defined by the artist's choice and ideas rather than by craft. The original is lost, but Fountain became one of the most influential works of 20th-century art.",
+    "url": "https://en.wikipedia.org/wiki/Fountain_(Duchamp)"
   },
   {
     "title": "Virgil's Aeneid",
-    "body": "Virgil wrote the Aeneid in the last decade before his death in 19 BC, under the emperor Augustus. The Latin epic follows the Trojan prince Aeneas, who escapes the fall of Troy and travels to Italy, where his descendants will found Rome. Consciously modelled on Homer, it became the national epic of Rome and a central school text in Europe for centuries."
+    "body": "Virgil wrote the Aeneid in the last decade before his death in 19 BC, under the emperor Augustus. The Latin epic follows the Trojan prince Aeneas, who escapes the fall of Troy and travels to Italy, where his descendants will found Rome. Consciously modelled on Homer, it became the national epic of Rome and a central school text in Europe for centuries.",
+    "url": "https://en.wikipedia.org/wiki/Aeneid"
   },
   {
     "title": "Things Fall Apart",
-    "body": "Chinua Achebe's novel of 1958 tells of Okonkwo, a proud Igbo leader in Nigeria whose world collapses with the arrival of British missionaries and colonial rule. Written in an English rich in Igbo proverbs, it showed African society from within, against colonial stereotypes. It is among the most widely read African novels."
+    "body": "Chinua Achebe's novel of 1958 tells of Okonkwo, a proud Igbo leader in Nigeria whose world collapses with the arrival of British missionaries and colonial rule. Written in an English rich in Igbo proverbs, it showed African society from within, against colonial stereotypes. It is among the most widely read African novels.",
+    "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart"
   },
   {
     "title": "Goethe's Faust",
-    "body": "Johann Wolfgang von Goethe worked on Faust for most of his life; Part One appeared in 1808 and Part Two after his death in 1832. The scholar Faust makes a pact with the devil Mephistopheles, staking his soul on the search for knowledge and experience. It is the central work of German literature and has inspired operas, novels and countless retellings."
+    "body": "Johann Wolfgang von Goethe worked on Faust for most of his life; Part One appeared in 1808 and Part Two after his death in 1832. The scholar Faust makes a pact with the devil Mephistopheles, staking his soul on the search for knowledge and experience. It is the central work of German literature and has inspired operas, novels and countless retellings.",
+    "url": "https://en.wikipedia.org/wiki/Goethe's_Faust"
   },
   {
     "title": "Akira Kurosawa",
-    "body": "The Japanese director Akira Kurosawa won the top prize at the Venice Film Festival in 1951 with Rashomon, in which witnesses give contradictory accounts of the same crime. Its success opened Western audiences to Japanese cinema. His Seven Samurai of 1954 shaped the action film and was remade in Hollywood as The Magnificent Seven."
+    "body": "The Japanese director Akira Kurosawa won the top prize at the Venice Film Festival in 1951 with Rashomon, in which witnesses give contradictory accounts of the same crime. Its success opened Western audiences to Japanese cinema. His Seven Samurai of 1954 shaped the action film and was remade in Hollywood as The Magnificent Seven.",
+    "url": "https://en.wikipedia.org/wiki/Akira_Kurosawa"
   },
   {
     "title": "The Bayeux Tapestry",
-    "body": "The Bayeux Tapestry, nearly 70 metres long, tells the story of the Norman conquest of England, culminating in the Battle of Hastings in 1066. Strictly speaking it is an embroidery in wool on linen, probably made in England within a few years of the events. It is a unique visual record of 11th-century dress, weapons and ships, and its permanent home is in Bayeux in Normandy."
+    "body": "The Bayeux Tapestry, nearly 70 metres long, tells the story of the Norman conquest of England, culminating in the Battle of Hastings in 1066. Strictly speaking it is an embroidery in wool on linen, probably made in England within a few years of the events. It is a unique visual record of 11th-century dress, weapons and ships, and its permanent home is in Bayeux in Normandy.",
+    "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry"
   },
   {
     "title": "The Mahabharata",
-    "body": "The Mahabharata, composed in Sanskrit over many centuries, tells of the war between two branches of a royal family, the Pandavas and the Kauravas. With around 100,000 verses, it is one of the longest poems ever composed. It contains the Bhagavad Gita and a wealth of stories that have shaped art, theatre and moral thought across South and Southeast Asia."
+    "body": "The Mahabharata, composed in Sanskrit over many centuries, tells of the war between two branches of a royal family, the Pandavas and the Kauravas. With around 100,000 verses, it is one of the longest poems ever composed. It contains the Bhagavad Gita and a wealth of stories that have shaped art, theatre and moral thought across South and Southeast Asia.",
+    "url": "https://en.wikipedia.org/wiki/Mahabharata"
   },
   {
     "title": "Vincent van Gogh",
-    "body": "The Dutch painter Vincent van Gogh produced almost all his work in about a decade before his death in 1890, much of it in the south of France. Paintings such as The Starry Night and Sunflowers use thick brushstrokes and intense colour to express emotion. He sold very little in his lifetime but became one of the most influential figures of Post-Impressionism."
+    "body": "The Dutch painter Vincent van Gogh produced almost all his work in about a decade before his death in 1890, much of it in the south of France. Paintings such as The Starry Night and Sunflowers use thick brushstrokes and intense colour to express emotion. He sold very little in his lifetime but became one of the most influential figures of Post-Impressionism.",
+    "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
   },
   {
     "title": "Mughal Miniature Painting",
-    "body": "At the courts of the Mughal emperors Akbar and Jahangir in the late 16th and early 17th centuries, workshops of painters produced richly coloured illustrated manuscripts and albums. Blending Persian traditions with Indian styles and some European influence, they depicted court life, battles, portraits and nature. Jahangir especially prized precise studies of animals and plants."
+    "body": "At the courts of the Mughal emperors Akbar and Jahangir in the late 16th and early 17th centuries, workshops of painters produced richly coloured illustrated manuscripts and albums. Blending Persian traditions with Indian styles and some European influence, they depicted court life, battles, portraits and nature. Jahangir especially prized precise studies of animals and plants.",
+    "url": "https://en.wikipedia.org/wiki/Mughal_painting"
   },
   {
     "title": "The Dome of the Rock",
-    "body": "The Dome of the Rock in Jerusalem was completed in 691 or 692 under the Umayyad caliph Abd al-Malik and is the oldest surviving major Islamic monument. It stands over the rock from which Muhammad is believed to have ascended to heaven, with an octagonal plan crowned by a gilded dome. Its mosaics and inscriptions are key evidence for early Islamic art."
+    "body": "The Dome of the Rock in Jerusalem was completed in 691 or 692 under the Umayyad caliph Abd al-Malik and is the oldest surviving major Islamic monument. It stands over the rock from which Muhammad is believed to have ascended to heaven, with an octagonal plan crowned by a gilded dome. Its mosaics and inscriptions are key evidence for early Islamic art.",
+    "url": "https://en.wikipedia.org/wiki/Dome_of_the_Rock"
   },
   {
     "title": "Sor Juana Inés de la Cruz",
-    "body": "Sor Juana Inés de la Cruz was a nun in 17th-century Mexico City, often called the greatest poet of colonial Spanish America. Largely self-taught, she wrote lyric poems, plays and the long philosophical poem First Dream. In her Reply to Sor Filotea she defended women's right to learning."
+    "body": "Sor Juana Inés de la Cruz was a nun in 17th-century Mexico City, often called the greatest poet of colonial Spanish America. Largely self-taught, she wrote lyric poems, plays and the long philosophical poem First Dream. In her Reply to Sor Filotea she defended women's right to learning.",
+    "url": "https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz"
   },
   {
     "title": "Chola Bronzes",
-    "body": "Under the Chola dynasty of southern India, from around the 10th to the 12th century, sculptors cast Hindu deities in bronze using the lost-wax method. The best known is Shiva as Nataraja, Lord of the Dance, dancing within a ring of fire that represents the cosmic cycle of creation and destruction. Made to be carried in temple processions, they are masterpieces of Indian sculpture."
+    "body": "Under the Chola dynasty of southern India, from around the 10th to the 12th century, sculptors cast Hindu deities in bronze using the lost-wax method. The best known is Shiva as Nataraja, Lord of the Dance, dancing within a ring of fire that represents the cosmic cycle of creation and destruction. Made to be carried in temple processions, they are masterpieces of Indian sculpture.",
+    "url": "https://en.wikipedia.org/wiki/Chola_art_and_architecture"
   },
   {
     "title": "Waiting for Godot",
-    "body": "Samuel Beckett's play, first staged in Paris in French in 1953, shows two tramps waiting by a road for someone called Godot who never comes. Almost nothing happens, yet the play is both comic and bleak. It is the best-known work of what the critic Martin Esslin called the Theatre of the Absurd."
+    "body": "Samuel Beckett's play, first staged in Paris in French in 1953, shows two tramps waiting by a road for someone called Godot who never comes. Almost nothing happens, yet the play is both comic and bleak. It is the best-known work of what the critic Martin Esslin called the Theatre of the Absurd.",
+    "url": "https://en.wikipedia.org/wiki/Waiting_for_Godot"
   },
   {
     "title": "The Taj Mahal",
-    "body": "The Mughal emperor Shah Jahan built the Taj Mahal in Agra as a tomb for his wife Mumtaz Mahal, who died in 1631. Its white marble domed mausoleum, set at the end of a formal garden and flanked by four minarets, is inlaid with semi-precious stones. It is the most celebrated work of Mughal architecture, blending Persian, Islamic and Indian traditions."
+    "body": "The Mughal emperor Shah Jahan built the Taj Mahal in Agra as a tomb for his wife Mumtaz Mahal, who died in 1631. Its white marble domed mausoleum, set at the end of a formal garden and flanked by four minarets, is inlaid with semi-precious stones. It is the most celebrated work of Mughal architecture, blending Persian, Islamic and Indian traditions.",
+    "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
   },
   {
     "title": "The Bauhaus",
-    "body": "The Bauhaus was a German school of art, design and architecture founded by Walter Gropius in Weimar in 1919. It aimed to unite fine art, craft and industry, producing simple, functional designs suited to mass production. Closed under Nazi pressure in 1933, its teachers carried its ideas abroad, shaping modern architecture and design worldwide."
+    "body": "The Bauhaus was a German school of art, design and architecture founded by Walter Gropius in Weimar in 1919. It aimed to unite fine art, craft and industry, producing simple, functional designs suited to mass production. Closed under Nazi pressure in 1933, its teachers carried its ideas abroad, shaping modern architecture and design worldwide.",
+    "url": "https://en.wikipedia.org/wiki/Bauhaus"
   },
   {
     "title": "Fresco",
-    "body": "Fresco is the technique of painting with pigments mixed in water on freshly laid wet lime plaster; as it dries, the colour becomes part of the wall. Used since antiquity, as at Pompeii, it reached its height in Renaissance Italy, from Giotto to Michelangelo. Because work must be finished before the plaster sets, artists paint in daily sections called giornate."
+    "body": "Fresco is the technique of painting with pigments mixed in water on freshly laid wet lime plaster; as it dries, the colour becomes part of the wall. Used since antiquity, as at Pompeii, it reached its height in Renaissance Italy, from Giotto to Michelangelo. Because work must be finished before the plaster sets, artists paint in daily sections called giornate.",
+    "url": "https://en.wikipedia.org/wiki/Fresco"
   },
   {
     "title": "Leaves of Grass",
-    "body": "Walt Whitman self-published Leaves of Grass in 1855 and kept expanding it through many editions until his death in 1892. Its long, unrhymed lines of free verse celebrate democracy, the body and ordinary Americans, as in 'Song of Myself'. Breaking with traditional metre, it made Whitman a founding voice of American poetry."
+    "body": "Walt Whitman self-published Leaves of Grass in 1855 and kept expanding it through many editions until his death in 1892. Its long, unrhymed lines of free verse celebrate democracy, the body and ordinary Americans, as in 'Song of Myself'. Breaking with traditional metre, it made Whitman a founding voice of American poetry.",
+    "url": "https://en.wikipedia.org/wiki/Leaves_of_Grass"
   },
   {
     "title": "Lu Xun",
-    "body": "Lu Xun is regarded as the founder of modern Chinese literature. His story A Madman's Diary of 1918, one of the first major works in vernacular Chinese, portrayed traditional society as 'cannibalistic'. The True Story of Ah Q satirised national weaknesses through a self-deluding village labourer."
+    "body": "Lu Xun is regarded as the founder of modern Chinese literature. His story A Madman's Diary of 1918, one of the first major works in vernacular Chinese, portrayed traditional society as 'cannibalistic'. The True Story of Ah Q satirised national weaknesses through a self-deluding village labourer.",
+    "url": "https://en.wikipedia.org/wiki/Lu_Xun"
   },
   {
     "title": "Beowulf",
-    "body": "Beowulf is the longest surviving epic poem in Old English, preserved in a single manuscript from around the year 1000. Its hero, a Geatish warrior, kills the monster Grendel and Grendel's mother, and dies many years later fighting a dragon. The date of its composition is debated, but it is a founding text of English literature."
+    "body": "Beowulf is the longest surviving epic poem in Old English, preserved in a single manuscript from around the year 1000. Its hero, a Geatish warrior, kills the monster Grendel and Grendel's mother, and dies many years later fighting a dragon. The date of its composition is debated, but it is a founding text of English literature.",
+    "url": "https://en.wikipedia.org/wiki/Beowulf"
   },
   {
     "title": "Parasite",
-    "body": "Bong Joon-ho's South Korean film of 2019 follows a poor family who scheme their way into working for a wealthy household, with violent results. A dark comedy about class inequality, it won the Palme d'Or at Cannes. In 2020 it became the first film not in English to win the Academy Award for Best Picture."
+    "body": "Bong Joon-ho's South Korean film of 2019 follows a poor family who scheme their way into working for a wealthy household, with violent results. A dark comedy about class inequality, it won the Palme d'Or at Cannes. In 2020 it became the first film not in English to win the Academy Award for Best Picture.",
+    "url": "https://en.wikipedia.org/wiki/Parasite_(2019_film)"
   },
   {
     "title": "Olmec Colossal Heads",
-    "body": "The Olmec, the earliest major civilisation of Mesoamerica, carved massive stone heads on the Gulf Coast of Mexico from around 1200 BC. Some are about three metres tall and weigh many tonnes. Each has individual features and headgear, and they are widely thought to portray rulers. They are among the earliest monumental sculptures of the Americas."
+    "body": "The Olmec, the earliest major civilisation of Mesoamerica, carved massive stone heads on the Gulf Coast of Mexico from around 1200 BC. Some are about three metres tall and weigh many tonnes. Each has individual features and headgear, and they are widely thought to portray rulers. They are among the earliest monumental sculptures of the Americas.",
+    "url": "https://en.wikipedia.org/wiki/Olmec_colossal_heads"
   },
   {
     "title": "One Thousand and One Nights",
-    "body": "This collection of tales in Arabic grew over centuries from Persian, Indian and Arab sources. In its frame story, Scheherazade saves her life by telling the king a new story each night and breaking off at the most exciting point. Famous tales such as Aladdin and Ali Baba were added only in the early 18th century by the French translator Antoine Galland."
+    "body": "This collection of tales in Arabic grew over centuries from Persian, Indian and Arab sources. In its frame story, Scheherazade saves her life by telling the king a new story each night and breaking off at the most exciting point. Famous tales such as Aladdin and Ali Baba were added only in the early 18th century by the French translator Antoine Galland.",
+    "url": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights"
   },
   {
     "title": "The Ajanta Caves",
-    "body": "The Ajanta Caves in western India are about 30 Buddhist monasteries and halls cut into a cliff, made in two phases from around the 2nd century BC to the 5th century AD. Their wall paintings of the Buddha's past lives and of court life are the finest surviving examples of ancient Indian painting. Abandoned for centuries, they were rediscovered by a British officer in 1819."
+    "body": "The Ajanta Caves in western India are about 30 Buddhist monasteries and halls cut into a cliff, made in two phases from around the 2nd century BC to the 5th century AD. Their wall paintings of the Buddha's past lives and of court life are the finest surviving examples of ancient Indian painting. Abandoned for centuries, they were rediscovered by a British officer in 1819.",
+    "url": "https://en.wikipedia.org/wiki/Ajanta_Caves"
   },
   {
     "title": "Behzad and Persian Miniature Painting",
-    "body": "Kamal ud-Din Behzad, active in Herat in the late 15th century, was the most celebrated master of Persian miniature painting. His manuscript illustrations for the court of the Timurid ruler Sultan Husayn Bayqara brought new liveliness and naturalism to crowded scenes. He later worked for the Safavid shahs, and his style shaped both Persian and Mughal painting."
+    "body": "Kamal ud-Din Behzad, active in Herat in the late 15th century, was the most celebrated master of Persian miniature painting. His manuscript illustrations for the court of the Timurid ruler Sultan Husayn Bayqara brought new liveliness and naturalism to crowded scenes. He later worked for the Safavid shahs, and his style shaped both Persian and Mughal painting.",
+    "url": "https://en.wikipedia.org/wiki/Kam%C4%81l_ud-D%C4%ABn_Behz%C4%81d"
   },
   {
     "title": "Las Meninas",
-    "body": "Diego Velázquez, court painter to Philip IV of Spain, painted Las Meninas in 1656. The young Infanta Margarita stands among her attendants, while the painter himself appears at his easel and the king and queen are glimpsed in a mirror. Its puzzling play of gazes and viewpoints has made it one of the most analysed paintings in Western art."
+    "body": "Diego Velázquez, court painter to Philip IV of Spain, painted Las Meninas in 1656. The young Infanta Margarita stands among her attendants, while the painter himself appears at his easel and the king and queen are glimpsed in a mirror. Its puzzling play of gazes and viewpoints has made it one of the most analysed paintings in Western art.",
+    "url": "https://en.wikipedia.org/wiki/Las_Meninas"
   },
   {
     "title": "The Sydney Opera House",
-    "body": "Designed by the Danish architect Jørn Utzon, who won an international competition in 1957, the Sydney Opera House opened in 1973. Its white roof shells, rising like sails over the harbour, posed engineering problems that took years to solve. Utzon resigned during construction, but the building became a symbol of Australia and a World Heritage Site in 2007."
+    "body": "Designed by the Danish architect Jørn Utzon, who won an international competition in 1957, the Sydney Opera House opened in 1973. Its white roof shells, rising like sails over the harbour, posed engineering problems that took years to solve. Utzon resigned during construction, but the building became a symbol of Australia and a World Heritage Site in 2007.",
+    "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
   },
   {
     "title": "Angkor Wat",
-    "body": "Angkor Wat was built in the early 12th century under the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu, and later became a Buddhist site. Its five towers represent Mount Meru, the home of the gods, and its galleries hold long reliefs of Hindu epics. The masterpiece of Khmer architecture, it appears on the national flag of Cambodia."
+    "body": "Angkor Wat was built in the early 12th century under the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu, and later became a Buddhist site. Its five towers represent Mount Meru, the home of the gods, and its galleries hold long reliefs of Hindu epics. The masterpiece of Khmer architecture, it appears on the national flag of Cambodia.",
+    "url": "https://en.wikipedia.org/wiki/Angkor_Wat"
   },
   {
     "title": "Migrant Mother",
-    "body": "Dorothea Lange took this photograph in California in 1936 while documenting rural poverty during the Great Depression for a US government agency. It shows a careworn mother, later identified as Florence Owens Thompson, with her children leaning on her. It became the defining image of the Depression and a landmark of documentary photography."
+    "body": "Dorothea Lange took this photograph in California in 1936 while documenting rural poverty during the Great Depression for a US government agency. It shows a careworn mother, later identified as Florence Owens Thompson, with her children leaning on her. It became the defining image of the Depression and a landmark of documentary photography.",
+    "url": "https://en.wikipedia.org/wiki/Migrant_Mother"
   },
   {
     "title": "Matsuo Bashō",
-    "body": "Matsuo Bashō, a 17th-century Japanese poet, raised the short verse form later called haiku to great art. His famous poem about a frog jumping into an old pond captures a single moment with striking simplicity. His travel journal The Narrow Road to the Deep North, which mixes prose and verse, is a classic of Japanese literature."
+    "body": "Matsuo Bashō, a 17th-century Japanese poet, raised the short verse form later called haiku to great art. His famous poem about a frog jumping into an old pond captures a single moment with striking simplicity. His travel journal The Narrow Road to the Deep North, which mixes prose and verse, is a classic of Japanese literature.",
+    "url": "https://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D"
   },
   {
     "title": "The Arnolfini Portrait",
-    "body": "Jan van Eyck painted this double portrait of an Italian merchant and his wife in Bruges in 1434. Its astonishing detail and glowing colour show the possibilities of oil paint, which the early Netherlandish painters perfected. A convex mirror on the back wall reflects two further figures, and the painting's meaning is still debated. It hangs in the National Gallery in London."
+    "body": "Jan van Eyck painted this double portrait of an Italian merchant and his wife in Bruges in 1434. Its astonishing detail and glowing colour show the possibilities of oil paint, which the early Netherlandish painters perfected. A convex mirror on the back wall reflects two further figures, and the painting's meaning is still debated. It hangs in the National Gallery in London.",
+    "url": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
   },
   {
     "title": "Naguib Mahfouz",
-    "body": "The Egyptian novelist Naguib Mahfouz was the first writer in Arabic to win the Nobel Prize in Literature, in 1988. His Cairo Trilogy follows a Cairo family through three generations from the First World War to the 1940s. He did much to shape the modern Arabic novel, and his allegorical Children of the Alley led to an attempt on his life in 1994."
+    "body": "The Egyptian novelist Naguib Mahfouz was the first writer in Arabic to win the Nobel Prize in Literature, in 1988. His Cairo Trilogy follows a Cairo family through three generations from the First World War to the 1940s. He did much to shape the modern Arabic novel, and his allegorical Children of the Alley led to an attempt on his life in 1994.",
+    "url": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
   },
   {
     "title": "Crime and Punishment",
-    "body": "Fyodor Dostoevsky's novel of 1866 follows Raskolnikov, a poor former student in St Petersburg who murders an old pawnbroker to prove he stands above ordinary morality. Most of the book traces his psychological torment and his path towards confession. Its moral and psychological depth made it a landmark of the modern novel."
+    "body": "Fyodor Dostoevsky's novel of 1866 follows Raskolnikov, a poor former student in St Petersburg who murders an old pawnbroker to prove he stands above ordinary morality. Most of the book traces his psychological torment and his path towards confession. Its moral and psychological depth made it a landmark of the modern novel.",
+    "url": "https://en.wikipedia.org/wiki/Crime_and_Punishment"
   },
   {
     "title": "Chinese Landscape Painting",
-    "body": "Landscape painting, called shan shui or 'mountains and water', became the most prestigious genre of Chinese painting from around the 10th century. Song dynasty painters such as Fan Kuan depicted towering mountains in ink, with tiny human figures showing the smallness of people in nature. Rather than recording a single view, such works aimed to capture the spirit of the landscape."
+    "body": "Landscape painting, called shan shui or 'mountains and water', became the most prestigious genre of Chinese painting from around the 10th century. Song dynasty painters such as Fan Kuan depicted towering mountains in ink, with tiny human figures showing the smallness of people in nature. Rather than recording a single view, such works aimed to capture the spirit of the landscape.",
+    "url": "https://en.wikipedia.org/wiki/Shan_shui"
   },
   {
     "title": "Moby-Dick",
-    "body": "Herman Melville's novel of 1851 follows Captain Ahab's obsessive hunt for the white whale that took his leg, narrated by a sailor who begins 'Call me Ishmael'. It mixes adventure with detailed whaling lore and philosophical reflection. Poorly received at first, it was rediscovered in the 20th century and is now counted among the great American novels."
+    "body": "Herman Melville's novel of 1851 follows Captain Ahab's obsessive hunt for the white whale that took his leg, narrated by a sailor who begins 'Call me Ishmael'. It mixes adventure with detailed whaling lore and philosophical reflection. Poorly received at first, it was rediscovered in the 20th century and is now counted among the great American novels.",
+    "url": "https://en.wikipedia.org/wiki/Moby-Dick"
   },
   {
     "title": "Spirited Away",
-    "body": "Hayao Miyazaki's animated film of 2001, made by Studio Ghibli, follows ten-year-old Chihiro, who must work in a bathhouse for spirits to free her parents. It won the Golden Bear at the Berlin Film Festival and the Academy Award for Best Animated Feature. It is widely seen as a masterpiece of hand-drawn animation."
+    "body": "Hayao Miyazaki's animated film of 2001, made by Studio Ghibli, follows ten-year-old Chihiro, who must work in a bathhouse for spirits to free her parents. It won the Golden Bear at the Berlin Film Festival and the Academy Award for Best Animated Feature. It is widely seen as a masterpiece of hand-drawn animation.",
+    "url": "https://en.wikipedia.org/wiki/Spirited_Away"
   },
   {
     "title": "The Epic of Gilgamesh",
-    "body": "The Epic of Gilgamesh, from ancient Mesopotamia, is among the oldest surviving works of literature; its best-known version was written in Akkadian on clay tablets. It follows Gilgamesh, king of Uruk, his friendship with Enkidu and his failed quest for immortality after Enkidu's death. Its flood story closely parallels the account of Noah in the Bible."
+    "body": "The Epic of Gilgamesh, from ancient Mesopotamia, is among the oldest surviving works of literature; its best-known version was written in Akkadian on clay tablets. It follows Gilgamesh, king of Uruk, his friendship with Enkidu and his failed quest for immortality after Enkidu's death. Its flood story closely parallels the account of Noah in the Bible.",
+    "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
   },
   {
     "title": "Wayang Kulit",
-    "body": "Wayang kulit is the shadow puppet theatre of Java and Bali, in which a single puppeteer, the dalang, moves flat, intricately carved leather puppets behind a lit screen. Accompanied by a gamelan orchestra, performances often last all night and draw on the Ramayana and the Mahabharata. UNESCO recognised wayang as a masterpiece of intangible heritage in 2003."
+    "body": "Wayang kulit is the shadow puppet theatre of Java and Bali, in which a single puppeteer, the dalang, moves flat, intricately carved leather puppets behind a lit screen. Accompanied by a gamelan orchestra, performances often last all night and draw on the Ramayana and the Mahabharata. UNESCO recognised wayang as a masterpiece of intangible heritage in 2003.",
+    "url": "https://en.wikipedia.org/wiki/Wayang_kulit"
   },
   {
     "title": "Surrealism",
-    "body": "Surrealism was launched in Paris by the poet André Breton with his manifesto of 1924. Drawing on Freud's ideas about the unconscious, its writers and artists sought to free the imagination through dreams, chance and automatic writing. Salvador Dalí's melting clocks and René Magritte's paradoxical images are among its best-known works."
+    "body": "Surrealism was launched in Paris by the poet André Breton with his manifesto of 1924. Drawing on Freud's ideas about the unconscious, its writers and artists sought to free the imagination through dreams, chance and automatic writing. Salvador Dalí's melting clocks and René Magritte's paradoxical images are among its best-known works.",
+    "url": "https://en.wikipedia.org/wiki/Surrealism"
   },
   {
     "title": "Journey to the West",
-    "body": "Journey to the West, a 16th-century Chinese novel usually attributed to Wu Cheng'en, retells the pilgrimage of the monk Xuanzang to India to bring back Buddhist scriptures. He is protected by fantastic companions, above all the rebellious Monkey King, Sun Wukong. One of the four classic novels of Chinese literature, it has inspired countless plays, films and comics."
+    "body": "Journey to the West, a 16th-century Chinese novel usually attributed to Wu Cheng'en, retells the pilgrimage of the monk Xuanzang to India to bring back Buddhist scriptures. He is protected by fantastic companions, above all the rebellious Monkey King, Sun Wukong. One of the four classic novels of Chinese literature, it has inspired countless plays, films and comics.",
+    "url": "https://en.wikipedia.org/wiki/Journey_to_the_West"
   },
   {
     "title": "Frida Kahlo",
-    "body": "The Mexican painter Frida Kahlo, badly injured in a bus accident as a teenager, made her body and her pain central subjects of her art. Her many self-portraits combine Mexican folk traditions with dreamlike imagery. Long overshadowed by her husband Diego Rivera, she became an international icon in the late 20th century."
+    "body": "The Mexican painter Frida Kahlo, badly injured in a bus accident as a teenager, made her body and her pain central subjects of her art. Her many self-portraits combine Mexican folk traditions with dreamlike imagery. Long overshadowed by her husband Diego Rivera, she became an international icon in the late 20th century.",
+    "url": "https://en.wikipedia.org/wiki/Frida_Kahlo"
   },
   {
     "title": "Michelangelo's David",
-    "body": "Michelangelo carved the marble David in Florence between 1501 and 1504, from a block other sculptors had abandoned. More than five metres tall, it shows the biblical hero before his fight with Goliath, tense and alert. It became a symbol of the Florentine Republic and is a defining work of Renaissance sculpture."
+    "body": "Michelangelo carved the marble David in Florence between 1501 and 1504, from a block other sculptors had abandoned. More than five metres tall, it shows the biblical hero before his fight with Goliath, tense and alert. It became a symbol of the Florentine Republic and is a defining work of Renaissance sculpture.",
+    "url": "https://en.wikipedia.org/wiki/David_(Michelangelo)"
   },
   {
     "title": "Borobudur",
-    "body": "Borobudur in central Java is a vast Buddhist monument built in the 8th and 9th centuries under the Shailendra dynasty. Shaped like a stepped pyramid crowned by stupas, it leads pilgrims upwards past galleries of relief carvings, symbolising the path from the world of desire to enlightenment. Abandoned for centuries, it was brought to wider attention under British rule in 1814."
+    "body": "Borobudur in central Java is a vast Buddhist monument built in the 8th and 9th centuries under the Shailendra dynasty. Shaped like a stepped pyramid crowned by stupas, it leads pilgrims upwards past galleries of relief carvings, symbolising the path from the world of desire to enlightenment. Abandoned for centuries, it was brought to wider attention under British rule in 1814.",
+    "url": "https://en.wikipedia.org/wiki/Borobudur"
   },
   {
     "title": "One Hundred Years of Solitude",
-    "body": "Gabriel García Márquez's novel of 1967 follows the Buendía family over seven generations in the fictional Colombian town of Macondo. Its blend of everyday reality with the miraculous made it the best-known work of magical realism. It was central to the 'Boom' of Latin American literature, and its author won the Nobel Prize in 1982."
+    "body": "Gabriel García Márquez's novel of 1967 follows the Buendía family over seven generations in the fictional Colombian town of Macondo. Its blend of everyday reality with the miraculous made it the best-known work of magical realism. It was central to the 'Boom' of Latin American literature, and its author won the Nobel Prize in 1982.",
+    "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
   },
   {
     "title": "The Alhambra",
-    "body": "The Alhambra in Granada is a palace and fortress complex built mainly in the 13th and 14th centuries by the Nasrid dynasty, the last Muslim rulers in Spain. Its courtyards, such as the Court of the Lions, combine water, gardens and intricate carved stucco and tilework. It is the finest surviving example of the Islamic architecture of al-Andalus."
+    "body": "The Alhambra in Granada is a palace and fortress complex built mainly in the 13th and 14th centuries by the Nasrid dynasty, the last Muslim rulers in Spain. Its courtyards, such as the Court of the Lions, combine water, gardens and intricate carved stucco and tilework. It is the finest surviving example of the Islamic architecture of al-Andalus.",
+    "url": "https://en.wikipedia.org/wiki/Alhambra"
   },
   {
     "title": "The Tale of Kieu",
-    "body": "Nguyễn Du wrote this long narrative poem in the early 19th century in Vietnamese, using the vernacular chữ Nôm script. It tells of Thúy Kiều, a gifted young woman who sells herself to save her family and endures years of suffering. Regarded as the masterpiece of Vietnamese literature, its lines are widely quoted in everyday speech."
+    "body": "Nguyễn Du wrote this long narrative poem in the early 19th century in Vietnamese, using the vernacular chữ Nôm script. It tells of Thúy Kiều, a gifted young woman who sells herself to save her family and endures years of suffering. Regarded as the masterpiece of Vietnamese literature, its lines are widely quoted in everyday speech.",
+    "url": "https://en.wikipedia.org/wiki/The_Tale_of_Kieu"
   },
   {
     "title": "The Tale of Genji",
-    "body": "Written in the early 11th century by Murasaki Shikibu, a lady-in-waiting at the Japanese imperial court, The Tale of Genji follows the life and loves of the 'Shining Prince'. Its subtle portrayal of character and feeling has led some to call it the world's first novel. It is the masterpiece of classical Japanese literature."
+    "body": "Written in the early 11th century by Murasaki Shikibu, a lady-in-waiting at the Japanese imperial court, The Tale of Genji follows the life and loves of the 'Shining Prince'. Its subtle portrayal of character and feeling has led some to call it the world's first novel. It is the masterpiece of classical Japanese literature.",
+    "url": "https://en.wikipedia.org/wiki/The_Tale_of_Genji"
   },
   {
     "title": "The Harlem Renaissance",
-    "body": "In the 1920s the New York neighbourhood of Harlem became the centre of a flowering of African American literature, art and music. Writers such as Langston Hughes and Zora Neale Hurston, and the critic Alain Locke, asserted a confident new Black cultural identity. The movement shaped American culture and inspired later Black writers and artists."
+    "body": "In the 1920s the New York neighbourhood of Harlem became the centre of a flowering of African American literature, art and music. Writers such as Langston Hughes and Zora Neale Hurston, and the critic Alain Locke, asserted a confident new Black cultural identity. The movement shaped American culture and inspired later Black writers and artists.",
+    "url": "https://en.wikipedia.org/wiki/Harlem_Renaissance"
   },
   {
     "title": "Giotto",
-    "body": "The Florentine painter Giotto di Bondone, active in the early 14th century, broke with the flat, stylised manner of Byzantine painting. In his frescoes in the Scrovegni Chapel in Padua, completed around 1305, figures have weight, gesture and visible emotion. Later writers from Vasari onwards saw him as the founder of the Renaissance tradition in painting."
+    "body": "The Florentine painter Giotto di Bondone, active in the early 14th century, broke with the flat, stylised manner of Byzantine painting. In his frescoes in the Scrovegni Chapel in Padua, completed around 1305, figures have weight, gesture and visible emotion. Later writers from Vasari onwards saw him as the founder of the Renaissance tradition in painting.",
+    "url": "https://en.wikipedia.org/wiki/Giotto"
   },
   {
     "title": "The Great Wave off Kanagawa",
-    "body": "Katsushika Hokusai produced this woodblock print around 1831 for his series Thirty-Six Views of Mount Fuji. A towering wave threatens fishing boats while the mountain appears small in the distance. It is the best-known work of ukiyo-e, the Japanese art of 'pictures of the floating world', which strongly influenced European artists such as Monet and Van Gogh."
+    "body": "Katsushika Hokusai produced this woodblock print around 1831 for his series Thirty-Six Views of Mount Fuji. A towering wave threatens fishing boats while the mountain appears small in the distance. It is the best-known work of ukiyo-e, the Japanese art of 'pictures of the floating world', which strongly influenced European artists such as Monet and Van Gogh.",
+    "url": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"
   },
   {
     "title": "Kalidasa's Shakuntala",
-    "body": "Kalidasa, who probably lived around the 4th or 5th century AD, is regarded as the greatest poet and playwright of classical Sanskrit. His play Shakuntala tells of a king who marries a girl raised in a hermitage, forgets her under a curse and finally recognises her. Translated into English in 1789, it enchanted European readers, among them Goethe."
+    "body": "Kalidasa, who probably lived around the 4th or 5th century AD, is regarded as the greatest poet and playwright of classical Sanskrit. His play Shakuntala tells of a king who marries a girl raised in a hermitage, forgets her under a curse and finally recognises her. Translated into English in 1789, it enchanted European readers, among them Goethe.",
+    "url": "https://en.wikipedia.org/wiki/Shakuntala_(play)"
   },
   {
     "title": "The School of Athens",
-    "body": "Raphael painted this fresco between about 1509 and 1511 in a room of the papal apartments in the Vatican. It gathers the great thinkers of antiquity in an imagined classical hall, with Plato and Aristotle at the centre. Its balanced composition and deep perspective make it a model of High Renaissance painting."
+    "body": "Raphael painted this fresco between about 1509 and 1511 in a room of the papal apartments in the Vatican. It gathers the great thinkers of antiquity in an imagined classical hall, with Plato and Aristotle at the centre. Its balanced composition and deep perspective make it a model of High Renaissance painting.",
+    "url": "https://en.wikipedia.org/wiki/The_School_of_Athens"
   },
   {
     "title": "Mexican Muralism",
-    "body": "After the Mexican Revolution, the government commissioned artists from the early 1920s to paint murals on public buildings, bringing art and national history to ordinary people. Diego Rivera, José Clemente Orozco and David Alfaro Siqueiros led the movement, depicting Indigenous heritage, workers and revolutionary struggle. It influenced public art across the Americas."
+    "body": "After the Mexican Revolution, the government commissioned artists from the early 1920s to paint murals on public buildings, bringing art and national history to ordinary people. Diego Rivera, José Clemente Orozco and David Alfaro Siqueiros led the movement, depicting Indigenous heritage, workers and revolutionary struggle. It influenced public art across the Americas.",
+    "url": "https://en.wikipedia.org/wiki/Mexican_muralism"
   },
   {
     "title": "Hagia Sophia",
-    "body": "The emperor Justinian had Hagia Sophia built in Constantinople in about five years, and it was dedicated in 537. Its vast central dome, which seems to float on a ring of windows, made it the largest church in Christendom for centuries. After the Ottoman conquest of 1453 it became a mosque, and its design inspired later Ottoman mosque architecture."
+    "body": "The emperor Justinian had Hagia Sophia built in Constantinople in about five years, and it was dedicated in 537. Its vast central dome, which seems to float on a ring of windows, made it the largest church in Christendom for centuries. After the Ottoman conquest of 1453 it became a mosque, and its design inspired later Ottoman mosque architecture.",
+    "url": "https://en.wikipedia.org/wiki/Hagia_Sophia"
   },
   {
     "title": "Dream of the Red Chamber",
-    "body": "Cao Xueqin wrote this novel in the mid-18th century; it circulated in manuscript and was first printed in 1791 with a completion by other hands. It traces the decline of the wealthy Jia family and the doomed love of Jia Baoyu and Lin Daiyu. With hundreds of finely drawn characters, it is widely considered the greatest Chinese novel and has its own field of study, 'Redology'."
+    "body": "Cao Xueqin wrote this novel in the mid-18th century; it circulated in manuscript and was first printed in 1791 with a completion by other hands. It traces the decline of the wealthy Jia family and the doomed love of Jia Baoyu and Lin Daiyu. With hundreds of finely drawn characters, it is widely considered the greatest Chinese novel and has its own field of study, 'Redology'.",
+    "url": "https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber"
   },
   {
     "title": "Islamic Geometric Ornament",
-    "body": "Islamic art developed intricate geometric patterns, built from interlocking stars and polygons, to decorate mosques, palaces, tiles and books. Together with arabesques and calligraphy, they reflect a tradition of avoiding figurative images in religious settings. The patterns can be extended endlessly, suggesting the infinite, and reached great refinement in the tilework of Iran and Morocco."
+    "body": "Islamic art developed intricate geometric patterns, built from interlocking stars and polygons, to decorate mosques, palaces, tiles and books. Together with arabesques and calligraphy, they reflect a tradition of avoiding figurative images in religious settings. The patterns can be extended endlessly, suggesting the infinite, and reached great refinement in the tilework of Iran and Morocco.",
+    "url": "https://en.wikipedia.org/wiki/Islamic_geometric_patterns"
   },
   {
     "title": "Joyce's Ulysses",
-    "body": "James Joyce's novel, published in Paris in 1922, follows Leopold Bloom and others through a single day in Dublin, 16 June 1904. Each episode parallels part of Homer's Odyssey and uses a different style, ending with Molly Bloom's unpunctuated stream of consciousness. Long banned in some countries as obscene, it is a central work of literary modernism."
+    "body": "James Joyce's novel, published in Paris in 1922, follows Leopold Bloom and others through a single day in Dublin, 16 June 1904. Each episode parallels part of Homer's Odyssey and uses a different style, ending with Molly Bloom's unpunctuated stream of consciousness. Long banned in some countries as obscene, it is a central work of literary modernism.",
+    "url": "https://en.wikipedia.org/wiki/Ulysses_(novel)"
   },
   {
     "title": "Noh Theatre",
-    "body": "Noh is a Japanese form of musical drama developed in the 14th century by the actor Kan'ami and his son Zeami, who also wrote influential treatises on acting. Masked performers move with slow, stylised gestures on a bare wooden stage, accompanied by a chorus, flute and drums. Often featuring ghosts and spirits, it is among the oldest theatre traditions still performed."
+    "body": "Noh is a Japanese form of musical drama developed in the 14th century by the actor Kan'ami and his son Zeami, who also wrote influential treatises on acting. Masked performers move with slow, stylised gestures on a bare wooden stage, accompanied by a chorus, flute and drums. Often featuring ghosts and spirits, it is among the oldest theatre traditions still performed.",
+    "url": "https://en.wikipedia.org/wiki/Noh"
   },
   {
     "title": "Nineteen Eighty-Four",
-    "body": "George Orwell's novel of 1949 depicts a totalitarian state in which the Party controls history, language and even thought, under the watchful eye of Big Brother. Its hero, Winston Smith, attempts a private rebellion and is crushed. Terms from the book, such as Newspeak, doublethink and Big Brother, have entered everyday language."
+    "body": "George Orwell's novel of 1949 depicts a totalitarian state in which the Party controls history, language and even thought, under the watchful eye of Big Brother. Its hero, Winston Smith, attempts a private rebellion and is crushed. Terms from the book, such as Newspeak, doublethink and Big Brother, have entered everyday language.",
+    "url": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"
   },
   {
     "title": "Li Bai and Du Fu",
-    "body": "Li Bai and Du Fu, who lived in the 8th century, are regarded as the two greatest poets of China's Tang dynasty. Li Bai wrote exuberant poems of nature, wine and freedom, while Du Fu wrote of social suffering and the rebellion and wars that shook the empire. Generations of Chinese schoolchildren have learnt their poems by heart."
+    "body": "Li Bai and Du Fu, who lived in the 8th century, are regarded as the two greatest poets of China's Tang dynasty. Li Bai wrote exuberant poems of nature, wine and freedom, while Du Fu wrote of social suffering and the rebellion and wars that shook the empire. Generations of Chinese schoolchildren have learnt their poems by heart.",
+    "url": "https://en.wikipedia.org/wiki/Tang_poetry"
   },
   {
     "title": "Noli Me Tángere",
-    "body": "José Rizal, a Filipino doctor and writer, published Noli Me Tángere in 1887 while living in Europe. The novel exposed abuses by Spanish colonial officials and friars in the Philippines. His writings inspired the independence movement, and his execution by the Spanish authorities in 1896 made him a national hero."
+    "body": "José Rizal, a Filipino doctor and writer, published Noli Me Tángere in 1887 while living in Europe. The novel exposed abuses by Spanish colonial officials and friars in the Philippines. His writings inspired the independence movement, and his execution by the Spanish authorities in 1896 made him a national hero.",
+    "url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(novel)"
   },
   {
     "title": "Jorge Luis Borges",
-    "body": "The Argentine writer Jorge Luis Borges wrote short stories, such as those collected in Ficciones in 1944, that explore labyrinths, mirrors, infinite libraries and the nature of time. Combining erudition with philosophical puzzles, they deeply influenced postmodern literature. He never received the Nobel Prize, an omission often lamented."
+    "body": "The Argentine writer Jorge Luis Borges wrote short stories, such as those collected in Ficciones in 1944, that explore labyrinths, mirrors, infinite libraries and the nature of time. Combining erudition with philosophical puzzles, they deeply influenced postmodern literature. He never received the Nobel Prize, an omission often lamented.",
+    "url": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges"
   },
   {
     "title": "Paradise Lost",
-    "body": "John Milton, blind and politically defeated after the restoration of the monarchy, published Paradise Lost in 1667. The epic in blank verse retells the fall of Satan and the expulsion of Adam and Eve from Eden, aiming to 'justify the ways of God to men'. Its grand style and compelling portrait of Satan have influenced English poetry ever since."
+    "body": "John Milton, blind and politically defeated after the restoration of the monarchy, published Paradise Lost in 1667. The epic in blank verse retells the fall of Satan and the expulsion of Adam and Eve from Eden, aiming to 'justify the ways of God to men'. Its grand style and compelling portrait of Satan have influenced English poetry ever since.",
+    "url": "https://en.wikipedia.org/wiki/Paradise_Lost"
   },
   {
     "title": "Mirza Ghalib",
-    "body": "Mirza Ghalib, who lived in Delhi during the last decades of Mughal rule, is widely regarded as the greatest poet of the Urdu language. He is best known for his ghazals, short lyric poems of love and loss whose couplets are full of wit and philosophical depth. He also wrote in Persian, and his letters vividly describe the devastation of Delhi in 1857."
+    "body": "Mirza Ghalib, who lived in Delhi during the last decades of Mughal rule, is widely regarded as the greatest poet of the Urdu language. He is best known for his ghazals, short lyric poems of love and loss whose couplets are full of wit and philosophical depth. He also wrote in Persian, and his letters vividly describe the devastation of Delhi in 1857.",
+    "url": "https://en.wikipedia.org/wiki/Ghalib"
   },
   {
     "title": "Linear Perspective",
-    "body": "In Florence in the early 15th century, the architect Filippo Brunelleschi demonstrated how to depict space with lines converging on a single vanishing point. Leon Battista Alberti set out the method in writing in On Painting in 1435, and Masaccio's Holy Trinity fresco was among its first great applications. Linear perspective then dominated European painting for nearly five centuries."
+    "body": "In Florence in the early 15th century, the architect Filippo Brunelleschi demonstrated how to depict space with lines converging on a single vanishing point. Leon Battista Alberti set out the method in writing in On Painting in 1435, and Masaccio's Holy Trinity fresco was among its first great applications. Linear perspective then dominated European painting for nearly five centuries.",
+    "url": "https://en.wikipedia.org/wiki/Perspective_(graphical)"
   },
   {
     "title": "Australian Aboriginal Rock Art",
-    "body": "Aboriginal Australians have painted and engraved images on rock for many thousands of years, one of the oldest continuous artistic traditions in the world. Sites such as Kakadu in the Northern Territory show animals, people and ancestral beings, some in an 'X-ray' style that reveals bones and organs. The art is bound up with the Dreaming, the stories and law that link people to their country."
+    "body": "Aboriginal Australians have painted and engraved images on rock for many thousands of years, one of the oldest continuous artistic traditions in the world. Sites such as Kakadu in the Northern Territory show animals, people and ancestral beings, some in an 'X-ray' style that reveals bones and organs. The art is bound up with the Dreaming, the stories and law that link people to their country.",
+    "url": "https://en.wikipedia.org/wiki/Indigenous_Australian_art"
   },
   {
     "title": "Molière",
-    "body": "Molière, the stage name of Jean-Baptiste Poquelin, was an actor, company manager and playwright in the France of Louis XIV. Comedies such as Tartuffe, The Misanthrope and The Miser mocked religious hypocrisy, social pretension and greed. Tartuffe was banned for several years after its first performance in 1664. French is often called 'the language of Molière'."
+    "body": "Molière, the stage name of Jean-Baptiste Poquelin, was an actor, company manager and playwright in the France of Louis XIV. Comedies such as Tartuffe, The Misanthrope and The Miser mocked religious hypocrisy, social pretension and greed. Tartuffe was banned for several years after its first performance in 1664. French is often called 'the language of Molière'.",
+    "url": "https://en.wikipedia.org/wiki/Moli%C3%A8re"
   },
   {
     "title": "Zaha Hadid",
-    "body": "The Iraqi-born British architect Zaha Hadid became, in 2004, the first woman to win the Pritzker Prize, often called architecture's highest honour. Her buildings, such as the MAXXI museum in Rome and the Heydar Aliyev Center in Baku, are known for their flowing, curving forms. She died in 2016."
+    "body": "The Iraqi-born British architect Zaha Hadid became, in 2004, the first woman to win the Pritzker Prize, often called architecture's highest honour. Her buildings, such as the MAXXI museum in Rome and the Heydar Aliyev Center in Baku, are known for their flowing, curving forms. She died in 2016.",
+    "url": "https://en.wikipedia.org/wiki/Zaha_Hadid"
   },
   {
     "title": "The Ishtar Gate",
-    "body": "The Ishtar Gate was built in Babylon under King Nebuchadnezzar II in the early 6th century BC as a ceremonial entrance to the city. Its glazed blue bricks bear reliefs of bulls and dragons, and the processional way leading to it was lined with lions. Excavated by German archaeologists in the early 20th century, it was reconstructed in Berlin's Pergamon Museum."
+    "body": "The Ishtar Gate was built in Babylon under King Nebuchadnezzar II in the early 6th century BC as a ceremonial entrance to the city. Its glazed blue bricks bear reliefs of bulls and dragons, and the processional way leading to it was lined with lions. Excavated by German archaeologists in the early 20th century, it was reconstructed in Berlin's Pergamon Museum.",
+    "url": "https://en.wikipedia.org/wiki/Ishtar_Gate"
   },
   {
     "title": "The Benin Bronzes",
-    "body": "The Benin Bronzes are thousands of plaques and sculptures, mostly of brass, made for the royal court of the Kingdom of Benin in present-day Nigeria, largely from the 16th century onwards. Many record court ceremonies and the kingdom's history. British troops looted them in 1897, and their return from Western museums has become a central case in debates on restitution."
+    "body": "The Benin Bronzes are thousands of plaques and sculptures, mostly of brass, made for the royal court of the Kingdom of Benin in present-day Nigeria, largely from the 16th century onwards. Many record court ceremonies and the kingdom's history. British troops looted them in 1897, and their return from Western museums has become a central case in debates on restitution.",
+    "url": "https://en.wikipedia.org/wiki/Benin_Bronzes"
   },
   {
     "title": "Svetlana Alexievich",
-    "body": "The Belarusian writer Svetlana Alexievich received the Nobel Prize in Literature in 2015. Books such as The Unwomanly Face of War and Voices from Chernobyl are built from hundreds of interviews, letting ordinary people tell their experiences of war, disaster and the collapse of the Soviet Union. The prize recognised her 'polyphonic writings', a rare honour for non-fiction."
+    "body": "The Belarusian writer Svetlana Alexievich received the Nobel Prize in Literature in 2015. Books such as The Unwomanly Face of War and Voices from Chernobyl are built from hundreds of interviews, letting ordinary people tell their experiences of war, disaster and the collapse of the Soviet Union. The prize recognised her 'polyphonic writings', a rare honour for non-fiction.",
+    "url": "https://en.wikipedia.org/wiki/Svetlana_Alexievich"
   }
 ]

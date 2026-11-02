@@ -1,442 +1,552 @@
 [
   {
     "title": "The Peace of Westphalia",
-    "body": "The treaties of Münster and Osnabrück in 1648 ended the Thirty Years' War. They are often cited as the starting point of the modern system of sovereign states, in which each ruler controls their own territory without outside interference."
+    "body": "The treaties of Münster and Osnabrück in 1648 ended the Thirty Years' War. They are often cited as the starting point of the modern system of sovereign states, in which each ruler controls their own territory without outside interference.",
+    "url": "https://en.wikipedia.org/wiki/Peace_of_Westphalia"
   },
   {
     "title": "Luther's 95 Theses",
-    "body": "According to tradition, Martin Luther nailed his 95 theses against the sale of indulgences to a church door in Wittenberg on 31 October 1517. The event is treated as the start of the Protestant Reformation, which split Western Christianity."
+    "body": "According to tradition, Martin Luther nailed his 95 theses against the sale of indulgences to a church door in Wittenberg on 31 October 1517. The event is treated as the start of the Protestant Reformation, which split Western Christianity.",
+    "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses"
   },
   {
     "title": "Magna Carta",
-    "body": "In 1215 King John of England was forced by his barons to accept a charter limiting royal power. It established that even the king was bound by law, and later became a symbol of the rule of law and individual rights."
+    "body": "In 1215 King John of England was forced by his barons to accept a charter limiting royal power. It established that even the king was bound by law, and later became a symbol of the rule of law and individual rights.",
+    "url": "https://en.wikipedia.org/wiki/Magna_Carta"
   },
   {
     "title": "The French Revolution",
-    "body": "The revolution began in 1789, and the storming of the Bastille on 14 July became its symbol. That year the Declaration of the Rights of Man and of the Citizen was adopted. The revolution ended absolute monarchy and feudal privilege in France and reshaped European politics."
+    "body": "The revolution began in 1789, and the storming of the Bastille on 14 July became its symbol. That year the Declaration of the Rights of Man and of the Citizen was adopted. The revolution ended absolute monarchy and feudal privilege in France and reshaped European politics.",
+    "url": "https://en.wikipedia.org/wiki/French_Revolution"
   },
   {
     "title": "The Fall of the Western Roman Empire",
-    "body": "The Western Roman Empire is conventionally said to have fallen in 476, when the Germanic leader Odoacer deposed the last emperor, Romulus Augustulus. The Eastern Roman, or Byzantine, Empire survived for almost another thousand years."
+    "body": "The Western Roman Empire is conventionally said to have fallen in 476, when the Germanic leader Odoacer deposed the last emperor, Romulus Augustulus. The Eastern Roman, or Byzantine, Empire survived for almost another thousand years.",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
   },
   {
     "title": "The Kalmar Union",
-    "body": "In 1397 Denmark, Norway and Sweden were united under a single monarch, with Queen Margaret I as the driving force. The union was marked by constant conflict, and Sweden left it for good when Gustav Vasa became king in 1523."
+    "body": "In 1397 Denmark, Norway and Sweden were united under a single monarch, with Queen Margaret I as the driving force. The union was marked by constant conflict, and Sweden left it for good when Gustav Vasa became king in 1523.",
+    "url": "https://en.wikipedia.org/wiki/Kalmar_Union"
   },
   {
     "title": "The Gunpowder Plot",
-    "body": "On 5 November 1605 Guy Fawkes was arrested beneath the English Parliament guarding barrels of gunpowder. A group of Catholic conspirators had planned to kill King James I. Britain still marks the date with bonfires and fireworks."
+    "body": "On 5 November 1605 Guy Fawkes was arrested beneath the English Parliament guarding barrels of gunpowder. A group of Catholic conspirators had planned to kill King James I. Britain still marks the date with bonfires and fireworks.",
+    "url": "https://en.wikipedia.org/wiki/Gunpowder_Plot"
   },
   {
     "title": "The Fall of Constantinople",
-    "body": "In 1453 the Ottoman sultan Mehmed II captured Constantinople, ending the Byzantine Empire. The city became the Ottoman capital, and the event is often used to mark the end of the Middle Ages."
+    "body": "In 1453 the Ottoman sultan Mehmed II captured Constantinople, ending the Byzantine Empire. The city became the Ottoman capital, and the event is often used to mark the end of the Middle Ages.",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
   },
   {
     "title": "The Battle of Hastings",
-    "body": "In 1066 William, Duke of Normandy, defeated the English king Harold II at Hastings. The Norman Conquest replaced the English aristocracy with a Norman one. The Bayeux Tapestry depicts the campaign."
+    "body": "In 1066 William, Duke of Normandy, defeated the English king Harold II at Hastings. The Norman Conquest replaced the English aristocracy with a Norman one. The Bayeux Tapestry depicts the campaign.",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Hastings"
   },
   {
     "title": "Columbus Reaches the Americas",
-    "body": "In 1492 Christopher Columbus, sailing for Spain, reached the Caribbean while seeking a westward route to Asia. His voyages opened lasting contact between Europe and the Americas, with the exchange of crops, animals and diseases known as the Columbian Exchange."
+    "body": "In 1492 Christopher Columbus, sailing for Spain, reached the Caribbean while seeking a westward route to Asia. His voyages opened lasting contact between Europe and the Americas, with the exchange of crops, animals and diseases known as the Columbian Exchange.",
+    "url": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
   },
   {
     "title": "The Treaty of Versailles",
-    "body": "Signed in 1919, the treaty ended the First World War between Germany and the Allies. It imposed territorial losses and reparations and assigned Germany responsibility for the war. Its harsh terms are widely seen as one of the causes of the Second World War."
+    "body": "Signed in 1919, the treaty ended the First World War between Germany and the Allies. It imposed territorial losses and reparations and assigned Germany responsibility for the war. Its harsh terms are widely seen as one of the causes of the Second World War.",
+    "url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
   },
   {
     "title": "The Fall of the Berlin Wall",
-    "body": "On 9 November 1989 East Germany opened its border crossings and crowds began tearing down the Berlin Wall. Germany was reunified less than a year later, on 3 October 1990, and the event became the symbol of the end of the Cold War."
+    "body": "On 9 November 1989 East Germany opened its border crossings and crowds began tearing down the Berlin Wall. Germany was reunified less than a year later, on 3 October 1990, and the event became the symbol of the end of the Cold War.",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
   },
   {
     "title": "The Black Death",
-    "body": "Between 1347 and 1351 a plague pandemic, most likely caused by the bacterium Yersinia pestis, swept across Europe. Estimates vary, but it probably killed between a third and a half of the population, with deep consequences for labour, the economy and the Church."
+    "body": "Between 1347 and 1351 a plague pandemic, most likely caused by the bacterium Yersinia pestis, swept across Europe. Estimates vary, but it probably killed between a third and a half of the population, with deep consequences for labour, the economy and the Church.",
+    "url": "https://en.wikipedia.org/wiki/Black_Death"
   },
   {
     "title": "The Congress of Vienna",
-    "body": "In 1814–1815 the great powers met in Vienna to redraw Europe after Napoleon's defeat. Their aim was a balance of power that no single state could overturn, and the settlement helped keep major wars between the powers at bay for decades."
+    "body": "In 1814–1815 the great powers met in Vienna to redraw Europe after Napoleon's defeat. Their aim was a balance of power that no single state could overturn, and the settlement helped keep major wars between the powers at bay for decades.",
+    "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
   },
   {
     "title": "The Meiji Restoration",
-    "body": "In 1868 imperial rule was restored in Japan, ending the Tokugawa shogunate. The new government modernised the country rapidly, adopting Western industry, education and military organisation, and turned Japan into a major power within a few decades."
+    "body": "In 1868 imperial rule was restored in Japan, ending the Tokugawa shogunate. The new government modernised the country rapidly, adopting Western industry, education and military organisation, and turned Japan into a major power within a few decades.",
+    "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
   },
   {
     "title": "The Battle of Sekigahara",
-    "body": "In 1600, after more than a century of civil war, Tokugawa Ieyasu defeated a coalition of rival lords at Sekigahara. In 1603 he became shogun, founding a shogunate that ruled Japan from Edo, now Tokyo. His successors kept over two centuries of peace and largely closed the country to foreigners."
+    "body": "In 1600, after more than a century of civil war, Tokugawa Ieyasu defeated a coalition of rival lords at Sekigahara. In 1603 he became shogun, founding a shogunate that ruled Japan from Edo, now Tokyo. His successors kept over two centuries of peace and largely closed the country to foreigners.",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Sekigahara"
   },
   {
     "title": "The First Australians",
-    "body": "The ancestors of Aboriginal Australians reached the continent at least 50,000 years ago, one of the earliest known sea crossings by modern humans. They spread across the whole continent, developing hundreds of languages and a body of law and belief tied to the land. Their cultures form one of the longest continuous traditions in the world."
+    "body": "The ancestors of Aboriginal Australians reached the continent at least 50,000 years ago, one of the earliest known sea crossings by modern humans. They spread across the whole continent, developing hundreds of languages and a body of law and belief tied to the land. Their cultures form one of the longest continuous traditions in the world.",
+    "url": "https://en.wikipedia.org/wiki/Aboriginal_Australians"
   },
   {
     "title": "The Cold War",
-    "body": "From the late 1940s to 1991 the United States and the Soviet Union, with their allies, waged a global rivalry that stopped short of direct war between them. It was fought through a nuclear arms race, a space race, propaganda and proxy wars in Korea, Vietnam, Afghanistan and elsewhere."
+    "body": "From the late 1940s to 1991 the United States and the Soviet Union, with their allies, waged a global rivalry that stopped short of direct war between them. It was fought through a nuclear arms race, a space race, propaganda and proxy wars in Korea, Vietnam, Afghanistan and elsewhere.",
+    "url": "https://en.wikipedia.org/wiki/Cold_War"
   },
   {
     "title": "The Delhi Sultanate",
-    "body": "From 1206 a succession of Muslim dynasties ruled much of northern India from Delhi. The sultanate resisted the Mongol invasions and at times extended its power deep into the south, bringing Persian and Islamic culture to India. It ended in 1526, when Babur defeated the last sultan at Panipat."
+    "body": "From 1206 a succession of Muslim dynasties ruled much of northern India from Delhi. The sultanate resisted the Mongol invasions and at times extended its power deep into the south, bringing Persian and Islamic culture to India. It ended in 1526, when Babur defeated the last sultan at Panipat.",
+    "url": "https://en.wikipedia.org/wiki/Delhi_Sultanate"
   },
   {
     "title": "The Korean War",
-    "body": "Korea, divided after 1945 into a Soviet-backed north and an American-backed south, went to war when North Korea invaded the South in June 1950. A US-led United Nations force pushed north, then China intervened. The fighting ended with an armistice in 1953, not a peace treaty, near the original dividing line."
+    "body": "Korea, divided after 1945 into a Soviet-backed north and an American-backed south, went to war when North Korea invaded the South in June 1950. A US-led United Nations force pushed north, then China intervened. The fighting ended with an armistice in 1953, not a peace treaty, near the original dividing line.",
+    "url": "https://en.wikipedia.org/wiki/Korean_War"
   },
   {
     "title": "The English Civil War",
-    "body": "From 1642 conflict between Charles I and Parliament over taxation, religion and royal power led to civil war in England, linked to wars in Scotland and Ireland. Parliament won, and in 1649 the king was tried and executed. England became a republic, dominated by Oliver Cromwell, until the monarchy was restored in 1660."
+    "body": "From 1642 conflict between Charles I and Parliament over taxation, religion and royal power led to civil war in England, linked to wars in Scotland and Ireland. Parliament won, and in 1649 the king was tried and executed. England became a republic, dominated by Oliver Cromwell, until the monarchy was restored in 1660.",
+    "url": "https://en.wikipedia.org/wiki/English_Civil_War"
   },
   {
     "title": "The Kingdom of Kush",
-    "body": "Kush, on the Nile in present-day Sudan, was one of Africa's earliest states and a long-time rival of Egypt. In the 8th century BC its kings conquered Egypt and ruled it as the Twenty-fifth Dynasty. Later, centred on Meroë, Kush flourished for centuries and its rulers built many pyramids."
+    "body": "Kush, on the Nile in present-day Sudan, was one of Africa's earliest states and a long-time rival of Egypt. In the 8th century BC its kings conquered Egypt and ruled it as the Twenty-fifth Dynasty. Later, centred on Meroë, Kush flourished for centuries and its rulers built many pyramids.",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kush"
   },
   {
     "title": "Napoleon Bonaparte",
-    "body": "A general of the French Revolution, Napoleon seized power in 1799 and crowned himself emperor in 1804. His armies conquered much of Europe, and his Civil Code spread legal equality far beyond France. After a disastrous invasion of Russia in 1812 he fell, and defeat at Waterloo in 1815 ended in his exile to St Helena."
+    "body": "A general of the French Revolution, Napoleon seized power in 1799 and crowned himself emperor in 1804. His armies conquered much of Europe, and his Civil Code spread legal equality far beyond France. After a disastrous invasion of Russia in 1812 he fell, and defeat at Waterloo in 1815 ended in his exile to St Helena.",
+    "url": "https://en.wikipedia.org/wiki/Napoleon"
   },
   {
     "title": "The Early Islamic Conquests",
-    "body": "In the decades after the Prophet Muhammad's death in 632, Arab Muslim armies conquered the Sasanian Persian Empire and took Syria, Egypt and North Africa from the Byzantines. By the early 8th century the caliphate stretched from Spain to Central Asia. The conquests spread Arabic and, more gradually, Islam across the region."
+    "body": "In the decades after the Prophet Muhammad's death in 632, Arab Muslim armies conquered the Sasanian Persian Empire and took Syria, Egypt and North Africa from the Byzantines. By the early 8th century the caliphate stretched from Spain to Central Asia. The conquests spread Arabic and, more gradually, Islam across the region.",
+    "url": "https://en.wikipedia.org/wiki/Early_Muslim_conquests"
   },
   {
     "title": "The Scramble for Africa",
-    "body": "In the late 19th century European powers raced to colonise Africa; by 1914 only Ethiopia and Liberia remained independent. The Berlin Conference of 1884–85 set rules for claiming territory. Borders drawn by the colonisers, often ignoring existing peoples and states, became those of most modern African countries."
+    "body": "In the late 19th century European powers raced to colonise Africa; by 1914 only Ethiopia and Liberia remained independent. The Berlin Conference of 1884–85 set rules for claiming territory. Borders drawn by the colonisers, often ignoring existing peoples and states, became those of most modern African countries.",
+    "url": "https://en.wikipedia.org/wiki/Scramble_for_Africa"
   },
   {
     "title": "The Outbreak of the First World War",
-    "body": "On 28 June 1914 a Bosnian Serb nationalist assassinated Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, in Sarajevo. Through alliances and mobilisations, the crisis drew in Russia, Germany, France and Britain within weeks. The war brought down four empires: the German, Austro-Hungarian, Russian and Ottoman."
+    "body": "On 28 June 1914 a Bosnian Serb nationalist assassinated Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, in Sarajevo. Through alliances and mobilisations, the crisis drew in Russia, Germany, France and Britain within weeks. The war brought down four empires: the German, Austro-Hungarian, Russian and Ottoman.",
+    "url": "https://en.wikipedia.org/wiki/July_Crisis"
   },
   {
     "title": "Túpac Amaru II's Rebellion",
-    "body": "In 1780 José Gabriel Condorcanqui, a local chief of Inca descent who took the name Túpac Amaru II, led a great Andean rebellion against Spanish colonial abuses such as forced labour. He was captured and executed in Cusco in 1781, but became a lasting symbol of indigenous resistance."
+    "body": "In 1780 José Gabriel Condorcanqui, a local chief of Inca descent who took the name Túpac Amaru II, led a great Andean rebellion against Spanish colonial abuses such as forced labour. He was captured and executed in Cusco in 1781, but became a lasting symbol of indigenous resistance.",
+    "url": "https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II"
   },
   {
     "title": "Cahokia",
-    "body": "Cahokia, near present-day St Louis, was the largest settlement of the Mississippian culture and of pre-Columbian North America north of Mexico. At its height, around 1050–1200, it was dominated by Monks Mound, a huge earthen platform, and probably housed ten thousand or more people, though estimates vary widely. It was largely abandoned by the late 14th century."
+    "body": "Cahokia, near present-day St Louis, was the largest settlement of the Mississippian culture and of pre-Columbian North America north of Mexico. At its height, around 1050–1200, it was dominated by Monks Mound, a huge earthen platform, and probably housed ten thousand or more people, though estimates vary widely. It was largely abandoned by the late 14th century.",
+    "url": "https://en.wikipedia.org/wiki/Cahokia"
   },
   {
     "title": "The Rwandan Genocide",
-    "body": "Over about a hundred days from April 1994, Hutu extremists in Rwanda killed hundreds of thousands of people, with estimates ranging from about 500,000 to over 800,000, mostly from the Tutsi minority, along with moderate Hutu. The international community, including UN peacekeepers on the ground, failed to stop it. It ended when the Tutsi-led Rwandan Patriotic Front took control of most of the country."
+    "body": "Over about a hundred days from April 1994, Hutu extremists in Rwanda killed hundreds of thousands of people, with estimates ranging from about 500,000 to over 800,000, mostly from the Tutsi minority, along with moderate Hutu. The international community, including UN peacekeepers on the ground, failed to stop it. It ended when the Tutsi-led Rwandan Patriotic Front took control of most of the country.",
+    "url": "https://en.wikipedia.org/wiki/Rwandan_genocide"
   },
   {
     "title": "The Maurya Empire and Ashoka",
-    "body": "Founded by Chandragupta Maurya around 320 BC, the Maurya Empire was the first to unite most of the Indian subcontinent. His grandson Ashoka, appalled by the bloodshed of his conquest of Kalinga, embraced Buddhism and promoted non-violence. His edicts, carved on rocks and pillars, are among India's oldest written records."
+    "body": "Founded by Chandragupta Maurya around 320 BC, the Maurya Empire was the first to unite most of the Indian subcontinent. His grandson Ashoka, appalled by the bloodshed of his conquest of Kalinga, embraced Buddhism and promoted non-violence. His edicts, carved on rocks and pillars, are among India's oldest written records.",
+    "url": "https://en.wikipedia.org/wiki/Maurya_Empire"
   },
   {
     "title": "The Unification of Germany",
-    "body": "Guided by Otto von Bismarck, Prussia won wars against Denmark in 1864, Austria in 1866 and France in 1870–71. In January 1871 the German Empire was proclaimed at Versailles, with the Prussian king as emperor. The new state, which excluded Austria, quickly became a leading industrial and military power."
+    "body": "Guided by Otto von Bismarck, Prussia won wars against Denmark in 1864, Austria in 1866 and France in 1870–71. In January 1871 the German Empire was proclaimed at Versailles, with the Prussian king as emperor. The new state, which excluded Austria, quickly became a leading industrial and military power.",
+    "url": "https://en.wikipedia.org/wiki/Unification_of_Germany"
   },
   {
     "title": "The Code of Hammurabi",
-    "body": "Hammurabi, king of Babylon in the 18th century BC, had nearly 300 laws inscribed on stone stelae; the best-preserved is in the Louvre. It is one of the most complete early legal texts. Its punishments often followed 'an eye for an eye' and varied with social rank."
+    "body": "Hammurabi, king of Babylon in the 18th century BC, had nearly 300 laws inscribed on stone stelae; the best-preserved is in the Louvre. It is one of the most complete early legal texts. Its punishments often followed 'an eye for an eye' and varied with social rank.",
+    "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi"
   },
   {
     "title": "The Aztec Empire",
-    "body": "The Mexica, or Aztecs, founded their capital Tenochtitlan on an island in Lake Texcoco, traditionally in 1325, and through a triple alliance came to dominate central Mexico. In 1519–1521 Hernán Cortés, aided by many thousands of indigenous allies and by smallpox, destroyed the empire, and Mexico City was built on its ruins."
+    "body": "The Mexica, or Aztecs, founded their capital Tenochtitlan on an island in Lake Texcoco, traditionally in 1325, and through a triple alliance came to dominate central Mexico. In 1519–1521 Hernán Cortés, aided by many thousands of indigenous allies and by smallpox, destroyed the empire, and Mexico City was built on its ruins.",
+    "url": "https://en.wikipedia.org/wiki/Aztec_Empire"
   },
   {
     "title": "The Qing Conquest of China",
-    "body": "In 1644 rebels took Beijing and the last Ming emperor killed himself; Manchu forces from the north-east then seized the city and founded the Qing dynasty. Over the following decades the Qing conquered all of China, and under emperors such as Kangxi and Qianlong greatly expanded it, adding Taiwan, Mongolia, Xinjiang and Tibet."
+    "body": "In 1644 rebels took Beijing and the last Ming emperor killed himself; Manchu forces from the north-east then seized the city and founded the Qing dynasty. Over the following decades the Qing conquered all of China, and under emperors such as Kangxi and Qianlong greatly expanded it, adding Taiwan, Mongolia, Xinjiang and Tibet.",
+    "url": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing"
   },
   {
     "title": "The Persian Wars",
-    "body": "In 490 and 480–479 BC the Persian Empire invaded Greece. The Athenians defeated the first invasion at Marathon; the second was halted after Thermopylae by Greek victories at Salamis and Plataea. The victory, recorded by Herodotus, opened the way for Athens' golden age."
+    "body": "In 490 and 480–479 BC the Persian Empire invaded Greece. The Athenians defeated the first invasion at Marathon; the second was halted after Thermopylae by Greek victories at Salamis and Plataea. The victory, recorded by Herodotus, opened the way for Athens' golden age.",
+    "url": "https://en.wikipedia.org/wiki/Greco-Persian_Wars"
   },
   {
     "title": "The Atlantic Slave Trade",
-    "body": "From the 16th to the 19th century around 12 million enslaved Africans were shipped across the Atlantic, many dying on the voyage known as the Middle Passage. Most were forced to work on plantations growing sugar, tobacco and cotton. The trade transformed the Americas and devastated parts of West and Central Africa."
+    "body": "From the 16th to the 19th century around 12 million enslaved Africans were shipped across the Atlantic, many dying on the voyage known as the Middle Passage. Most were forced to work on plantations growing sugar, tobacco and cotton. The trade transformed the Americas and devastated parts of West and Central Africa.",
+    "url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade"
   },
   {
     "title": "The Revolutions of 1848",
-    "body": "In 1848 revolutions broke out across Europe, in France, the German and Italian states, the Austrian Empire and elsewhere, demanding constitutions, national unity and political rights. In France the monarchy fell. Most revolts were crushed within a year or two, but they spread liberal and nationalist ideas."
+    "body": "In 1848 revolutions broke out across Europe, in France, the German and Italian states, the Austrian Empire and elsewhere, demanding constitutions, national unity and political rights. In France the monarchy fell. Most revolts were crushed within a year or two, but they spread liberal and nationalist ideas.",
+    "url": "https://en.wikipedia.org/wiki/Revolutions_of_1848"
   },
   {
     "title": "The Tang Dynasty",
-    "body": "The Tang dynasty, which ruled China from 618 to 907, is often seen as a high point of Chinese civilisation. Its capital, Chang'an, was a cosmopolitan city at the end of the trade routes from Central Asia, and the era was a golden age of poetry. The An Lushan rebellion of the 750s weakened it badly."
+    "body": "The Tang dynasty, which ruled China from 618 to 907, is often seen as a high point of Chinese civilisation. Its capital, Chang'an, was a cosmopolitan city at the end of the trade routes from Central Asia, and the era was a golden age of poetry. The An Lushan rebellion of the 750s weakened it badly.",
+    "url": "https://en.wikipedia.org/wiki/Tang_dynasty"
   },
   {
     "title": "The Partition of India",
-    "body": "In August 1947 British India became independent and was divided into India and Pakistan, whose eastern wing later became Bangladesh. The division along religious lines displaced between 10 and 20 million people, and communal violence killed hundreds of thousands, possibly far more. The Kashmir dispute dates from Partition."
+    "body": "In August 1947 British India became independent and was divided into India and Pakistan, whose eastern wing later became Bangladesh. The division along religious lines displaced between 10 and 20 million people, and communal violence killed hundreds of thousands, possibly far more. The Kashmir dispute dates from Partition.",
+    "url": "https://en.wikipedia.org/wiki/Partition_of_India"
   },
   {
     "title": "The Mongol Empire",
-    "body": "Temüjin united the Mongol tribes and in 1206 took the title Genghis Khan. He and his successors built the largest contiguous land empire in history, stretching from Korea to eastern Europe. It later split into separate khanates, but Mongol rule made overland travel and trade across Eurasia unusually secure."
+    "body": "Temüjin united the Mongol tribes and in 1206 took the title Genghis Khan. He and his successors built the largest contiguous land empire in history, stretching from Korea to eastern Europe. It later split into separate khanates, but Mongol rule made overland travel and trade across Eurasia unusually secure.",
+    "url": "https://en.wikipedia.org/wiki/Mongol_Empire"
   },
   {
     "title": "The Founding of the People's Republic of China",
-    "body": "After a long civil war against Chiang Kai-shek's Nationalists, interrupted by the war against Japan, the Communist Party under Mao Zedong won mainland China. On 1 October 1949 Mao proclaimed the People's Republic in Beijing, and the Nationalist government retreated to Taiwan."
+    "body": "After a long civil war against Chiang Kai-shek's Nationalists, interrupted by the war against Japan, the Communist Party under Mao Zedong won mainland China. On 1 October 1949 Mao proclaimed the People's Republic in Beijing, and the Nationalist government retreated to Taiwan.",
+    "url": "https://en.wikipedia.org/wiki/Proclamation_of_the_People's_Republic_of_China"
   },
   {
     "title": "Peter the Great",
-    "body": "Peter I, tsar of Russia from 1682 until 1725, forcefully modernised his country on Western European lines, reforming the army and state and creating a navy. In 1703 he founded St Petersburg on the Baltic, later his capital. Victory over Sweden in the Great Northern War made Russia a major European power."
+    "body": "Peter I, tsar of Russia from 1682 until 1725, forcefully modernised his country on Western European lines, reforming the army and state and creating a navy. In 1703 he founded St Petersburg on the Baltic, later his capital. Victory over Sweden in the Great Northern War made Russia a major European power.",
+    "url": "https://en.wikipedia.org/wiki/Peter_the_Great"
   },
   {
     "title": "The Bronze Age Collapse",
-    "body": "In the decades around 1200 BC many societies of the eastern Mediterranean collapsed, including the Hittite Empire and the Mycenaean palaces of Greece. Cities were destroyed and trade networks broke down. Historians still debate the causes, which may include drought, invasions such as those of the 'Sea Peoples', and systemic failure."
+    "body": "In the decades around 1200 BC many societies of the eastern Mediterranean collapsed, including the Hittite Empire and the Mycenaean palaces of Greece. Cities were destroyed and trade networks broke down. Historians still debate the causes, which may include drought, invasions such as those of the 'Sea Peoples', and systemic failure.",
+    "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
   },
   {
     "title": "The Battle of Adwa",
-    "body": "On 1 March 1896 the army of Emperor Menelik II of Ethiopia decisively defeated an Italian invasion force at Adwa. Italy was forced to recognise Ethiopian independence, and the victory became a lasting symbol of African resistance to colonialism."
+    "body": "On 1 March 1896 the army of Emperor Menelik II of Ethiopia decisively defeated an Italian invasion force at Adwa. Italy was forced to recognise Ethiopian independence, and the victory became a lasting symbol of African resistance to colonialism.",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Adwa"
   },
   {
     "title": "The Cuban Missile Crisis",
-    "body": "In October 1962 American spy planes found Soviet nuclear missile sites under construction in Cuba. For thirteen days the world stood close to nuclear war. Khrushchev withdrew the missiles in exchange for a US pledge not to invade Cuba and a secret promise to remove American missiles from Turkey."
+    "body": "In October 1962 American spy planes found Soviet nuclear missile sites under construction in Cuba. For thirteen days the world stood close to nuclear war. Khrushchev withdrew the missiles in exchange for a US pledge not to invade Cuba and a secret promise to remove American missiles from Turkey.",
+    "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
   },
   {
     "title": "The Unification of Egypt",
-    "body": "Around 3100 BC Upper and Lower Egypt were united into a single kingdom, an achievement tradition credits to a king called Menes, often identified with Narmer. It began the dynastic history of pharaonic Egypt, a state that endured, with interruptions, for nearly three thousand years."
+    "body": "Around 3100 BC Upper and Lower Egypt were united into a single kingdom, an achievement tradition credits to a king called Menes, often identified with Narmer. It began the dynastic history of pharaonic Egypt, a state that endured, with interruptions, for nearly three thousand years.",
+    "url": "https://en.wikipedia.org/wiki/Early_Dynastic_Period_of_Egypt"
   },
   {
     "title": "The Kingdom of Hawaii",
-    "body": "Around 1810 Kamehameha I completed the unification of the Hawaiian Islands into a single kingdom. Under his successors Hawaii became a constitutional monarchy recognised by foreign powers, while American-owned sugar plantations grew in influence. In 1893 American businessmen, backed by US marines, overthrew Queen Liliʻuokalani, and the United States annexed the islands in 1898."
+    "body": "Around 1810 Kamehameha I completed the unification of the Hawaiian Islands into a single kingdom. Under his successors Hawaii became a constitutional monarchy recognised by foreign powers, while American-owned sugar plantations grew in influence. In 1893 American businessmen, backed by US marines, overthrew Queen Liliʻuokalani, and the United States annexed the islands in 1898.",
+    "url": "https://en.wikipedia.org/wiki/Hawaiian_Kingdom"
   },
   {
     "title": "The Salt March",
-    "body": "In 1930 Mohandas Gandhi led a 24-day march to the coastal village of Dandi, where he made salt in defiance of the British salt tax. The civil disobedience that followed led to tens of thousands of arrests and drew worldwide attention to the Indian independence movement."
+    "body": "In 1930 Mohandas Gandhi led a 24-day march to the coastal village of Dandi, where he made salt in defiance of the British salt tax. The civil disobedience that followed led to tens of thousands of arrests and drew worldwide attention to the Indian independence movement.",
+    "url": "https://en.wikipedia.org/wiki/Salt_March"
   },
   {
     "title": "The Viking Age",
-    "body": "From the late 8th to the mid-11th century Scandinavian seafarers raided, traded and settled across Europe; the attack on the monastery of Lindisfarne in 793 is often taken as the start. They settled in England, Ireland, Normandy and Iceland, reached Greenland and North America, and travelled down Russian rivers to Constantinople."
+    "body": "From the late 8th to the mid-11th century Scandinavian seafarers raided, traded and settled across Europe; the attack on the monastery of Lindisfarne in 793 is often taken as the start. They settled in England, Ireland, Normandy and Iceland, reached Greenland and North America, and travelled down Russian rivers to Constantinople.",
+    "url": "https://en.wikipedia.org/wiki/Viking_Age"
   },
   {
     "title": "The Second World War",
-    "body": "The war began with Germany's invasion of Poland in September 1939 and became global in 1941, when Germany invaded the Soviet Union and Japan attacked Pearl Harbor. It ended with Germany's surrender in May 1945 and Japan's in August, after the atomic bombings of Hiroshima and Nagasaki. It killed an estimated 70 to 85 million people."
+    "body": "The war began with Germany's invasion of Poland in September 1939 and became global in 1941, when Germany invaded the Soviet Union and Japan attacked Pearl Harbor. It ended with Germany's surrender in May 1945 and Japan's in August, after the atomic bombings of Hiroshima and Nagasaki. It killed an estimated 70 to 85 million people.",
+    "url": "https://en.wikipedia.org/wiki/World_War_II"
   },
   {
     "title": "Sargon of Akkad",
-    "body": "Around 2300 BC Sargon, ruling from the city of Akkad, conquered the Sumerian city-states of Mesopotamia. The Akkadian Empire he founded is often described as the first empire, uniting different peoples under a single ruler."
+    "body": "Around 2300 BC Sargon, ruling from the city of Akkad, conquered the Sumerian city-states of Mesopotamia. The Akkadian Empire he founded is often described as the first empire, uniting different peoples under a single ruler.",
+    "url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
   },
   {
     "title": "The Khmer Empire",
-    "body": "From the 9th to the 15th century the Khmer Empire dominated much of mainland South-East Asia from its capital at Angkor, in present-day Cambodia. Its kings built vast temples, including Angkor Wat in the 12th century, and a city sustained by great reservoirs and canals. Angkor declined after the 14th century."
+    "body": "From the 9th to the 15th century the Khmer Empire dominated much of mainland South-East Asia from its capital at Angkor, in present-day Cambodia. Its kings built vast temples, including Angkor Wat in the 12th century, and a city sustained by great reservoirs and canals. Angkor declined after the 14th century.",
+    "url": "https://en.wikipedia.org/wiki/Khmer_Empire"
   },
   {
     "title": "The Haitian Revolution",
-    "body": "In 1791 enslaved people in the French colony of Saint-Domingue rose in revolt. Led by Toussaint Louverture and later Jean-Jacques Dessalines, they abolished slavery and defeated French, Spanish and British forces. In 1804 Haiti became independent: the first state founded by a successful revolt of enslaved people."
+    "body": "In 1791 enslaved people in the French colony of Saint-Domingue rose in revolt. Led by Toussaint Louverture and later Jean-Jacques Dessalines, they abolished slavery and defeated French, Spanish and British forces. In 1804 Haiti became independent: the first state founded by a successful revolt of enslaved people.",
+    "url": "https://en.wikipedia.org/wiki/Haitian_Revolution"
   },
   {
     "title": "The Hundred Years' War",
-    "body": "From 1337 to 1453 the kings of England and France fought intermittently over English claims to the French throne. England won famous victories at Crécy and Agincourt, but France recovered, inspired in part by Joan of Arc, and drove the English out of all of France except Calais."
+    "body": "From 1337 to 1453 the kings of England and France fought intermittently over English claims to the French throne. England won famous victories at Crécy and Agincourt, but France recovered, inspired in part by Joan of Arc, and drove the English out of all of France except Calais.",
+    "url": "https://en.wikipedia.org/wiki/Hundred_Years'_War"
   },
   {
     "title": "Suleiman the Magnificent",
-    "body": "Suleiman I ruled the Ottoman Empire from 1520 to 1566, at the height of its power. He took Belgrade, Rhodes, much of Hungary and Baghdad, and besieged Vienna in 1529. Known to Ottomans as 'the Lawgiver', he also presided over a flowering of architecture led by Sinan."
+    "body": "Suleiman I ruled the Ottoman Empire from 1520 to 1566, at the height of its power. He took Belgrade, Rhodes, much of Hungary and Baghdad, and besieged Vienna in 1529. Known to Ottomans as 'the Lawgiver', he also presided over a flowering of architecture led by Sinan.",
+    "url": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
   },
   {
     "title": "The Taiping Rebellion",
-    "body": "From 1850 to 1864 a rebellion led by Hong Xiuquan, who believed he was the younger brother of Jesus, tore through southern and central China. The Taiping made Nanjing their capital before Qing forces crushed them. It was one of the deadliest conflicts in history, with deaths estimated in the tens of millions."
+    "body": "From 1850 to 1864 a rebellion led by Hong Xiuquan, who believed he was the younger brother of Jesus, tore through southern and central China. The Taiping made Nanjing their capital before Qing forces crushed them. It was one of the deadliest conflicts in history, with deaths estimated in the tens of millions.",
+    "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion"
   },
   {
     "title": "Great Zimbabwe",
-    "body": "Great Zimbabwe was the capital of a powerful southern African kingdom from about the 11th to the 15th century. Its massive dry-stone walls, built without mortar, enclosed a royal city whose wealth came from cattle and gold traded to the Swahili coast. Colonial-era writers wrongly denied it was built by Africans; modern Zimbabwe is named after it."
+    "body": "Great Zimbabwe was the capital of a powerful southern African kingdom from about the 11th to the 15th century. Its massive dry-stone walls, built without mortar, enclosed a royal city whose wealth came from cattle and gold traded to the Swahili coast. Colonial-era writers wrongly denied it was built by Africans; modern Zimbabwe is named after it.",
+    "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe"
   },
   {
     "title": "The September 11 Attacks",
-    "body": "On 11 September 2001 al-Qaeda terrorists hijacked four airliners, crashing two into the World Trade Center in New York and one into the Pentagon; the fourth came down in Pennsylvania after passengers fought back. Nearly 3,000 people were killed. The United States responded with the invasion of Afghanistan and a 'war on terror'."
+    "body": "On 11 September 2001 al-Qaeda terrorists hijacked four airliners, crashing two into the World Trade Center in New York and one into the Pentagon; the fourth came down in Pennsylvania after passengers fought back. Nearly 3,000 people were killed. The United States responded with the invasion of Afghanistan and a 'war on terror'.",
+    "url": "https://en.wikipedia.org/wiki/September_11_attacks"
   },
   {
     "title": "The Achaemenid Persian Empire",
-    "body": "Founded by Cyrus the Great in the mid-6th century BC, the Achaemenid Empire stretched from Egypt and the Aegean to the Indus. It was governed through provinces called satrapies, linked by royal roads. Cyrus was remembered for letting conquered peoples, such as the Jews exiled in Babylon, return home. Alexander the Great ended the empire."
+    "body": "Founded by Cyrus the Great in the mid-6th century BC, the Achaemenid Empire stretched from Egypt and the Aegean to the Indus. It was governed through provinces called satrapies, linked by royal roads. Cyrus was remembered for letting conquered peoples, such as the Jews exiled in Babylon, return home. Alexander the Great ended the empire.",
+    "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
   },
   {
     "title": "The Kamakura Shogunate",
-    "body": "In 1192 Minamoto no Yoritomo took the title of shogun, and his military government at Kamakura held real power in Japan while the emperor's court remained in Kyoto. This began nearly seven centuries of rule by warriors under a shogun. The Kamakura regime repelled Mongol invasions in 1274 and 1281 before falling in 1333."
+    "body": "In 1192 Minamoto no Yoritomo took the title of shogun, and his military government at Kamakura held real power in Japan while the emperor's court remained in Kyoto. This began nearly seven centuries of rule by warriors under a shogun. The Kamakura regime repelled Mongol invasions in 1274 and 1281 before falling in 1333.",
+    "url": "https://en.wikipedia.org/wiki/Kamakura_shogunate"
   },
   {
     "title": "The Gupta Empire",
-    "body": "The Gupta Empire ruled much of northern India from the early 4th to the 6th century AD. Its era is often called a classical age of Indian culture, with achievements in Sanskrit literature, art and mathematics, including the work of the astronomer Aryabhata. Hunnic invasions weakened it from the late 5th century."
+    "body": "The Gupta Empire ruled much of northern India from the early 4th to the 6th century AD. Its era is often called a classical age of Indian culture, with achievements in Sanskrit literature, art and mathematics, including the work of the astronomer Aryabhata. Hunnic invasions weakened it from the late 5th century.",
+    "url": "https://en.wikipedia.org/wiki/Gupta_Empire"
   },
   {
     "title": "The Safavid Empire",
-    "body": "In 1501 Ismail I founded the Safavid dynasty in Iran and made Twelver Shia Islam the state religion, a lasting choice that made Iran the heartland of Shia Islam. The Safavids were long-time rivals of the Sunni Ottomans. Shah Abbas I made Isfahan his capital and one of the finest cities of the Islamic world."
+    "body": "In 1501 Ismail I founded the Safavid dynasty in Iran and made Twelver Shia Islam the state religion, a lasting choice that made Iran the heartland of Shia Islam. The Safavids were long-time rivals of the Sunni Ottomans. Shah Abbas I made Isfahan his capital and one of the finest cities of the Islamic world.",
+    "url": "https://en.wikipedia.org/wiki/Safavid_Iran"
   },
   {
     "title": "The Vietnam War",
-    "body": "After the French defeat at Dien Bien Phu in 1954, Vietnam was divided into a communist north and a non-communist south. From the 1960s the United States sent large numbers of troops to support the South, but withdrew after the 1973 Paris accords. Northern forces took Saigon in 1975, reunifying the country under communist rule."
+    "body": "After the French defeat at Dien Bien Phu in 1954, Vietnam was divided into a communist north and a non-communist south. From the 1960s the United States sent large numbers of troops to support the South, but withdrew after the 1973 Paris accords. Northern forces took Saigon in 1975, reunifying the country under communist rule.",
+    "url": "https://en.wikipedia.org/wiki/Vietnam_War"
   },
   {
     "title": "The First Fleet",
-    "body": "In January 1788 eleven British ships carrying convicts, marines and officials arrived in Australia under Captain Arthur Phillip, founding a penal colony at Sydney Cove. The colony began British settlement of the continent, with devastating consequences for Aboriginal peoples through disease, violence and loss of land."
+    "body": "In January 1788 eleven British ships carrying convicts, marines and officials arrived in Australia under Captain Arthur Phillip, founding a penal colony at Sydney Cove. The colony began British settlement of the continent, with devastating consequences for Aboriginal peoples through disease, violence and loss of land.",
+    "url": "https://en.wikipedia.org/wiki/First_Fleet"
   },
   {
     "title": "The Dissolution of the Soviet Union",
-    "body": "Mikhail Gorbachev's reforms of the late 1980s, glasnost (openness) and perestroika (restructuring), loosened control over the Soviet system. A failed hardline coup in August 1991 accelerated the republics' moves to independence. On 25 December 1991 Gorbachev resigned, and the Soviet Union was replaced by fifteen independent states."
+    "body": "Mikhail Gorbachev's reforms of the late 1980s, glasnost (openness) and perestroika (restructuring), loosened control over the Soviet system. A failed hardline coup in August 1991 accelerated the republics' moves to independence. On 25 December 1991 Gorbachev resigned, and the Soviet Union was replaced by fifteen independent states.",
+    "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
   },
   {
     "title": "The Shang Dynasty",
-    "body": "Ruling in the Yellow River valley from around 1600 BC to the mid-11th century BC, the Shang is the earliest Chinese dynasty confirmed by both archaeology and written records. Its kings consulted their ancestors by divination on turtle shells and bones, and its craftsmen were masters of bronze casting. The Shang were overthrown by the Zhou."
+    "body": "Ruling in the Yellow River valley from around 1600 BC to the mid-11th century BC, the Shang is the earliest Chinese dynasty confirmed by both archaeology and written records. Its kings consulted their ancestors by divination on turtle shells and bones, and its craftsmen were masters of bronze casting. The Shang were overthrown by the Zhou.",
+    "url": "https://en.wikipedia.org/wiki/Shang_dynasty"
   },
   {
     "title": "The Mexican Revolution",
-    "body": "Beginning in 1910 as a revolt against the long rule of Porfirio Díaz, the Mexican Revolution became a decade of civil war with leaders such as Francisco Madero, Pancho Villa and Emiliano Zapata. Its Constitution of 1917 promised land reform and workers' rights, and the revolution shaped Mexico for the rest of the century."
+    "body": "Beginning in 1910 as a revolt against the long rule of Porfirio Díaz, the Mexican Revolution became a decade of civil war with leaders such as Francisco Madero, Pancho Villa and Emiliano Zapata. Its Constitution of 1917 promised land reform and workers' rights, and the revolution shaped Mexico for the rest of the century.",
+    "url": "https://en.wikipedia.org/wiki/Mexican_Revolution"
   },
   {
     "title": "Alexander the Great",
-    "body": "Alexander became king of Macedon in 336 BC and within about a decade conquered the Persian Empire, campaigning from Egypt to the Indus. He died in Babylon in 323 BC, aged 32, and his generals divided his empire. His conquests spread Greek culture across the Near East, opening the Hellenistic period."
+    "body": "Alexander became king of Macedon in 336 BC and within about a decade conquered the Persian Empire, campaigning from Egypt to the Indus. He died in Babylon in 323 BC, aged 32, and his generals divided his empire. His conquests spread Greek culture across the Near East, opening the Hellenistic period.",
+    "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
   },
   {
     "title": "The Inca Empire",
-    "body": "In the 15th century the Inca expanded from Cusco to build the largest state of the pre-Columbian Americas, stretching along the Andes from present-day Ecuador to Chile. They ruled through a great road network and kept records on knotted cords called quipu. Weakened by civil war and disease, the empire fell to Francisco Pizarro's Spaniards from 1532."
+    "body": "In the 15th century the Inca expanded from Cusco to build the largest state of the pre-Columbian Americas, stretching along the Andes from present-day Ecuador to Chile. They ruled through a great road network and kept records on knotted cords called quipu. Weakened by civil war and disease, the empire fell to Francisco Pizarro's Spaniards from 1532.",
+    "url": "https://en.wikipedia.org/wiki/Inca_Empire"
   },
   {
     "title": "Shaka and the Zulu Kingdom",
-    "body": "In the 1810s and 1820s Shaka built the Zulu kingdom in south-eastern Africa into a powerful military state, reorganising its army and tactics. In 1879 a Zulu army inflicted a heavy defeat on the British at Isandlwana, before Britain conquered the kingdom later that year."
+    "body": "In the 1810s and 1820s Shaka built the Zulu kingdom in south-eastern Africa into a powerful military state, reorganising its army and tactics. In 1879 a Zulu army inflicted a heavy defeat on the British at Isandlwana, before Britain conquered the kingdom later that year.",
+    "url": "https://en.wikipedia.org/wiki/Shaka"
   },
   {
     "title": "The Maratha Empire",
-    "body": "In the 17th century Shivaji carved out a Maratha kingdom in western India in defiance of the Mughals and was crowned in 1674. After the death of the Mughal emperor Aurangzeb in 1707, the Marathas expanded across much of India. Defeat at Panipat in 1761 checked them, and the British overcame them by 1818."
+    "body": "In the 17th century Shivaji carved out a Maratha kingdom in western India in defiance of the Mughals and was crowned in 1674. After the death of the Mughal emperor Aurangzeb in 1707, the Marathas expanded across much of India. Defeat at Panipat in 1761 checked them, and the British overcame them by 1818.",
+    "url": "https://en.wikipedia.org/wiki/Maratha_Empire"
   },
   {
     "title": "The Emancipation of the Russian Serfs",
-    "body": "In 1861 Tsar Alexander II abolished serfdom in Russia, freeing over 20 million peasants who had been bound to landowners. Freed serfs had to make redemption payments for their land over decades, and many remained poor. The reform followed Russia's defeat in the Crimean War."
+    "body": "In 1861 Tsar Alexander II abolished serfdom in Russia, freeing over 20 million peasants who had been bound to landowners. Freed serfs had to make redemption payments for their land over decades, and many remained poor. The reform followed Russia's defeat in the Crimean War.",
+    "url": "https://en.wikipedia.org/wiki/Emancipation_reform_of_1861"
   },
   {
     "title": "The Armenian Genocide",
-    "body": "From 1915, during the First World War, the Ottoman government organised the deportation and mass killing of its Armenian population. Around a million or more Armenians died in massacres and death marches into the Syrian desert. Most historians call it genocide, a term Turkey rejects."
+    "body": "From 1915, during the First World War, the Ottoman government organised the deportation and mass killing of its Armenian population. Around a million or more Armenians died in massacres and death marches into the Syrian desert. Most historians call it genocide, a term Turkey rejects.",
+    "url": "https://en.wikipedia.org/wiki/Armenian_genocide"
   },
   {
     "title": "The Opium Wars",
-    "body": "Britain fought two wars against Qing China, in 1839–1842 and 1856–1860, after China tried to stop the opium trade. Defeat forced China to open ports to foreign trade, pay indemnities and cede Hong Kong Island to Britain. In China the wars are seen as the start of a 'century of humiliation'."
+    "body": "Britain fought two wars against Qing China, in 1839–1842 and 1856–1860, after China tried to stop the opium trade. Defeat forced China to open ports to foreign trade, pay indemnities and cede Hong Kong Island to Britain. In China the wars are seen as the start of a 'century of humiliation'.",
+    "url": "https://en.wikipedia.org/wiki/Opium_Wars"
   },
   {
     "title": "The 1948 Arab–Israeli War",
-    "body": "On 14 May 1948, as the British Mandate in Palestine ended, Jewish leaders proclaimed the State of Israel, and neighbouring Arab states invaded. Israel survived and ended the war with more territory than the 1947 UN partition plan had allotted. About 700,000 Palestinian Arabs fled or were expelled, an event Palestinians call the Nakba, or 'catastrophe'."
+    "body": "On 14 May 1948, as the British Mandate in Palestine ended, Jewish leaders proclaimed the State of Israel, and neighbouring Arab states invaded. Israel survived and ended the war with more territory than the 1947 UN partition plan had allotted. About 700,000 Palestinian Arabs fled or were expelled, an event Palestinians call the Nakba, or 'catastrophe'.",
+    "url": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War"
   },
   {
     "title": "The Indus Valley Civilisation",
-    "body": "Flourishing from around 2600 to 1900 BC in present-day Pakistan and north-western India, the Indus or Harappan civilisation was one of the earliest urban societies. Cities such as Mohenjo-daro had planned streets and advanced drainage. Its script has never been deciphered."
+    "body": "Flourishing from around 2600 to 1900 BC in present-day Pakistan and north-western India, the Indus or Harappan civilisation was one of the earliest urban societies. Cities such as Mohenjo-daro had planned streets and advanced drainage. Its script has never been deciphered.",
+    "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
   },
   {
     "title": "Kievan Rus'",
-    "body": "From the late 9th century a state centred on Kyiv, whose early rulers are generally thought to have been of Scandinavian origin, united East Slavic lands along the trade route from the Baltic to the Black Sea. In 988 Prince Vladimir adopted Orthodox Christianity from Byzantium, shaping the religion and culture of the region. Weakened by division into rival principalities, it was destroyed by the Mongol invasion, which took Kyiv in 1240. Russia, Ukraine and Belarus all trace their origins to it."
+    "body": "From the late 9th century a state centred on Kyiv, whose early rulers are generally thought to have been of Scandinavian origin, united East Slavic lands along the trade route from the Baltic to the Black Sea. In 988 Prince Vladimir adopted Orthodox Christianity from Byzantium, shaping the religion and culture of the region. Weakened by division into rival principalities, it was destroyed by the Mongol invasion, which took Kyiv in 1240. Russia, Ukraine and Belarus all trace their origins to it.",
+    "url": "https://en.wikipedia.org/wiki/Kievan_Rus'"
   },
   {
     "title": "The Mughal Empire",
-    "body": "Founded by Babur in 1526, the Mughal Empire came to rule most of the Indian subcontinent. Akbar, who reigned in the late 16th century, built an efficient administration and practised tolerance towards his Hindu subjects. Mughal power peaked in the 17th century, the age of the Taj Mahal, and declined in the 18th."
+    "body": "Founded by Babur in 1526, the Mughal Empire came to rule most of the Indian subcontinent. Akbar, who reigned in the late 16th century, built an efficient administration and practised tolerance towards his Hindu subjects. Mughal power peaked in the 17th century, the age of the Taj Mahal, and declined in the 18th.",
+    "url": "https://en.wikipedia.org/wiki/Mughal_Empire"
   },
   {
     "title": "The Reconquista",
-    "body": "After the Muslim conquest of most of Iberia from 711, Christian kingdoms in the north gradually pushed south over nearly eight centuries. The Reconquista ended in 1492, when Ferdinand and Isabella took Granada, the last Muslim state in the peninsula. The same year Spain expelled its Jews."
+    "body": "After the Muslim conquest of most of Iberia from 711, Christian kingdoms in the north gradually pushed south over nearly eight centuries. The Reconquista ended in 1492, when Ferdinand and Isabella took Granada, the last Muslim state in the peninsula. The same year Spain expelled its Jews.",
+    "url": "https://en.wikipedia.org/wiki/Reconquista"
   },
   {
     "title": "The First Emperor of China",
-    "body": "In 221 BC the king of Qin completed the conquest of the rival Warring States and took the title Shi Huangdi, 'First Emperor'. He standardised weights, measures, coinage and script. His dynasty fell soon after his death, but the unified empire he created lasted for over two thousand years. His tomb is guarded by the Terracotta Army."
+    "body": "In 221 BC the king of Qin completed the conquest of the rival Warring States and took the title Shi Huangdi, 'First Emperor'. He standardised weights, measures, coinage and script. His dynasty fell soon after his death, but the unified empire he created lasted for over two thousand years. His tomb is guarded by the Terracotta Army.",
+    "url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
   },
   {
     "title": "The Polynesian Settlement of the Pacific",
-    "body": "Using double-hulled canoes and detailed knowledge of stars, winds and swells, Polynesian navigators settled the islands of the remote Pacific. The furthest corners of the Polynesian triangle, Hawaii, Rapa Nui (Easter Island) and New Zealand, were probably reached between about 1000 and 1300."
+    "body": "Using double-hulled canoes and detailed knowledge of stars, winds and swells, Polynesian navigators settled the islands of the remote Pacific. The furthest corners of the Polynesian triangle, Hawaii, Rapa Nui (Easter Island) and New Zealand, were probably reached between about 1000 and 1300.",
+    "url": "https://en.wikipedia.org/wiki/Polynesian_navigation"
   },
   {
     "title": "The Spanish Philippines",
-    "body": "In 1565 a Spanish expedition under Miguel López de Legazpi began the colonisation of the Philippines, named after Philip II. Manila, founded as the capital in 1571, became the hub of the galleon trade that carried Chinese silks to Mexico in exchange for American silver. Spanish rule lasted until 1898 and made the islands largely Catholic."
+    "body": "In 1565 a Spanish expedition under Miguel López de Legazpi began the colonisation of the Philippines, named after Philip II. Manila, founded as the capital in 1571, became the hub of the galleon trade that carried Chinese silks to Mexico in exchange for American silver. Spanish rule lasted until 1898 and made the islands largely Catholic.",
+    "url": "https://en.wikipedia.org/wiki/History_of_the_Philippines_(1565%E2%80%931898)"
   },
   {
     "title": "Bolívar and Spanish American Independence",
-    "body": "Between 1810 and the mid-1820s most of Spain's American colonies won independence. Simón Bolívar, 'the Liberator', led campaigns that freed present-day Venezuela, Colombia, Ecuador, Peru and Bolivia, named after him, while José de San Martín helped free Argentina, Chile and Peru. Bolívar's dream of a united South America failed."
+    "body": "Between 1810 and the mid-1820s most of Spain's American colonies won independence. Simón Bolívar, 'the Liberator', led campaigns that freed present-day Venezuela, Colombia, Ecuador, Peru and Bolivia, named after him, while José de San Martín helped free Argentina, Chile and Peru. Bolívar's dream of a united South America failed.",
+    "url": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence"
   },
   {
     "title": "The Year of Africa",
-    "body": "In 1960 seventeen African countries gained independence, most of them former French colonies, together with Nigeria and the Belgian Congo. The year marked the peak of the decolonisation of sub-Saharan Africa and transformed the political map of the continent."
+    "body": "In 1960 seventeen African countries gained independence, most of them former French colonies, together with Nigeria and the Belgian Congo. The year marked the peak of the decolonisation of sub-Saharan Africa and transformed the political map of the continent.",
+    "url": "https://en.wikipedia.org/wiki/Year_of_Africa"
   },
   {
     "title": "The American Revolution",
-    "body": "Disputes over taxation without representation led thirteen British colonies in North America to rebel in 1775, and on 4 July 1776 they adopted the Declaration of Independence. With decisive help from France they won, and Britain recognised the United States in 1783. Its ideals of popular sovereignty inspired revolutions elsewhere."
+    "body": "Disputes over taxation without representation led thirteen British colonies in North America to rebel in 1775, and on 4 July 1776 they adopted the Declaration of Independence. With decisive help from France they won, and Britain recognised the United States in 1783. Its ideals of popular sovereignty inspired revolutions elsewhere.",
+    "url": "https://en.wikipedia.org/wiki/American_Revolution"
   },
   {
     "title": "The Iranian Revolution",
-    "body": "In 1978–79 mass protests forced Shah Mohammad Reza Pahlavi, an ally of the United States, to leave Iran. Ayatollah Ruhollah Khomeini returned from exile and established an Islamic republic led by Shia clergy. The revolution transformed Iran's relations with the West and gave momentum to political Islam."
+    "body": "In 1978–79 mass protests forced Shah Mohammad Reza Pahlavi, an ally of the United States, to leave Iran. Ayatollah Ruhollah Khomeini returned from exile and established an Islamic republic led by Shia clergy. The revolution transformed Iran's relations with the West and gave momentum to political Islam.",
+    "url": "https://en.wikipedia.org/wiki/Iranian_Revolution"
   },
   {
     "title": "Augustus, the First Roman Emperor",
-    "body": "After defeating Mark Antony and Cleopatra at Actium in 31 BC, Octavian, Julius Caesar's adopted heir, became sole master of the Roman world. In 27 BC the Senate gave him the name Augustus, and he ruled as emperor while keeping the outward forms of the Republic. His reign began the long Pax Romana."
+    "body": "After defeating Mark Antony and Cleopatra at Actium in 31 BC, Octavian, Julius Caesar's adopted heir, became sole master of the Roman world. In 27 BC the Senate gave him the name Augustus, and he ruled as emperor while keeping the outward forms of the Republic. His reign began the long Pax Romana.",
+    "url": "https://en.wikipedia.org/wiki/Augustus"
   },
   {
     "title": "Muhammad Ali of Egypt",
-    "body": "Muhammad Ali, an Ottoman officer of Albanian origin, took power in Egypt in 1805. Nominally a vassal of the sultan, he built a modern army, state industries and schools, and his armies conquered Sudan and even challenged the Ottomans. His dynasty ruled Egypt until the revolution of 1952."
+    "body": "Muhammad Ali, an Ottoman officer of Albanian origin, took power in Egypt in 1805. Nominally a vassal of the sultan, he built a modern army, state industries and schools, and his armies conquered Sudan and even challenged the Ottomans. His dynasty ruled Egypt until the revolution of 1952.",
+    "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt"
   },
   {
     "title": "The Voyages of Zheng He",
-    "body": "Between 1405 and 1433 the Ming admiral Zheng He led seven great expeditions across the Indian Ocean, reaching South-East Asia, India, Arabia and East Africa. His fleets of hundreds of ships displayed Chinese power and gathered tribute. The voyages were then halted, and Ming China turned away from overseas expansion."
+    "body": "Between 1405 and 1433 the Ming admiral Zheng He led seven great expeditions across the Indian Ocean, reaching South-East Asia, India, Arabia and East Africa. His fleets of hundreds of ships displayed Chinese power and gathered tribute. The voyages were then halted, and Ming China turned away from overseas expansion.",
+    "url": "https://en.wikipedia.org/wiki/Ming_treasure_voyages"
   },
   {
     "title": "The Kingdom of Aksum",
-    "body": "Aksum, in present-day northern Ethiopia and Eritrea, was a major trading power from roughly the 1st to the 7th century AD, linking the Roman world, Arabia and India via the Red Sea. It minted its own coins and raised tall stone stelae. In the 4th century King Ezana adopted Christianity."
+    "body": "Aksum, in present-day northern Ethiopia and Eritrea, was a major trading power from roughly the 1st to the 7th century AD, linking the Roman world, Arabia and India via the Red Sea. It minted its own coins and raised tall stone stelae. In the 4th century King Ezana adopted Christianity.",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum"
   },
   {
     "title": "The 1973 Chilean Coup",
-    "body": "On 11 September 1973 Chile's armed forces overthrew the elected socialist president Salvador Allende, who died during the attack on the presidential palace. General Augusto Pinochet then ruled as dictator until 1990; thousands of opponents were killed or disappeared and many more were tortured or exiled."
+    "body": "On 11 September 1973 Chile's armed forces overthrew the elected socialist president Salvador Allende, who died during the attack on the presidential palace. General Augusto Pinochet then ruled as dictator until 1990; thousands of opponents were killed or disappeared and many more were tortured or exiled.",
+    "url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat"
   },
   {
     "title": "The American Civil War",
-    "body": "After Abraham Lincoln's election in 1860, eleven Southern slave states seceded from the United States to form the Confederacy. The war of 1861–1865 killed an estimated 620,000 to 750,000 soldiers. The Union victory preserved the country, and the Thirteenth Amendment abolished slavery."
+    "body": "After Abraham Lincoln's election in 1860, eleven Southern slave states seceded from the United States to form the Confederacy. The war of 1861–1865 killed an estimated 620,000 to 750,000 soldiers. The Union victory preserved the country, and the Thirteenth Amendment abolished slavery.",
+    "url": "https://en.wikipedia.org/wiki/American_Civil_War"
   },
   {
     "title": "The Classic Maya City-States",
-    "body": "Between roughly AD 250 and 900 the Maya of southern Mexico and Central America built rival city-states such as Tikal, Calakmul and Palenque, ruled by divine kings. They developed a fully fledged writing system and a sophisticated calendar. Many southern cities were abandoned in the 9th century, though Maya civilisation continued in the north."
+    "body": "Between roughly AD 250 and 900 the Maya of southern Mexico and Central America built rival city-states such as Tikal, Calakmul and Palenque, ruled by divine kings. They developed a fully fledged writing system and a sophisticated calendar. Many southern cities were abandoned in the 9th century, though Maya civilisation continued in the north.",
+    "url": "https://en.wikipedia.org/wiki/Maya_civilization"
   },
   {
     "title": "The Holocaust",
-    "body": "During the Second World War Nazi Germany and its collaborators systematically murdered about six million Jews, around two-thirds of Europe's Jewish population, in mass shootings and in extermination camps such as Auschwitz-Birkenau. Roma, disabled people and others were also murdered."
+    "body": "During the Second World War Nazi Germany and its collaborators systematically murdered about six million Jews, around two-thirds of Europe's Jewish population, in mass shootings and in extermination camps such as Auschwitz-Birkenau. Roma, disabled people and others were also murdered.",
+    "url": "https://en.wikipedia.org/wiki/The_Holocaust"
   },
   {
     "title": "The Songhai Empire",
-    "body": "Songhai, centred on Gao on the Niger, rose in the late 15th century under Sunni Ali and Askia Muhammad to become one of the largest empires in West African history, absorbing much of Mali. It controlled the trans-Saharan trade and Timbuktu. In 1591 a Moroccan army with firearms defeated it at Tondibi."
+    "body": "Songhai, centred on Gao on the Niger, rose in the late 15th century under Sunni Ali and Askia Muhammad to become one of the largest empires in West African history, absorbing much of Mali. It controlled the trans-Saharan trade and Timbuktu. In 1591 a Moroccan army with firearms defeated it at Tondibi.",
+    "url": "https://en.wikipedia.org/wiki/Songhai_Empire"
   },
   {
     "title": "The Crusades",
-    "body": "In 1095 Pope Urban II called on Western Christians to take Jerusalem from Muslim rule. The First Crusade captured it in 1099 and founded crusader states in the Levant, but Saladin retook the city in 1187, and the last crusader stronghold, Acre, fell in 1291. In 1204 the Fourth Crusade sacked Christian Constantinople."
+    "body": "In 1095 Pope Urban II called on Western Christians to take Jerusalem from Muslim rule. The First Crusade captured it in 1099 and founded crusader states in the Levant, but Saladin retook the city in 1187, and the last crusader stronghold, Acre, fell in 1291. In 1204 the Fourth Crusade sacked Christian Constantinople.",
+    "url": "https://en.wikipedia.org/wiki/Crusades"
   },
   {
     "title": "The Punic Wars",
-    "body": "Between 264 and 146 BC Rome and Carthage, the North African trading power, fought three wars for the western Mediterranean. In the second, Hannibal crossed the Alps with elephants and won great victories in Italy, but was defeated at Zama in 202 BC. The third ended with the destruction of Carthage."
+    "body": "Between 264 and 146 BC Rome and Carthage, the North African trading power, fought three wars for the western Mediterranean. In the second, Hannibal crossed the Alps with elephants and won great victories in Italy, but was defeated at Zama in 202 BC. The third ended with the destruction of Carthage.",
+    "url": "https://en.wikipedia.org/wiki/Punic_Wars"
   },
   {
     "title": "The Arab Spring",
-    "body": "Beginning in Tunisia in December 2010, a wave of protests spread across the Arab world. Long-ruling leaders fell in Tunisia, Egypt, Libya and Yemen, while Syria descended into civil war. Outcomes varied: Tunisia moved towards democracy for a time, but in most countries authoritarian rule returned or conflict followed."
+    "body": "Beginning in Tunisia in December 2010, a wave of protests spread across the Arab world. Long-ruling leaders fell in Tunisia, Egypt, Libya and Yemen, while Syria descended into civil war. Outcomes varied: Tunisia moved towards democracy for a time, but in most countries authoritarian rule returned or conflict followed.",
+    "url": "https://en.wikipedia.org/wiki/Arab_Spring"
   },
   {
     "title": "Mansa Musa and the Mali Empire",
-    "body": "The Mali Empire, founded by Sundiata Keita in the 13th century, controlled the gold trade of West Africa. Its ruler Mansa Musa made a famous pilgrimage to Mecca in 1324, spending and giving away so much gold in Cairo that its value there fell. Under his rule Timbuktu grew into a centre of Islamic scholarship."
+    "body": "The Mali Empire, founded by Sundiata Keita in the 13th century, controlled the gold trade of West Africa. Its ruler Mansa Musa made a famous pilgrimage to Mecca in 1324, spending and giving away so much gold in Cairo that its value there fell. Under his rule Timbuktu grew into a centre of Islamic scholarship.",
+    "url": "https://en.wikipedia.org/wiki/Mali_Empire"
   },
   {
     "title": "The Xinhai Revolution",
-    "body": "An uprising at Wuchang in October 1911 spread rapidly across China and brought down the Qing dynasty. The child emperor Puyi abdicated in 1912, ending over two thousand years of imperial rule. Sun Yat-sen became provisional president, but the new Republic of China soon fell to military strongmen."
+    "body": "An uprising at Wuchang in October 1911 spread rapidly across China and brought down the Qing dynasty. The child emperor Puyi abdicated in 1912, ending over two thousand years of imperial rule. Sun Yat-sen became provisional president, but the new Republic of China soon fell to military strongmen.",
+    "url": "https://en.wikipedia.org/wiki/1911_Revolution"
   },
   {
     "title": "The Seven Years' War",
-    "body": "From 1756 to 1763 Britain and Prussia fought France, Austria and their allies in Europe, North America, the Caribbean, West Africa and India, which is why it is sometimes called the first global war. Britain gained Canada and dominance in India, while the war's costs led to taxes that helped spark the American Revolution."
+    "body": "From 1756 to 1763 Britain and Prussia fought France, Austria and their allies in Europe, North America, the Caribbean, West Africa and India, which is why it is sometimes called the first global war. Britain gained Canada and dominance in India, while the war's costs led to taxes that helped spark the American Revolution.",
+    "url": "https://en.wikipedia.org/wiki/Seven_Years'_War"
   },
   {
     "title": "Charlemagne",
-    "body": "Charlemagne, king of the Franks from 768, conquered much of western and central Europe. On Christmas Day 800 Pope Leo III crowned him emperor in Rome, reviving the imperial title in the West. His court promoted learning and the copying of classical texts, and his empire's later division foreshadowed France and Germany."
+    "body": "Charlemagne, king of the Franks from 768, conquered much of western and central Europe. On Christmas Day 800 Pope Leo III crowned him emperor in Rome, reviving the imperial title in the West. His court promoted learning and the copying of classical texts, and his empire's later division foreshadowed France and Germany.",
+    "url": "https://en.wikipedia.org/wiki/Charlemagne"
   },
   {
     "title": "The Battle of Plassey",
-    "body": "In 1757 the British East India Company under Robert Clive defeated the Nawab of Bengal, Siraj ud-Daulah, at Plassey, helped by the defection of his commander Mir Jafar. The victory gave the Company control of rich Bengal and is usually seen as the beginning of British rule in India."
+    "body": "In 1757 the British East India Company under Robert Clive defeated the Nawab of Bengal, Siraj ud-Daulah, at Plassey, helped by the defection of his commander Mir Jafar. The victory gave the Company control of rich Bengal and is usually seen as the beginning of British rule in India.",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Plassey"
   },
   {
     "title": "The Russian Revolution",
-    "body": "In February 1917 protests in Petrograd forced Tsar Nicholas II to abdicate, ending three centuries of Romanov rule. In October the Bolsheviks under Lenin seized power. After a brutal civil war they founded the Soviet Union in 1922, the first state ruled by a communist party."
+    "body": "In February 1917 protests in Petrograd forced Tsar Nicholas II to abdicate, ending three centuries of Romanov rule. In October the Bolsheviks under Lenin seized power. After a brutal civil war they founded the Soviet Union in 1922, the first state ruled by a communist party.",
+    "url": "https://en.wikipedia.org/wiki/Russian_Revolution"
   },
   {
     "title": "The Indian Rebellion of 1857",
-    "body": "In 1857 Indian soldiers of the East India Company's army mutinied at Meerut, sparked partly by rumours that new rifle cartridges were greased with cow and pig fat. The revolt spread across northern India and was brutally suppressed. In 1858 the British Crown took direct rule of India, beginning the Raj."
+    "body": "In 1857 Indian soldiers of the East India Company's army mutinied at Meerut, sparked partly by rumours that new rifle cartridges were greased with cow and pig fat. The revolt spread across northern India and was brutally suppressed. In 1858 the British Crown took direct rule of India, beginning the Raj.",
+    "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
   },
   {
     "title": "The Algerian War of Independence",
-    "body": "From 1954 to 1962 Algerian nationalists of the National Liberation Front (FLN) fought to end French rule in Algeria, which France treated as part of its own territory and where around a million European settlers lived. The war was marked by guerrilla attacks, terrorism and the widespread use of torture by French forces. It brought down France's Fourth Republic in 1958 and ended with Algerian independence in 1962."
+    "body": "From 1954 to 1962 Algerian nationalists of the National Liberation Front (FLN) fought to end French rule in Algeria, which France treated as part of its own territory and where around a million European settlers lived. The war was marked by guerrilla attacks, terrorism and the widespread use of torture by French forces. It brought down France's Fourth Republic in 1958 and ended with Algerian independence in 1962.",
+    "url": "https://en.wikipedia.org/wiki/Algerian_War"
   },
   {
     "title": "The Han Dynasty",
-    "body": "The Han dynasty ruled China from around 200 BC to AD 220, with a brief interruption, and is seen as a formative age of Chinese civilisation. It made Confucianism the state ideology and opened overland trade routes to Central Asia. Its name became that of China's majority ethnic group."
+    "body": "The Han dynasty ruled China from around 200 BC to AD 220, with a brief interruption, and is seen as a formative age of Chinese civilisation. It made Confucianism the state ideology and opened overland trade routes to Central Asia. Its name became that of China's majority ethnic group.",
+    "url": "https://en.wikipedia.org/wiki/Han_dynasty"
   },
   {
     "title": "The Abbasid Caliphate",
-    "body": "The Abbasids overthrew the Umayyad dynasty in 750 and founded Baghdad as their capital in 762. Under caliphs such as Harun al-Rashid, Baghdad became one of the world's greatest cities and a centre of learning where Greek, Persian and Indian works were translated into Arabic. The Mongols sacked it in 1258."
+    "body": "The Abbasids overthrew the Umayyad dynasty in 750 and founded Baghdad as their capital in 762. Under caliphs such as Harun al-Rashid, Baghdad became one of the world's greatest cities and a centre of learning where Greek, Persian and Indian works were translated into Arabic. The Mongols sacked it in 1258.",
+    "url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
   },
   {
     "title": "The Khmer Rouge",
-    "body": "In April 1975 the communist Khmer Rouge, led by Pol Pot, took Phnom Penh and emptied Cambodia's cities, forcing people into rural labour camps. In under four years an estimated 1.5 to 2 million people, around a quarter of the population, died from execution, starvation, overwork and disease. A Vietnamese invasion ended the regime in 1979."
+    "body": "In April 1975 the communist Khmer Rouge, led by Pol Pot, took Phnom Penh and emptied Cambodia's cities, forcing people into rural labour camps. In under four years an estimated 1.5 to 2 million people, around a quarter of the population, died from execution, starvation, overwork and disease. A Vietnamese invasion ended the regime in 1979.",
+    "url": "https://en.wikipedia.org/wiki/Khmer_Rouge"
   },
   {
     "title": "The Paraguayan War",
-    "body": "From 1864 to 1870 Paraguay, led by Francisco Solano López, fought an alliance of Brazil, Argentina and Uruguay. Paraguay was devastated, losing a large share of its population, especially its men, though estimates vary widely. It was one of the bloodiest wars in Latin American history."
+    "body": "From 1864 to 1870 Paraguay, led by Francisco Solano López, fought an alliance of Brazil, Argentina and Uruguay. Paraguay was devastated, losing a large share of its population, especially its men, though estimates vary widely. It was one of the bloodiest wars in Latin American history.",
+    "url": "https://en.wikipedia.org/wiki/Paraguayan_War"
   }
 ]
