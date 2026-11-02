@@ -55,12 +55,18 @@ a{color:var(--accent)}
 .cal-day.sunday{color:var(--red)}
 .cal-wd{font-size:19px;margin:0;font-weight:600}
 .cal-week{color:var(--muted);font-size:14px;margin:2px 0 0}
+.cal-nd{margin:10px 0 0;padding-top:8px;border-top:1px solid var(--rule);font-size:14px;line-height:1.4}
+.cal-nd-label{display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--muted);margin-bottom:2px}
+.cal-nd .nd-row{display:block}
+.cal-nd .nd-row b{font-weight:600}
+.cal-nd .sep{display:none}
 @media (max-width:959px){
   .cal{display:grid;grid-template-columns:auto 1fr;align-items:center}
   .cal-top{grid-column:1/-1}
   .cal-day{font-size:64px;padding:2px 16px 8px 12px;margin:0}
   .cal-body{display:contents}
-  .cal-meta{text-align:left}
+  .cal-meta{text-align:left;padding:6px 14px 8px 0}
+  .cal-nd{margin-top:6px;padding-top:6px}
 }
 .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
 .nav{display:flex;gap:8px;flex:1 1 280px}
@@ -197,10 +203,11 @@ a{color:var(--accent)}
     <div class="cal-body"><div class="cal-meta">
       <p class="cal-wd" id="calWd">–</p>
       <p class="cal-week" id="calWeek">–</p>
+      <p class="cal-nd"><span class="cal-nd-label">Name day</span><span id="ndShort">–</span></p>
     </div></div>
   </div>
   <div class="namedays">
-    <button id="ndBtn" type="button" aria-expanded="false" aria-controls="ndPanel"><span class="nd-label">Name day</span> <span id="ndShort">–</span> <span class="nd-more">All countries ▾</span></button>
+    <button id="ndBtn" type="button" aria-expanded="false" aria-controls="ndPanel"><span class="nd-label">Name days in 10 countries</span> <span class="nd-more">Show ▾</span></button>
     <div id="ndPanel" hidden><dl id="ndList"></dl><p class="nd-src">Name days from the national name-day calendars as listed on Wikipedia. The US and the UK have no name-day tradition.</p></div>
   </div>
   <div class="controls">
@@ -286,12 +293,14 @@ const ndText=v=>v&&v.length?v.join(", "):"–";
 function renderNamedays(md){
   if(!ND){$("ndShort").textContent="–";return;}
   const day=ND.days[md]||{},C=ND.countries;
-  $("ndShort").textContent=["FR","SE"].filter(c=>C[c]).map(c=>C[c].name+": "+ndText(day[c])).join(" · ");
+  const sh=$("ndShort");sh.textContent="";
+  ["FR","SE"].filter(c=>C[c]).forEach((c,i)=>{if(i)sh.append(el("span","sep"," · "));
+    const r=el("span","nd-row");r.append(el("b",null,C[c].name+": "),document.createTextNode(ndText(day[c])));sh.append(r);});
   const dl=$("ndList");dl.textContent="";
   Object.keys(C).forEach(c=>{dl.append(el("dt",null,C[c].name),el("dd",null,ndText(day[c])));});
 }
 function toggleNd(){const p=$("ndPanel"),open=p.hidden;p.hidden=!open;$("ndBtn").setAttribute("aria-expanded",open);
-  $("ndBtn").querySelector(".nd-more").textContent=open?"Hide ▴":"All countries ▾";}
+  $("ndBtn").querySelector(".nd-more").textContent=open?"Hide ▴":"Show ▾";}
 const label=f=>(CATS[f.category]?CATS[f.category][0]:f.category)+(f.year!=null?" · "+(f.year<0?(-f.year)+" BC":f.year):"");
 function card(f,showDate){
   const li=el("li",SPECIAL[f.category]?"fact special":"fact");hue(f.category,li);
