@@ -4,6 +4,7 @@
   "fun": "fun",
   "onthisday": "onthisday",
   "namedays": "namedays",
+  "words": "words",
   "order": ["history", "science", "geography", "arts", "music",
             "philosophy", "economics", "politics", "language", "technology"]
 }

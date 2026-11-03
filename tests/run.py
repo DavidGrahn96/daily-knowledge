@@ -11,6 +11,7 @@ LABEL = {"history":"History","science":"Science","geography":"Geography","arts":
 PROBE = (Path(__file__).parent / "probe.js").read_text()
 data = json.loads((REPO / "data/facts.json").read_text(encoding="utf-8"))
 ND = json.loads((REPO / "bank/namedays.json").read_text(encoding="utf-8"))
+WD = json.loads((REPO / "bank/words.json").read_text(encoding="utf-8"))
 by = {}
 for f in data["facts"]: by.setdefault(f["date"], []).append(f)
 dates = sorted(by)
@@ -71,6 +72,8 @@ for i, d in enumerate(dates):
     check(r["ndShort"] == " · ".join(f"{ND['countries'][c]['name']}: {', '.join(dayn[c]) or '–'}" for c in ("FR", "SE")),
           f"{d}: name days differ: {r['ndShort']!r}")
     check(r["ndRows"] == len(ND["countries"]), f"{d}: name-day panel rows {r['ndRows']}")
+    check(r["words"] == [[c, WD["days"][md][c]["word"], WD["days"][md][c]["url"]] for c in WD["languages"]],
+          f"{d}: words of the day differ")
     check(r["facts"] == exp, f"{d}: rendered facts differ from facts.json")
     check(r["options"] == list(reversed(dates[:i + 1])) or (i == 0 and r["archiveHidden"]), f"{d}: archive options wrong")
     check(r["recent"] == ["#d" + x for x in reversed(dates[max(0, i - 6):i])], f"{d}: 'days before' wrong {r['recent']}")

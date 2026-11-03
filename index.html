@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Daily Knowledge</title>
-<meta name="description" content="Every day: what happened on this date, a fun fact, and three things worth knowing.">
+<meta name="description" content="Every day: what happened on this date, a fun fact, three things worth knowing, and words of the day in six languages.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <meta name="apple-mobile-web-app-title" content="Daily Knowledge">
@@ -113,6 +113,33 @@ a{color:var(--accent)}
 #ndList dd{margin:0;overflow-wrap:anywhere}
 .nd-src{color:var(--muted);font-size:13px;margin:8px 0 0}
 
+/* Word of the day */
+.words{margin-top:22px;background:var(--card);border:1px solid var(--rule);border-radius:10px;padding:12px 14px 10px}
+.words h3{font-size:12px;letter-spacing:.08em;text-transform:uppercase;font-weight:700;color:var(--muted);margin:0 0 2px}
+.wd{border-top:1px solid var(--rule)}
+.wd:first-child{border-top:none}
+.wd summary{list-style:none;cursor:pointer;min-height:44px;padding:8px 0;display:grid;grid-template-columns:2.4em minmax(0,1fr);column-gap:8px;align-items:baseline}
+.wd summary::-webkit-details-marker{display:none}
+.w-lang{font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--muted)}
+.w-head{overflow-wrap:anywhere}
+.w-word{font-weight:700;font-size:17px}
+.w-gram{color:var(--muted);font-size:13px;font-style:italic;margin-left:6px}
+.w-ipa{color:var(--muted);font-size:13px;margin-left:6px}
+.w-mean{display:block;font-size:14px;color:var(--ink)}
+.w-more{padding:0 0 10px 2.4em;margin-left:8px;font-size:14px}
+.w-more p{margin:0 0 4px}
+.w-ex{font-style:italic}
+.w-ex-en{color:var(--muted)}
+.w-more a{display:inline-flex;align-items:center;min-height:44px;font-weight:600;text-decoration:none}
+.w-src{color:var(--muted);font-size:12px;margin:4px 0 0}
+.w-empty{color:var(--muted);margin:6px 0}
+@media (max-width:959px){
+  .layout{display:flex;flex-direction:column}
+  .side{display:contents}
+  .layout main{order:1}
+  .words{order:2;margin-top:28px}
+}
+
 /* Tabs and status */
 .tabs{display:flex;gap:4px;margin:20px 0 0;border-bottom:1px solid var(--rule)}
 .tabs button{background:none;border:none;border-bottom:2px solid transparent;padding:8px 2px;min-height:44px;min-width:44px;
@@ -155,7 +182,6 @@ a{color:var(--accent)}
   .mast h1{font-size:17px}
   .mast .tag{font-size:15px}
   .layout{display:grid;grid-template-columns:290px minmax(0,1fr);gap:44px;align-items:start;margin-top:26px}
-  .side{position:sticky;top:24px}
   .cal{margin-top:0}
   .nav button{white-space:nowrap;padding:8px 6px;font-size:14px}
   .controls{flex-direction:column;align-items:stretch}
@@ -193,7 +219,7 @@ a{color:var(--accent)}
 <div class="wrap">
   <header class="mast">
     <h1>Daily Knowledge</h1>
-    <p class="tag">On this day, a fun fact and three things worth knowing</p>
+    <p class="tag">On this day, a fun fact, three things worth knowing and words of the day</p>
   </header>
   <div class="layout">
   <aside class="side">
@@ -220,6 +246,11 @@ a{color:var(--accent)}
       <select id="archiveSel" aria-label="Go to a day"></select>
     </label>
   </div>
+  <section class="words" id="words" aria-labelledby="wordsTitle">
+    <h3 id="wordsTitle">Word of the day</h3>
+    <div id="wordList"><p class="w-empty">–</p></div>
+    <p class="w-src">Tap a word for an example. Pronunciation and links from Wiktionary.</p>
+  </section>
   </aside>
   <main>
     <div class="tabs" role="tablist">
@@ -228,7 +259,7 @@ a{color:var(--accent)}
     </div>
     <div class="status" id="status" hidden><span id="statusText"></span></div>
     <div id="main" aria-live="polite"></div>
-    <p class="foot">Every day: one event from this date in history, a fun fact, and three facts that rotate through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology. Links go to Wikipedia. Spotted a mistake? <a href="https://github.com/DavidGrahn96/daily-knowledge/issues">Let us know</a>.</p>
+    <p class="foot">Every day: one event from this date in history, a fun fact, words of the day in six languages, and three facts that rotate through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology. Links go to Wikipedia. Spotted a mistake? <a href="https://github.com/DavidGrahn96/daily-knowledge/issues">Let us know</a>.</p>
   </main>
   </div>
 </div>
@@ -272,7 +303,7 @@ function renderCal(){
   $("calMonth").textContent=MONTHS[d.getMonth()];$("calYear").textContent=d.getFullYear();
   $("calDay").textContent=d.getDate();$("calDay").classList.toggle("sunday",d.getDay()===0);
   $("calWd").textContent=WDAYS[d.getDay()];$("calWeek").textContent="Week "+isoWeek(d);
-  renderNamedays(k.slice(5));
+  renderNamedays(k.slice(5));renderWords(k.slice(5));
   const v=visible(),i=v.indexOf(S.cur);
   $("prevBtn").disabled=$("barPrev").disabled=i<=0;$("nextBtn").disabled=$("barNext").disabled=i<0||i>=v.length-1;
   $("todayBtn").disabled=!v.length||S.cur===latest();
@@ -288,7 +319,23 @@ function starBtn(f){
   b.title=on?"Remove from saved":"Save";b.onclick=()=>{toggleSave(f);render();};return b;
 }
 
-let ND=null;
+let ND=null,WD=null;
+const GENDER={m:"m.",f:"f.",common:"en-word",neuter:"ett-word"};
+function renderWords(md){
+  const box=$("wordList");box.textContent="";
+  const day=WD&&WD.days[md];if(!day){box.append(el("p","w-empty","–"));return;}
+  Object.keys(WD.languages).forEach(c=>{const w=day[c];if(!w)return;
+    const d=el("details","wd");d.dataset.lang=c;const s=el("summary");
+    const head=el("span","w-head");head.append(el("span","w-word",w.word));
+    head.append(el("span","w-gram",w.pos+(w.gender?", "+(GENDER[w.gender]||w.gender):"")));
+    if(w.ipa)head.append(el("span","w-ipa",w.ipa));
+    head.append(el("span","w-mean",w.meaning));
+    s.append(el("span","w-lang",c.toUpperCase()),head);d.append(s);
+    const more=el("div","w-more");more.append(el("p","w-ex",w.example));
+    if(w.example_en)more.append(el("p","w-ex-en",w.example_en));
+    if(w.url){const a=el("a",null,"Want to know more? Wiktionary ↗");a.href=w.url;a.target="_blank";a.rel="noopener";more.append(a);}
+    d.append(more);box.append(d);});
+}
 const ndText=v=>v&&v.length?v.join(", "):"–";
 function renderNamedays(md){
   if(!ND){$("ndShort").textContent="–";return;}
@@ -362,7 +409,8 @@ render();
     const banks=await Promise.all(names.map(c=>get("bank/"+c+".json")));
     const bank=Object.fromEntries(names.map((c,i)=>[c,banks[i]]));
     const otd=cfg.onthisday?await get("bank/"+cfg.onthisday+".json"):null;  // keyed by "MM-DD"
-    if(cfg.namedays)ND=await get("bank/"+cfg.namedays+".json");               // keyed by "MM-DD", shown by calendar day
+    if(cfg.namedays)ND=await get("bank/"+cfg.namedays+".json");
+    if(cfg.words)WD=await get("bank/"+cfg.words+".json");                    // keyed by "MM-DD", one word per language               // keyed by "MM-DD", shown by calendar day
     const pick=(c,f)=>{const o={category:c,title:f.title.trim(),body:f.body.trim()};if(f.url)o.url=f.url;if(f.year!=null)o.year=f.year;return o;};
     // Same rule as scripts/build.py: number all facts k = 0, 1, 2, ...; fact k is area order[k % len]
     // and entry floor(k / len) of that area's bank. Day n shows k = per*n ... per*n + per-1.

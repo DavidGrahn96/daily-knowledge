@@ -15,5 +15,7 @@
     scrollW:document.documentElement.scrollWidth, clientW:document.documentElement.clientWidth,
     firstTitleBottom:first?first.getBoundingClientRect().bottom:null, innerH:innerHeight,
     barVisible:vis($('bar')), status:$('statusText').textContent, ndShort:$('ndShort').textContent,
-    ndRows:document.querySelectorAll('#ndList dt').length};
+    ndRows:document.querySelectorAll('#ndList dt').length,
+    words:[...document.querySelectorAll('#wordList details.wd')].map(d=>[d.dataset.lang,d.querySelector('.w-word').textContent,
+      (d.querySelector('a')||{getAttribute:()=>null}).getAttribute('href')])};
 })()

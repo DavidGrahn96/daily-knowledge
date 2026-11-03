@@ -11,6 +11,7 @@ The site is static and free to host on GitHub Pages. There is no API and no runn
 | `bank/<category>.json` | The fact bank, one file per area: `[{"title", "body"}, ...]` |
 | `bank/onthisday.json` | One event per calendar day, keyed `"MM-DD"` (366 keys, repeats every year) |
 | `bank/namedays.json` | Name days for 10 countries per calendar day; France and Sweden shown under the date, all ten when the date is tapped |
+| `bank/words.json` | Word of the day per calendar day in English (C2), French (C1), Swedish (A1–A2), Spanish (B2), Italian (B2) and Portuguese (A1–A2), each checked against Wiktionary (entry exists, part of speech, gender; IPA copied from Wiktionary) |
 | `bank/fun.json` | The fun-fact bank: one per day, shown above the area facts |
 | `schedule.json` | Start date, facts per day (`per_day`, 3), the rotation order of the areas and the fun-fact bank (`fun`) |
 | `scripts/build.py` | Validates the bank and writes the dated schedule |

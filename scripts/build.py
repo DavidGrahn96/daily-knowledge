@@ -25,6 +25,10 @@ How the schedule works (identical rule in index.html)
   (366 day keys, a list per country per day) and shown by the page by
   calendar day; it is not part of data/facts.json.
 
+  Words of the day: if schedule.json names a "words" file, it is validated here
+  (366 day keys, one word per language, no repeats within a language, a
+  Wiktionary url each) and shown by the page by calendar day.
+
   Fun fact: if schedule.json names a "fun" bank (bank/fun.json), day n also
   shows entry n of that file, above the area facts. The schedule then also
   ends when the fun bank runs out. In data/facts.json it is the first entry of
@@ -136,6 +140,30 @@ def check_namedays(path: Path) -> None:
             raise BuildError(f"{path.name}: {c} has names on only {filled} days")
 
 
+def check_words(path: Path) -> None:
+    """bank/words.json: {"languages": {code: {name, level}}, "days": {"MM-DD": {code: {word, pos, meaning, example, url, ...}}}}."""
+    wd = read_json(path)
+    codes = set(wd["languages"])
+    want = {(date(2024, 1, 1) + timedelta(days=i)).strftime("%m-%d") for i in range(366)}
+    if set(wd["days"]) != want:
+        raise BuildError(f"{path.name}: needs exactly the 366 day keys MM-DD")
+    seen = {c: {} for c in codes}
+    for k, day in wd["days"].items():
+        if set(day) != codes:
+            raise BuildError(f"{path.name} {k}: every language needs a word")
+        for c, w in day.items():
+            if not all(str(w.get(f, "")).strip() for f in ("word", "pos", "meaning", "example", "url")):
+                raise BuildError(f"{path.name} {k} {c}: word, pos, meaning, example and url are required")
+            if c != "en" and not str(w.get("example_en", "")).strip():
+                raise BuildError(f"{path.name} {k} {c}: example_en is required")
+            if not w["url"].startswith("https://en.wiktionary.org/wiki/"):
+                raise BuildError(f"{path.name} {k} {c}: url must be an English Wiktionary page")
+            key = w["word"].casefold()
+            if key in seen[c]:
+                raise BuildError(f"{path.name} {k} {c}: {w['word']!r} repeats {seen[c][key]}")
+            seen[c][key] = k
+
+
 def schedule(bank: dict[str, list[dict]], order: list[str], start: date, per_day: int,
              fun: str | None = None, otd: dict[str, dict] | None = None) -> list[dict]:
     """Dated facts. With a fun bank, each day starts with fun fact n, and the schedule also ends
@@ -170,6 +198,8 @@ def main(argv: list[str] | None = None) -> int:
         bank = load_bank(args.root / "bank", order + ([fun] if fun else []))
         seen = {f["title"].strip().casefold() for c in bank for f in bank[c]}
         otd = load_onthisday(args.root / "bank" / f"{cfg['onthisday']}.json", seen) if cfg.get("onthisday") else None
+        if cfg.get("words"):
+            check_words(args.root / "bank" / f"{cfg['words']}.json")
         if cfg.get("namedays"):
             check_namedays(args.root / "bank" / f"{cfg['namedays']}.json")
         all_facts = schedule(bank, order, start, per_day, fun, otd)
