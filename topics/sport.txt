@@ -1,0 +1,112 @@
+# sport: 110 topics in publication order (area added in phase 2, from 2026-11-05).
+# Format: number | title | era | region.
+001 | The Ancient Olympic Games | ancient | Europe
+002 | Althea Gibson Breaks Tennis's Colour Barrier | 20th-c | North America
+003 | The First Asian Games | 20th-c | South Asia
+004 | The Arabian Roots of the Thoroughbred | early-modern | Europe
+005 | Juan Manuel Fangio | 20th-c | Latin America
+006 | The Qatar World Cup | 21st-c | Middle East
+007 | Jesse Owens in Berlin | 20th-c | Europe
+008 | Ice Hockey Moves Indoors | 19th-c | North America
+009 | Ping-Pong Diplomacy | 20th-c | East Asia
+010 | The Birth of Lawn Tennis | 19th-c | Europe
+011 | Cameroon at the 1990 World Cup | 20th-c | Africa
+012 | The Queensberry Rules | 19th-c | Europe
+013 | Title IX and Women's Sport | 20th-c | North America
+014 | Australian Rules Football | 19th-c | Oceania
+015 | When Kings Banned Football | medieval | Europe
+016 | India's Golden Age of Hockey | 20th-c | South Asia
+017 | The Rituals of Sumo | early-modern | East Asia
+018 | Mandela and the 1995 Rugby World Cup | 20th-c | Africa
+019 | The Supersuit Era in Swimming | 21st-c | global
+020 | Maradona and the Hand of God | 20th-c | Latin America
+021 | Polo, the Game of Kings | ancient | Middle East
+022 | Emil Zátopek's Olympic Triple | 20th-c | Europe
+023 | The Mesoamerican Ballgame | ancient | Latin America
+024 | Cathy Freeman at Sydney 2000 | 20th-c | Oceania
+025 | Kanō Jigorō and Judo | 19th-c | East Asia
+026 | Babe Ruth and the Home Run | 20th-c | North America
+027 | Go, the ancient game of territory | ancient | East Asia
+028 | Kathrine Switzer and the Boston Marathon | 20th-c | North America
+029 | W. G. Grace and Victorian Cricket | 19th-c | Europe
+030 | The First Africa Cup of Nations | 20th-c | Africa
+031 | Snooker's Indian Origins | 19th-c | South Asia
+032 | Alice Milliat and the Women's World Games | 20th-c | Europe
+033 | Black Jockeys and the Kentucky Derby | 19th-c | North America
+034 | Laamb, Senegalese Wrestling | timeless | Africa
+035 | The Football War | 20th-c | Latin America
+036 | Nadia Comăneci's Perfect Ten | 20th-c | North America
+037 | Rugby's Great Split of 1895 | 19th-c | Europe
+038 | Basketball's Dream Team | 20th-c | global
+039 | Hurling and the Gaelic Athletic Association | 19th-c | Europe
+040 | The Far Eastern Championship Games | 20th-c | Southeast Asia
+041 | The Webb Ellis Legend | 19th-c | Europe
+042 | Iran versus the United States, 1998 | 20th-c | Middle East
+043 | The Myth of Abner Doubleday | 19th-c | North America
+044 | Bodyline | 20th-c | Oceania
+045 | Wrestlers on the Tombs of Beni Hasan | ancient | Africa
+046 | Gertrude Ederle Swims the Channel | 20th-c | Europe
+047 | The World Nomad Games | 21st-c | Central Asia
+048 | Chariot Racing and the Nika Riots | ancient | Europe
+049 | Duke Kahanamoku and Surfing | 20th-c | Oceania
+050 | Sepak Takraw | timeless | Southeast Asia
+051 | Babe Didrikson Zaharias | 20th-c | North America
+052 | Chaturanga and the Origins of Chess | medieval | South Asia
+053 | The Maracanazo | 20th-c | Latin America
+054 | Jousting and the Death of Henry II | early-modern | Europe
+055 | Cuba's Amateur Sporting Model | 20th-c | Latin America
+056 | The First Modern Olympics | 19th-c | Europe
+057 | Archery in Bhutan | timeless | South Asia
+058 | Indonesia's First Olympic Gold | 20th-c | Southeast Asia
+059 | Lucha Libre | 20th-c | Latin America
+060 | Cuju, Ancient Chinese Football | ancient | East Asia
+061 | Cold War Olympic Boycotts | 20th-c | global
+062 | Li Na's Grand Slam Breakthrough | 21st-c | East Asia
+063 | Pakistan's Squash Dynasty | 20th-c | South Asia
+064 | Major Taylor, Cycling's Black Champion | 19th-c | North America
+065 | Kırkpınar Oil Wrestling | medieval | Middle East
+066 | Asia's First World Cup | 21st-c | East Asia
+067 | The First Winter Olympics | 20th-c | Europe
+068 | Capoeira | early-modern | Latin America
+069 | Fischer versus Spassky, 1972 | 20th-c | Europe
+070 | Lacrosse, the Creator's Game | timeless | North America
+071 | Fanny Blankers-Koen, the Flying Housewife | 20th-c | Europe
+072 | Video Replay Enters Sport | 21st-c | global
+073 | The All Blacks and the Haka | 20th-c | Oceania
+074 | St Andrews and the Eighteen-Hole Round | early-modern | Europe
+075 | Abebe Bikila Runs Barefoot in Rome | 20th-c | Africa
+076 | The Football Association's Rules of 1863 | 19th-c | Europe
+077 | The Battle of the Sexes | 20th-c | North America
+078 | Robot Jockeys in Camel Racing | 21st-c | Middle East
+079 | Kerry Packer's World Series Cricket | 20th-c | Oceania
+080 | Africa's First World Cup | 21st-c | Africa
+081 | Taekwondo | 20th-c | East Asia
+082 | Pehlwani, the Wrestling of the Akhara | timeless | South Asia
+083 | The 1964 Tokyo Olympics | 20th-c | East Asia
+084 | The Indian Premier League | 21st-c | South Asia
+085 | The Rumble in the Jungle | 20th-c | Africa
+086 | The Zurkhaneh, Iran's House of Strength | timeless | Middle East
+087 | Ludwig Guttmann and the Paralympic Movement | 20th-c | Europe
+088 | Buzkashi | timeless | Central Asia
+089 | The Birth of the Copa América | 20th-c | Latin America
+090 | Fiji's Olympic Sevens Gold | 21st-c | Oceania
+091 | The Munich Massacre | 20th-c | Europe
+092 | Muay Thai, the Art of Eight Limbs | timeless | Southeast Asia
+093 | The World Anti-Doping Agency | 20th-c | global
+094 | West Indies Cricket and Independence | 20th-c | Latin America
+095 | The FA's Ban on Women's Football | 20th-c | Europe
+096 | Sohn Kee-chung's Marathon | 20th-c | East Asia
+097 | American Football's Crisis of 1905 | 20th-c | North America
+098 | The First Women Olympic Champions | 20th-c | Europe
+099 | Muhammad Ali Refuses the Draft | 20th-c | North America
+100 | Kip Keino and East African Running | 20th-c | Africa
+101 | The Bosman Ruling | 20th-c | Europe
+102 | Koshien and Japanese Baseball | 20th-c | East Asia
+103 | India's 1983 Cricket World Cup | 20th-c | South Asia
+104 | The Sporting Boycott of Apartheid | 20th-c | Africa
+105 | Total Football | 20th-c | Europe
+106 | Jack Johnson and the 'Great White Hope' | 20th-c | North America
+107 | The Tour de France | 20th-c | Europe
+108 | The 1968 Mexico City Olympics | 20th-c | Latin America
+109 | The Founding of FIFA | 20th-c | global
+110 | Jim Thorpe and the Amateur Rules | 20th-c | North America

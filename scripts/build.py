@@ -4,35 +4,30 @@ Usage (from the repo root):
     python scripts/build.py              # validate, schedule, write
     python scripts/build.py --check      # validate only, write nothing
 
-How the schedule works (identical rule in index.html)
-  All facts are numbered k = 0, 1, 2, ... Fact k is area order[k % len(order)]
-  and entry k // len(order) of that area's bank file. Day n after the start
-  date shows facts k = P*n ... P*n + P-1, where P is "per_day" in
-  schedule.json (3). The schedule ends at the first day for which any of its
-  facts is missing, i.e. when an area runs out. Entries beyond that point are
-  reported as "waiting". Appending facts to the END of bank files never moves
-  an existing date; keep the areas the same length. Editing or reordering
-  existing facts would change dates, so the build refuses to change any fact
-  dated today or earlier (compared per date and category) unless you pass
-  --allow-past-changes.
+How the schedule works (this script is the only scheduler; index.html shows data/facts.json)
+  All area facts are numbered k = 0, 1, 2, ... Day n after the start date shows
+  k = P*n ... P*n + P-1 (P = "per_day", 3). Fact k goes to slot
+  order[k % 10] of the phase in force that day ("phases" in schedule.json). A
+  slot draws the next unused entry from its source bank(s); a slot with two
+  sources (e.g. "arts": ["arts", "music"]) alternates between them. Bank
+  pointers carry over between phases, so a new phase never moves an earlier
+  date. The schedule ends before the first day a slot cannot be filled.
+  Appending facts to the END of bank files never moves an existing date. The
+  build refuses to change any fact dated today or earlier (compared per date
+  and category) unless you pass --allow-past-changes.
 
   On this day: if schedule.json names an "onthisday" bank, each date also shows
   the entry for its calendar day ("MM-DD", 366 keys), first. It never runs out.
   Every entry may carry a "url" (an English Wikipedia article) and On this day
   entries carry the "year" of the event.
 
-  Name days: if schedule.json names a "namedays" file, it is validated here
-  (366 day keys, a list per country per day) and shown by the page by
-  calendar day; it is not part of data/facts.json.
-
-  Words of the day: if schedule.json names a "words" file, it is validated here
-  (366 day keys, one word per language, no repeats within a language, a
-  Wiktionary url each) and shown by the page by calendar day.
+  Words of the day / name days: validated here (366 day keys each) and shown
+  by the page by calendar day; not part of data/facts.json.
 
   Fun fact: if schedule.json names a "fun" bank (bank/fun.json), day n also
   shows entry n of that file, above the area facts. The schedule then also
-  ends when the fun bank runs out. In data/facts.json it is the first entry of
-  each date, with category "fun".
+  ends when the fun bank runs out. In data/facts.json it is the second entry
+  of each date, with category "fun".
 
 Checks
   - every fact has a non-empty title (<= 80 chars) and body (<= 600 chars)
@@ -164,20 +159,71 @@ def check_words(path: Path) -> None:
             seen[c][key] = k
 
 
-def schedule(bank: dict[str, list[dict]], order: list[str], start: date, per_day: int,
+def load_phases(cfg: dict) -> list[dict]:
+    """schedule.json "phases": [{"from": date, "order": [10 slot names], "slots": {slot: [source banks]}}].
+    Older files with a single top-level "order" are one phase from the start date."""
+    phases = cfg.get("phases") or [{"from": cfg["start"], "order": cfg["order"]}]
+    out = []
+    for i, ph in enumerate(phases):
+        order = ph["order"]
+        if len(set(order)) != len(order):
+            raise BuildError(f"schedule.json phase {i}: slot names must be unique")
+        out.append({"from": date.fromisoformat(ph["from"]), "order": order,
+                    "slots": {s: ph.get("slots", {}).get(s, [s]) for s in order}})
+    if out[0]["from"] != date.fromisoformat(cfg["start"]) or \
+       any(a["from"] >= b["from"] for a, b in zip(out, out[1:])):
+        raise BuildError("schedule.json: phases must start at 'start' and be in date order")
+    if len({len(p["order"]) for p in out}) != 1:
+        raise BuildError("schedule.json: every phase needs the same number of slots")
+    return out
+
+
+def schedule(bank: dict[str, list[dict]], phases: list[dict], start: date, per_day: int,
              fun: str | None = None, otd: dict[str, dict] | None = None) -> list[dict]:
-    """Dated facts. With a fun bank, each day starts with fun fact n, and the schedule also ends
-    when the fun bank runs out."""
+    """Dated facts.
+
+    All area facts are numbered k = 0, 1, 2, ...; day n shows k = per_day*n ... per_day*n + per_day-1.
+    Fact k goes to slot order[k % len(order)] of the phase in force on that day. A slot draws the next
+    unused entry from its source bank(s); a slot with several sources takes them in turn (a, b, a, b, ...),
+    skipping a source that has run out. Bank pointers carry over between phases, so a change of phase
+    never moves an earlier date. The schedule ends before the first day that cannot be filled (or when
+    the fun bank runs out). Each entry's "category" is its slot; "source" names the bank if different."""
+    ptr = {c: 0 for c in bank}
+    turn = {}                      # (phase index, slot) -> next source position
     out, n = [], 0
     while True:
-        slots = [fact_at(bank, order, per_day * n + j) for j in range(per_day)]
-        if None in slots or (fun and n >= len(bank[fun])):
-            return out  # an area (or the fun bank) has run out: the schedule ends before this day
-        d = (start + timedelta(days=n)).isoformat()
+        d_date = start + timedelta(days=n)
+        pi = max(i for i, p in enumerate(phases) if p["from"] <= d_date)
+        ph = phases[pi]
+        L = len(ph["order"])
+        picks, saved_ptr, saved_turn = [], dict(ptr), dict(turn)
+        for j in range(per_day):
+            k = per_day * n + j
+            slot = ph["order"][k % L]
+            srcs = ph["slots"][slot]
+            t = turn.get((pi, slot), 0)
+            pick = None
+            for step in range(len(srcs)):
+                src = srcs[(t + step) % len(srcs)]
+                if ptr[src] < len(bank[src]):
+                    pick = (slot, src, ptr[src]); ptr[src] += 1; turn[(pi, slot)] = t + step + 1
+                    break
+            if pick is None:
+                break
+            picks.append(pick)
+        if len(picks) < per_day or (fun and n >= len(bank[fun])):
+            ptr.update(saved_ptr); turn.clear(); turn.update(saved_turn)
+            return out  # a slot (or the fun bank) has run out: the schedule ends before this day
+        d = d_date.isoformat()
         if otd:
             out.append(entry(d, "onthisday", otd[d[5:]]))
-        for cat, idx in ([(fun, n)] if fun else []) + slots:
-            out.append(entry(d, cat, bank[cat][idx]))
+        if fun:
+            out.append(entry(d, fun, bank[fun][n]))
+        for slot, src, idx in picks:
+            e = entry(d, slot, bank[src][idx])
+            if src != slot:
+                e["source"] = src
+            out.append(e)
         n += 1
 
 
@@ -191,18 +237,20 @@ def main(argv: list[str] | None = None) -> int:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
     try:
         cfg = read_json(args.root / "schedule.json")
-        order, start, per_day = cfg["order"], date.fromisoformat(cfg["start"]), int(cfg["per_day"])
+        start, per_day = date.fromisoformat(cfg["start"]), int(cfg["per_day"])
+        phases = load_phases(cfg)
         fun = cfg.get("fun")  # optional: name of the fun-fact bank file, one per day, shown first
-        if per_day < 1 or len(set(order)) != len(order) or fun in order:
-            raise BuildError("schedule.json: per_day must be >= 1 and areas (and the fun bank) must be unique")
-        bank = load_bank(args.root / "bank", order + ([fun] if fun else []))
+        sources = list(dict.fromkeys(src for p in phases for s in p["order"] for src in p["slots"][s]))
+        if per_day < 1 or fun in sources:
+            raise BuildError("schedule.json: per_day must be >= 1 and the fun bank cannot be an area")
+        bank = load_bank(args.root / "bank", sources + ([fun] if fun else []))
         seen = {f["title"].strip().casefold() for c in bank for f in bank[c]}
         otd = load_onthisday(args.root / "bank" / f"{cfg['onthisday']}.json", seen) if cfg.get("onthisday") else None
         if cfg.get("words"):
             check_words(args.root / "bank" / f"{cfg['words']}.json")
         if cfg.get("namedays"):
             check_namedays(args.root / "bank" / f"{cfg['namedays']}.json")
-        all_facts = schedule(bank, order, start, per_day, fun, otd)
+        all_facts = schedule(bank, phases, start, per_day, fun, otd)
         if not all_facts:
             raise BuildError("Schedule is empty")
 
@@ -220,13 +268,19 @@ def main(argv: list[str] | None = None) -> int:
             if [f["date"] for f in funs] != dates or [(f["title"], f["body"]) for f in funs] != \
                [(b["title"].strip(), b["body"].strip()) for b in bank[fun][:len(dates)]]:
                 raise BuildError("Reconciliation failed: fun facts do not match bank/%s.json day by day" % fun)
+        # Each fact sits in the slot its phase gives fact number k, and every source bank is used in
+        # order from the start, each entry exactly once.
+        used = {c: [] for c in sources}
         for k, f in enumerate(facts):
-            cat, idx = order[k % len(order)], k // len(order)
-            b = bank[cat][idx]
-            if (f["category"], f["title"], f["body"], f.get("url")) != (cat, b["title"].strip(), b["body"].strip(), b.get("url") or None):
-                raise BuildError(f"Reconciliation failed at fact {k} ({f['date']} {f['category']})")
-        per_cat = {c: sum(1 for f in facts if f["category"] == c) for c in order}
-        unused = {c: len(bank[c]) - per_cat[c] for c in order if len(bank[c]) > per_cat[c]}
+            ph = phases[max(i for i, p in enumerate(phases) if p["from"] <= date.fromisoformat(f["date"]))]
+            src = f.get("source", f["category"])
+            if f["category"] != ph["order"][k % len(ph["order"])] or src not in ph["slots"][f["category"]]:
+                raise BuildError(f"Reconciliation failed at fact {k} ({f['date']} {f['category']}): wrong slot")
+            used[src].append((f["title"], f["body"], f.get("url")))
+        for c in sources:
+            if used[c] != [(b["title"].strip(), b["body"].strip(), b.get("url") or None) for b in bank[c][:len(used[c])]]:
+                raise BuildError(f"Reconciliation failed for bank {c}: entries not used in order")
+        unused = {c: len(bank[c]) - len(used[c]) for c in sources if len(bank[c]) > len(used[c])}
         if fun and len(bank[fun]) > len(dates):
             unused[fun] = len(bank[fun]) - len(dates)
         facts = all_facts
@@ -253,7 +307,7 @@ def main(argv: list[str] | None = None) -> int:
             return 0
         out_path.parent.mkdir(parents=True, exist_ok=True)
         with out_path.open("w", encoding="utf-8", newline="\n") as fh:
-            json.dump({"start": start.isoformat(), "per_day": per_day, "order": order, "fun": fun,
+            json.dump({"start": start.isoformat(), "per_day": per_day, "phases": cfg.get("phases"), "fun": fun,
                        "onthisday": cfg.get("onthisday"), "facts": facts}, fh,
                       ensure_ascii=False, indent=1)
             fh.write("\n")

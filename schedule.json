@@ -5,6 +5,13 @@
   "onthisday": "onthisday",
   "namedays": "namedays",
   "words": "words",
-  "order": ["history", "science", "geography", "arts", "music",
-            "philosophy", "economics", "politics", "language", "technology"]
+  "phases": [
+    {"from": "2026-10-30",
+     "order": ["history", "science", "geography", "arts", "music",
+               "philosophy", "economics", "politics", "language", "technology"]},
+    {"from": "2026-11-05",
+     "order": ["history", "science", "geography", "arts", "sport",
+               "philosophy", "economics", "politics", "language", "technology"],
+     "slots": {"arts": ["arts", "music"]}}
+  ]
 }

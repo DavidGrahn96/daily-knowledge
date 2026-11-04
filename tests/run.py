@@ -5,7 +5,7 @@ from pathlib import Path
 REPO, OUT, ENGINE = Path(sys.argv[1]), Path(sys.argv[2]), sys.argv[3]
 OUT.mkdir(parents=True, exist_ok=True)
 PORT = 8765 if ENGINE == "chromium" else 8766
-LABEL = {"history":"History","science":"Science","geography":"Geography","arts":"Art and literature","music":"Music",
+LABEL = {"history":"History","science":"Science","geography":"Geography","arts":"Art, literature and music","music":"Music","sport":"Sport",
          "philosophy":"Philosophy and religion","economics":"Economics","politics":"Politics and society",
          "language":"Language","technology":"Technology","fun":"Fun fact","onthisday":"On this day"}
 PROBE = (Path(__file__).parent / "probe.js").read_text()

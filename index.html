@@ -259,14 +259,14 @@ a{color:var(--accent)}
     </div>
     <div class="status" id="status" hidden><span id="statusText"></span></div>
     <div id="main" aria-live="polite"></div>
-    <p class="foot">Every day: one event from this date in history, a fun fact, words of the day in six languages, and three facts that rotate through history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology. Links go to Wikipedia. Spotted a mistake? <a href="https://github.com/DavidGrahn96/daily-knowledge/issues">Let us know</a>.</p>
+    <p class="foot">Every day: one event from this date in history, a fun fact, words of the day in six languages, and three facts that rotate through history, science, geography, art, literature and music, sport, philosophy and religion, economics, politics and society, language, and technology. Links go to Wikipedia. Spotted a mistake? <a href="https://github.com/DavidGrahn96/daily-knowledge/issues">Let us know</a>.</p>
   </main>
   </div>
 </div>
 <script>
 (function(){
 "use strict";
-const CATS={history:["History",20],science:["Science",160],geography:["Geography",195],arts:["Art and literature",340],
+const CATS={history:["History",20],science:["Science",160],geography:["Geography",195],arts:["Art, literature and music",340],sport:["Sport",130],
   music:["Music",260],philosophy:["Philosophy and religion",45],economics:["Economics",110],politics:["Politics and society",220],
   language:["Language",300],technology:["Technology",0],fun:["Fun fact",35],onthisday:["On this day",205]};
 const SPECIAL={fun:1,onthisday:1};
@@ -405,28 +405,14 @@ render();
   try{
     const get=u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u+" "+r.status);return r.json();});
     const cfg=await get("schedule.json");
-    const names=cfg.order.concat(cfg.fun?[cfg.fun]:[]);
-    const banks=await Promise.all(names.map(c=>get("bank/"+c+".json")));
-    const bank=Object.fromEntries(names.map((c,i)=>[c,banks[i]]));
-    const otd=cfg.onthisday?await get("bank/"+cfg.onthisday+".json"):null;  // keyed by "MM-DD"
-    if(cfg.namedays)ND=await get("bank/"+cfg.namedays+".json");
-    if(cfg.words)WD=await get("bank/"+cfg.words+".json");                    // keyed by "MM-DD", one word per language               // keyed by "MM-DD", shown by calendar day
-    const pick=(c,f)=>{const o={category:c,title:f.title.trim(),body:f.body.trim()};if(f.url)o.url=f.url;if(f.year!=null)o.year=f.year;return o;};
-    // Same rule as scripts/build.py: number all facts k = 0, 1, 2, ...; fact k is area order[k % len]
-    // and entry floor(k / len) of that area's bank. Day n shows k = per*n ... per*n + per-1.
-    // The schedule ends at the first day for which any of its facts is missing.
-    const start=parseKey(cfg.start),per=cfg.per_day,L=cfg.order.length;
-    const fact=k=>{const c=cfg.order[k%L],f=bank[c][Math.floor(k/L)];return f?pick(c,f):null;};
-    for(let n=0;;n++){
-      const fs=[];for(let j=0;j<per;j++){const f=fact(per*n+j);if(!f)break;fs.push(f);}
-      if(fs.length<per)break;
-      // Fun fact: day n also shows entry n of the fun bank, first; the schedule ends when it runs out.
-      if(cfg.fun){const f=bank[cfg.fun][n];if(!f)break;fs.unshift(pick(cfg.fun,f));}
-      const d=new Date(start);d.setDate(d.getDate()+n);const k=keyOf(d);
-      // On this day: an event from this calendar date (bank keyed by "MM-DD"), shown first.
-      if(otd){const o=otd[k.slice(5)];if(o)fs.unshift(pick("onthisday",o));}
-      S.byDate[k]=fs.map(f=>({date:k,...f}));
-    }
+    // The dated schedule is written by scripts/build.py (the only scheduler) to data/facts.json:
+    // per date, On this day, the fun fact and the area facts, in display order.
+    const [fj,nd,wd]=await Promise.all([get("data/facts.json"),
+      cfg.namedays?get("bank/"+cfg.namedays+".json"):null,   // keyed by "MM-DD", shown by calendar day
+      cfg.words?get("bank/"+cfg.words+".json"):null]);        // keyed by "MM-DD", one word per language
+    ND=nd;WD=wd;
+    for(const f of fj.facts){const o={date:f.date,category:f.category,title:f.title,body:f.body};
+      if(f.url)o.url=f.url;if(f.year!=null)o.year=f.year;(S.byDate[f.date]=S.byDate[f.date]||[]).push(o);}
     S.dates=Object.keys(S.byDate).sort();
     const v=visible();
     if(!v.length){S.error="The first fact appears on "+longDate(S.dates[0])+".";render();return;}

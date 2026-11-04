@@ -1,6 +1,6 @@
 # Daily Knowledge
 
-Every day: an event that happened on this date, a fun fact, and three things worth knowing, rotating through ten areas: history, science, geography, art and literature, music, philosophy and religion, economics, politics and society, language, and technology.
+Every day: an event that happened on this date, a fun fact, and three things worth knowing, rotating through ten areas: history, science, geography, art, literature and music, sport, philosophy and religion, economics, politics and society, language, and technology.
 
 The site is static and free to host on GitHub Pages. There is no API and no running cost: every fact comes from a pre-written bank in this repo.
 
@@ -8,6 +8,7 @@ The site is static and free to host on GitHub Pages. There is no API and no runn
 
 | Path | Content |
 |---|---|
+| `bank/sport.json` | Sport facts (from phase 2) |
 | `bank/<category>.json` | The fact bank, one file per area: `[{"title", "body"}, ...]` |
 | `bank/onthisday.json` | One event per calendar day, keyed `"MM-DD"` (366 keys, repeats every year) |
 | `bank/namedays.json` | Name days for 10 countries per calendar day; France and Sweden shown under the date, all ten when the date is tapped |
@@ -20,7 +21,16 @@ The site is static and free to host on GitHub Pages. There is no API and no runn
 | `index.html` | The page |
 | `tests/` | Offline page test (rendered page vs `data/facts.json`, navigation, iPhone layout) |
 
-All facts are numbered *k* = 0, 1, 2, … Fact *k* belongs to area `order[k % 10]` and is entry `floor(k / 10)` of that area's bank file. Day *n* after the start date (2026-10-30) shows facts *k* = 3*n*, 3*n*+1 and 3*n*+2, so the areas rotate: day 0 is history, science, geography; day 1 is art and literature, music, philosophy and religion; and so on. Each day also shows the On this day entry for its calendar date and entry *n* of `bank/fun.json`, the fun fact, above the three. The schedule ends at the first day for which an area or the fun bank has run out; entries beyond that wait. The page applies this rule itself when it loads, shows today's three facts and hides future dates. `build.py` uses the identical rule.
+`scripts/build.py` is the only scheduler. It writes the dated schedule to `data/facts.json`, and the page simply shows that file (plus words of the day and name days, keyed by calendar date).
+
+All area facts are numbered *k* = 0, 1, 2, … Day *n* after the start date (2026-10-30) shows facts *k* = 3*n*, 3*n*+1 and 3*n*+2. Fact *k* goes to slot `order[k % 10]` of the **phase** in force that day (`phases` in `schedule.json`), and a slot takes the next unused entry from its bank(s). Phases let the rotation change without moving days already shown, because each bank's position carries over:
+
+| Phase | From | Slots |
+|---|---|---|
+| 1 | 2026-10-30 | history, science, geography, art and literature, music, philosophy, economics, politics, language, technology |
+| 2 | 2026-11-05 | history, science, geography, **art, literature and music** (alternating `arts.json` and `music.json`), **sport**, philosophy, economics, politics, language, technology |
+
+Each day also shows the On this day entry for its calendar date and entry *n* of `bank/fun.json`, above the three. The schedule ends before the first day a slot (or the fun bank) cannot be filled; entries beyond that wait.
 
 Every entry can carry a `url` to its English Wikipedia article, shown as "Want to know more?". Links were checked against the Wikipedia API (article exists, not a disambiguation page, redirects resolved).
 
